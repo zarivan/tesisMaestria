@@ -1,0 +1,68 @@
+\documentclass[12pt,letterpaper,chap,twoside]{thesis}
+%agragar comentario
+\usepackage[utf8]{inputenc}
+%\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,spanish,es-tabla]{babel}
+\usepackage{listings}
+\usepackage{mathptmx}
+\usepackage{textcomp}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{imakeidx}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{enumerate}
+\usepackage{tocbibind}
+\usepackage{hyperref}
+%\usepackage{natbib,har2nat}
+\usepackage{pdfpages}
+\usepackage{multicol}
+\hypersetup{
+	pdftitle={Tesis},
+	pdfauthor={Iván Zamora Ramírez},
+	pdfsubject={Your subject here},
+	pdfkeywords={monocromador, PMT},
+	bookmarksnumbered=true,     
+	bookmarksopen=true,         
+	bookmarksopenlevel=1,       
+	colorlinks=true,            
+	pdfstartview=Fit,           
+	pdfpagemode=UseOutlines,    % this is the option you were lookin for
+	pdfpagelayout=TwoPageRight
+}
+\hypersetup{pdftex,colorlinks=true,allcolors=black}
+\usepackage{hypcap}
+\usepackage{bookmark}
+%\usepackage[hang]{caption}
+%\renewcommand{\captionfont}{\bfseries}
+%\usepackage[left=3.0cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+%\makeindex % para que cree el índice (pero aún no decimos dónde)
+\begin{document}
+	\renewcommand{\shorthandsspanish}{}
+	\renewcommand{\listtablename}{Índice de tablas} 
+	\renewcommand{\tablename}{Tabla} 
+	\include{Anterior/Portada}
+	\include{Anterior/Dedicatoria} 
+	\include{Anterior/Agradecimientos} 	
+	\include{Anterior/Resumen}
+	\include{Anterior/Abstract}
+	\include{Anterior/Hipotesis}
+	\include{Anterior/Justificacion}
+	\include{Anterior/Objetivos}
+	\pagenumbering{arabic}
+	\include{Chapters/Capitulo1}
+	\include{Chapters/Capitulo2}
+	\include{Chapters/Capitulo3}
+	\include{Chapters/Capitulo4}
+	\include{Posterior/Conclusiones}
+	\include{Posterior/trabajofuturo}
+	\include{Posterior/Biblio}
+\end{document}
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
