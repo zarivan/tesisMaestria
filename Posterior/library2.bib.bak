@@ -1,0 +1,2187 @@
+@article{Dark1998,
+author = {Dark, Low and Type, Counts and Modified, R and Size, Photocathode Area},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/PMTmodules{\_}TPMO0011E.pdf:pdf},
+pages = {8--11},
+title = {{Photomultiplier tube}},
+volume = {2949},
+year = {1998}
+}
+@phdthesis{Romero2014,
+author = {Romero, Delia and Hern{\'{a}}ndez, Juan and Mart{\'{i}}nez, Yair},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Romero, Hern{\'{a}}ndez, Mart{\'{i}}nez - 2014 - Automatizaci{\'{o}}n de un monocromador para el estudio del espectro de radiaci{\'{o}}n de fuentes luminosas.pdf:pdf},
+title = {{Automatizaci{\'{o}}n de un monocromador para el estudio del espectro de radiaci{\'{o}}n de fuentes luminosas}},
+year = {2014}
+}
+@article{Garcia2007,
+author = {Garc{\'{i}}a, E Moreno and V{\'{e}}lez, R Rosas and L{\'{o}}pez, P Reyes and V{\'{a}}zquez, J De Rosa},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Garc{\'{i}}a et al. - 2007 - Development of a Spectrometer controlled by a PC.pdf:pdf},
+keywords = {hig,monochromator,spectra,wavelength sweep},
+pages = {149--154},
+title = {{Development of a Spectrometer controlled by a PC}},
+volume = {11},
+year = {2007}
+}
+@misc{,
+keywords = {Buse,Kirchhoff},
+title = {{Espectroscopia}},
+url = {https://www.ciencianet.com/espectros.html}
+}
+@article{Hrs1800,
+author = {Hrs, Spectrapro},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/Gratng-Pages-SpectraPro-HRS-Datasheet-revB1.pdf:pdf},
+pages = {13--14},
+title = {{Standard SpectraPro HRS Gratings}},
+year = {1800}
+}
+@article{UniversidaddeOviedo2010,
+abstract = {Cellular responses to dehydration were analyzed in six organs of leopard frogs Rana pipiens. Frogs at 5 degrees C endured the loss of up to 50{\%} of their total body water content but water contents of individual organs were strongly defended. Skeletal muscle water content was strongly affected by dehydration, dropping from 80.7{\%} of wet mass in controls to 67.2{\%} in frogs that had lost 50{\%} of their total body water. However, water contents of internal organs dropped by only 3-8{\%} of their wet masses. Water contents of all organs except skeletal muscle were fully restored by 24h of rehydration in water at 5 degrees C. Dehydration had no consistent effect on the protein content of five organs but in a sixth, the kidney, protein levels were elevated (by 60-72{\%}) at the higher levels of dehydration and during rehydration. Dehydration led to a rapid increase in glucose concentration in the liver; compared with control values of 13 +/- 2 nmol mg-1 protein, levels were doubled by 12.2{\%} dehydration and continued to increase to a maximum of 307 +/- 44 nmol mg-1 protein (20 mumol g-1 wet mass) in 50{\%} dehydrated frogs. Glucose accumulation was supported by a decrease in liver glycogen content and a parallel rise in glucose 6-phosphate levels, but not in the levels of other glycolytic intermediates, confirming that glycogenolytic flux was being directed into glucose synthesis. Blood glucose levels also increased as a function of increasing dehydration, reaching values 13.8 times higher than controls, but only the kidney and brain showed a significant accumulation of glucose over the course of dehydration.(ABSTRACT TRUNCATED AT 250 WORDS)},
+author = {{Universidad de Oviedo}},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/manualPic.pdf:pdf},
+issn = {0022-0949},
+pmid = {7891032},
+title = {{Manual de Microcontroladores PIC}},
+url = {https://www.unioviedo.es/ate/alberto/manualPic.pdf},
+year = {2010}
+}
+@article{,
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - SpectraPro 275 Spectrograph pack.pdf:pdf},
+title = {{SpectraPro 275 Spectrograph pack}},
+url = {http://www.physics.utah.edu/{~}gernot/6775/Lab7 Part2 Data Sheets.pdf}
+}
+@article{Hamamatsu2006,
+abstract = {Hamamatsu PMT Handbook},
+author = {Hamamatsu},
+doi = {10.1117/3.682726.p35},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hamamatsu - 2006 - Photomultiplier Tubes Basics and Applications.pdf:pdf},
+isbn = {9780819463524},
+issn = {1064-3745},
+journal = {Book},
+pages = {1--324},
+pmid = {19151953},
+title = {{Photomultiplier Tubes: Basics and Applications}},
+url = {papers://a18bb931-cf28-45a2-890e-68a459b787f5/Paper/p342},
+year = {2006}
+}
+@article{Hamamatsu2007a,
+abstract = {Construction, Characteristics, and Use of Photodiodes},
+author = {Hamamatsu},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hamamatsu - 2007 - Photodiode Technical Information.pdf:pdf},
+pages = {1--18},
+title = {{Photodiode Technical Information}},
+year = {2007}
+}
+@book{Pavia,
+author = {Pavia, Donald L},
+isbn = {9780495114789},
+title = {{INTRODUCTION}}
+}
+@article{Variationsd,
+author = {Variations, Product},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/H6780-02.pdf:pdf},
+journal = {Control},
+pages = {2--5},
+title = {{Metal Package PMT with Cooler}}
+}
+@article{Excel2000,
+author = {Excel, Microsoft},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/hg1.pdf:pdf},
+journal = {Transition},
+pages = {1--3},
+title = {{HG-1 Mercury Argon Calibration Source}},
+year = {2000}
+}
+@article{OrielInstruments2015,
+author = {{Oriel Instruments}},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Monochromador/Oriel-Cornerstone-260-User-Manual-RevA.pdf:pdf},
+pages = {1--74},
+title = {{Cornerstone™ 260, User's Manual}},
+url = {https://www.newport.com/medias/sys{\_}master/images/images/hae/h47/8797226926110/Oriel-Cornerstone-260-User-Manual-RevA.pdf},
+year = {2015}
+}
+@misc{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/HAMAMATSU-HC120{\_}series.pdf:pdf},
+title = {{HAMAMATSU-HC120{\_}series.pdf}}
+}
+@misc{SolarLight,
+author = {Karpenko, Dmitry and Ganapetyan, Vahe},
+title = {{Light in the Reef Aquaria}},
+url = {https://reefll.com/index.php?route=information/theory{\&}theo{\_}id=28},
+urldate = {2019-10-10}
+}
+@article{Pplicable2008,
+author = {Pplicable, E Asily A and Ayout, G Raphical L},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/eagle/Eagle{\_}Manual.pdf:pdf},
+title = {{Manual Version 5 {\textregistered}}},
+year = {2008}
+}
+@misc{,
+title = {{Motores a pasos{\ldots} ¿unipolares o bipolares? | 330ohms}},
+url = {http://blog.330ohms.com/2016/02/09/motores-a-pasos-unipolares-o-bipolares/},
+urldate = {2018-06-12}
+}
+@article{Variationsa,
+author = {Variations, Product},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Variations - Unknown - Photosensor Modules.pdf:pdf},
+journal = {Control},
+pages = {2--5},
+title = {{Photosensor Modules}}
+}
+@article{Agyapong2005,
+author = {Agyapong, Patrick},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/PA Diffraction Gratings.pdf:pdf},
+title = {{Diffraction Gratings : Theory and Applications z Introduction to Diffraction Gratings}},
+year = {2005}
+}
+@misc{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/SpectraPro 275 Lab7 Part2 Data Sheets.pdf:pdf},
+title = {{Lab7 Part2 Data Sheets.pdf}}
+}
+@article{Manual2001a,
+author = {Manual, User},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/NI-VISA User Manual.pdf:pdf},
+number = {370423},
+title = {{NI-VISA ™ User Manual}},
+year = {2001}
+}
+@book{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/ArduinoArduino.Cookbook[1].pdf:pdf},
+isbn = {9780596802479},
+title = {{No Titleヒドロキシアパタイト超微細結晶の水熱合成}}
+}
+@article{Driver2000,
+archivePrefix = {arXiv},
+arxivId = {LO1},
+author = {Driver, Dual Full-bridge},
+doi = {10.4324/9780203462027},
+eprint = {LO1},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/L298.pdf:pdf},
+isbn = {978-0-203-46202-7},
+issn = {0143-0807},
+journal = {Spark fUN Electronic [US[]},
+pages = {1--13},
+pmid = {21376602},
+title = {{nection of an external sensing resistor. An additional supply input is provided so that the logic works at a lower voltage.}},
+url = {https://www.sparkfun.com/datasheets/Robotics/L298{\_}H{\_}Bridge.pdf},
+year = {2000}
+}
+@article{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/guia{\_}osciladores{\_}pic18f4550.pdf:pdf},
+title = {{Guia de osciladores}}
+}
+@article{Miguel2015,
+author = {Miguel, Luis and Brea, S{\'{a}}nchez},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/02-Sistemas para la colimaci{\'{o}}n de haces de luz.pdf:pdf},
+keywords = {aplicada,d{\'{i}}a internacional de la,grupo complutense de {\'{o}}ptica,haces de luz,luis miguel s{\'{a}}nchez brea,metrolog{\'{i}}a,para la colimaci{\'{o}}n de},
+pages = {1--17},
+title = {{02-Sistemas para la colimaci{\'{o}}n de haces de luz}},
+year = {2015}
+}
+@article{Objetivo,
+abstract = {Red de difracci{\'{o}}n de 80 l{\'{i}}neas/mm Red de difracci{\'{o}}n de 600 l{\'{i}}neas/mm Fundamento Las sustancias en estado gaseoso cuando son excitadas pueden emitir una radiaci{\'{o}}n caracter{\'{i}}stica de la misma, su an{\'{a}}lisis constituye el estudio del espectro. Al emplear como fuente patr{\'{o}}n el mercurio, es necesario en primer lugar vaporizarlo mediante el calor que proporciona una resistencia el{\'{e}}ctrica, para que despu{\'{e}}s mediante colisiones entre los {\'{a}}tomos de Hg excitados, se produzca la emisi{\'{o}}n de radiaci{\'{o}}n electromagn{\'{e}}tica. En los tubos de descarga al establecer una alta diferencia de potencial entre los electrodos se produce un paso de electrones a trav{\'{e}}s del gas a baja presi{\'{o}}n (descarga disruptiva), que excita a los {\'{a}}tomos del gas por colisiones, de modo que al relajarse y volver a sus estados fundamentales, emiten esa energ{\'{i}}a en forma de radiaci{\'{o}}n caracter{\'{i}}stica de la sustancia. Foto del montaje},
+author = {Objetivo},
+title = {{Calibraci{\'{o}}n de un espectr{\'{o}}metro y medici{\'{o}}n de longitudes de onda de las l{\'{i}}neas de un espectro}},
+url = {http://www.heurema.com/PF/PF18-Espectroscopio/Calibraci{\%}F3n de un espectroscopio.pdf}
+}
+@misc{,
+title = {{LT1025C pdf, LT1025C Descripcion, LT1025C datasheets, LT1025C Vista ::: ALLDATASHEET :::}},
+url = {http://pdf1.alldatasheet.es/datasheet-pdf/view/70263/LINER/LT1025C.html},
+urldate = {2018-05-02}
+}
+@article{OrielInstruments2015,
+author = {{Oriel Instruments}},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Monochromador/Oriel-Cornerstone-260-User-Manual-RevA.pdf:pdf},
+pages = {1--74},
+title = {{Cornerstone™ 260, User's Manual}},
+url = {https://www.newport.com/medias/sys{\_}master/images/images/hae/h47/8797226926110/Oriel-Cornerstone-260-User-Manual-RevA.pdf},
+year = {2015}
+}
+@article{Vellage2013,
+author = {Vellage, Claudio},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Manuales/LATEX/latex-quick-start-tutorial.pdf:pdf},
+number = {November},
+pages = {1--6},
+title = {{A quick start to L E How to use L}},
+year = {2013}
+}
+@article{Ab2015,
+author = {Ab, Comsol},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Manuales/Softwares EXTRA/COMSOL51{\_}Highlights{\_}Optics{\_}Module{\_}150709.pdf:pdf},
+title = {{Version 5 . 1 Highlights}},
+year = {2015}
+}
+@article{Kraminin2015,
+author = {Kraminin, S P and Zobov, E M and Zobov, M E},
+doi = {10.1007/s10812-015-0103-2},
+issn = {00219037},
+journal = {Journal of Applied Spectroscopy},
+keywords = {Atmega8535 microcontroller,MDR-23 monochromator,Shch300 multimeter,automation},
+month = {may},
+number = {2},
+pages = {307--310},
+publisher = {Springer US},
+title = {{Automation of a Spectral System Based on an MDR-23 Monochromator}},
+url = {http://link.springer.com/10.1007/s10812-015-0103-2},
+volume = {82},
+year = {2015}
+}
+@misc{,
+title = {{Fundamentos de la Espectroscop{\'{i}}a}},
+url = {https://pendientedemigracion.ucm.es/info/Astrof/users/jaz/TRABAJOS/UGARTE/3.htm},
+urldate = {2017-10-09}
+}
+@article{Hamamatsu-Optosemiconductor-handbook,
+author = {Hamamatsu-Optosemiconductor-handbook},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/e03{\_}handbook{\_}si{\_}apd{\_}mppc.pdf:pdf},
+journal = {Solid State Photomultipliers},
+keywords = {SSPM,Si-PM},
+pages = {1--25},
+title = {{e03 - Si APD, MPPC}}
+}
+@misc{,
+abstract = {Resuloci{\'{o}}n espectral, Espectroscopia con re de difracci{\'{o}}n.},
+title = {{3 Fundamentos de la Espectroscop{\'{i}}a}},
+url = {http://webs.ucm.es/info/Astrof/users/jaz/TRABAJOS/UGARTE/3.htm},
+urldate = {2017-11-14}
+}
+@article{See,
+author = {See, Electro-optical Characteristics C},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/PhotoDiodoKarenDTS{\_}vtb9412b13b.pdf:pdf},
+number = {mm},
+pages = {22001},
+title = {{VTP Process Photodiodes PACKAGE DIMENSIONS inch ( mm ) Storage Temperature :}},
+volume = {2}
+}
+@article{Shanfield1988,
+author = {Shanfield, Z},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shanfield - 1988 - Investigation of Radiation Effects on Semiconductor Devices and Integrated Circuits.pdf:pdf},
+journal = {Contract},
+title = {{Investigation of Radiation Effects on Semiconductor Devices and Integrated Circuits}},
+url = {http://oai.dtic.mil/oai/oai?verb=getRecord{\&}metadataPrefix=html{\&}identifier=ADA210165},
+year = {1988}
+}
+@article{Frontal,
+author = {Frontal, Panel},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/573016184.Apunte 6 - Creaci{\'{o}}n de SubVI.pdf:pdf},
+number = {Vi},
+title = {{Creaci{\'{o}}n de SubVI ' s}}
+}
+@article{Objetivo,
+abstract = {Red de difracci{\'{o}}n de 80 l{\'{i}}neas/mm Red de difracci{\'{o}}n de 600 l{\'{i}}neas/mm Fundamento Las sustancias en estado gaseoso cuando son excitadas pueden emitir una radiaci{\'{o}}n caracter{\'{i}}stica de la misma, su an{\'{a}}lisis constituye el estudio del espectro. Al emplear como fuente patr{\'{o}}n el mercurio, es necesario en primer lugar vaporizarlo mediante el calor que proporciona una resistencia el{\'{e}}ctrica, para que despu{\'{e}}s mediante colisiones entre los {\'{a}}tomos de Hg excitados, se produzca la emisi{\'{o}}n de radiaci{\'{o}}n electromagn{\'{e}}tica. En los tubos de descarga al establecer una alta diferencia de potencial entre los electrodos se produce un paso de electrones a trav{\'{e}}s del gas a baja presi{\'{o}}n (descarga disruptiva), que excita a los {\'{a}}tomos del gas por colisiones, de modo que al relajarse y volver a sus estados fundamentales, emiten esa energ{\'{i}}a en forma de radiaci{\'{o}}n caracter{\'{i}}stica de la sustancia. Foto del montaje},
+author = {Objetivo},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Objetivo - Unknown - Calibraci{\'{o}}n de un espectr{\'{o}}metro y medici{\'{o}}n de longitudes de onda de las l{\'{i}}neas de un espectro.pdf:pdf},
+title = {{Calibraci{\'{o}}n de un espectr{\'{o}}metro y medici{\'{o}}n de longitudes de onda de las l{\'{i}}neas de un espectro}},
+url = {http://www.heurema.com/PF/PF18-Espectroscopio/Calibraci{\%}F3n de un espectroscopio.pdf}
+}
+@misc{,
+abstract = {Tipos de monocromadores y como entra la luz.},
+title = {{Getting Light into a Monochromator}},
+url = {https://www.newport.com/t/getting-light-into-a-monochromator},
+urldate = {2019-02-14}
+}
+@article{,
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - full-text(2).pdf:pdf},
+title = {full-text}
+}
+@article{Microchip2003,
+author = {Microchip},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/programing.pdf:pdf},
+number = {May},
+pages = {1--264},
+title = {{In-Circuit Serial Programming ™ ( ICSP ™ ) Guide}},
+year = {2003}
+}
+@article{Frontal,
+author = {Frontal, Panel},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/573016184.Apunte 6 - Creaci{\'{o}}n de SubVI.pdf:pdf},
+number = {Vi},
+title = {{Creaci{\'{o}}n de SubVI ' s}}
+}
+@article{Page,
+author = {Page, See and Page, See and Page, See and Process, The Replication Ruling Replication and Grating, Transmission and Process, The Replication Ruling Replication and Page, See and Page, See and Page, See},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/introduction to diffraction grating.pdf:pdf},
+journal = {Optics},
+pages = {874--879},
+title = {{Introduction to Diffraction Gratings Choosing a Diffraction Grating}},
+url = {https://www.thorlabs.com/catalogpages/802.pdf}
+}
+@article{Sugiarto,
+author = {Sugiarto, Tommy},
+doi = {10.13140/RG.2.1.3654.0568},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/LabVIEW-ArduinoInterfacingforDataAqcuisitionandTelemetrySystem.pdf:pdf},
+title = {{LabVIEW-Arduino Interfacing for Data Acquisition and Telemetry System}}
+}
+@article{Chapter2013,
+author = {Chapter, Next and Handbook, Search and Chapter, Previous and Contents, Table O F and Resolution, Spectral and Light, Stray},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/Reticolo Diffrazione the physics of difracction gratings.pdf:pdf},
+pages = {1--17},
+title = {{2. the Physics of Diffraction Gratings}},
+volume = {0},
+year = {2013}
+}
+@article{Doctorado2005a,
+archivePrefix = {arXiv},
+arxivId = {dfgfd},
+author = {Doctorado, Programa D E and Ciencias, E N and Blanca, Mtra and Garc{\'{i}}a, Rosa},
+doi = {dfgdfg},
+eprint = {dfgfd},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Trabajos/Dise{\~{n}}o e Implementaci{\'{o}}n de un sistema de control para espectroscopia de semiconductores mediante instrumentaci{\'{o}}n virtual.pdf:pdf},
+isbn = {9780195373950},
+issn = {1740-8261},
+pmid = {21335502},
+title = {{Instituto polit{\'{e}}cnico nacional}},
+year = {2005}
+}
+@article{,
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - 1923 - A LBERT E INSTEIN Fundamental ideas and problems of the theory of relativity.pdf:pdf},
+title = {{A LBERT E INSTEIN Fundamental ideas and problems of the theory of relativity}},
+url = {http://www.globaluno.com/globalart/globaluno/cyberteca/11{\_}FALBER.PDF},
+year = {1923}
+}
+@article{,
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - LM35 LM35 Precision Centigrade Temperature Sensors.pdf:pdf},
+title = {{LM35 LM35 Precision Centigrade Temperature Sensors}},
+url = {http://www.ti.com/lit/ds/symlink/lm35.pdf}
+}
+@article{Sensor2011,
+author = {Sensor, Pacific Silicon and Village, Westlake},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/handling-and-processing-e{\_}0.pdf:pdf},
+isbn = {4930639923752},
+pages = {7--9},
+title = {{Instruction for Handling and Processing}},
+year = {2011}
+}
+@article{,
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - 2010 - DRV8825 STEPPER MOTOR CONTROLLER IC.pdf:pdf},
+title = {{DRV8825 STEPPER MOTOR CONTROLLER IC}},
+url = {http://www.ti.com/lit/ds/symlink/drv8825.pdf},
+year = {2010}
+}
+@article{Registers2013,
+author = {Registers, Control and Modes, Power-saving and Resets, Various and Using, Peripherals and Modules, Timer and Control, Pin and Notes, Related Application and History, Revision},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/Inter-integrated Circuir I2C 001.pdf:pdf},
+keywords = {FRM,Family Reference Manual,PIC32,Section 14,T},
+pages = {1--34},
+title = {{PIC32 Family Reference Manual}},
+year = {2013}
+}
+@article{Marais2002,
+abstract = {The major goals of NASA's Terrestrial Planet Finder (TPF) and the European Space Agency's Darwin missions are to detect terrestrial-sized extrasolar planets directly and to seek spec-troscopic evidence of habitable conditions and life. Here we recommend wavelength ranges and spectral features for these missions. We assess known spectroscopic molecular band fea-tures of Earth, Venus, and Mars in the context of putative extrasolar analogs. The preferred wavelength ranges are 7–25 mm in the mid-IR and 0.5 to ,1.1 mm in the visible to near-IR. Detection of O 2 or its photolytic product O 3 merits highest priority. Liquid H 2 O is not a bioindicator, but it is considered essential to life. Substantial CO 2 indicates an atmosphere and oxidation state typical of a terrestrial planet. Abundant CH 4 might require a biological source, yet abundant CH 4 also can arise from a crust and upper mantle more reduced than that of Earth. The range of characteristics of extrasolar rocky planets might far exceed that of the Solar System. Planetary size and mass are very important indicators of habitability and can be estimated in the mid-IR and potentially also in the visible to near-IR. Additional spec-troscopic features merit study, for example, features created by other biosignature compounds in the atmosphere or on the surface and features due to Rayleigh scattering. In summary, we find that both the mid-IR and the visible to near-IR wavelength ranges offer valuable infor-mation regarding biosignatures and planetary properties; therefore both merit serious scien-tific consideration for TPF and Darwin. Key Words: Spectroscopy—Biosignatures—Extraso-lar planets—Terrestrial Planet Finder—Darwin—Habitable planets. Astrobiology 2, 153–181. 153},
+author = {Marais, David J Des and Harwit, Martin O and Jucks, Kenneth W and Kasting, James F and Lin, Douglas N C and Lunine, Jonathan I and Schneider, Jean and Seager, Sara and Traub, Wesley A and Woolf, Neville J},
+journal = {ASTROBIOLOGY},
+number = {2},
+title = {{Remote Sensing of Planetary Properties and Biosignatures on Extrasolar Terrestrial Planets}},
+url = {http://online.liebertpub.com/doi/pdfplus/10.1089/15311070260192246},
+volume = {2},
+year = {2002}
+}
+@misc{,
+title = {{What Is Spectrometry And What Is It Used For? - ATA Scientific}},
+url = {https://www.atascientific.com.au/spectrometry/},
+urldate = {2017-10-10}
+}
+@article{Salgado2009,
+abstract = {Un filtro es un circuito electr{\'{o}}nico que posee una entrada y una salida. En la entrada se introducen se{\~{n}}ales alternas de diferentes frecuencias y en la salida se extraen esas se{\~{n}}ales atenuadas en mayor o menor medida seg{\'{u}}n la frecuencia de la se{\~{n}}al. Si el circuito del filtro est{\'{a}} formado por resistencias, condensadores y/o bobinas (componentes pasivos) el filtro se dir{\'{a}} que es un filtro pasivo. Si el circuito del filtro est{\'{a}} formado por el esquema o c{\'{e}}lula b{\'{a}}sica se dir{\'{a}} que es de primer orden. Ser{\'{a}} de segundo orden si est{\'{a}} formado por dos c{\'{e}}lulas b{\'{a}}sicas, de tercer orden si lo esta por tres, etc. Frecuencia de corte: Es la frecuencia para la que la ganancia en tensi{\'{o}}n del filtro cae de 1 a 0.707 (esto expresado en decibelios, dB, se dir{\'{i}}a como que la ganancia del filtro se reduce en 3dB de la m{\'{a}}xima, que se considera como nivel de 0dB). En los filtros pasa banda y elimina banda existir{\'{a}}n dos frecuencias de corte diferentes, la inferior y la superior. Banda de Paso: Es el margen de frecuencias para las cuales la se{\~{n}}al se aten{\'{u}}a {\textless}3dB, y est{\'{a}} comprendida dentro de las frecuencias de corte Filtros pasa bajos, pasa altos, pasa banda y elimina banda:},
+author = {Salgado, Javier},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Electr{\'{o}}nica/6CA-filtros.pdf:pdf},
+pages = {8,9},
+title = {{Los Filtros Pasivos de Primer Orden}},
+url = {http://ele-mariamoliner.dyndns.org/{~}jsalgado/analogica/6CA-filtros.pdf},
+year = {2009}
+}
+@misc{,
+abstract = {Spectometer},
+title = {{Spectrometer Technology and Applications}},
+url = {https://www.azom.com/article.aspx?ArticleID=10245},
+urldate = {2017-10-06}
+}
+@phdthesis{Guerra2007,
+author = {Guerra, Elena and {De la Rosa}, Jos{\'{e}} Manuel and Moreno, Edgard},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Guerra, De la Rosa, Moreno - 2007 - Fluor{\'{o}}metro basado en un LED un monocromador y un tubo fotomultiplicador.pdf:pdf},
+isbn = {9788415552499},
+title = {{Fluor{\'{o}}metro basado en un LED un monocromador y un tubo fotomultiplicador}},
+url = {http://tesis.ipn.mx/bitstream/handle/123456789/843/Tesis Final Ladrilleros.pdf?sequence=1},
+year = {2007}
+}
+@article{Strack,
+author = {Strack, Murcia- J},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/TP2{\_}2014.pdf:pdf},
+pages = {1--7},
+title = {{GUIA DE EJERCICIOS N{\textordmasculine}2 INSTRUMENTACI{\'{O}}N AVANZADA Estructuras en LabVIEW}}
+}
+@misc{,
+abstract = {Voltaje range,  Microsteping Stepper motor Driver.
+},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - 2010 - DRV8825 Stepper motor Controller IC(2).pdf:pdf},
+title = {{DRV8825 Stepper motor Controller IC}},
+url = {https://www.pololu.com/file/0J590/drv8825.pdf},
+year = {2010}
+}
+@article{KiCad,
+author = {KiCad},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Manuales/getting{\_}started{\_}in{\_}kicad.pdf:pdf},
+title = {{Comenzando en KiCad}}
+}
+@article{Team2015,
+author = {Team, Project},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Manuales/LATEX.pdf:pdf},
+pages = {1--31},
+title = {{A T X 2 for authors L E $\epsilon$}},
+year = {2015}
+}
+@article{Usb,
+author = {Usb, Master-prog},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/Manual-Master-Prog.pdf:pdf},
+title = {{Master-prog usb}}
+}
+@article{Sensor,
+author = {Sensor, Pacific Silicon and Village, Westlake},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/application-note-apd.pdf:pdf},
+isbn = {4930639923752},
+pages = {7--8},
+title = {{First Sensor Application Note APD array with guard ring Application circuit ( Fig . 1 , only one channel output drawn ) Application notes First Sensor Application Note APD array with guard ring APD Series overview Responsivity ( 23 ° C ) Quantum efficienc}}
+}
+@article{Technology,
+author = {Technology, Ion-beam Etching},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/SHIMADZU DIFFRACTION GRATINGS.pdf:pdf},
+title = {{01 . Introduction to Diffraction Gratings}}
+}
+@article{Corporation2011,
+author = {Corporation, National Instruments and Corporation, National Instruments and Instruments, National and Fomitchev, Boris and Foundation, Apache Software and Apache, The and Foundation, Software and Business, International and Corporation, Machines and Hdf, Ncsa and Format, Hierarchical Data and Library, Software and Copyright, Utilities},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/lvcore2{\_}exercisemanual{\_}spanish{\_}sample.pdf:pdf},
+title = {es tra es},
+year = {2011}
+}
+@article{Drivers2003,
+author = {Drivers, Push-pull Four Channel},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/L293Bdatasheet.pdf:pdf},
+journal = {Power},
+number = {April},
+pages = {1--12},
+title = {{L293b l293e}},
+year = {2003}
+}
+@misc{,
+abstract = {Calculo de Maxima velocidad.},
+title = {{Stepper Motor Calculator}},
+url = {http://www.daycounter.com/Calculators/Stepper-Motor-Calculator.phtml},
+urldate = {2018-05-17}
+}
+@article{Types2006,
+author = {Types, Package and Diagram, Functional Block},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Circuitos integrados/ADC/MCP3202-I2C.pdf:pdf},
+pages = {1--28},
+title = {{with SPI Serial Interface}},
+year = {2006}
+}
+@article{Directory,
+author = {Directory, Project},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/tutorial{\_}mplab{\_}6x.pdf:pdf},
+title = {{Curso Microcontroladores PIC16F84 Carl{\'{i}}n P{\'{e}}rez Cuba}}
+}
+@book{MicrochipTechnologyInc2015,
+author = {{Microchip Technology Inc}},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/50002027D.pdf:pdf},
+isbn = {9781632776143},
+keywords = {500020257,500020257A,500020257B,500020257C,500020257D,DS-500020257,DS-500020257A,DS-500020257B,DS-500020257C,DS-500020257D,DS500020257,DS500020257A,DS500020257B,DS500020257C,DS500020257D},
+pages = {1--330},
+title = {{MPLAB{\textregistered}X IDE User's Guide}},
+year = {2015}
+}
+@book{ADInc2005,
+author = {ADInc, Analog Devices Inc.},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/Op Amp Applications Handbook.pdf:pdf},
+isbn = {0-7506-7844-5},
+keywords = {Copyright {\textcopyright}2005 by Analog Devices,Inc. All rights reserved.},
+title = {{Op Amp Aplicattions Handbook}},
+url = {http://www.kelm.ftn.uns.ac.rs/literatura/mpi/pdf/Op Amp Applications Handbook.pdf},
+year = {2005}
+}
+@article{UniversidaddeOviedo2010,
+abstract = {Cellular responses to dehydration were analyzed in six organs of leopard frogs Rana pipiens. Frogs at 5 degrees C endured the loss of up to 50{\%} of their total body water content but water contents of individual organs were strongly defended. Skeletal muscle water content was strongly affected by dehydration, dropping from 80.7{\%} of wet mass in controls to 67.2{\%} in frogs that had lost 50{\%} of their total body water. However, water contents of internal organs dropped by only 3-8{\%} of their wet masses. Water contents of all organs except skeletal muscle were fully restored by 24h of rehydration in water at 5 degrees C. Dehydration had no consistent effect on the protein content of five organs but in a sixth, the kidney, protein levels were elevated (by 60-72{\%}) at the higher levels of dehydration and during rehydration. Dehydration led to a rapid increase in glucose concentration in the liver; compared with control values of 13 +/- 2 nmol mg-1 protein, levels were doubled by 12.2{\%} dehydration and continued to increase to a maximum of 307 +/- 44 nmol mg-1 protein (20 mumol g-1 wet mass) in 50{\%} dehydrated frogs. Glucose accumulation was supported by a decrease in liver glycogen content and a parallel rise in glucose 6-phosphate levels, but not in the levels of other glycolytic intermediates, confirming that glycogenolytic flux was being directed into glucose synthesis. Blood glucose levels also increased as a function of increasing dehydration, reaching values 13.8 times higher than controls, but only the kidney and brain showed a significant accumulation of glucose over the course of dehydration.(ABSTRACT TRUNCATED AT 250 WORDS)},
+author = {{Universidad de Oviedo}},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/manualPic.pdf:pdf},
+issn = {0022-0949},
+pmid = {7891032},
+title = {{Manual de Microcontroladores PIC}},
+url = {https://www.unioviedo.es/ate/alberto/manualPic.pdf},
+year = {2010}
+}
+@article{Agyapong2005,
+author = {Agyapong, Patrick},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/PA Diffraction Gratings.pdf:pdf},
+title = {{Diffraction Gratings : Theory and Applications z Introduction to Diffraction Gratings}},
+year = {2005}
+}
+@article{Series2014,
+author = {Series, H R},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/conector/HR10{\_}catalogConector.pdf:pdf},
+pages = {1--8},
+title = {{High Performance , Miniature Circular Connectors Product specifi cations}},
+year = {2014}
+}
+@article{Variationsd,
+author = {Variations, Product},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/H6780-02.pdf:pdf},
+journal = {Control},
+pages = {2--5},
+title = {{Metal Package PMT with Cooler}}
+}
+@misc{,
+title = {{Arduino + Matlab: adquisici{\'{o}}n de datos}},
+url = {https://wechoosethemoon.es/2011/07/15/arduino-matlab-adquisicion-de-datos/},
+urldate = {2017-10-30}
+}
+@article{Family1997,
+abstract = {Microchip's Quality System embodies the requirements of ISO9001:1994. Our Microchip Chandler and Tempe Design and Manufacturing facilities have been certified to ISO 9001. The Microchip Kaohsiung Test facility, and primary Assembly houses have been certified to ISO 9002. ISO certification plans are in-process for an esti-mated certification grant by year-end 1997. In addition, Microchip has received numerous customer certifica-tions, including a Delco issued certificate of compliance to AEC-A100/QS9000. Microchip received ISO 9001 Quality System certifica-tion for its worldwide headquarters, design, and wafer fabrication facilities in January, 1997. Our field-pro-grammable PICmicro™ 8-bit MCUs, Serial EEPROMs, related specialty memory products and development systems conform to the stringent quality standards of the International Standard Organization (ISO).},
+author = {Family, Mid-range M C U and Manual, Reference},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/Cursos y Manuales/Mid-Range{\_}MCU Family.pdf:pdf},
+number = {December},
+title = {{PICmicro™ Mid-Range MCU Family Reference Manual Internationally Recognized Quality System Certifications}},
+year = {1997}
+}
+@article{Sensor,
+author = {Sensor, Pacific Silicon and Village, Westlake},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/application-note-apd.pdf:pdf},
+isbn = {4930639923752},
+pages = {7--8},
+title = {{First Sensor Application Note APD array with guard ring Application circuit ( Fig . 1 , only one channel output drawn ) Application notes First Sensor Application Note APD array with guard ring APD Series overview Responsivity ( 23 ° C ) Quantum efficienc}}
+}
+@article{Strack,
+author = {Strack, Murcia- J},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/TP2{\_}2014.pdf:pdf},
+pages = {1--7},
+title = {{GUIA DE EJERCICIOS N{\textordmasculine} 2 INSTRUMENTACI{\'{O}}N AVANZADA Estructuras en LabVIEW}}
+}
+@article{Enhanced2002,
+author = {Enhanced, Pin and Microcontrollers, Flash and Technology, Watt},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/18f4550.pdf:pdf},
+keywords = {"PIC18F2455,PIC18F2550,PIC18F4455,PIC18F4550,SPP",USB},
+title = {{Enhanced FLASH Microcontrollers with nanoWatt Technology}},
+year = {2002}
+}
+@inproceedings{JieLiu2016,
+author = {{Jie Liu} and {Zekun Liu} and {Zhihong Wang} and {Junyi Cao}},
+booktitle = {2016 IEEE Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC)},
+doi = {10.1109/IMCEC.2016.7867230},
+isbn = {978-1-4673-9613-4},
+month = {oct},
+pages = {345--348},
+publisher = {IEEE},
+title = {{AS5048 magnetic encoder for the application in DC motor position control of portable spectrometer}},
+url = {http://ieeexplore.ieee.org/document/7867230/},
+year = {2016}
+}
+@article{Atmel2015,
+abstract = {DataSheet ATmega},
+author = {Atmel},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561{\_}datasheet.pdf:pdf},
+number = {November},
+pages = {66},
+title = {{DataSheet ATmega2560}},
+year = {2015}
+}
+@article{,
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - Desarrollo de una interfaz gr{\'{a}}fica para usuario para el control de analiza de espectros opticos mediante matlab.pdf:pdf},
+title = {{Desarrollo de una interfaz gr{\'{a}}fica para usuario para el control de analiza de espectros opticos mediante matlab}},
+url = {https://academica-e.unavarra.es/bitstream/handle/2454/21691/Desarrollo de una interfaz gr{\%}2B{\'{i}}fica de usuario para el control de analizadores de espectros {\%}2B¦pticos mediante Matlab.pdf?sequence=1{\&}isAllowed=y}
+}
+@article{Diagram,
+abstract = {▪ Low DS(ON) outputs ▪ Automatic /selection ▪ Mixed ▪ Synchronous ▪ Internal ▪ Crossover - current ▪ 3 . 3 ▪ Thermal ▪ Short - to - ground ▪ Shorted ▪ Five : full, 1 / 2 , 1 / 4 , 1 / 8 , and 1 / 16 Package : Description The is a complete microstepping motor driver with built - in . It bipolar stepper motors in full - , half - , quarter - , eighth - , and sixteenth - step , with 35 . The - time regulator decay . The translator is the key to the easy implementation of the A4988 . Simply the . There , high , or . The complex . During , the automatically , Slow . In , the for - time , then the remainder of the off - time . Mixed decay current control results , increased , and .},
+author = {Diagram, Typical Application},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Circuitos integrados/A4988 stepper driver.pdf:pdf},
+pages = {1--20},
+title = {{Features and Benefits DMOS Microstepping Driver with Translator And Overcurrent Protection}}
+}
+@article{Marais2002,
+abstract = {The major goals of NASA's Terrestrial Planet Finder (TPF) and the European Space Agency's Darwin missions are to detect terrestrial-sized extrasolar planets directly and to seek spec-troscopic evidence of habitable conditions and life. Here we recommend wavelength ranges and spectral features for these missions. We assess known spectroscopic molecular band fea-tures of Earth, Venus, and Mars in the context of putative extrasolar analogs. The preferred wavelength ranges are 7–25 mm in the mid-IR and 0.5 to ,1.1 mm in the visible to near-IR. Detection of O 2 or its photolytic product O 3 merits highest priority. Liquid H 2 O is not a bioindicator, but it is considered essential to life. Substantial CO 2 indicates an atmosphere and oxidation state typical of a terrestrial planet. Abundant CH 4 might require a biological source, yet abundant CH 4 also can arise from a crust and upper mantle more reduced than that of Earth. The range of characteristics of extrasolar rocky planets might far exceed that of the Solar System. Planetary size and mass are very important indicators of habitability and can be estimated in the mid-IR and potentially also in the visible to near-IR. Additional spec-troscopic features merit study, for example, features created by other biosignature compounds in the atmosphere or on the surface and features due to Rayleigh scattering. In summary, we find that both the mid-IR and the visible to near-IR wavelength ranges offer valuable infor-mation regarding biosignatures and planetary properties; therefore both merit serious scien-tific consideration for TPF and Darwin. Key Words: Spectroscopy—Biosignatures—Extraso-lar planets—Terrestrial Planet Finder—Darwin—Habitable planets. Astrobiology 2, 153–181. 153},
+author = {Marais, David J Des and Harwit, Martin O and Jucks, Kenneth W and Kasting, James F and Lin, Douglas N C and Lunine, Jonathan I and Schneider, Jean and Seager, Sara and Traub, Wesley A and Woolf, Neville J},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Marais et al. - 2002 - Remote Sensing of Planetary Properties and Biosignatures on Extrasolar Terrestrial Planets.pdf:pdf},
+journal = {ASTROBIOLOGY},
+number = {2},
+title = {{Remote Sensing of Planetary Properties and Biosignatures on Extrasolar Terrestrial Planets}},
+url = {http://online.liebertpub.com/doi/pdfplus/10.1089/15311070260192246},
+volume = {2},
+year = {2002}
+}
+@book{Embebido2014,
+author = {Embebido, Control and View, Libs},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Trabajos/YohanPrez-Moret-DiseoyConstruccindeunEspectrmetropticoporUSB5ta.pdf:pdf},
+isbn = {9781105474071},
+number = {January 2012},
+title = {{Dise{\~{n}}o y Construcci{\'{o}}n de un Espectr{\'{o}}metro {\'{O}}ptico por USB}},
+year = {2014}
+}
+@article{Ocean,
+author = {Ocean, The and Qe, Optics},
+title = {{Spectrometer Model QE65000 − Data Sheet:}},
+url = {http://oceanoptics.com/wp-content/uploads/OEM-Data-Sheet-QE65000.pdf}
+}
+@article{Roncancio2000,
+abstract = {Qu{\'{e}} es LabVIEW? LabVIEW (Laboratory Virtual Instrument Engineering Workbench) es un lenguaje de programaci{\'{o}}n gr{\'{a}}fico para el dise{\~{n}}o de sistemas de adquisici{\'{o}}n de datos, instrumentaci{\'{o}}n y control. Labview permite dise{\~{n}}ar interfaces de usuario mediante una consola interactivo basado en software. Usted puede dise{\~{n}}ar especificando su sistema funcional, su diagrama de bloques o una notaci{\'{o}}n de dise{\~{n}}o de ingenier{\'{i}}a. Labview es a la vez compatible con herramientas de desarrollo similares y puede trabajar con programas de otra {\'{a}}rea de aplicaci{\'{o}}n, como por ejemplo Matlab. Tiene la ventaja de que permite una f{\'{a}}cil integraci{\'{o}}n con hardware, espec{\'{i}}ficamente con tarjetas de medici{\'{o}}n, adquisici{\'{o}}n y procesamiento de datos (incluyendo adquisici{\'{o}}n de im{\'{a}}genes). Aplicaciones de LabVIEW Labview tiene su mayor aplicaci{\'{o}}n en sistemas de medici{\'{o}}n, como monitoreo de procesos y aplicaciones de control, un ejemplo de esto pueden ser sistemas de monitoreo en transportaci{\'{o}}n, Laboratorios para clases en universidades, procesos de control industrial. Labview es muy utilizado en procesamiento digital de se{\~{n}}ales (wavelets, FFT, Total Distorsion Harmonic TDH), procesamiento en tiempo real de aplicaciones biom{\'{e}}dicas, manipulaci{\'{o}}n de im{\'{a}}genes y audio, automatizaci{\'{o}}n, dise{\~{n}}o de filtros digitales, generaci{\'{o}}n de se{\~{n}}ales, entre otras, etc. Programaci{\'{o}}n gr{\'{a}}fica con Labview Cuando usted dise{\~{n}}a programas con Labview est{\'{a}} trabajando siempre bajo algo denominado VI, es decir, un instrumento virtual, se pueden crear VI a partir de especificaciones funcionales que usted dise{\~{n}}e. Este VI puede utilizarse en cualquier otra aplicaci{\'{o}}n como una subfunci{\'{o}}n dentro de un programa general. Los VI's se caracterizan por: ser un cuadrado con su respectivo s{\'{i}}mbolo relacionado con su funcionalidad, tener una interfaz con el usuario, tener entradas con su color de identificaci{\'{o}}n de dato, tener una o varias salidas y por su puesto ser reutilizables.},
+author = {Roncancio, Ha and Cifuentes, H},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/QueEsLabViewBasic.pdf:pdf},
+journal = {Labview Tutorial},
+keywords = {de aplicaciones biom{\'{e}}dicas,de monitoreo en transportaci{\'{o}}n,en procesamiento digital de,fft,harmonic tdh,laboratorios para clases en,labview es muy utilizado,procesamiento en tiempo real,procesos de control industrial,se{\~{n}}ales,total distorsion,universidades,wavelets},
+pages = {20},
+title = {{Tutorial de LABVIEW}},
+url = {http://scholar.google.com/scholar?hl=en{\&}btnG=Search{\&}q=intitle:Tutorial+de+labview{\#}0{\%}5Cnhttp://scholar.google.com/scholar?hl=en{\&}btnG=Search{\&}q=intitle:Tutorial+de+LABVIEW{\%}230},
+volume = {1},
+year = {2000}
+}
+@article{Sugiarto,
+author = {Sugiarto, Tommy},
+doi = {10.13140/RG.2.1.3654.0568},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/LabVIEW-ArduinoInterfacingforDataAqcuisitionandTelemetrySystem.pdf:pdf},
+title = {{LabVIEW-Arduino Interfacing for Data Acquisition and Telemetry System}}
+}
+@article{Started2013,
+author = {Started, Getting},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/LabView Getting Started.pdf:pdf},
+number = {June},
+title = {{LabVIEW}},
+year = {2013}
+}
+@misc{,
+title = {{Weblet Importer}},
+url = {http://galileo.phys.virginia.edu/classes/252/photoelectric{\_}effect.html},
+urldate = {2017-08-17}
+}
+@article{Hamamatsu-Optosemiconductor-handbook,
+author = {Hamamatsu-Optosemiconductor-handbook},
+journal = {Solid State Photomultipliers},
+keywords = {SSPM,Si-PM},
+pages = {1--25},
+title = {{e03 - Si APD, MPPC}}
+}
+@article{Skoog1971,
+abstract = {Los instrumentos utilizados para el estudio de la absorci{\'{o}}n o emisi{\'{o}}n de la radiaci{\'{o}}n electromagn{\'{e}}tica como funci{\'{o}}n de la longitud de onda, son llamados Espectr{\'{o}}metros o m{\'{a}}s frecuentemente Espectrofot{\'{o}}metros. Los principios {\'{o}}pticos y electr{\'{o}}nica empleados en los instrumentos son los mismos para espectroscop{\'{i}}a UV, Visible o IR, sin embargo hay ligeras diferencias en componentes espec{\'{i}}ficos del instrumento para cada regi{\'{o}}n del espectro electromagn{\'{e}}tico. Los componentes esenciales de un espectrofot{\'{o}}metro son : 1. Una fuente estable de energ{\'{i}}a radiante 2. Un sistema de lentes, espejos y aberturas (Slits), que definan, colimen (hagan paralelo) y enfoquen el haz de radiaci{\'{o}}n y un monocromador que separe la radiaci{\'{o}}n de bandas estrechas de longitud de onda. 3. Un componente transparente a la radiaci{\'{o}}n que contenga la muestra 4. Un detector de radiaci{\'{o}}n o transductor que recibe la se{\~{n}}al de radiaci{\'{o}}n electromagn{\'{e}}tica y la convierte en una se{\~{n}}al el{\'{e}}ctrica de magnitud proporcional a la intensidad de la radiaci{\'{o}}n recibida. 5. Un sistema amplificador que produzca o genere una se{\~{n}}al el{\'{e}}ctrica mucho mayor a la se{\~{n}}al recibida 6. Un sistema de lectura tal como: Una escala de aguja, un registrador, un sistema de d{\'{i}}gitos o una computadora, que transforme la se{\~{n}}al el{\'{e}}ctrica en una se{\~{n}}al que el operador pueda interpretar. 7. El diagrama de estos componentes es el siguiente: Figura 1: Diagrama de bloques para los componentes de un espectrofot{\'{o}}metro},
+author = {Skoog, Douglas A},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/espectroscopia/instrumentaci{\'{o}}n para espectroscopia.pdf:pdf},
+journal = {Principios de Analisis Instrumental},
+title = {{Instrumentaci{\'{o}}n para espectroscopia}},
+year = {1971}
+}
+@article{Guinan1986,
+abstract = {The literature relevant to efferent-induced mechanical change in the cochlea is reviewed. New data are presented on efferent-induced change in ear-canal sound pressure using a single-tone sound stimulus. Efferent-induced changes in sound pressure are largest relative to the baseline sound pressure at low sound levels and for frequencies between 2 and 20 kHz. Group delays calculated from phase vs. frequency slopes were 0.5 to 7 ms and may represent sound travel times into and back out of the cochlea. Three hypotheses are given which qualitatively explain much of the extant data on the action of cochlear efferents.},
+archivePrefix = {arXiv},
+arxivId = {10.3989},
+author = {Guinan, J J},
+doi = {978-970-26-0031-2},
+eprint = {10.3989},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/397-2013-12-12-guiadeusodemendeley2.pdf:pdf},
+isbn = {0107-8593 (Print)},
+issn = {0107-8593},
+journal = {Scandinavian audiology. Supplementum},
+pages = {53--62},
+pmid = {3472321},
+title = {{Effect of efferent neural activity on cochlear mechanics.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/3472321},
+volume = {25},
+year = {1986}
+}
+@misc{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/Di↵raction Grating Equation with Example Problems.pdf:pdf},
+title = {{Di↵raction Grating Equation with Example Problems.pdf}}
+}
+@article{Information2015,
+author = {Information, Device},
+title = {{Tl081}},
+url = {http://www.ti.com/lit/ds/symlink/tl082.pdf},
+volume = {082},
+year = {2015}
+}
+@article{Bodington2015,
+abstract = {Este documento presenta una serie de montajes con microcontroladores, sus caracteristicas mas pecualiares y modos de conexi{\'{o}}n. tambi{\'{e}}n presenta un gran cantidad de elementos electr{\'{o}}nicos desempe{\~{n}}ando funciones en peque{\~{n}}os proyectos con un pic, se describe las manera como podemos cargar c{\'{o}}digo funcional en un microcontrolador y sugiere algunas metodolog{\'{i}}as de trabajo.},
+author = {Bodington, Christian},
+doi = {10.1017/CBO9781107415324.004},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/CursoPicbasic.pdf:pdf},
+isbn = {9788578110796},
+issn = {1098-6596},
+journal = {PhD Proposal},
+pages = {425},
+pmid = {25246403},
+title = {{Basic para microcontroladores pic}},
+volume = {1},
+year = {2015}
+}
+@article{Garcia2007,
+author = {Garc{\'{i}}a, E Moreno and V{\'{e}}lez, R Rosas and L{\'{o}}pez, P Reyes and V{\'{a}}zquez, J De Rosa},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Garc{\'{i}}a et al. - 2007 - Development of a Spectrometer controlled by a PC.pdf:pdf},
+keywords = {hig,monochromator,spectra,wavelength sweep},
+pages = {149--154},
+title = {{Development of a Spectrometer controlled by a PC}},
+volume = {11},
+year = {2007}
+}
+@article{Variations,
+author = {Variations, Product},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/H8249-011.pdf:pdf},
+journal = {Power},
+pages = {24--25},
+title = {{Photosensor Modules H7732 Series}}
+}
+@article{L2931986,
+author = {L293, L293d},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/l293.pdf:pdf},
+title = {{L293D Quadrupel Half-H Drivers}},
+url = {www.ti.com},
+year = {1986}
+}
+@book{Pavia,
+author = {Pavia, Donald L},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pavia - Unknown - INTRODUCTION.pdf:pdf},
+isbn = {9780495114789},
+title = {{INTRODUCTION}}
+}
+@article{Corporation2011,
+author = {Corporation, National Instruments and Corporation, National Instruments and Instruments, National and Fomitchev, Boris and Foundation, Apache Software and Apache, The and Foundation, Software and Business, International and Corporation, Machines and Hdf, Ncsa and Format, Hierarchical Data and Library, Software and Copyright, Utilities},
+title = {es tra es},
+year = {2011}
+}
+@article{Acarnley2002,
+abstract = {Stepping motors fill a unique niche in the motor control world. These motors are commonly used in measure- ment and control applications. Sample applications include ink jet printers, CNC machines and volumetric pumps. Several features common to all stepper motors make them ideally suited for these types applications. These features are as follows: 1. Brushless Stepper motors are brushless. The commutator and brushes of conventional motors are some of the most components, and they create electrical arcs that are undesirable environments. or dangerous failure-prone in some 2. Load Independent Stepper motors will turn at a set speed regardless of load as long as the load does not exceed the torque rating for the motor. 3. Open Loop Positioning Stepper motors move in quantified increments or steps. As long as the motor runs within its torque specification, the position of the shaft is known at all times without the need for a feedback mechanism. 4. Holding Torque Stepper motors are able to hold the shaft stationary. 5. Excellent response to start-up, stopping and reverse. The following sections discuss the most common types of stepper motors, what circuitry is needed to drive these motors, and how to control stepping motors with a microcontroller},
+archivePrefix = {arXiv},
+arxivId = {978 0 85296 417 0},
+author = {Acarnley, Paul},
+doi = {10.1049/PBCE063E},
+eprint = {978 0 85296 417 0},
+isbn = {9780852964170},
+issn = {00135127},
+title = {{Stepping Motors: a guide to theory and practice}},
+url = {http://digital-library.theiet.org/content/books/ce/pbce063e},
+year = {2002}
+}
+@article{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/Cursos y Manuales/MPLAB IDE.pdf:pdf},
+title = {{Mplab {\textregistered} Ide User ' S Guide}},
+year = {2005}
+}
+@article{Flores-Tellez,
+author = {Flores-T{\'{e}}llez, Jesus},
+title = {{Espectr{\'{o}}metro}}
+}
+@misc{,
+abstract = {LabView VISA language},
+title = {{tutorial visa labview.pdf - Google Drive}},
+url = {https://drive.google.com/file/d/0B1npovSveBOSQ0lUUFYxUUVCdms/view},
+urldate = {2018-06-18}
+}
+@article{,
+doi = {10.1016/J.JQSRT.2005.11.018},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - 2006 - Discrete ordinate method with a new and a simple quadrature scheme.pdf:pdf},
+issn = {0022-4073},
+journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+month = {sep},
+number = {2},
+pages = {249--262},
+publisher = {Pergamon},
+title = {{Discrete ordinate method with a new and a simple quadrature scheme}},
+url = {https://www.sciencedirect.com/science/article/pii/S0022407305003560},
+volume = {101},
+year = {2006}
+}
+@article{Hamamatsu2007,
+abstract = {We introduce the first photodetector that can be used to detect light at a single photon level. We review the technical demands for single photon detection and discuss how they it can be achieved by combining a photoelectronic effect and the effect of secondary emission. We also review typical components used in modern photoelectronic tubes. {\textcopyright}2013 Elsevier Inc.},
+author = {Hamamatsu},
+doi = {10.1016/B978-0-12-387695-9.00003-2},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/PMT{\_}handbook{\_}v3aE.pdf:pdf},
+isbn = {9780123876959},
+issn = {10794042},
+journal = {Experimental Methods in the Physical Sciences},
+keywords = {Photoelectronic emission,Photomultiplier,Photon counting with photomultipliers,Secondary electron emission},
+pmid = {19151953},
+title = {{Photomultiplier Tubes}},
+year = {2007}
+}
+@article{Floyd1980,
+author = {Floyd, M A and Fassel, V A and Winge, R K and Katzenberger, J M and D'Silva, A P},
+doi = {10.1021/ac50053a014},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Floyd et al. - 1980 - Inductively coupled plasma-atomic emission spectroscopy a computer controlled, scanning monochromator system for t.pdf:pdf},
+issn = {0003-2700},
+journal = {Analytical Chemistry},
+number = {3},
+pages = {431--438},
+title = {{Inductively coupled plasma-atomic emission spectroscopy: a computer controlled, scanning monochromator system for the rapid sequential determination of the elements}},
+url = {http://pubs.acs.org/doi/abs/10.1021/ac50053a014},
+volume = {52},
+year = {1980}
+}
+@article{InformationTechnology2010,
+author = {{Information Technology}, H C},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/Modulo Bluetooth HC series.pdf:pdf},
+title = {{HC-05 Serial Bluetooth Products User Instructional Manual}},
+year = {2010}
+}
+@article{Type2003,
+author = {Type, Channel Real-time Analyzer and Calibrator, Sound Intensity},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/APP{\_}Photodiodes.pdf:pdf},
+number = {November},
+pages = {66--78},
+title = {{[Manual] EQE equipment application notes}},
+year = {2003}
+}
+@article{Instruction,
+author = {Instruction, Complex and Computer, Set and Instruction, Reduced and Computer, Set and Instruction, Specific and Computer, Set},
+title = {{Las Instrucciones}}
+}
+@article{Manual2001a,
+author = {Manual, User},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/NI-VISA User Manual.pdf:pdf},
+number = {370423},
+title = {{NI-VISA ™ User Manual}},
+year = {2001}
+}
+@article{Variations,
+author = {Variations, Product},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/H8249-011.pdf:pdf},
+journal = {Power},
+pages = {24--25},
+title = {{Photosensor Modules H7732 Series}}
+}
+@article{Variationsc,
+author = {Variations, Product},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/datasheet H5784.pdf:pdf},
+pages = {18--19},
+title = {{Metal Package PMT Photosensor Modules H9858 Series}}
+}
+@article{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Manuales/Softwares EXTRA/ConfTokyo2014Mini{\_}Ray{\_}Optics.pdf:pdf},
+title = {{Ray Optics Minicourse COMSOL Tokyo Conference 2014 What is the Ray Optics Module ?}},
+year = {2014}
+}
+@article{,
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - PIC18F2455255044554550 Data Sheet.pdf:pdf},
+title = {{PIC18F2455/2550/4455/4550 Data Sheet}},
+url = {http://ww1.microchip.com/downloads/en/DeviceDoc/39632e.pdf}
+}
+@misc{,
+abstract = {Informacion sobre el espectro visible.},
+title = {{Espectro de la luz - EcuRed}},
+url = {https://www.ecured.cu/Espectro{\_}de{\_}la{\_}luz},
+urldate = {2017-12-11}
+}
+@phdthesis{Romero2014,
+author = {Romero, Delia and Hern{\'{a}}ndez, Juan and Mart{\'{i}}nez, Yair},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Romero, Hern{\'{a}}ndez, Mart{\'{i}}nez - 2014 - Automatizaci{\'{o}}n de un monocromador para el estudio del espectro de radiaci{\'{o}}n de fuentes luminosas.pdf:pdf},
+title = {{Automatizaci{\'{o}}n de un monocromador para el estudio del espectro de radiaci{\'{o}}n de fuentes luminosas}},
+year = {2014}
+}
+@misc{FisicaCh,
+author = {ch Fisic},
+title = {{Efecto doppler y espectros - F{\'{i}}sica de nivel b{\'{a}}sico, nada complejo..}},
+url = {https://www.fisic.ch/contenidos/ondas-y-la-luz/efecto-doppler/},
+urldate = {2019-10-10}
+}
+@book{ADInc2005,
+author = {ADInc, Analog Devices Inc.},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/Op Amp Applications Handbook.pdf:pdf},
+isbn = {0-7506-7844-5},
+keywords = {Copyright {\textcopyright} 2005 by Analog Devices,Inc. All rights reserved.},
+title = {{Op Amp Aplicattions Handbook}},
+url = {http://www.kelm.ftn.uns.ac.rs/literatura/mpi/pdf/Op Amp Applications Handbook.pdf},
+year = {2005}
+}
+@article{Core2011,
+author = {Core, Ejercicios Labview},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/lvcore1{\_}exercises{\_}spanish.pdf:pdf},
+title = {{Es Tra Es}},
+year = {2011}
+}
+@article{Oceana,
+author = {Ocean, The and Qe, Optics},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Monocromador/Espectrometro OEM-Data-Sheet-QE65000.pdf:pdf},
+title = {{QE65000 Data Sheet Description}},
+url = {www.Hamamatsu.com.}
+}
+@article{NationalInstruments2013,
+abstract = {INTRODUCTION: The second to fourth-digit-ratio (2D:4D), a putative marker of prenatal androgen action and a sexually dimorphic trait, has been suggested to be related with sports performance, although results are not univocal. If this relation exists, it is most likely to be detected by comparing extreme groups on the continuum of sports performance., METHODS: In this study the 2D:4D ratio of world-class elite female artistic gymnasts (n = 129), competing at the 1987 Rotterdam World-Championships was compared to the 2D:4D ratio of sedentary age-matched sedentary girls (n = 129), alongside with other anthropometric characteristics including other sexually dimorphic traits such as an androgyny index (Bayer {\&} Bayley) and Heath-Carter somatotype components (endomorphy, mesomorphy, ectomorphy) using AN(C)OVA. 2D:4D was measured on X-rays of the left hand., RESULTS: Left hand 2D:4D digit ratio in world class elite female gymnasts (0.921+/-0.020) did not differ significantly from 2D:4D in age-matched sedentary girls (0.924+/-0.018), either with or without inclusion of potentially confounding covariates such as skeletal age, height, weight, somatotype components or androgyny index. Height (161.9+/-6.4 cm vs 155.4+/-6.6 cm p{\textless}0.01), weight (53.9+/-7.6 kg vs 46.2 6.3 kg p{\textless}0.01), BMI (20.51+/-2.41 kg/m(2) vs 19.05+/-1.56 kg/m(2)), skeletal age (15.2+/-1.1 y vs 14.5+/-1.2 y p{\textgreater}0.01), somatotype components (4.0/3.0/2.9 vs 1.7/3.7/3.2 for endomorphy (p{\textless}0.01), mesomorphy (p{\textless}0.01) and ectomorphy (p{\textless}0.05) respectively) all differed significantly between sedentary girls and elite gymnasts. As expressed by the androgyny index, gymnasts have, on average, broader shoulders relative to their hips, compared to the reference sample. Correlations between the 2D:4D ratio and chronological age, skeletal age, and the anthropometric characteristics are low and not significant., CONCLUSION: Although other anthropometric characteristics of sexual dimorphism were significantly different between the two samples, the present study cannot discriminate sedentary girls from world-class female gymnasts by means of the left hand 2D:4D ratio.},
+author = {{National Instruments}},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/ENTORNO Labview.pdf:pdf},
+isbn = {9781424453474},
+issn = {1932-6203},
+journal = {Instrumentaci{\'{o}}n Virtual},
+pages = {89},
+title = {{Instrumentaci{\'{o}}n Virtual con LabVIEW}},
+url = {http://www.etitudela.com/entrenadorcomunicaciones/downloads/labviewcursodeinstrumentacion.pdf},
+year = {2013}
+}
+@misc{,
+abstract = {Calculos de salida de energia.},
+title = {{Calculating Output Power}},
+url = {https://www.newport.com/t/calculating-output-power},
+urldate = {2019-02-14}
+}
+@article{Abdo2007,
+author = {Abdo, A A and Allen, B and Berley, D and Blaufuss, E and Casanova, S and Chen, C and Coyne, D G and Delay, R S and Dingus, B L and Ellsworth, R W and Fleysher, L and Fleysher, R and Gebauer, I and Gonzalez, M M and Goodman, J A and Hays, E and Hoffman, C M and Kolterman, B E and Kelley, L A and Lansdell, C P and Linnemann, J T and Mcenery, J E and Mincer, A I and Moskalenko, I V and Nemethy, P and Noyes, D and Ryan, J M and Samuelson, F W and Parkinson, P M Saz and Schneider, M and Shoup, A and Sinnis, G and Smith, A J and Strong, A W and Sullivan, G W and Vasileiou, V and Walker, G P and Williams, D A and Xu, X W and Yodh, G B},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Espectrometro/espectroscopia/Abdo{\_}2007{\_}ApJ{\_}658{\_}L33.pdf:pdf},
+pages = {33--36},
+title = {{The Astrophysical Journal , 658:L33–L36, 2007 March 20 ᭧ 2007.}},
+year = {2007}
+}
+@article{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/MPLAB-V8.00.pdf:pdf},
+title = {{Inicio{\textgreater}Programas{\textgreater}Microchip{\textgreater}MPLAB IDE v8.00.}}
+}
+@article{Kraminin2015,
+author = {Kraminin, S. P. and Zobov, E. M. and Zobov, M. E.},
+doi = {10.1007/s10812-015-0103-2},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kraminin, Zobov, Zobov - 2015 - Automation of a Spectral System Based on an MDR-23 Monochromator(2).pdf:pdf},
+issn = {00219037},
+journal = {Journal of Applied Spectroscopy},
+keywords = {Atmega8535 microcontroller,MDR-23 monochromator,Shch300 multimeter,automation},
+month = {may},
+number = {2},
+pages = {307--310},
+publisher = {Springer US},
+title = {{Automation of a Spectral System Based on an MDR-23 Monochromator}},
+url = {http://link.springer.com/10.1007/s10812-015-0103-2},
+volume = {82},
+year = {2015}
+}
+@article{Mediante,
+author = {Mediante, Paso},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/motor a pasos/Motorespasoapaso.pdf:pdf},
+title = {{CONTROL DE MOTORES PASO A MICROCONTROLADORES ( Stepper motor )}}
+}
+@article{Water2017,
+abstract = {p 6-174 (pas op 2 pagina's met deze nr Lide, D. R. CRC Handbook of Chemistry and Physics, Internet Version 2005; CRC Press, 2005. David R. Lide, ed., CRC Handbook of Chemistry and Physics, Internet Version 2005, {\textless}http://www.hbcpnetbase.com{\textgreater}, CRC Press, Boca Raton, FL, 2005.},
+archivePrefix = {arXiv},
+arxivId = {quant-ph/0202038},
+author = {in Water, SbCl3 has a solubility of 85.7{\%} at 0 C and {at 25 C}, 90.8{\%}},
+doi = {10.1021/ja041017a},
+eprint = {0202038},
+isbn = {9781482208689},
+issn = {0002-7863},
+journal = {CRC Handbook of Chemistry and Physics},
+number = {Ed},
+pages = {2017},
+pmid = {12006166},
+primaryClass = {quant-ph},
+title = {{SbCl3 has a solubility of 85.7{\%} at 0 C and 90.8{\%} at 25 C in water}},
+url = {http://www.hbcpnetbase.com},
+volume = {98},
+year = {2017}
+}
+@misc{BWTEKa,
+author = {BWTEK},
+title = {{Part 2: The Grating - B{\&}W Tek}},
+url = {http://bwtek.com/spectrometer-part-2-the-grating/},
+urldate = {2019-10-10}
+}
+@article{E.GalliA.M.DiGiorgioM.FocardiE.Pace2017,
+author = {{E. Galli, A. M. Di Giorgio, M. Focardi, E. Pace}, G Micela},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/E. Galli, A. M. Di Giorgio, M. Focardi, E. Pace - 2017 - Ariel Spectrometer Instrument Control and Data Processing Software.pdf:pdf},
+pages = {11--13},
+title = {{Ariel Spectrometer Instrument Control and Data Processing Software}},
+volume = {11},
+year = {2017}
+}
+@article{Hamamatsu2014a,
+abstract = {The characteristics of optoelectronics devices given in
+datasheets are verified either by 100 {\%} production tests
+followed by statistic evaluation or by sample tests on typical
+specimens. T},
+author = {Hamamatsu},
+journal = {Opto-semiconductor handbook},
+pages = {3--26},
+title = {{Si photodiodes}},
+url = {http://www.hamamatsu.com/resources/pdf/ssd/e02{\_}handbook{\_}si{\_}photodiode.pdf},
+year = {2014}
+}
+@misc{,
+title = {{What Wavelength Goes With a Color?}},
+url = {https://science-edu.larc.nasa.gov/EDDOCS/Wavelengths{\_}for{\_}Colors.html},
+urldate = {2017-08-25}
+}
+@article{Hamamatsu2008,
+author = {Hamamatsu},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/H8249-101.pdf:pdf},
+pages = {2--5},
+title = {{Photosensor Modules}},
+year = {2008}
+}
+@article{Sensor2011,
+author = {Sensor, Pacific Silicon and Village, Westlake},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/handling-and-processing-e{\_}0.pdf:pdf},
+isbn = {4930639923752},
+pages = {7--9},
+title = {{Instruction for Handling and Processing}},
+year = {2011}
+}
+@misc{,
+title = {{40G InGaAs Photodiodes and Optical Receivers - Fiberoptic Modules | Discovery Semiconductors}},
+url = {http://discoverysemi.com/Product Pages/40G{\_}Products/40G{\_}Modules.php},
+urldate = {2017-08-17}
+}
+@article{Usb,
+author = {Usb, Master-prog},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/Manual-Master-Prog.pdf:pdf},
+title = {{Master-prog usb}}
+}
+@article{Flash-based2003,
+abstract = {8-Pin FLASH-Based 8-Bit CMOS Microcontrollers},
+author = {Flash-based, Pin and Microcontrollers, Bit Cmos},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/PIC12F675.pdf:pdf},
+pages = {132},
+title = {{PIC12F629 Data Sheet}},
+url = {http://ww1.microchip.com/downloads/en/devicedoc/41190c.pdf},
+year = {2003}
+}
+@article{Bodington2015,
+abstract = {Este documento presenta una serie de montajes con microcontroladores, sus caracteristicas mas pecualiares y modos de conexi{\'{o}}n. tambi{\'{e}}n presenta un gran cantidad de elementos electr{\'{o}}nicos desempe{\~{n}}ando funciones en peque{\~{n}}os proyectos con un pic, se describe las manera como podemos cargar c{\'{o}}digo funcional en un microcontrolador y sugiere algunas metodolog{\'{i}}as de trabajo.},
+author = {Bodington, Christian},
+doi = {10.1017/CBO9781107415324.004},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/CursoPicbasic.pdf:pdf},
+isbn = {9788578110796},
+issn = {1098-6596},
+journal = {PhD Proposal},
+pages = {425},
+pmid = {25246403},
+title = {{Basic para microcontroladores pic}},
+volume = {1},
+year = {2015}
+}
+@article{Tuning,
+author = {Tuning, Laser and Diffraction, With},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/Gratings.pdf:pdf},
+number = {1},
+title = {{Gratings Contenido}}
+}
+@article{Adonayt,
+abstract = {RESUMEN Dado el amplio uso de los controladores PID en el {\'{a}}mbito industrial (control de potencia en motores de inducci{\'{o}}n, control de nivel, caudal y presi{\'{o}}n en procesos qu{\'{i}}micos entre otros), el uso de microcontroladores para el desarrollo de este tipo de aplicaciones ha tomado fuerza gracias a la incorporaci{\'{o}}n de lenguajes de alto nivel que facilitan ampliamente este tipo de implementaciones, adem{\'{a}}s de los bajos costos de adquisici{\'{o}}n de estos dispositivos, distribuci{\'{o}}n de software de desarrollo gratuito y amplia informaci{\'{o}}n en la Internet. Este art{\'{i}}culo tiene como prop{\'{o}}sito mostrar al lector un m{\'{e}}todo de dise{\~{n}}o pr{\'{a}}ctico y sencillo en el desarrollo de controladores digitales PID implementados en microcontroladores PIC. Para tal fin, se tomara como ejemplo un sistema de calefacci{\'{o}}n (heater) al cual se le realizara inicialmente un modelamiento basado en el m{\'{e}}todo de curva de reacci{\'{o}}n, calculo de par{\'{a}}metros y/o constantes de control PID mediante t{\'{e}}cnica de sintonizaci{\'{o}}n Ziegler–Nichols y por ultimo se mostrara la metodolog{\'{i}}a de implementaci{\'{o}}n de este controlador en un microcontrolador PIC16F877A, utilizando como herramienta de validaci{\'{o}}n el software de simulaci{\'{o}}n ISIS Proteus.},
+author = {Adonayt, Ilber and Ruge, Ruge},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Adonayt, Ruge - Unknown - METODO BASICO PARA IMPLEMENTAR UN CONTROLADOR DIGITAL PID EN UN MICROCONTROLADOR PIC PARA DESARROLLO DE APLICA.pdf:pdf},
+title = {{METODO BASICO PARA IMPLEMENTAR UN CONTROLADOR DIGITAL PID EN UN MICROCONTROLADOR PIC PARA DESARROLLO DE APLICACIONES A BAJO COSTO (Aplicaciones en control de Potencia y la Industria)}},
+url = {http://www.edutecne.utn.edu.ar/microcontrol{\_}congr/industria/MTODOB{~}1.PDF}
+}
+@article{Halterman2018,
+author = {Halterman, Richard L},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Manuales/pythonbook.pdf:pdf},
+title = {{Programming Fundamentals of D}},
+year = {2018}
+}
+@misc{BWTEK1,
+abstract = {Como funciona un espectrometro y componentes de un espectrometro.},
+title = {{How Does a Spectrometer Work?}},
+url = {http://bwtek.com/spectrometer-introduction/},
+urldate = {2017-12-11}
+}
+@article{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Monocromador/Monocromador.pdf:pdf},
+title = {{Monocromadores}}
+}
+@article{Hamamatsu2007a,
+abstract = {Construction, Characteristics, and Use of Photodiodes},
+author = {Hamamatsu},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hamamatsu - 2007 - Photodiode Technical Information.pdf:pdf},
+pages = {1--18},
+title = {{Photodiode Technical Information}},
+year = {2007}
+}
+@misc{Czerny-Turney-Conf,
+author = {StellarNet, Inc.},
+title = {{What is a Czerny-Turner Configuration? - StellarNet, Inc.}},
+url = {https://www.stellarnet.us/what-is-a-czerny-turner-configuration/},
+urldate = {2019-10-10}
+}
+@misc{,
+abstract = {Dise{\~{n}}o de fuentes de voltaje.},
+title = {{Fuentes de Alimentaci{\'{o}}n y Laboratorio – Electr{\'{o}}nica Pr{\'{a}}ctica Aplicada}},
+url = {https://www.diarioelectronicohoy.com/blog/electronica-practica},
+urldate = {2018-06-26}
+}
+@article{Variationsa,
+author = {Variations, Product},
+journal = {Control},
+pages = {2--5},
+title = {{Photosensor Modules}}
+}
+@article{Page,
+author = {Page, See and Page, See and Page, See and Process, The Replication Ruling Replication and Grating, Transmission and Process, The Replication Ruling Replication and Page, See and Page, See and Page, See},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/introduction to diffraction grating.pdf:pdf},
+journal = {Optics},
+pages = {874--879},
+title = {{Introduction to Diffraction Gratings Choosing a Diffraction Grating}},
+url = {https://www.thorlabs.com/catalogpages/802.pdf}
+}
+@article{Entine2008,
+abstract = {Commercial flow cytometers use photomultiplier tubes (PMTs) for fluorescence detection. These detectors have high linear gain and broad dynamic range, but have limited sensitivity in the red and near infrared spectral regions. We present a comparison of avalanche photodiodes (APDs) and PMTs as detectors in flow cytometry instruments, and demonstrate improved sensitivity and resolution in the red and near infrared spectral regions using the APD. The relative performance of the PMT and APD were evaluated by simultaneously measuring the mean fluorescence intensity and coefficient of variation for emission from light emitting diode pulses, flow cytometry test beads, and fluorescently labeled cells. The relative signal to noise performance of the APD and PMT was evaluated over the 500 nm to 1050 nm wavelength range using pulsed light emitting diode light sources. While APDs have higher quantum efficiency but lower internal gain than PMTs, with appropriate external amplification the APD has signal to noise response that is comparable to PMTs in the 500 nm to 650 nm range and improved response in the 650 nm to 850 nm range The data demonstrates that the APD had performance comparable to the PMT in the spectral region between 500 to 650 nm and improved performance in the range of 650 to 1000 nm, where the PMT performance is quite poor. CD4 positive lymphocyte populations were easily identified in normal human blood both by APD and PMT using phycoerythrin labeled antibodies. In contrast, only the APD detector could resolve CD4 positive populations using 800 nm Quantum dot labeled antibodies.},
+author = {Entine, Gerald and Varadi, Gyula and Wallace, Paul K. and Lawrence, William G. and Podniesinski, Edward},
+doi = {10.1117/12.758958},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/APDvPMT{\_}FlowCytometryProc.ofSPIEVol.685968590M2008.pdf:pdf},
+journal = {Imaging, Manipulation, and Analysis of Biomolecules, Cells, and Tissues VI},
+keywords = {A comparison of avalanche photodiode and photomult},
+number = {68590},
+pages = {68590M},
+title = {{A comparison of avalanche photodiode and photomultiplier tube detectors for flow cytometry}},
+volume = {6859},
+year = {2008}
+}
+@article{Mplab2004,
+author = {Mplab},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/Cursos y Manuales/MPLAB IDE QUICK START GUIDE.pdf:pdf},
+title = {{Mplab {\textregistered}ide quick start guide  2004}},
+year = {2004}
+}
+@article{Snyder2009,
+author = {Snyder, S. H.},
+doi = {10.1523/JNEUROSCI.3670-09.2009},
+issn = {0270-6474},
+journal = {Journal of Neuroscience},
+month = {oct},
+number = {41},
+pages = {12717--12721},
+title = {{Neurotransmitters, Receptors, and Second Messengers Galore in 40 Years}},
+url = {http://www.jneurosci.org/cgi/doi/10.1523/JNEUROSCI.3670-09.2009},
+volume = {29},
+year = {2009}
+}
+@article{Information2015b,
+abstract = {The LM555 is a highly stable device for generating accurate time delays or oscillation. Additional terminals are provided for triggering or resetting if desired. In the time delay mode of operation, the time is precisely controlled by one external resistor and capacitor. For astable operation as an oscillator, the free running frequency and duty cycle are accurately controlled with two external resistors and one capacitor. The circuit may be triggered and reset on falling waveforms, and the output circuit can source or sink up to 200mA or drive TTL circuits.},
+author = {Information, Device},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/LM555.pdf:pdf},
+journal = {Texas Instruments Incorporated},
+number = {1},
+title = {{LM555 Timer}},
+url = {http://www.ti.com/lit/ds/symlink/lm555.pdf},
+year = {2015}
+}
+@misc{,
+abstract = {Instrumentacion.},
+title = {{Introduction Instrument Maya (Ind).PDF - Google Drive}},
+url = {https://drive.google.com/file/d/0B1npovSveBOST1YwcWJMV0p1YjQ/view},
+urldate = {2018-06-18}
+}
+@article{Instruction,
+author = {Instruction, Complex and Computer, Set and Instruction, Reduced and Computer, Set and Instruction, Specific and Computer, Set},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/instrucciones{\_}1.pdf:pdf},
+title = {{Las Instrucciones}}
+}
+@article{DelTrabajoDe,
+author = {{Del Trabajo De}, Traducci{\'{o}}n and Beauregard, Brett},
+title = {{Arduino PID -Gu{\'{i}}a de uso de la librer{\'{i}}a}},
+url = {http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/}
+}
+@article{,
+doi = {10.1016/J.JQSRT.2014.04.021},
+issn = {0022-4073},
+journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+month = {sep},
+pages = {121--146},
+publisher = {Pergamon},
+title = {{Advances in the discrete ordinates and finite volume methods for the solution of radiative heat transfer problems in participating media}},
+url = {https://www.sciencedirect.com/science/article/pii/S0022407314001927},
+volume = {145},
+year = {2014}
+}
+@article{Chapter2013,
+author = {Chapter, Next and Handbook, Search and Chapter, Previous and Contents, Table O F and Resolution, Spectral and Light, Stray},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/Reticolo Diffrazione the physics of difracction gratings.pdf:pdf},
+pages = {1--17},
+title = {{2. the Physics of Diffraction Gratings}},
+volume = {0},
+year = {2013}
+}
+@misc{,
+abstract = {ADC con un c{\'{o}}digo y con librer{\'{i}}a especial.
+},
+title = {{ADC 16 bits con Arduino y ADC ADS1115}},
+url = {https://www.luisllamas.es/entrada-analogica-adc-de-16-bits-con-arduino-y-ads1115/},
+urldate = {2018-06-18}
+}
+@article{Tuning,
+author = {Tuning, Laser and Diffraction, With},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/Gratings.pdf:pdf},
+number = {1},
+title = {{Gratings Contenido}}
+}
+@article{E.GalliA.M.DiGiorgioM.FocardiE.Pace2017,
+author = {{E. Galli, A. M. Di Giorgio, M. Focardi, E. Pace}, G. Micela},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/E. Galli, A. M. Di Giorgio, M. Focardi, E. Pace - 2017 - Ariel Spectrometer Instrument Control and Data Processing Software.pdf:pdf},
+pages = {11--13},
+title = {{Ariel Spectrometer Instrument Control and Data Processing Software}},
+volume = {11},
+year = {2017}
+}
+@article{Popovic2001,
+author = {Popovic, M R and Curt, A and Keller, T and Dietz, V},
+doi = {10.1038/sj.sc.3101191},
+issn = {1362-4393},
+journal = {Spinal Cord},
+month = {aug},
+number = {8},
+pages = {403--412},
+title = {{Functional electrical stimulation for grasping and walking: indications and limitations}},
+url = {http://www.nature.com/articles/3101191},
+volume = {39},
+year = {2001}
+}
+@article{Information2015b,
+abstract = {The LM555 is a highly stable device for generating accurate time delays or oscillation. Additional terminals are provided for triggering or resetting if desired. In the time delay mode of operation, the time is precisely controlled by one external resistor and capacitor. For astable operation as an oscillator, the free running frequency and duty cycle are accurately controlled with two external resistors and one capacitor. The circuit may be triggered and reset on falling waveforms, and the output circuit can source or sink up to 200mA or drive TTL circuits.},
+author = {Information, Device},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/LM555.pdf:pdf},
+journal = {Texas Instruments Incorporated},
+number = {1},
+title = {{LM555 Timer}},
+url = {http://www.ti.com/lit/ds/symlink/lm555.pdf},
+year = {2015}
+}
+@article{Generales,
+author = {Generales, Bases},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Curso de pic (saber electronica).pdf:pdf},
+pages = {1--32},
+title = {{Curso de PICs para Estudiantes y Aficionados Arquitectura de los PICs}}
+}
+@article{Information2014,
+author = {Information, Device},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Circuitos integrados/EtapaPotencia/lm158-n.pdf:pdf},
+title = {{Amplificador Operacional - LM358}},
+year = {2014}
+}
+@article{Hamamatsu2014a,
+abstract = {The characteristics of optoelectronics devices given in
+datasheets are verified either by 100 {\%} production tests
+followed by statistic evaluation or by sample tests on typical
+specimens. T},
+author = {Hamamatsu},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/Si Photodiodes Hamamatsu (1).pdf:pdf},
+journal = {Opto-semiconductor handbook},
+pages = {3--26},
+title = {{Si photodiodes}},
+url = {http://www.hamamatsu.com/resources/pdf/ssd/e02{\_}handbook{\_}si{\_}photodiode.pdf},
+year = {2014}
+}
+@misc{,
+title = {{TRANSFERENCIA DE DATOS V{\'{I}}A USB CON MATLAB.}},
+url = {http://colab-matlab.blogspot.mx/2012/03/transferencia-de-datos-via-usb-con.html},
+urldate = {2017-10-30}
+}
+@article{Hamamatsu2014,
+author = {Hamamatsu},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/si{\_}apd{\_}kapd0001e.pdf:pdf},
+journal = {Opto-Semiconductor Handbook},
+pages = {1.1 -- 1.10},
+title = {{Si APD}},
+year = {2014}
+}
+@article{Ide2013,
+author = {Ide, Software Mplab},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/Compilador C18.pdf:pdf},
+pages = {1--11},
+title = {{Compilador C18. Punto Flotante, S.A. 2013}},
+year = {2013}
+}
+@article{Society2002,
+author = {Society, American Mathematical},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Manuales/LATEX/amsldoc.pdf:pdf},
+title = {{User ' s Guide for the amsmath Package}},
+volume = {13},
+year = {2002}
+}
+@article{Salgado2009,
+abstract = {Un filtro es un circuito electr{\'{o}}nico que posee una entrada y una salida. En la entrada se introducen se{\~{n}}ales alternas de diferentes frecuencias y en la salida se extraen esas se{\~{n}}ales atenuadas en mayor o menor medida seg{\'{u}}n la frecuencia de la se{\~{n}}al. Si el circuito del filtro est{\'{a}} formado por resistencias, condensadores y/o bobinas (componentes pasivos) el filtro se dir{\'{a}} que es un filtro pasivo. Si el circuito del filtro est{\'{a}} formado por el esquema o c{\'{e}}lula b{\'{a}}sica se dir{\'{a}} que es de primer orden. Ser{\'{a}} de segundo orden si est{\'{a}} formado por dos c{\'{e}}lulas b{\'{a}}sicas, de tercer orden si lo esta por tres, etc. Frecuencia de corte: Es la frecuencia para la que la ganancia en tensi{\'{o}}n del filtro cae de 1 a 0.707 (esto expresado en decibelios, dB, se dir{\'{i}}a como que la ganancia del filtro se reduce en 3dB de la m{\'{a}}xima, que se considera como nivel de 0dB). En los filtros pasa banda y elimina banda existir{\'{a}}n dos frecuencias de corte diferentes, la inferior y la superior. Banda de Paso: Es el margen de frecuencias para las cuales la se{\~{n}}al se aten{\'{u}}a {\textless}3dB, y est{\'{a}} comprendida dentro de las frecuencias de corte Filtros pasa bajos, pasa altos, pasa banda y elimina banda:},
+author = {Salgado, Javier},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Electr{\'{o}}nica/6CA-filtros.pdf:pdf},
+pages = {8,9},
+title = {{Los Filtros Pasivos de Primer Orden}},
+url = {http://ele-mariamoliner.dyndns.org/{\%}7B{~}{\%}7Djsalgado/analogica/6CA-filtros.pdf},
+year = {2009}
+}
+@article{,
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - full-text.pdf:pdf},
+title = {full-text}
+}
+@article{Information2016,
+author = {Information, Device},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Circuitos integrados/Fuente simetrica/LM317.pdf:pdf},
+title = {{LM317 3-Terminal Adjustable Regulator}},
+year = {2016}
+}
+@article{Adonayt,
+abstract = {RESUMEN Dado el amplio uso de los controladores PID en el {\'{a}}mbito industrial (control de potencia en motores de inducci{\'{o}}n, control de nivel, caudal y presi{\'{o}}n en procesos qu{\'{i}}micos entre otros), el uso de microcontroladores para el desarrollo de este tipo de aplicaciones ha tomado fuerza gracias a la incorporaci{\'{o}}n de lenguajes de alto nivel que facilitan ampliamente este tipo de implementaciones, adem{\'{a}}s de los bajos costos de adquisici{\'{o}}n de estos dispositivos, distribuci{\'{o}}n de software de desarrollo gratuito y amplia informaci{\'{o}}n en la Internet. Este art{\'{i}}culo tiene como prop{\'{o}}sito mostrar al lector un m{\'{e}}todo de dise{\~{n}}o pr{\'{a}}ctico y sencillo en el desarrollo de controladores digitales PID implementados en microcontroladores PIC. Para tal fin, se tomara como ejemplo un sistema de calefacci{\'{o}}n (heater) al cual se le realizara inicialmente un modelamiento basado en el m{\'{e}}todo de curva de reacci{\'{o}}n, calculo de par{\'{a}}metros y/o constantes de control PID mediante t{\'{e}}cnica de sintonizaci{\'{o}}n Ziegler–Nichols y por ultimo se mostrara la metodolog{\'{i}}a de implementaci{\'{o}}n de este controlador en un microcontrolador PIC16F877A, utilizando como herramienta de validaci{\'{o}}n el software de simulaci{\'{o}}n ISIS Proteus.},
+author = {Adonayt, Ilber and Ruge, Ruge},
+title = {{METODO BASICO PARA IMPLEMENTAR UN CONTROLADOR DIGITAL PID EN UN MICROCONTROLADOR PIC PARA DESARROLLO DE APLICACIONES A BAJO COSTO (Aplicaciones en control de Potencia y la Industria)}},
+url = {http://www.edutecne.utn.edu.ar/microcontrol{\_}congr/industria/MTODOB{\%}7B{~}{\%}7D1.PDF}
+}
+@article{Gratings2008,
+abstract = {q 1.1 Basic Equations q 1.2 Angular Dispersion q 1.3 Linear Dispersion q 1.4 Wavelength and Order q 1.5 Resolving "Power" q 1.6 Blazed Gratings r 1.6.1 Littrow Condition r 1.6.2 Efficiency Profiles r 1.6.3 Efficiency and Order q 1.7 Diffraction Grating Stray Light r 1.7.1 Scattered Light r 1.7.2 Ghosts q 1.8 Choice of Gratings r 1.8.1 When to Choose a Holographic Grating r 1.8.2 When to Choose a Ruled Grating Section 2:MONOCHROMATORS {\&} SPECTROGRAPHS q 2.1 Basic Designs q 2.2 Fastie-Ebert Configuration q 2.3 Czerny-Turner Configuration q 2.4 Czerny-Turner/Fastie-Ebert PGS Aberrations r 2.4.1 Aberration Correcting Plane Gratings q 2.5 Concave Aberration Corrected Holographic Gratings q 2.6 Calculating alpha and beta in a Monochromator Configuration q 2.7 Monochromator System Optics q 2.8 Aperture Stops and Entrance and Exit Pupils q 2.9 Aperture Ratio (f/value,F.Number),and Numerical Aperture (NA) r 2.9.1 f/value of a Lens System r 2.9.2 f/value of a Spectrometer r 2.9.3 Magnification and Flux Density q 2.10 Exit Slit Width and Anamorphism q 2.11 Slit Height Magnification q 2.12 Bandpass and Resolution r 2.12.1 Influence of the Slits r 2.12.2 Influence of Diffraction r 2.12.3 Influence of Aberrations r 2.12.4 Determination of the FWHM of the Instrumental Profile r 2.12.5 Image Width and Array Detectors r 2.12.6 Discussion of the Instrumental Profile q 2.13 Order and Resolution q 2.14 Dispersion and Maximum Wavelength q 2.15 Order and Dispersion q 2.16 Choosing a Monochromator/Spectrograph A TUTORIAL By J.M. Lerner and A. Thevenon},
+author = {Gratings, Diffraction and Optics, The and Page, Spectroscopy},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Monocromador/Monochromator (horiba).pdf:pdf},
+pages = {1--8},
+title = {{Section 1 : Diffraction Gratings Ruled {\&} Holographic}},
+url = {https://www.horiba.com/in/scientific/products/optics-tutorial/},
+year = {2008}
+}
+@misc{Hamamatsu,
+author = {Hamamatsu},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/h5773.pdf:pdf},
+title = {{Hamatsu{\_}h5773.pdf}}
+}
+@misc{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/(ebook - electronics) - Photodiode amplifiers (Graeme 1995).pdf:pdf;:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - (Ebook - Electronics) - Photodiode Amplifiers (Graeme 1995).pdf.pdf:pdf},
+title = {{(Ebook - Electronics) - Photodiode Amplifiers (Graeme 1995).pdf}}
+}
+@article{Driver2000,
+archivePrefix = {arXiv},
+arxivId = {LO1},
+author = {Driver, Dual Full-bridge},
+doi = {10.4324/9780203462027},
+eprint = {LO1},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/L298.pdf:pdf},
+isbn = {978-0-203-46202-7},
+issn = {0143-0807},
+journal = {Spark fUN Electronic [US[]},
+pages = {1--13},
+pmid = {21376602},
+title = {{nection of an external sensing resistor. An additional supply input is provided so that the logic works at a lower voltage.}},
+url = {https://www.sparkfun.com/datasheets/Robotics/L298{\_}H{\_}Bridge.pdf},
+year = {2000}
+}
+@article{Information2015,
+author = {Information, Device},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/tl082.pdf:pdf},
+title = {{Tl081}},
+url = {http://www.ti.com/lit/ds/symlink/tl082.pdf},
+volume = {082},
+year = {2015}
+}
+@article{Instruments2018,
+abstract = {This document gives an overview of National Instruments' implementation of the Virtual Instrument Software Architecture API, commonly referred to as NI-VISA. You can use NI-VISA to communicate with most instrumentation buses including GPIB, USB, Serial, and Ethernet. It provides a consistent and easy to use command set to communicate with a variety of instruments.},
+author = {Instruments, National},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/tutorial visa labview.pdf:pdf},
+journal = {National Instrument},
+keywords = {NI LabVIEW},
+pages = {1},
+title = {{NI-VISA Overview}},
+url = {http://www.ni.com/tutorial/3702/en/},
+year = {2018}
+}
+@article{,
+abstract = {A monochromator of the Czerny-Turner type includes an entrance slit, a collimating mirror for receiving light output by the entrance slit, a planar grating for receiving light reflected by the collimating mirror, a focusing mirror for receiving light reflected by the grating, and an exit slit for receiving light focused by the focusing mirror. Light generally proceeds from the entrance slit to the collimating mirror, form the collimating mirror to the grating, from the grating to the focusing mirror and from the focusing mirror to the exit slit. The improvement comprises the use of a single toroidal collimating mirror in the system in combination with a spherical focusing mirror.},
+keywords = {Monochromater,patent},
+mendeley-tags = {Monochromater,patent},
+title = {{Czerny-Turner monochromator}},
+url = {https://www.google.com/patents/US5192981},
+year = {1990}
+}
+@article{Unknown,
+author = {ﺑﺮﺍﺕ, ﺩﮐﺘﺮ ﻋﺒﺪ ﺍﻟﻮﻫﺎﺏ ﺍﻟﺒﺮﺯﻱ ﮐﻼﻧﻲ، ﺩﮐﺘﺮ ﺳﻴﺮﻭﺱ ﭼﺮﻳﮑﻲ، ﺩﮐﺘﺮ ﻣﻬﺮﺍﻥ ﮐﺮﻳﻤﻲ، ﻣﻬﺪﻱ ﻋﺒﻮﺩﻱ ، ﺩﮐﺘﺮ},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Circuitos integrados/Encoder/OPB960-990{\_}SERIES-23547 encoder.pdf:pdf},
+title = {{No Titleﺑﺮﺭﺳﻲ ﻣﻴﺰﺍﻥ ﺑﺮﻭﺯ عفونت های باکتریایی در بیماران نوتروپنی تبداربستری شده در بیمارستان های آموزی دانشگاه شیراز}}
+}
+@misc{,
+title = {{Arduino y las interrupciones | Tienda y Tutoriales Arduino}},
+url = {https://www.prometec.net/interrupciones/},
+urldate = {2018-05-17}
+}
+@article{Technology,
+author = {Technology, Ion-beam Etching},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/SHIMADZU DIFFRACTION GRATINGS.pdf:pdf},
+title = {{01 . Introduction to Diffraction Gratings}}
+}
+@article{Guinan1986,
+abstract = {The literature relevant to efferent-induced mechanical change in the cochlea is reviewed. New data are presented on efferent-induced change in ear-canal sound pressure using a single-tone sound stimulus. Efferent-induced changes in sound pressure are largest relative to the baseline sound pressure at low sound levels and for frequencies between 2 and 20 kHz. Group delays calculated from phase vs. frequency slopes were 0.5 to 7 ms and may represent sound travel times into and back out of the cochlea. Three hypotheses are given which qualitatively explain much of the extant data on the action of cochlear efferents.},
+archivePrefix = {arXiv},
+arxivId = {10.3989},
+author = {Guinan, J J},
+doi = {978-970-26-0031-2},
+eprint = {10.3989},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/397-2013-12-12-guiadeusodemendeley2.pdf:pdf},
+isbn = {0107-8593 (Print)},
+issn = {0107-8593},
+journal = {Scandinavian audiology. Supplementum},
+pages = {53--62},
+pmid = {3472321},
+title = {{Effect of efferent neural activity on cochlear mechanics.}},
+url = {http://www.ncbi.nlm.nih.gov/pubmed/3472321},
+volume = {25},
+year = {1986}
+}
+@article{Family1997,
+abstract = {Microchip's Quality System embodies the requirements of ISO9001:1994. Our Microchip Chandler and Tempe Design and Manufacturing facilities have been certified to ISO 9001. The Microchip Kaohsiung Test facility, and primary Assembly houses have been certified to ISO 9002. ISO certification plans are in-process for an esti-mated certification grant by year-end 1997. In addition, Microchip has received numerous customer certifica-tions, including a Delco issued certificate of compliance to AEC-A100/QS9000. Microchip received ISO 9001 Quality System certifica-tion for its worldwide headquarters, design, and wafer fabrication facilities in January, 1997. Our field-pro-grammable PICmicro™ 8-bit MCUs, Serial EEPROMs, related specialty memory products and development systems conform to the stringent quality standards of the International Standard Organization (ISO).},
+author = {Family, Mid-range M C U and Manual, Reference},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/Cursos y Manuales/Mid-Range{\_}MCU Family.pdf:pdf},
+number = {December},
+title = {{PICmicro™ Mid-Range MCU Family Reference Manual Internationally Recognized Quality System Certifications}},
+year = {1997}
+}
+@article{Popovic2014,
+author = {Popovi{\'{c}}, Dejan B.},
+doi = {10.1016/j.jelekin.2014.09.008},
+issn = {10506411},
+journal = {Journal of Electromyography and Kinesiology},
+month = {dec},
+number = {6},
+pages = {795--802},
+title = {{Advances in functional electrical stimulation (FES)}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S1050641114001953},
+volume = {24},
+year = {2014}
+}
+@book{MicrochipTechnologyInc2015,
+author = {{Microchip Technology Inc}},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/50002027D.pdf:pdf},
+isbn = {9781632776143},
+keywords = {500020257,500020257A,500020257B,500020257C,500020257D,DS-500020257,DS-500020257A,DS-500020257B,DS-500020257C,DS-500020257D,DS500020257,DS500020257A,DS500020257B,DS500020257C,DS500020257D},
+pages = {1--330},
+title = {{MPLAB{\textregistered} X IDE User's Guide}},
+year = {2015}
+}
+@article{NationalInstruments2003,
+archivePrefix = {arXiv},
+arxivId = {arXiv:1011.1669v3},
+author = {{National Instruments}},
+doi = {10.1007/SpringerReference_28001},
+eprint = {arXiv:1011.1669v3},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/320999e.pdf:pdf},
+isbn = {3032783534},
+issn = {0028-0836},
+number = {320999},
+pmid = {6547660},
+title = {{Manual Do Usu{\'{a}}rio Labview}},
+year = {2003}
+}
+@article{B&WTek2016,
+author = {{B{\&}W Tek}},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Monocromador/Espectrometro how works....pdf:pdf},
+journal = {B{\&}W Tek},
+pages = {10},
+title = {{Spectrometer Knowledge}},
+url = {http://bwtek.com/spectrometer-introduction/},
+year = {2016}
+}
+@article{NationalInstruments2003,
+archivePrefix = {arXiv},
+arxivId = {arXiv:1011.1669v3},
+author = {{National Instruments}},
+doi = {10.1007/SpringerReference_28001},
+eprint = {arXiv:1011.1669v3},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/320999e.pdf:pdf},
+isbn = {3032783534},
+issn = {0028-0836},
+number = {320999},
+pmid = {6547660},
+title = {{Manual Do Usu{\'{a}}rio Labview}},
+year = {2003}
+}
+@article{Technology2008,
+author = {Technology, Microchip},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/usb{\_}imicro.pdf:pdf},
+title = {{Aplicaciones para USB con Microcontroladores}},
+year = {2008}
+}
+@article{Information2015a,
+author = {Information, Device},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Circuitos integrados/Driver/drv8834.pdf:pdf},
+title = {{DRV8834 Dual-Bridge Stepper or DC Motor Driver}},
+year = {2015}
+}
+@misc{Cekit2002,
+author = {Cekit},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/Cursos y Manuales/Curso Avanzado.pdf:pdf},
+title = {{Curso Avansado de Microcontroladores PIC}},
+volume = {1},
+year = {2002}
+}
+@article{,
+abstract = {● Principio de los aparatos: fuentes, monocromadores, recipientes para muestras, celdas fotoel{\'{e}}ctricas, amplificadores. ● Espectrofot{\'{o}}metros de haz simple y doble haz. ● Precisi{\'{o}}n en espectrofotometr{\'{i}}a. M{\'{e}}todos diferenciales de expansi{\'{o}}n de la escala. El cient{\'{i}}fico que requiere de las medidas de absorci{\'{o}}n en la regiones ultravioleta y visible disponen de cien o m{\'{a}}s modelos sencillos y baratos (unos cientos de d{\'{o}}lares); otros son equipos complejos cuyo precio asciende y supera los 30,000 d{\'{o}}lares. Estos {\'{u}}ltimos se han desarrollado para realizar tareas dif{\'{i}}ciles, que requieren mucho tiempo, o imposibles de realizar con los equipos mas sencillos. Componentes de los instrumentos. Los instrumentos est{\'{a}}n compuestos por algunos o todos los siguientes componentes: (1) fuentes, (2) selectores de longitud de onda, (3) recipientes para la muestra, (4) detectores de radiaci{\'{o}}n y (5) procesadores de se{\~{n}}al y dispositivos de lectura. 1. Fuentes. Cuando se trata de medidas de absorci{\'{o}}n molecular es necesario disponer de una fuente continua cuya potencia no cambie bruscamente en un intervalo considerable de longitudes de onda. En este caso las fuentes l{\'{a}}ser no son utilizadas en instrumentos comerciales ya que son costosas. L{\'{a}}mparas de deuterio e hidr{\'{o}}geno. La excitaci{\'{o}}n el{\'{e}}ctrica del deuterio o hidr{\'{o}}geno a baja presi{\'{o}}n (aproximadamente 0.2 a 0.5torr) produce un espectro continuo en la regi{\'{o}}n ultravioleta. El mecanismo por el cual se produce el espectro continuo requiere la formaci{\'{o}}n inicial de una especie molecular excitada seguida de la disociaci{\'{o}}n de la mol{\'{e}}cula excitada para dar dos especies at{\'{o}}micas m{\'{a}}s un fot{\'{o}}n ultravioleta. Las reacciones para el deuterio son D 2 + E e → D 2 * → D' + D'' + h$\nu$ donde E e es la energ{\'{i}}a el{\'{e}}ctrica absorbida por la mol{\'{e}}cula y D 2 * es la mol{\'{e}}cula de deuterio excitada. La energ{\'{i}}a del proceso global puede representarse mediante la ecuaci{\'{o}}n E e = E D2* = E D' + E D'' + h$\nu$ Aqu{\'{i}}, E D2* es la energ{\'{i}}a cuantizada fija de D 2 * mientras E D' y E D'' son las energ{\'{i}}as cin{\'{e}}ticas de los dos {\'{a}}tomos de deuterio. La suma de las dos {\'{u}}ltimas puede variar continuamente desde cero hasta E D2* . Por ello, la energ{\'{i}}a y la frecuencia del fot{\'{o}}n tambi{\'{e}}n puede variar continuamente. Es decir, cuando las energ{\'{i}}as cin{\'{e}}ticas son peque{\~{n}}as h$\nu$ ser{\'{a}} grande, y viceversa. La consecuencia es un verdadero espectro continuo desde aproximadamente 160nm hasta el comienzo de la regi{\'{o}}n visible. Las l{\'{a}}mparas m{\'{a}}s modernas de este tipo contienen deuterio y son de bajo voltaje, en ellas se forma un arco entre un filamento caliente recubierto de {\'{o}}xido y un electrodo met{\'{a}}lico. El filamento caliente suministra electrones para mantener una corriente continua cuando se aplica un potencial de aprox. 40V CD; para intensidades contantes es necesario una fuente de alimentaci{\'{o}}n estabilizada. Una caracter{\'{i}}stica importante de las l{\'{a}}mparas de deuterio es que produce una esfera de radiaci{\'{o}}n intensa algo mas grande que la del hidr{\'{o}}geno entre los dos electrodos, lo cual intensifica el brillo de tres a cinco veces, esto justifica el extenso uso de las l{\'{a}}mparas de deuterio. Ambas l{\'{a}}mparas producen un espectro continuo {\'{u}}til para la regi{\'{o}}n comprendida entre 160 y 360nm. A longitudes de onda m{\'{a}}s largas ({\textgreater}380nm), las l{\'{a}}mparas producen l{\'{i}}neas de emisi{\'{o}}n que se superponen sobre el espectro continuo. Estas l{\'{i}}neas pueden ser un problema para algunas aplicaciones (mediciones en el visible) pero resultan {\'{u}}tiles para calibrar los instrumentos. L{\'{a}}mparas de filamento de wolframio o de filamento incandescente. La fuente m{\'{a}}s com{\'{u}}n de radiaci{\'{o}}n visible y del},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - Instrumentaci{\'{o}}n en espectrofotometria UV­visible.pdf:pdf},
+title = {{Instrumentaci{\'{o}}n en espectrofotometria UV­visible}},
+url = {http://depa.fquim.unam.mx/amyd/archivero/Apuntes3{\_}18591.pdf}
+}
+@article{L2931986,
+author = {L293, L293d},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/l293.pdf:pdf},
+title = {{L293D Quadrupel Half-H Drivers}},
+url = {www.ti.com},
+year = {1986}
+}
+@article{InformationTechnology2010,
+author = {{Information Technology}, HC},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/Modulo Bluetooth HC series.pdf:pdf},
+title = {{HC-05 Serial Bluetooth Products User Instructional Manual}},
+year = {2010}
+}
+@article{B&WTek2016,
+author = {{B{\&}W Tek}},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/espectroscopia/Espectrometros.pdf:pdf},
+journal = {B{\&}W Tek},
+pages = {10},
+title = {{Spectrometer Knowledge}},
+url = {http://bwtek.com/spectrometer-introduction/},
+year = {2016}
+}
+@article{Hamamatsu2006,
+abstract = {Hamamatsu PMT Handbook},
+author = {Hamamatsu},
+doi = {10.1117/3.682726.p35},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hamamatsu - 2006 - Photomultiplier Tubes Basics and Applications.pdf:pdf},
+isbn = {9780819463524},
+issn = {1064-3745},
+journal = {Book},
+pages = {1--324},
+pmid = {19151953},
+title = {{Photomultiplier Tubes: Basics and Applications}},
+url = {papers://a18bb931-cf28-45a2-890e-68a459b787f5/Paper/p342},
+year = {2006}
+}
+@article{Type2003,
+author = {Type, Channel Real-time Analyzer and Calibrator, Sound Intensity},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/APP{\_}Photodiodes.pdf:pdf},
+number = {November},
+pages = {66--78},
+title = {{[Manual] EQE equipment application notes}},
+year = {2003}
+}
+@article{Variationse,
+author = {Variations, Product},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/datasheet H5784.pdf:pdf},
+pages = {18--19},
+title = {{Metal Package PMT Photosensor Modules H9858 Series}}
+}
+@misc{Hamamatsu,
+author = {Hamamatsu},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/h5773.pdf:pdf},
+title = {{Hamatsu{\_}h5773.pdf}}
+}
+@article{Variationsc,
+author = {Variations, Product},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/H5784-01.pdf:pdf},
+pages = {18--19},
+title = {{Metal Package PMT Photosensor Modules H9858 Series}}
+}
+@article{Floyd1980,
+author = {Floyd, M. A. and Fassel, V. A. and Winge, R. K. and Katzenberger, J. M. and D'Silva, A. P.},
+doi = {10.1021/ac50053a014},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Floyd et al. - 1980 - Inductively coupled plasma-atomic emission spectroscopy a computer controlled, scanning monochromator system for t.pdf:pdf},
+issn = {0003-2700},
+journal = {Analytical Chemistry},
+number = {3},
+pages = {431--438},
+title = {{Inductively coupled plasma-atomic emission spectroscopy: a computer controlled, scanning monochromator system for the rapid sequential determination of the elements}},
+url = {http://pubs.acs.org/doi/abs/10.1021/ac50053a014},
+volume = {52},
+year = {1980}
+}
+@article{Santonja2018,
+author = {Santonja, Moncho},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Espectrometro/Espectro/MONCHO - APLICACI{\'{O}}N DE T{\'{E}}CNICAS DE VISI{\'{O}}N MULTIESPECTRAL EN CIRUG{\'{I}}A.pdf:pdf},
+title = {{Aplicaci{\'{o}}n de t{\'{e}}cnicas de visi{\'{o}}n multiespectral en cirug{\'{i}}a}},
+year = {2018}
+}
+@misc{Cekit2002,
+author = {Cekit},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/Cursos y Manuales/Curso Avanzado.pdf:pdf},
+title = {{Curso Avansado de Microcontroladores PIC}},
+volume = {1},
+year = {2002}
+}
+@article{Drivers2003,
+author = {Drivers, Push-pull Four Channel},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/L293Bdatasheet.pdf:pdf},
+journal = {Power},
+number = {April},
+pages = {1--12},
+title = {{L293b l293e}},
+year = {2003}
+}
+@article{Technology2008,
+author = {Technology, Microchip},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/usb{\_}imicro.pdf:pdf},
+title = {{Aplicaciones para USB con Microcontroladores}},
+year = {2008}
+}
+@misc{,
+abstract = {Informaci{\'{o}}n sobre funcionamiento.
+},
+title = {{Motores paso a paso con Arduino y driver A4988 o DRV8825}},
+url = {https://www.luisllamas.es/motores-paso-paso-arduino-driver-a4988-drv8825/},
+urldate = {2018-02-02}
+}
+@article{Control2018,
+author = {Control, Cable and Xxi, Vinanel and Con, M R Pvc-ls C V R P I and De, Conductores and E-, C F E and Externa, Cubierta and Aceptaci{\'{o}}n, Constancia De and Resistente, R P I and Control, Cable and Xxi, Vinanel and Con, M R Pvc-ls C V R P I and Malla, Blindaje D E},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/conector/Usr{\_}{\_}HT{\_}141.PDF:PDF},
+pages = {1--3},
+title = {{Control y flexibles $\backslash$ Cables control $\backslash$ Forrado baja tensi{\'{o}}n Descripci{\'{o}}n : Propiedades : Normas : Tensi{\'{o}}n : Temperatura : Tipo de Instalaci{\'{o}}n : Material de Aislamiento : Caracter{\'{i}}sticas Especiales : Control y flexibles $\backslash$ Cables control $\backslash$ Forrado baja tensi}},
+year = {2018}
+}
+@article{Flores-Tellez,
+author = {Flores-T{\'{e}}llez, Jesus},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Flores-T{\'{e}}llez - Unknown - Espectr{\'{o}}metro.pdf:pdf},
+title = {{Espectr{\'{o}}metro}}
+}
+@article{Oceana,
+author = {Ocean, The and Qe, Optics},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Monocromador/Espectrometro OEM-Data-Sheet-QE65000.pdf:pdf},
+title = {{QE65000 Data Sheet Description}},
+url = {www.Hamamatsu.com.}
+}
+@article{Hanani2005,
+author = {Hanani, Menachem},
+doi = {10.1016/j.brainresrev.2004.09.001},
+issn = {01650173},
+journal = {Brain Research Reviews},
+month = {jun},
+number = {3},
+pages = {457--476},
+title = {{Satellite glial cells in sensory ganglia: from form to function}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0165017304001274},
+volume = {48},
+year = {2005}
+}
+@article{Variationse,
+author = {Variations, Product},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/datasheet H5784.pdf:pdf},
+pages = {18--19},
+title = {{Metal Package PMT Photosensor Modules H9858 Series}}
+}
+@article{Dark1998,
+author = {Dark, Low and Type, Counts and Modified, R and Size, Photocathode Area},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/PMTmodules{\_}TPMO0011E.pdf:pdf},
+pages = {8--11},
+title = {{Photomultiplier tube}},
+volume = {2949},
+year = {1998}
+}
+@article{Manual2001,
+author = {Manual, Labview Real-time User},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/LabView REal Time.pdf:pdf},
+number = {322154},
+title = {{Real-Time User Manual}},
+year = {2001}
+}
+@article{See,
+author = {See, Electro-optical Characteristics C},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/PhotoDiodoKarenDTS{\_}vtb9412b13b.pdf:pdf},
+number = {mm},
+pages = {22001},
+title = {{VTP Process Photodiodes PACKAGE DIMENSIONS inch ( mm ) Storage Temperature :}},
+volume = {2}
+}
+@article{Shanfield1988,
+author = {Shanfield, Z.},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shanfield - 1988 - Investigation of Radiation Effects on Semiconductor Devices and Integrated Circuits.pdf:pdf},
+journal = {Contract},
+title = {{Investigation of Radiation Effects on Semiconductor Devices and Integrated Circuits}},
+url = {http://oai.dtic.mil/oai/oai?verb=getRecord{\&}metadataPrefix=html{\&}identifier=ADA210165},
+year = {1988}
+}
+@article{Applicatio,
+author = {Applicatio, S},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Circuitos integrados/ADC/ADC{\_}LTC1609{\_}{\_}1609fa-1268508.pdf:pdf},
+keywords = {Datasheet},
+pages = {1--24},
+title = {{with Multiple Input Ranges}}
+}
+@article{Miguel2015,
+author = {Miguel, Luis and Brea, S{\'{a}}nchez},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/02-Sistemas para la colimaci{\'{o}}n de haces de luz.pdf:pdf},
+keywords = {aplicada,d{\'{i}}a internacional de la,grupo complutense de {\'{o}}ptica,haces de luz,luis miguel s{\'{a}}nchez brea,metrolog{\'{i}}a,para la colimaci{\'{o}}n de},
+pages = {1--17},
+title = {{02-Sistemas para la colimaci{\'{o}}n de haces de luz}},
+year = {2015}
+}
+@article{Manual2001,
+author = {Manual, Labview Real-time User},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/LabView REal Time.pdf:pdf},
+number = {322154},
+title = {{Real-Time User Manual}},
+year = {2001}
+}
+@article{Modules,
+author = {Modules, Tube},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/PMTmodules{\_}TPMO0008E04.pdf:pdf},
+journal = {Power},
+title = {{Tube Modules}}
+}
+@article{Sakmann2007,
+author = {Sakmann, B.},
+doi = {10.1098/rsbm.2007.0013},
+issn = {0080-4606},
+journal = {Biographical Memoirs of Fellows of the Royal Society},
+month = {dec},
+number = {0},
+pages = {185--202},
+title = {{Bernard Katz. 26 March 1911 -- 20 April 2003: Elected 1952}},
+url = {http://rsbm.royalsocietypublishing.org/cgi/doi/10.1098/rsbm.2007.0013},
+volume = {53},
+year = {2007}
+}
+@article{Rectifier2005,
+author = {Rectifier, Silicon Bridge},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Circuitos integrados/Fuente simetrica/db101s-1012s-17410.pdf:pdf},
+pages = {3--6},
+title = {{SEMICONDUCTOR SILICON BRIDGE RECTIFIER}},
+year = {2005}
+}
+@article{Water2017,
+abstract = {p 6-174 (pas op 2 pagina's met deze nr Lide, D. R. CRC Handbook of Chemistry and Physics, Internet Version 2005; CRC Press, 2005. David R. Lide, ed., CRC Handbook of Chemistry and Physics, Internet Version 2005, {\textless}http://www.hbcpnetbase.com{\textgreater}, CRC Press, Boca Raton, FL, 2005.},
+archivePrefix = {arXiv},
+arxivId = {quant-ph/0202038},
+author = {in Water, SbCl3 has a solubility of 85.7{\%} at 0 C and 90.8{\%} at 25 C},
+doi = {10.1021/ja041017a},
+eprint = {0202038},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/handbookChemestryMercury.pdf:pdf},
+isbn = {9781482208689},
+issn = {0002-7863},
+journal = {CRC Handbook of Chemistry and Physics},
+number = {Ed},
+pages = {2017},
+pmid = {12006166},
+primaryClass = {quant-ph},
+title = {{SbCl3 has a solubility of 85.7{\%} at 0 C and 90.8{\%} at 25 C in water}},
+url = {http://www.hbcpnetbase.com},
+volume = {98},
+year = {2017}
+}
+@article{Flash-based2003,
+abstract = {8-Pin FLASH-Based 8-Bit CMOS Microcontrollers},
+author = {Flash-based, Pin and Microcontrollers, Bit Cmos},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/PIC12F675.pdf:pdf},
+pages = {132},
+title = {{PIC12F629 Data Sheet}},
+url = {http://ww1.microchip.com/downloads/en/devicedoc/41190c.pdf},
+year = {2003}
+}
+@article{Generales,
+author = {Generales, Bases},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Curso de pic (saber electronica).pdf:pdf},
+pages = {1--32},
+title = {{Curso de PICs para Estudiantes y Aficionados Arquitectura de los PICs}}
+}
+@article{Hamamatsu2007,
+abstract = {We introduce the first photodetector that can be used to detect light at a single photon level. We review the technical demands for single photon detection and discuss how they it can be achieved by combining a photoelectronic effect and the effect of secondary emission. We also review typical components used in modern photoelectronic tubes. {\textcopyright} 2013 Elsevier Inc.},
+author = {Hamamatsu},
+doi = {10.1016/B978-0-12-387695-9.00003-2},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/PMT{\_}handbook{\_}v3aE.pdf:pdf},
+isbn = {9780123876959},
+issn = {10794042},
+journal = {Experimental Methods in the Physical Sciences},
+keywords = {Photoelectronic emission,Photomultiplier,Photon counting with photomultipliers,Secondary electron emission},
+pmid = {19151953},
+title = {{Photomultiplier Tubes}},
+year = {2007}
+}
+@article{Instruments2018,
+abstract = {This document gives an overview of National Instruments' implementation of the Virtual Instrument Software Architecture API, commonly referred to as NI-VISA. You can use NI-VISA to communicate with most instrumentation buses including GPIB, USB, Serial, and Ethernet. It provides a consistent and easy to use command set to communicate with a variety of instruments.},
+author = {Instruments, National},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/tutorial visa labview.pdf:pdf},
+journal = {National Instrument},
+keywords = {NI LabVIEW},
+pages = {1},
+title = {{NI-VISA Overview}},
+url = {http://www.ni.com/tutorial/3702/en/},
+year = {2018}
+}
+@article{C2014,
+author = {C, Inter-integrated Circuit I},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/Inter-integrated Circuir I2C.pdf:pdf},
+keywords = {Inter-Integrated Circuit (I2C),PIC24,dsPIC33},
+pages = {1--42},
+title = {{dsPIC33 / PIC24 Family Reference Manual}},
+year = {2014}
+}
+@misc{,
+abstract = {Simulacion},
+title = {{The Nernst/Goldman Equation Simulator}},
+url = {http://www.nernstgoldman.physiology.arizona.edu/},
+urldate = {2018-04-30}
+}
+@article{Diagram2019,
+author = {Diagram, Block},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Circuitos integrados/potDigital/x9c102-103-104-503 pot-digital.pdf:pdf},
+pages = {1--12},
+title = {{X9c102, x9c103, x9c104, x9c503}},
+year = {2019}
+}
+@article{Atmel2015,
+abstract = {DataSheet ATmega},
+author = {Atmel},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561{\_}datasheet.pdf:pdf},
+number = {November},
+pages = {66},
+title = {{DataSheet ATmega2560}},
+year = {2015}
+}
+@article{Hrs1800,
+author = {Hrs, Spectrapro},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/Gratings/Gratng-Pages-SpectraPro-HRS-Datasheet-revB1.pdf:pdf},
+pages = {13--14},
+title = {{Standard SpectraPro HRS Gratings}},
+year = {1800}
+}
+@article{Entine2008,
+abstract = {Commercial flow cytometers use photomultiplier tubes (PMTs) for fluorescence detection. These detectors have high linear gain and broad dynamic range, but have limited sensitivity in the red and near infrared spectral regions. We present a comparison of avalanche photodiodes (APDs) and PMTs as detectors in flow cytometry instruments, and demonstrate improved sensitivity and resolution in the red and near infrared spectral regions using the APD. The relative performance of the PMT and APD were evaluated by simultaneously measuring the mean fluorescence intensity and coefficient of variation for emission from light emitting diode pulses, flow cytometry test beads, and fluorescently labeled cells. The relative signal to noise performance of the APD and PMT was evaluated over the 500 nm to 1050 nm wavelength range using pulsed light emitting diode light sources. While APDs have higher quantum efficiency but lower internal gain than PMTs, with appropriate external amplification the APD has signal to noise response that is comparable to PMTs in the 500 nm to 650 nm range and improved response in the 650 nm to 850 nm range The data demonstrates that the APD had performance comparable to the PMT in the spectral region between 500 to 650 nm and improved performance in the range of 650 to 1000 nm, where the PMT performance is quite poor. CD4 positive lymphocyte populations were easily identified in normal human blood both by APD and PMT using phycoerythrin labeled antibodies. In contrast, only the APD detector could resolve CD4 positive populations using 800 nm Quantum dot labeled antibodies.},
+author = {Entine, Gerald and Varadi, Gyula and Wallace, Paul K and Lawrence, William G and Podniesinski, Edward},
+doi = {10.1117/12.758958},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/APD sensor/APDvPMT{\_}FlowCytometryProc.ofSPIEVol.685968590M2008.pdf:pdf},
+journal = {Imaging, Manipulation, and Analysis of Biomolecules, Cells, and Tissues VI},
+keywords = {A comparison of avalanche photodiode and photomult},
+number = {68590},
+pages = {68590M},
+title = {{A comparison of avalanche photodiode and photomultiplier tube detectors for flow cytometry}},
+volume = {6859},
+year = {2008}
+}
+@article{Information2016a,
+author = {Information, Device and Negative, Adjustable and Regulator, Voltage},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Circuitos integrados/Fuente simetrica/lm337.pdf:pdf},
+title = {{LM137 , LM337-N 3-Terminal Adjustable Negative Regulators}},
+year = {2016}
+}
+@article{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Manual proteus/manual-proteus.pdf:pdf},
+title = {{No Titleヒドロキシアパタイト超微細結晶の水熱合成}}
+}
+@article{Enhanced2002,
+author = {Enhanced, Pin and Microcontrollers, Flash and Technology, Watt},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/18f4550.pdf:pdf},
+keywords = {"PIC18F2455,PIC18F2550,PIC18F4455,PIC18F4550,SPP",USB},
+title = {{Enhanced FLASH Microcontrollers with nanoWatt Technology}},
+year = {2002}
+}
+@article{Ide2013,
+author = {Ide, Software Mplab},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/Compilador C18.pdf:pdf},
+pages = {1--11},
+title = {{Compilador C18. Punto Flotante, S.A. 2013}},
+year = {2013}
+}
+@article{Mishra2011,
+abstract = {Fiber grating sensors hold immense potential for biomedical applications due to their inherent properties like small size, biocompatibility, non-toxicity, chemical inertness and electromagnetically inert nature. Grating based sensors are well known technology for structural health monitoring (SHM) in the arena of civil and aerospace; however investigations for their use in the field of medicine are fairly recent and they have not been yet commercialized for the same. As these sensors detect strain, temperature, pressure, vibration, curvature and refractive index of the surrounding material even in high magnetic and electric field environments, they can serve diagnostic purposes in diverse areas of healthcare e.g. biomechanics, cardiology, gynecology, very low temperature monitoring and immunosensing to name a few. Most importantly, they can be used efficiently for thermal and pressure mapping even during MRI procedure where conventional sensors may fail. The paper is a review of various application areas of fiber grating based devices, the status of precedent and ongoing research around the world, and discussion on the issues hampering their rapid growth in the field.},
+author = {Mishra, Vandana and Singh, Nahar and Tiwari, Umesh and Kapur, Pawan},
+doi = {10.1016/J.SNA.2011.02.045},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Mishra et al. - 2011 - Fiber grating sensors in medicine Current and emerging applications.pdf:pdf},
+issn = {0924-4247},
+journal = {Sensors and Actuators A: Physical},
+month = {jun},
+number = {2},
+pages = {279--290},
+publisher = {Elsevier},
+title = {{Fiber grating sensors in medicine: Current and emerging applications}},
+url = {https://www.sciencedirect.com/science/article/pii/S092442471100118X},
+volume = {167},
+year = {2011}
+}
+@article{Encoder2016,
+author = {Encoder, Magnetic Rotary},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/AS5048{\_}DS000298{\_}3-00.pdf:pdf},
+pages = {1--41},
+title = {{As5048a / As5048B}},
+year = {2016}
+}
+@article{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/Cursos y Manuales/MPASM Assembler Manual.pdf:pdf},
+journal = {Technology},
+title = {{MPLINK ™ Object Linker , MPLIB ™ Object Librarian User ' s Guide}},
+year = {2005}
+}
+@misc{,
+title = {{Valores Comerciales de Capacitores | Reparaci{\'{o}}n T{\'{e}}cnica}},
+url = {https://tecnicoreparacion.blogspot.com/2012/06/valores-comerciales-de-capacitores.html},
+urldate = {2018-06-19}
+}
+@article{Hamamatsu2014,
+author = {Hamamatsu},
+journal = {Opto-Semiconductor Handbook},
+pages = {1.1 ---- 1.10},
+title = {{Si APD}},
+year = {2014}
+}
+@article{Mishra2011,
+abstract = {Fiber grating sensors hold immense potential for biomedical applications due to their inherent properties like small size, biocompatibility, non-toxicity, chemical inertness and electromagnetically inert nature. Grating based sensors are well known technology for structural health monitoring (SHM) in the arena of civil and aerospace; however investigations for their use in the field of medicine are fairly recent and they have not been yet commercialized for the same. As these sensors detect strain, temperature, pressure, vibration, curvature and refractive index of the surrounding material even in high magnetic and electric field environments, they can serve diagnostic purposes in diverse areas of healthcare e.g. biomechanics, cardiology, gynecology, very low temperature monitoring and immunosensing to name a few. Most importantly, they can be used efficiently for thermal and pressure mapping even during MRI procedure where conventional sensors may fail. The paper is a review of various application areas of fiber grating based devices, the status of precedent and ongoing research around the world, and discussion on the issues hampering their rapid growth in the field.},
+author = {Mishra, Vandana and Singh, Nahar and Tiwari, Umesh and Kapur, Pawan},
+doi = {10.1016/J.SNA.2011.02.045},
+issn = {0924-4247},
+journal = {Sensors and Actuators A: Physical},
+month = {jun},
+number = {2},
+pages = {279--290},
+publisher = {Elsevier},
+title = {{Fiber grating sensors in medicine: Current and emerging applications}},
+url = {https://www.sciencedirect.com/science/article/pii/S092442471100118X},
+volume = {167},
+year = {2011}
+}
+@misc{,
+title = {{Efecto fotoel{\'{e}}ctrico}},
+url = {http://www.sc.ehu.es/sbweb/fisica/cuantica/fotoelectrico/fotoelectrico.htm},
+urldate = {2017-10-24}
+}
+@article{Excel2000,
+author = {Excel, Microsoft},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/hg1.pdf:pdf},
+journal = {Transition},
+pages = {1--3},
+title = {{HG-1 Mercury Argon Calibration Source}},
+year = {2000}
+}
+@article{,
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/entrance slit.pdf:pdf},
+title = {{Good Practices of Fluorescence Spectroscopy General layout of a fluorimeter}}
+}
+@article{DelTrabajoDe,
+author = {{Del Trabajo De}, Traducci{\'{o}}n and Beauregard, Brett},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Del Trabajo De, Beauregard - Unknown - Arduino PID -Gu{\'{i}}a de uso de la librer{\'{i}}a.pdf:pdf},
+title = {{Arduino PID -Gu{\'{i}}a de uso de la librer{\'{i}}a}},
+url = {http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/}
+}
+@article{Modules,
+author = {Modules, Tube},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/PMTmodules{\_}TPMO0008E04.pdf:pdf},
+journal = {Power},
+title = {{Tube Modules}}
+}
+@article{Solar,
+author = {Solar, Total},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Espectrometro/Espectro/SET{\_}21348{\_}2004-ISO Espectro.pdf:pdf},
+number = {section 5},
+pages = {6--7},
+title = {{ISO 21348 Definitions of Solar Irradiance Spectral Categories ISO 21348 Process for Determining Solar Irradiances Compliance Criteria}}
+}
+@article{More2012,
+abstract = {Este proyecto est{\'{a}} enfocado a la recogida de datos, en este caso la temperatura, y su posterior tratado y visualizaci{\'{o}}n en pantalla y as{\'{i}} poder hacer un seguimiento de la temperatura obtenida en el entorno. Para realizarlo hemos dispuesto de un sensor de temperatura LM35 que toma las medidas del entorno. Este est{\'{a}} conectado a una placa de Arduino que cuenta con un programa por el cual recoge los datos del sensor de temperatura y los transforma en grados cent{\'{i}}grados. Este Arduino est{\'{a}} conectado al ordenador y a su vez enlazado al programa Matlab, que se encarga de procesar los datos enviados por la placa, nos muestra en tiempo real la temperatura recogida por el medidor de temperatura, crea gr{\'{a}}ficas entre valores de tiempo... Estos datos nos van indicando la temperatura ambiente a la que se localiza. Vamos a proceder a una explicaci{\'{o}}n de c{\'{o}}mo hemos realizado el proyecto},
+author = {More, Marchal},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Documentos/Herramientas/Manuales/Matlab/arduinoSerialtemperatura.pdf:pdf},
+pages = {12},
+title = {{Medidor De Temperatura Aplicaci{\'{o}}n Con Arduino Y Matlab}},
+year = {2012}
+}
+@misc{,
+abstract = {Dispositivo convertidor analogico digital},
+title = {{ADS1115 16-Bit ADC - 4 Channel with Programmable Gain Amplifier ID: 1085 - {\$}14.95 : Adafruit Industries, Unique {\&} fun DIY electronics and kits}},
+url = {https://www.adafruit.com/product/1085},
+urldate = {2017-11-14}
+}
+@article{Pplicable2008,
+author = {Pplicable, E Asily A and Ayout, G Raphical L},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/eagle/Eagle{\_}Manual.pdf:pdf},
+title = {{Manual Version 5 {\textregistered}}},
+year = {2008}
+}
+@article{NationalInstruments2013,
+abstract = {INTRODUCTION: The second to fourth-digit-ratio (2D:4D), a putative marker of prenatal androgen action and a sexually dimorphic trait, has been suggested to be related with sports performance, although results are not univocal. If this relation exists, it is most likely to be detected by comparing extreme groups on the continuum of sports performance., METHODS: In this study the 2D:4D ratio of world-class elite female artistic gymnasts (n = 129), competing at the 1987 Rotterdam World-Championships was compared to the 2D:4D ratio of sedentary age-matched sedentary girls (n = 129), alongside with other anthropometric characteristics including other sexually dimorphic traits such as an androgyny index (Bayer {\&} Bayley) and Heath-Carter somatotype components (endomorphy, mesomorphy, ectomorphy) using AN(C)OVA. 2D:4D was measured on X-rays of the left hand., RESULTS: Left hand 2D:4D digit ratio in world class elite female gymnasts (0.921+/-0.020) did not differ significantly from 2D:4D in age-matched sedentary girls (0.924+/-0.018), either with or without inclusion of potentially confounding covariates such as skeletal age, height, weight, somatotype components or androgyny index. Height (161.9+/-6.4 cm vs 155.4+/-6.6 cm p{\textless}0.01), weight (53.9+/-7.6 kg vs 46.2 6.3 kg p{\textless}0.01), BMI (20.51+/-2.41 kg/m(2) vs 19.05+/-1.56 kg/m(2)), skeletal age (15.2+/-1.1 y vs 14.5+/-1.2 y p{\textgreater}0.01), somatotype components (4.0/3.0/2.9 vs 1.7/3.7/3.2 for endomorphy (p{\textless}0.01), mesomorphy (p{\textless}0.01) and ectomorphy (p{\textless}0.05) respectively) all differed significantly between sedentary girls and elite gymnasts. As expressed by the androgyny index, gymnasts have, on average, broader shoulders relative to their hips, compared to the reference sample. Correlations between the 2D:4D ratio and chronological age, skeletal age, and the anthropometric characteristics are low and not significant., CONCLUSION: Although other anthropometric characteristics of sexual dimorphism were significantly different between the two samples, the present study cannot discriminate sedentary girls from world-class female gymnasts by means of the left hand 2D:4D ratio.},
+author = {{National Instruments}},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/ENTORNO Labview.pdf:pdf},
+isbn = {9781424453474},
+issn = {1932-6203},
+journal = {Instrumentaci{\'{o}}n Virtual},
+pages = {89},
+title = {{Instrumentaci{\'{o}}n Virtual con LabVIEW}},
+url = {http://www.etitudela.com/entrenadorcomunicaciones/downloads/labviewcursodeinstrumentacion.pdf},
+year = {2013}
+}
+@article{1385,
+author = {غلامحسین, ثنایی},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/labviewcursodeinstrumentacion.pdf:pdf},
+pages = {302},
+title = {{No Titleسم شناسی صنعتی}},
+year = {1385}
+}
+@article{,
+abstract = {In Figure 1, parallel rays of monochromatic radiation, from a single beam in the form of rays 1 and 2, are incident on a (blazed) di↵raction grating at an angle ✓ i relative to the grating normal. These rays are then di↵racted at an angle ✓ r . We use a negative sign here based on our convention of angle definition. That is, positive angles are measured to the left of the grating normal, negative angles to the right. From this figure we can see that ray 2 travels a greater distance than ray 1. This overall di↵erence can be computed by subtracting the increase in path lengths from rays 1 and 2. We can analyze this in more detail by examining Figure 2. Here we represent the change in path lengths for beams 1 and 2 as i = d sin ✓ i (1) r = d sin(✓ r) = d sin ✓ r (2) Thus the total di↵erence in path length is T = d sin ✓ i (d sin ✓ r) = d(sin ✓ i + sin ✓ r) (3) For constructive interference to occur this di↵erence must equal and integer multiple of the wavelength, . That is T = m (4)},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - 2006 - Di↵raction Grating Equation with Example Problems.pdf:pdf},
+title = {{Di↵raction Grating Equation with Example Problems}},
+url = {http://web.physics.ucsb.edu/{~}phys128/experiments/isotope/Diffraction Grating Example Problems.pdf},
+year = {2006}
+}
+@article{Core2011,
+author = {Core, Ejercicios Labview},
+title = {{Es Tra Es}},
+year = {2011}
+}
+@article{Acarnley2002,
+abstract = {Stepping motors fill a unique niche in the motor control world. These motors are commonly used in measure- ment and control applications. Sample applications include ink jet printers, CNC machines and volumetric pumps. Several features common to all stepper motors make them ideally suited for these types applications. These features are as follows: 1. Brushless Stepper motors are brushless. The commutator and brushes of conventional motors are some of the most components, and they create electrical arcs that are undesirable environments. or dangerous failure-prone in some 2. Load Independent Stepper motors will turn at a set speed regardless of load as long as the load does not exceed the torque rating for the motor. 3. Open Loop Positioning Stepper motors move in quantified increments or steps. As long as the motor runs within its torque specification, the position of the shaft is known at all times without the need for a feedback mechanism. 4. Holding Torque Stepper motors are able to hold the shaft stationary. 5. Excellent response to start-up, stopping and reverse. The following sections discuss the most common types of stepper motors, what circuitry is needed to drive these motors, and how to control stepping motors with a microcontroller},
+archivePrefix = {arXiv},
+arxivId = {978 0 85296 417 0},
+author = {Acarnley, Paul},
+doi = {10.1049/PBCE063E},
+eprint = {978 0 85296 417 0},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Documentos/libros/Stepping Motors - A Guide to Theory and Practice.pdf:pdf},
+isbn = {9780852964170},
+issn = {00135127},
+title = {{Stepping Motors: a guide to theory and practice}},
+url = {http://digital-library.theiet.org/content/books/ce/pbce063e},
+year = {2002}
+}
+@article{Encoder2016,
+author = {Encoder, Magnetic Rotary},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/Circuitos integrados/AS5048{\_}DS000298{\_}3-00.pdf:pdf},
+pages = {1--41},
+title = {{As5048a / As5048B}},
+year = {2016}
+}
+@misc{,
+title = {{Arduino and LabVIEW: 5 Steps}},
+url = {http://www.instructables.com/id/Arduino-and-LabVIEW/},
+urldate = {2018-04-23}
+}
+@article{Registers2013,
+author = {Registers, Control and Modes, Power-saving and Resets, Various and Using, Peripherals and Modules, Timer and Control, Pin and Notes, Related Application and History, Revision},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/Inter-integrated Circuir I2C 001.pdf:pdf},
+keywords = {PIC32, Family Reference Manual, FRM, Section 14, T},
+pages = {1--34},
+title = {{PIC32 Family Reference Manual}},
+year = {2013}
+}
+@article{Microchip2003,
+author = {Microchip},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/programing.pdf:pdf},
+number = {May},
+pages = {1--264},
+title = {{In-Circuit Serial Programming ™ ( ICSP ™ ) Guide}},
+year = {2003}
+}
+@article{Hamamatsu2008,
+author = {Hamamatsu},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/tubo fotomultiplicador/Modulos PTM/H8249-101.pdf:pdf},
+pages = {2--5},
+title = {{Photosensor Modules}},
+year = {2008}
+}
+@article{Directory,
+author = {Directory, Project},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/tutorial{\_}mplab{\_}6x.pdf:pdf},
+title = {{Curso Microcontroladores PIC16F84 Carl{\'{i}}n P{\'{e}}rez Cuba}}
+}
+@misc{BWTEK,
+author = {BWTEK},
+keywords = {Spectrometer},
+mendeley-tags = {Spectrometer},
+title = {{Part 1: The Slit - B{\&}W Tek}},
+url = {http://bwtek.com/spectrometer-part-1-the-slit/},
+urldate = {2019-10-10}
+}
+@phdthesis{Guerra2007,
+author = {Guerra, Elena and {De la Rosa}, Jos{\'{e}} Manuel and Moreno, Edgard},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Guerra, De la Rosa, Moreno - 2007 - Fluor{\'{o}}metro basado en un LED un monocromador y un tubo fotomultiplicador.pdf:pdf},
+isbn = {9788415552499},
+title = {{Fluor{\'{o}}metro basado en un LED un monocromador y un tubo fotomultiplicador}},
+url = {http://tesis.ipn.mx/bitstream/handle/123456789/843/Tesis Final Ladrilleros.pdf?sequence=1},
+year = {2007}
+}
+@article{C2014,
+author = {C, Inter-integrated Circuit I},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/PIC/Inter-integrated Circuir I2C.pdf:pdf},
+keywords = {Inter-Integrated Circuit (I2C),PIC24,dsPIC33},
+pages = {1--42},
+title = {{dsPIC33 / PIC24 Family Reference Manual}},
+year = {2014}
+}
+@article{1385,
+author = {غلامحسین, ثنایی},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/labviewcursodeinstrumentacion.pdf:pdf},
+pages = {302},
+title = {{No Titleسم شناسی صنعتی}},
+year = {1385}
+}
+@article{Resumen,
+abstract = {El motor paso a paso es el convertidor electromec{\'{a}}nico que permite la conversi{\'{o}}n de una informaci{\'{o}}n en forma de energ{\'{i}}a el{\'{e}}ctrica, en una energ{\'{i}}a mec{\'{a}}nica y una informaci{\'{o}}n de posici{\'{o}}n. Est{\'{a}} constituido por un estator cuyos devanados se llaman fases y un rotor de un elevado n{\'{u}}mero de polos. Su funcionamiento es s{\'{i}}ncrono y la alimentaci{\'{o}}n c{\'{i}}clica de sus fases debe originar en cambio de configuraci{\'{o}}n un giro elemental del rotor, constante, llamado paso. Existe una gran diversidad de modelos de estos motores dependiendo del n{\'{u}}mero de fases de su estator, de si la alimentaci{\'{o}}n de estas es unipolar o bipolar, del n{\'{u}}mero de paso por vuelta y de si su rotor es de reluctancia variable, imanes permanentes o h{\'{i}}bridos. En},
+author = {Resumen, Objetivo Y and Proyecto, D E L and Paso, Motores Paso A and Motor, Driver and Paso, Paso A},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Control de un motor paso a paso PIC,USBC.pdf:pdf},
+keywords = {c{\#},motor,picc,usb},
+pages = {1--125},
+title = {{Control de un motor paso a paso:PIC, USB y C{\#}}}
+}
+@article{,
+abstract = {Monocromadores En muchos m{\'{e}}todos espectrosc{\'{o}}picos e requiere variar en forma continua la longitud de onda de la radiaci{\'{o}}n en un intervalo amplio. Este proceso se llama barrido del espectro; los monocromadores est{\'{a}}n dise{\~{n}}ados para realizar esto. Todos los monocromadores para radiaci{\'{o}}n ultravioleta, visible e infrarroja son similares en cuanto a su construcci{\'{o}}n mec{\'{a}}nica porque usan ranuras, lentes, espejos, ventanas y redes o prismas. Componentes. Entre ellos est{\'{a}}n una ranura o rendija de entrada que proporciona una imagen {\'{o}}ptica rectangular; una lente o espejo colimador que produce un haz paralelo de radiaci{\'{o}}n; un prisma o una red que dispersa la radiaci{\'{o}}n en las longitudes de onda que la componen; un elemento de enfoque que reforma la imagen de la ranura de entrada y la enfoca sobre una superficie plana denominada plano focal y una rendija de salida en el plano focal que a{\'{i}}sla la banda espectral deseada. Adem{\'{a}}s de los elementos que impiden la entrada de suciedad o polvo que genere desviaciones en el haz. Rendijas. Las aberturas o rendijas de un monocromador desempe{\~{n}}an un papel importante en la determinaci{\'{o}}n de las caracter{\'{i}}sticas y la calidad del funcionamiento del mismo. Las mordazas de la rendija est{\'{a}}n formadas por dos piezas de metal cuidadosamente maquinadas que dan lugar a dos bordes afilados. Ambos bordes deben estar paralelos entre s{\'{i}} y en el mismo plano. En algunos monocromadores, las aberturas de las dos rendijas est{\'{a}}n fijas, pero lo m{\'{a}}s com{\'{u}}n es que la separaci{\'{o}}n entre ellas se pueda ajustar con un mecanismo microm{\'{e}}trico.  La rendija de entrada de un monocromador funciona como una fuente de radiaci{\'{o}}n; su imagen se enfoca en {\'{u}}ltima instancia en el plano focal que contiene la rendija de salida. Si la fuente de radiaci{\'{o}}n consta de algunas longitudes de ondas discretas, aparece una serie de im{\'{a}}genes rectangulares en esta superficie como l{\'{i}}neas brillantes, y cada una corresponde a cierta longitud de onda. Se puede enfocar una l{\'{i}}nea particular en la rendija de salida haciendo girar el elemento dispersor.  Los colimadores, como ya se ha dicho, son elementos que se encargan de dar direcci{\'{o}}n al haz, con ellos se busca que todos los haces que inciden sobre los elementos {\'{o}}pticos, sobre la muestra y finalmente al detector sean paralelos entre si.},
+file = {:C$\backslash$:/Users/Iv{\'{a}}n/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - Monocromadores.pdf:pdf},
+keywords = {monochromater,patent},
+mendeley-tags = {monochromater,patent},
+title = {{Monocromadores}},
+url = {http://depa.fquim.unam.mx/amyd/archivero/Apuntes4{\_}18592.pdf}
+}
+@article{Roncancio2000,
+abstract = {Qu{\'{e}} es LabVIEW? LabVIEW (Laboratory Virtual Instrument Engineering Workbench) es un lenguaje de programaci{\'{o}}n gr{\'{a}}fico para el dise{\~{n}}o de sistemas de adquisici{\'{o}}n de datos, instrumentaci{\'{o}}n y control. Labview permite dise{\~{n}}ar interfaces de usuario mediante una consola interactivo basado en software. Usted puede dise{\~{n}}ar especificando su sistema funcional, su diagrama de bloques o una notaci{\'{o}}n de dise{\~{n}}o de ingenier{\'{i}}a. Labview es a la vez compatible con herramientas de desarrollo similares y puede trabajar con programas de otra {\'{a}}rea de aplicaci{\'{o}}n, como por ejemplo Matlab. Tiene la ventaja de que permite una f{\'{a}}cil integraci{\'{o}}n con hardware, espec{\'{i}}ficamente con tarjetas de medici{\'{o}}n, adquisici{\'{o}}n y procesamiento de datos (incluyendo adquisici{\'{o}}n de im{\'{a}}genes). Aplicaciones de LabVIEW Labview tiene su mayor aplicaci{\'{o}}n en sistemas de medici{\'{o}}n, como monitoreo de procesos y aplicaciones de control, un ejemplo de esto pueden ser sistemas de monitoreo en transportaci{\'{o}}n, Laboratorios para clases en universidades, procesos de control industrial. Labview es muy utilizado en procesamiento digital de se{\~{n}}ales (wavelets, FFT, Total Distorsion Harmonic TDH), procesamiento en tiempo real de aplicaciones biom{\'{e}}dicas, manipulaci{\'{o}}n de im{\'{a}}genes y audio, automatizaci{\'{o}}n, dise{\~{n}}o de filtros digitales, generaci{\'{o}}n de se{\~{n}}ales, entre otras, etc. Programaci{\'{o}}n gr{\'{a}}fica con Labview Cuando usted dise{\~{n}}a programas con Labview est{\'{a}} trabajando siempre bajo algo denominado VI, es decir, un instrumento virtual, se pueden crear VI a partir de especificaciones funcionales que usted dise{\~{n}}e. Este VI puede utilizarse en cualquier otra aplicaci{\'{o}}n como una subfunci{\'{o}}n dentro de un programa general. Los VI's se caracterizan por: ser un cuadrado con su respectivo s{\'{i}}mbolo relacionado con su funcionalidad, tener una interfaz con el usuario, tener entradas con su color de identificaci{\'{o}}n de dato, tener una o varias salidas y por su puesto ser reutilizables.},
+author = {Roncancio, Ha and Cifuentes, H},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/LabView/QueEsLabViewBasic.pdf:pdf},
+journal = {Labview Tutorial},
+keywords = {de aplicaciones biom{\'{e}}dicas,de monitoreo en transportaci{\'{o}}n,en procesamiento digital de,fft,harmonic tdh,laboratorios para clases en,labview es muy utilizado,procesamiento en tiempo real,procesos de control industrial,se{\~{n}}ales,total distorsion,universidades,wavelets},
+pages = {20},
+title = {{Tutorial de LABVIEW}},
+url = {http://scholar.google.com/scholar?hl=en{\&}btnG=Search{\&}q=intitle:Tutorial+de+labview{\#}0{\%}5Cnhttp://scholar.google.com/scholar?hl=en{\&}btnG=Search{\&}q=intitle:Tutorial+de+LABVIEW{\#}0},
+volume = {1},
+year = {2000}
+}
+@article{Doctorado2005a,
+archivePrefix = {arXiv},
+arxivId = {dfgfd},
+author = {Doctorado, Programa D E and Ciencias, E N and Blanca, Mtra and Garc{\'{i}}a, Rosa},
+doi = {dfgdfg},
+eprint = {dfgfd},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Trabajos/Dise{\~{n}}o e Implementaci{\'{o}}n de un sistema de control para espectroscopia de semiconductores mediante instrumentaci{\'{o}}n virtual.pdf:pdf},
+isbn = {9780195373950},
+issn = {1740-8261},
+pmid = {21335502},
+title = {{Instituto polit{\'{e}}cnico nacional}},
+year = {2005}
+}
+@article{Mplab2004,
+author = {Mplab},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Herramientas/microcontrolador/Microship/Cursos y Manuales/MPLAB IDE QUICK START GUIDE.pdf:pdf},
+title = {{Mplab {\textregistered} ide quick start guide  2004}},
+year = {2004}
+}
+@misc{,
+abstract = {Informaci{\'{o}}n sobre las redes de difracci{\'{o}}n.},
+title = {{Diffraction Grating Physics}},
+url = {https://www.newport.com/t/grating-physics},
+urldate = {2019-02-14}
+}
+@article{Skoog1971,
+abstract = {Los instrumentos utilizados para el estudio de la absorci{\'{o}}n o emisi{\'{o}}n de la radiaci{\'{o}}n electromagn{\'{e}}tica como funci{\'{o}}n de la longitud de onda, son llamados Espectr{\'{o}}metros o m{\'{a}}s frecuentemente Espectrofot{\'{o}}metros. Los principios {\'{o}}pticos y electr{\'{o}}nica empleados en los instrumentos son los mismos para espectroscop{\'{i}}a UV, Visible o IR, sin embargo hay ligeras diferencias en componentes espec{\'{i}}ficos del instrumento para cada regi{\'{o}}n del espectro electromagn{\'{e}}tico. Los componentes esenciales de un espectrofot{\'{o}}metro son : 1. Una fuente estable de energ{\'{i}}a radiante 2. Un sistema de lentes, espejos y aberturas (Slits), que definan, colimen (hagan paralelo) y enfoquen el haz de radiaci{\'{o}}n y un monocromador que separe la radiaci{\'{o}}n de bandas estrechas de longitud de onda. 3. Un componente transparente a la radiaci{\'{o}}n que contenga la muestra 4. Un detector de radiaci{\'{o}}n o transductor que recibe la se{\~{n}}al de radiaci{\'{o}}n electromagn{\'{e}}tica y la convierte en una se{\~{n}}al el{\'{e}}ctrica de magnitud proporcional a la intensidad de la radiaci{\'{o}}n recibida. 5. Un sistema amplificador que produzca o genere una se{\~{n}}al el{\'{e}}ctrica mucho mayor a la se{\~{n}}al recibida 6. Un sistema de lectura tal como: Una escala de aguja, un registrador, un sistema de d{\'{i}}gitos o una computadora, que transforme la se{\~{n}}al el{\'{e}}ctrica en una se{\~{n}}al que el operador pueda interpretar. 7. El diagrama de estos componentes es el siguiente: Figura 1: Diagrama de bloques para los componentes de un espectrofot{\'{o}}metro},
+author = {Skoog, Douglas A.},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive/Master/master/Documentos/Espectrometro/espectroscopia/instrumentaci{\'{o}}n para espectroscopia.pdf:pdf},
+journal = {Principios de Analisis Instrumental},
+title = {{Instrumentaci{\'{o}}n para espectroscopia}},
+year = {1971}
+}
+@article{Started2013,
+author = {Started, Getting},
+number = {June},
+title = {{LabVIEW}},
+year = {2013}
+}
+@misc{Chandra,
+author = {Chandra},
+title = {{Chandra :: Resources :: Glossary :: Electromagnetic Radiation {\&} Electromagnetic Spectrum}},
+url = {https://chandra.harvard.edu/resources/em{\_}radiation.html},
+urldate = {2019-10-15}
+}
+@misc{JetBrains,
+author = {JetBrains},
+title = {{What different uses do electromagnetic waves have? - Quora}},
+url = {https://www.quora.com/What-different-uses-do-electromagnetic-waves-have},
+urldate = {2019-10-15}
+}
+@misc{Fisic,
+author = {ch Fisic},
+title = {{Espectro Electromagn{\'{e}}tico - F{\'{i}}sica de nivel b{\'{a}}sico, nada complejo..}},
+url = {https://www.fisic.ch/contenidos/ondas-y-la-luz/espectro-electromagn{\'{e}}tico/},
+urldate = {2019-10-15}
+}
+@misc{Fisc,
+author = {ch Fisc},
+title = {{Efecto doppler y espectros - F{\'{i}}sica de nivel b{\'{a}}sico, nada complejo..}},
+url = {https://www.fisic.ch/contenidos/ondas-y-la-luz/efecto-doppler/},
+urldate = {2019-10-15}
+}
+@misc{ThorLabs,
+author = {Thorlabs, Inc},
+title = {{Diffraction Gratings Tutorial}},
+url = {https://www.thorlabs.com/newgrouppage9.cfm?objectgroup{\_}id=9026},
+urldate = {2019-10-15}
+}
+@misc{Horiba,
+author = {HORIBA, Scientific},
+title = {{Monochromators {\&} Spectrographs - HORIBA}},
+url = {https://www.horiba.com/in/scientific/products/optics-tutorial/monochromators-spectrographs/},
+urldate = {2019-10-15}
+}
+@article{BasicStepper,
+author = {Basics, Stepper Motor},
+file = {:D$\backslash$:/Iv{\'{a}}n/Maestr{\'{i}}a/Documentos/OneDrive - Instituto Politecnico Nacional/master/Libros/- Stepper Motor Microstepping with PIC18C452 Padmaraja Yedamale Sandip Chattopadhyay Microchip Technology Inc.pdf:pdf},
+pages = {1--58},
+title = {{Stepper Motor Microstepping with PIC18C452}},
+year = {2002}
+}
