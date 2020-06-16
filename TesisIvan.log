@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.6.12)  15 JUN 2020 19:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.6.15)  15 JUN 2020 20:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -63,58 +63,37 @@ File: babel.def 2019/07/19 3.33 Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-
-! Package babel Error: Unknown option `spanish'. Either you misspelled it
-(babel)                or the language definition file spanish.ldf was not foun
-d.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.541 \ProcessOptions*
-                      
-Valid options are: shorthands=, KeepShorthandsActive,
-activeacute, activegrave, noconfigs, safe=, main=, math=
-headfoot=, strings=, config=, hyphenmap=, or a language name.
-
-
-! Package babel Error: Unknown option `es-tabla'. Either you misspelled it
-(babel)                or the language definition file es-tabla.ldf was not fou
-nd.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.541 \ProcessOptions*
-                      
-Valid options are: shorthands=, KeepShorthandsActive,
-activeacute, activegrave, noconfigs, safe=, main=, math=
-headfoot=, strings=, config=, hyphenmap=, or a language name.
-
-) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks16
+\es@quotdepth=\count93
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 )
-\lst@mode=\count93
+\lst@mode=\count94
 \lst@gtempboxa=\box27
-\lst@token=\toks17
-\lst@length=\count94
+\lst@token=\toks18
+\lst@length=\count95
 \lst@currlwidth=\dimen104
-\lst@column=\count95
-\lst@pos=\count96
+\lst@column=\count96
+\lst@pos=\count97
 \lst@lostspace=\dimen105
 \lst@width=\dimen106
-\lst@newlines=\count97
-\lst@lineno=\count98
+\lst@newlines=\count98
+\lst@lineno=\count99
 \lst@maxwidth=\dimen107
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-\c@lstnumber=\count99
-\lst@skipnumbers=\count100
+\c@lstnumber=\count100
+\lst@skipnumbers=\count101
 \lst@framebox=\box28
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
@@ -325,7 +304,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
+\@emptytoks=\toks19
 \ex@=\dimen108
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -335,13 +314,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count101
+\inf@bad=\count102
 LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count102
-\leftroot@=\count103
+\uproot@=\count103
+\leftroot@=\count104
 LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count104
-\DOTSCASE@=\count105
+\classnum@=\count105
+\DOTSCASE@=\count106
 LaTeX Info: Redefining \ldots on input line 482.
 LaTeX Info: Redefining \dots on input line 485.
 LaTeX Info: Redefining \cdots on input line 606.
@@ -350,26 +329,26 @@ LaTeX Info: Redefining \cdots on input line 606.
 \big@size=\dimen110
 LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count106
-\c@MaxMatrixCols=\count107
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
 \dotsspace@=\muskip10
-\c@parentequation=\count108
-\dspbrk@lvl=\count109
-\tag@help=\toks19
-\row@=\count110
-\column@=\count111
-\maxfields@=\count112
-\andhelp@=\toks20
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks20
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks21
 \eqnshift@=\dimen111
 \alignsep@=\dimen112
 \tagshift@=\dimen113
 \tagwidth@=\dimen114
 \totwidth@=\dimen115
 \lineht@=\dimen116
-\@envbody=\toks21
+\@envbody=\toks22
 \multlinegap=\skip44
 \multlinetaggap=\skip45
-\mathdisplay@stack=\toks22
+\mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
@@ -383,27 +362,2253 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-! LaTeX Error: File `imakeidx.sty' not found.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.16 \usepackage
-                {graphicx}^^M
-*** (cannot \read from terminal in nonstop modes)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
 
- 
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen119
+\Hy@linkcounter=\count114
+\Hy@pagecounter=\count115
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count116
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4550.
+Package hyperref Info: Link nesting OFF on input line 4555.
+Package hyperref Info: Hyper index ON on input line 4558.
+Package hyperref Info: Plain pages OFF on input line 4565.
+Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4803.
+\c@Hy@tempcnt=\count117
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5156.
+\XeTeXLinkMargin=\dimen120
+\Fld@menulength=\count118
+\Field@Width=\dimen121
+\Fld@charsize=\dimen122
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring OFF on input line 6431.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
+\Hy@abspage=\count119
+\c@Item=\count120
+\c@Hfootnote=\count121
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+\Fld@listcount=\count122
+\c@bookmark@seq@number=\count123
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count124
+\calc@Bcount=\count125
+\calc@Adimen=\dimen123
+\calc@Bdimen=\dimen124
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count126
+\calc@Cskip=\skip49
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen125
+\AM@pageheight=\dimen126
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box31
+\AM@global@opts=\toks25
+\AM@toc@title=\toks26
+\c@AM@survey=\count127
+\AM@templatesizebox=\box32
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count128
+\mult@box=\box33
+\multicol@leftmargin=\dimen127
+\c@unbalance=\count129
+\c@collectmore=\count130
+\doublecol@number=\count131
+\multicoltolerance=\count132
+\multicolpretolerance=\count133
+\full@width=\dimen128
+\page@free=\dimen129
+\premulticols=\dimen130
+\postmulticols=\dimen131
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box34
+\last@line=\box35
+\maxbalancingoverflow=\dimen132
+\mult@rightbox=\box36
+\mult@grightbox=\box37
+\mult@gfirstbox=\box38
+\mult@firstbox=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\c@columnbadness=\count134
+\c@finalcolumnbadness=\count135
+\last@try=\dimen133
+\multicolovershoot=\dimen134
+\multicolundershoot=\dimen135
+\mult@nat@firstbox=\box57
+\colbreak@box=\box58
+\mc@col@check@num=\count136
+)
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 36.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 36.
+Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+
+
+Package hyperref Warning: Option `pdftex' has already been used,
+(hyperref)                setting the option has no effect on input line 37.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypcap.sty
+Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/bookmark.sty
+Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
+\BKM@id=\count137
+))
+(./TesisIvan.aux (./Anterior/Portada.aux)
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ (./Anterior/Dedicatoria.aux)
+(./Anterior/Agradecimientos.aux) (./Anterior/Resumen.aux)
+(./Anterior/Abstract.aux
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+) (./Anterior/Hipotesis.aux)
+(./Anterior/Justificacion.aux) (./Anterior/Objetivos.aux)
+(./Chapters/Capitulo1.aux) (./Chapters/Capitulo2.aux) (./Chapters/Capitulo3.aux
+) (./Chapters/Capitulo4.aux) (./Posterior/Conclusiones.aux)
+(./Posterior/trabajofuturo.aux) (./Posterior/Biblio.aux))
+\openout1 = `TesisIvan.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+\c@lstlisting=\count138
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count139
+\scratchdimen=\dimen136
+\scratchbox=\box59
+\nofMPsegments=\count140
+\nofMParguments=\count141
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count142
+\MPscratchDim=\dimen137
+\MPnumerator=\count143
+\makeMPintoPDFobject=\count144
+\everyMPtoPDFconversion=\toks28
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring ON on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count145
+)
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+\openout2 = `Anterior/Portada.aux'.
+
+
+(./Anterior/Portada.tex
+<Imagenes/escudo.png, id=4, 418.4433pt x 617.1858pt>
+File: Imagenes/escudo.png Graphic file (type png)
+<use Imagenes/escudo.png>
+Package pdftex.def Info: Imagenes/escudo.png  used on input line 3.
+(pdftex.def)             Requested size: 56.9055pt x 83.92862pt.
+<Imagenes/ESIME.png, id=6, 583.2189pt x 521.7894pt>
+File: Imagenes/ESIME.png Graphic file (type png)
+<use Imagenes/ESIME.png>
+Package pdftex.def Info: Imagenes/ESIME.png  used on input line 4.
+(pdftex.def)             Requested size: 85.35826pt x 76.36214pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 25.
+ [1
+
+
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./Imagenes/
+escudo.png> <./Imagenes/ESIME.png>]) [2]
+\openout2 = `Anterior/Dedicatoria.aux'.
+
+
+(./Anterior/Dedicatoria.tex
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
+) [3
+
+
+
+
+]
+\openout2 = `Anterior/Agradecimientos.aux'.
+
+ (./Anterior/Agradecimientos.tex) [4
+
+
+
+
+]
+\openout2 = `Anterior/Resumen.aux'.
+
+
+(./Anterior/Resumen.tex (./TesisIvan.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 2.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 2.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 2.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 2.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+
+Overfull \hbox (0.2995pt too wide) detected at line 6
+ [][]
+ []
+
+
+Overfull \hbox (0.23961pt too wide) detected at line 8
+ [][]
+ []
+
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+
+Overfull \hbox (0.23961pt too wide) detected at line 11
+ [][]
+ []
+
+
+Overfull \hbox (4.0315pt too wide) detected at line 13
+ [][]
+ []
+
+
+Overfull \hbox (4.0315pt too wide) detected at line 14
+ [][]
+ []
+
+[5
+
+
+
+])
+\tf@toc=\write3
+\openout3 = `TesisIvan.toc'.
+
+ [6] (./TesisIvan.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [7
+
+
+] [8]
+Overfull \hbox (15.5033pt too wide) in paragraph at lines 57--57
+ [][] [][][]\T1/ptm/m/n/12 Comparaci�n en-tre el ADC del Ar-duino ME-GA, iz-qui
+er-da y el ADC MCP3202, 
+ []
+
+[9]
+Overfull \hbox (4.84846pt too wide) in paragraph at lines 65--65
+ [][] [][][]\T1/ptm/m/n/12 Espectro de la l�m-pa-ra de mer-cu-rio ad-qui-ri-do 
+con el es-pec-tr�-me-tro QE65000. 
+ []
+
+)
+\tf@lof=\write4
+\openout4 = `TesisIvan.lof'.
+
+ [10] (./TesisIvan.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+)
+\tf@lot=\write5
+\openout5 = `TesisIvan.lot'.
+
+ [11
+
+
+]) [12
+
+
+]
+\openout2 = `Anterior/Abstract.aux'.
+
+ (./Anterior/Abstract.tex
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+) [13
+
+
+
+
+]
+\openout2 = `Anterior/Hipotesis.aux'.
+
+
+(./Anterior/Hipotesis.tex) [14
+
+
+
+]
+\openout2 = `Anterior/Justificacion.aux'.
+
+ (./Anterior/Justificacion.tex) [15
+
+
+
+
+]
+\openout2 = `Anterior/Objetivos.aux'.
+
+
+(./Anterior/Objetivos.tex) [16
+
+
+
+]
+\openout2 = `Chapters/Capitulo1.aux'.
+
+ (./Chapters/Capitulo1.tex
+Cap\'{\i }tulo 1.
+<Imagenes/espectro_visible.png, id=462, 642.4pt x 196.735pt>
+File: Imagenes/espectro_visible.png Graphic file (type png)
+<use Imagenes/espectro_visible.png>
+Package pdftex.def Info: Imagenes/espectro_visible.png  used on input line 7.
+(pdftex.def)             Requested size: 426.39255pt x 130.58696pt.
+<Imagenes/espectros_absorcion_y_emision.png, id=465, 796.9775pt x 530.98375pt>
+File: Imagenes/espectros_absorcion_y_emision.png Graphic file (type png)
+<use Imagenes/espectros_absorcion_y_emision.png>
+Package pdftex.def Info: Imagenes/espectros_absorcion_y_emision.png  used on in
+put line 16.
+(pdftex.def)             Requested size: 426.39255pt x 284.07755pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+
+
+
+ <./Imagenes/espectro_visible.png>]
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ [2 <./Imagenes/espectros_absorcion_y_emision.png>]
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
+ [3]
+<Imagenes/SpectralL.png, id=493, 587.19376pt x 283.0575pt>
+File: Imagenes/SpectralL.png Graphic file (type png)
+<use Imagenes/SpectralL.png>
+Package pdftex.def Info: Imagenes/SpectralL.png  used on input line 58.
+(pdftex.def)             Requested size: 341.11533pt x 164.4326pt.
+LaTeX Info: Redefining \. on input line 119.
+LaTeX Info: Redefining \% on input line 119.
+ [4 <./Imagenes/SpectralL.PNG>]
+<Imagenes/espectroSOL.png, id=508, 120.45pt x 72.0291pt>
+File: Imagenes/espectroSOL.png Graphic file (type png)
+<use Imagenes/espectroSOL.png>
+Package pdftex.def Info: Imagenes/espectroSOL.png  used on input line 134.
+(pdftex.def)             Requested size: 383.7882pt x 142.28938pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
+[5]
+<Imagenes/Espectrometro.png, id=520, 204.01219pt x 188.20313pt>
+File: Imagenes/Espectrometro.png Graphic file (type png)
+<use Imagenes/Espectrometro.png>
+Package pdftex.def Info: Imagenes/Espectrometro.png  used on input line 145.
+(pdftex.def)             Requested size: 234.5172pt x 216.35435pt.
+LaTeX Info: Redefining \. on input line 153.
+LaTeX Info: Redefining \% on input line 153.
+ [6 <./Imagenes/espectroSOL.png> <./Imagenes/Espectrometro.png>]
+<Imagenes/ColimarLuz.jpg, id=533, 308.352pt x 191.2746pt>
+File: Imagenes/ColimarLuz.jpg Graphic file (type jpg)
+<use Imagenes/ColimarLuz.jpg>
+Package pdftex.def Info: Imagenes/ColimarLuz.jpg  used on input line 159.
+(pdftex.def)             Requested size: 255.83812pt x 158.7024pt.
+LaTeX Info: Redefining \. on input line 169.
+LaTeX Info: Redefining \% on input line 169.
+ [7 <./Imagenes/ColimarLuz.jpg>]
+! Undefined control sequence.
+l.176 	\subfigure
+                 [Red por reflexión]{	\includegraphics[width=0.4\linewidth,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/300px-Echelle_Principle.png, id=544, 301.125pt x 263.98625pt>
+File: Imagenes/300px-Echelle_Principle.png Graphic file (type png)
+<use Imagenes/300px-Echelle_Principle.png>
+Package pdftex.def Info: Imagenes/300px-Echelle_Principle.png  used on input li
+ne 176.
+(pdftex.def)             Requested size: 170.55865pt x 85.35544pt.
+! Undefined control sequence.
+l.177 	\subfigure
+                 [Red por transmisión]{	\includegraphics[width=0.4\linewidt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/DiffGrat.png, id=545, 144.7809pt x 105.5142pt>
+File: Imagenes/DiffGrat.png Graphic file (type png)
+<use Imagenes/DiffGrat.png>
+Package pdftex.def Info: Imagenes/DiffGrat.png  used on input line 177.
+(pdftex.def)             Requested size: 170.57043pt x 85.36299pt.
+! Undefined control sequence.
+l.178 	\subfigure
+                 [Red de difracción plana]{\includegraphics[width=0.4\linew...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/rejillaPlana.jpg, id=546, 169.38281pt x 131.74219pt>
+File: Imagenes/rejillaPlana.jpg Graphic file (type jpg)
+<use Imagenes/rejillaPlana.jpg>
+Package pdftex.def Info: Imagenes/rejillaPlana.jpg  used on input line 178.
+(pdftex.def)             Requested size: 170.56094pt x 85.36201pt.
+! Undefined control sequence.
+l.179 	\subfigure
+                 [Red de difracción cóncava]{	\includegraphics[width=0.4\l...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/Spectral-components-Concave-Holographic-Gratings-for-Monochromator.jp
+g, id=547, 351.3125pt x 351.3125pt>
+File: Imagenes/Spectral-components-Concave-Holographic-Gratings-for-Monochromat
+or.jpg Graphic file (type jpg)
+<use Imagenes/Spectral-components-Concave-Holographic-Gratings-for-Monochromato
+r.jpg>
+Package pdftex.def Info: Imagenes/Spectral-components-Concave-Holographic-Grati
+ngs-for-Monochromator.jpg  used on input line 179.
+(pdftex.def)             Requested size: 170.55789pt x 85.35667pt.
+LaTeX Info: Redefining \. on input line 186.
+LaTeX Info: Redefining \% on input line 186.
+[8 <./Imagenes/300px-Echelle_Principle.png> <./Imagenes/DiffGrat.png> <./Imagen
+es/rejillaPlana.jpg> <./Imagenes/Spectral-components-Concave-Holographic-Gratin
+gs-for-Monochromator.jpg>]
+
+! LaTeX Error: File `Imagenes/reflexi\IeC {\'o}n' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.192 ...width=0.6\linewidth]{Imagenes/reflexión}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Imagenes/1280px-Czerny-Turner_Monochromator.jpg, id=562, 1284.8pt x 796.9775pt
+>
+File: Imagenes/1280px-Czerny-Turner_Monochromator.jpg Graphic file (type jpg)
+<use Imagenes/1280px-Czerny-Turner_Monochromator.jpg>
+Package pdftex.def Info: Imagenes/1280px-Czerny-Turner_Monochromator.jpg  used 
+on input line 213.
+(pdftex.def)             Requested size: 170.55441pt x 105.7875pt.
+LaTeX Info: Redefining \. on input line 218.
+LaTeX Info: Redefining \% on input line 218.
+[9]
+<Imagenes/lamparaMercurio.png, id=576, 423.83344pt x 271.76532pt>
+File: Imagenes/lamparaMercurio.png Graphic file (type png)
+<use Imagenes/lamparaMercurio.png>
+Package pdftex.def Info: Imagenes/lamparaMercurio.png  used on input line 232.
+(pdftex.def)             Requested size: 298.47348pt x 191.39137pt.
+LaTeX Info: Redefining \. on input line 236.
+LaTeX Info: Redefining \% on input line 236.
+ [10 <./Imagenes/1280px-Czerny-Turner_Monochromator.jpg>]
+LaTeX Info: Redefining \. on input line 242.
+LaTeX Info: Redefining \% on input line 242.
+ [11 <./Imagenes/lamparaMercurio.png>])
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+ [12]
+\openout2 = `Chapters/Capitulo2.aux'.
+
+ (./Chapters/Capitulo2.tex
+Cap\'{\i }tulo 2.
+! Undefined control sequence.
+l.18 	\subfigure
+                [Fastie-Ebert]{\includegraphics[width=0.7\linewidth]{Imagene...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/Fastie-Ebert.jpg, id=600, 301.125pt x 198.7425pt>
+File: Imagenes/Fastie-Ebert.jpg Graphic file (type jpg)
+<use Imagenes/Fastie-Ebert.jpg>
+Package pdftex.def Info: Imagenes/Fastie-Ebert.jpg  used on input line 18.
+(pdftex.def)             Requested size: 298.47348pt x 197.0104pt.
+! Undefined control sequence.
+l.19 	\subfigure
+                [Czerny-Turnet]{\includegraphics[width=0.7\linewidth]{Imagen...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/Czerny-Turner.jpg, id=601, 301.125pt x 176.15813pt>
+File: Imagenes/Czerny-Turner.jpg Graphic file (type jpg)
+<use Imagenes/Czerny-Turner.jpg>
+Package pdftex.def Info: Imagenes/Czerny-Turner.jpg  used on input line 19.
+(pdftex.def)             Requested size: 298.47348pt x 174.62285pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/difraccion.png, id=606, 462.22687pt x 161.10187pt>
+File: Imagenes/difraccion.png Graphic file (type png)
+<use Imagenes/difraccion.png>
+Package pdftex.def Info: Imagenes/difraccion.png  used on input line 30.
+(pdftex.def)             Requested size: 383.75069pt x 133.75139pt.
+<Imagenes/patronrendijasimple.jpg, id=609, 332.24126pt x 186.6975pt>
+File: Imagenes/patronrendijasimple.jpg Graphic file (type jpg)
+<use Imagenes/patronrendijasimple.jpg>
+Package pdftex.def Info: Imagenes/patronrendijasimple.jpg  used on input line 3
+7.
+(pdftex.def)             Requested size: 298.47348pt x 167.73276pt.
+[13
+
+
+
+]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+[14 <./Imagenes/Fastie-Ebert.jpg> <./Imagenes/Czerny-Turner.jpg>]
+! Undefined control sequence.
+l.55 	\subfigure
+                [Laser rojo de Helio-Neón $\lambda$=632.8nm]{\includegraphi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/2/difracRo.png, id=626, 802.49812pt x 449.42906pt>
+File: Imagenes/2/difracRo.png Graphic file (type png)
+<use Imagenes/2/difracRo.png>
+Package pdftex.def Info: Imagenes/2/difracRo.png  used on input line 55.
+(pdftex.def)             Requested size: 204.66492pt x 113.81082pt.
+! Undefined control sequence.
+l.56 	\subfigure
+                [Laser verde de Helio-Neón $\lambda$=543.4nm]{\includegraph...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/2/difracGr.png, id=627, 804.75656pt x 444.15938pt>
+File: Imagenes/2/difracGr.png Graphic file (type png)
+<use Imagenes/2/difracGr.png>
+Package pdftex.def Info: Imagenes/2/difracGr.png  used on input line 56.
+(pdftex.def)             Requested size: 204.66376pt x 113.81148pt.
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+[15 <./Imagenes/difraccion.PNG> <./Imagenes/patronrendijasimple.jpg>]
+<Imagenes/2/ordenes.png, id=638, 527.95137pt x 342.33157pt>
+File: Imagenes/2/ordenes.png Graphic file (type png)
+<use Imagenes/2/ordenes.png>
+Package pdftex.def Info: Imagenes/2/ordenes.png  used on input line 64.
+(pdftex.def)             Requested size: 298.47348pt x 193.53783pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
+[16 <./Imagenes/2/difracRo.png> <./Imagenes/2/difracGr.png>]
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+ [17 <./Imagenes/2/ordenes.png>]
+<Imagenes/2/RotorEstator.jpg, id=666, 621.07031pt x 450.18187pt>
+File: Imagenes/2/RotorEstator.jpg Graphic file (type jpg)
+<use Imagenes/2/RotorEstator.jpg>
+Package pdftex.def Info: Imagenes/2/RotorEstator.jpg  used on input line 101.
+(pdftex.def)             Requested size: 298.47348pt x 216.34587pt.
+
+! Undefined control sequence.
+l.109 	\subfigure
+                 [primer paso del motor.]{\includegraphics[width=0.4\linewid...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/2/pasoUno.png, id=670, 305.64188pt x 286.06876pt>
+File: Imagenes/2/pasoUno.png Graphic file (type png)
+<use Imagenes/2/pasoUno.png>
+Package pdftex.def Info: Imagenes/2/pasoUno.png  used on input line 109.
+(pdftex.def)             Requested size: 170.55441pt x 159.62994pt.
+! Undefined control sequence.
+l.110 	\subfigure
+                 [se energiza la bobina C, y el rotor cambia de posición.]{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/2/pasoDos.png, id=671, 286.82156pt x 289.08pt>
+File: Imagenes/2/pasoDos.png Graphic file (type png)
+<use Imagenes/2/pasoDos.png>
+Package pdftex.def Info: Imagenes/2/pasoDos.png  used on input line 110.
+(pdftex.def)             Requested size: 170.55441pt x 171.90106pt.
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+[18 <./Imagenes/2/RotorEstator.jpg>]
+<Imagenes/2/paso1.png, id=681, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso1.png Graphic file (type png)
+<use Imagenes/2/paso1.png>
+Package pdftex.def Info: Imagenes/2/paso1.png  used on input line 138.
+(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
+<Imagenes/2/paso2.png, id=682, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso2.png Graphic file (type png)
+<use Imagenes/2/paso2.png>
+Package pdftex.def Info: Imagenes/2/paso2.png  used on input line 140.
+(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
+<Imagenes/2/paso3.png, id=683, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso3.png Graphic file (type png)
+<use Imagenes/2/paso3.png>
+Package pdftex.def Info: Imagenes/2/paso3.png  used on input line 142.
+(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
+<Imagenes/2/paso4.png, id=684, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso4.png Graphic file (type png)
+<use Imagenes/2/paso4.png>
+Package pdftex.def Info: Imagenes/2/paso4.png  used on input line 144.
+(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
+LaTeX Info: Redefining \. on input line 148.
+LaTeX Info: Redefining \% on input line 148.
+ [19 <./Imagenes/2/pasoUno.PNG> <./Imagenes/2/pasoDos.PNG>]
+<Imagenes/2/paso1_5.png, id=693, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso1_5.png Graphic file (type png)
+<use Imagenes/2/paso1_5.png>
+Package pdftex.def Info: Imagenes/2/paso1_5.png  used on input line 159.
+(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
+<Imagenes/2/paso2_5.png, id=694, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso2_5.png Graphic file (type png)
+<use Imagenes/2/paso2_5.png>
+Package pdftex.def Info: Imagenes/2/paso2_5.png  used on input line 161.
+(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
+<Imagenes/2/paso3_5.png, id=695, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso3_5.png Graphic file (type png)
+<use Imagenes/2/paso3_5.png>
+Package pdftex.def Info: Imagenes/2/paso3_5.png  used on input line 163.
+(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
+<Imagenes/2/paso4_5.png, id=696, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso4_5.png Graphic file (type png)
+<use Imagenes/2/paso4_5.png>
+Package pdftex.def Info: Imagenes/2/paso4_5.png  used on input line 165.
+(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
+File: Imagenes/2/paso1.png Graphic file (type png)
+<use Imagenes/2/paso1.png>
+Package pdftex.def Info: Imagenes/2/paso1.png  used on input line 180.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+File: Imagenes/2/paso1_5.png Graphic file (type png)
+<use Imagenes/2/paso1_5.png>
+Package pdftex.def Info: Imagenes/2/paso1_5.png  used on input line 182.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+File: Imagenes/2/paso2.png Graphic file (type png)
+<use Imagenes/2/paso2.png>
+Package pdftex.def Info: Imagenes/2/paso2.png  used on input line 184.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+File: Imagenes/2/paso2_5.png Graphic file (type png)
+<use Imagenes/2/paso2_5.png>
+Package pdftex.def Info: Imagenes/2/paso2_5.png  used on input line 186.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+File: Imagenes/2/paso3.png Graphic file (type png)
+<use Imagenes/2/paso3.png>
+Package pdftex.def Info: Imagenes/2/paso3.png  used on input line 188.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+File: Imagenes/2/paso3_5.png Graphic file (type png)
+<use Imagenes/2/paso3_5.png>
+Package pdftex.def Info: Imagenes/2/paso3_5.png  used on input line 190.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+File: Imagenes/2/paso4.png Graphic file (type png)
+<use Imagenes/2/paso4.png>
+Package pdftex.def Info: Imagenes/2/paso4.png  used on input line 192.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+File: Imagenes/2/paso4_5.png Graphic file (type png)
+<use Imagenes/2/paso4_5.png>
+Package pdftex.def Info: Imagenes/2/paso4_5.png  used on input line 194.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+<Imagenes/2/L293.png, id=702, 281.55188pt x 272.51813pt>
+File: Imagenes/2/L293.png Graphic file (type png)
+<use Imagenes/2/L293.png>
+Package pdftex.def Info: Imagenes/2/L293.png  used on input line 205.
+(pdftex.def)             Requested size: 170.55441pt x 165.08397pt.
+LaTeX Info: Redefining \. on input line 209.
+LaTeX Info: Redefining \% on input line 209.
+ [20 <./Imagenes/2/paso1.png> <./Imagenes/2/paso2.png> <./Imagenes/2/paso3.png>
+ <./Imagenes/2/paso4.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/2/BIPOLAR-4-FILS.jpg, id=713, 925.859pt x 617.507pt>
+File: Imagenes/2/BIPOLAR-4-FILS.jpg Graphic file (type jpg)
+<use Imagenes/2/BIPOLAR-4-FILS.jpg>
+Package pdftex.def Info: Imagenes/2/BIPOLAR-4-FILS.jpg  used on input line 212.
+
+(pdftex.def)             Requested size: 298.47348pt x 199.06674pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/2/bipolar-2-fils.jpg, id=715, 1053.536pt x 618.31pt>
+File: Imagenes/2/bipolar-2-fils.jpg Graphic file (type jpg)
+<use Imagenes/2/bipolar-2-fils.jpg>
+Package pdftex.def Info: Imagenes/2/bipolar-2-fils.jpg  used on input line 219.
+
+(pdftex.def)             Requested size: 341.11533pt x 200.19359pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 232.
+LaTeX Info: Redefining \% on input line 232.
+[21 <./Imagenes/2/paso1_5.png> <./Imagenes/2/paso2_5.png> <./Imagenes/2/paso3_5
+.png> <./Imagenes/2/paso4_5.png>]
+<Imagenes/2/TB6560a.png, id=728, 240.9pt x 156.585pt>
+File: Imagenes/2/TB6560a.png Graphic file (type png)
+<use Imagenes/2/TB6560a.png>
+Package pdftex.def Info: Imagenes/2/TB6560a.png  used on input line 236.
+(pdftex.def)             Requested size: 298.47348pt x 194.02719pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 246.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+LaTeX Info: Redefining \. on input line 247.
+LaTeX Info: Redefining \% on input line 247.
+ [22]
+LaTeX Info: Redefining \. on input line 251.
+LaTeX Info: Redefining \% on input line 251.
+ [23 <./Imagenes/2/L293.PNG> <./Imagenes/2/BIPOLAR-4-FILS.jpg>]
+<Imagenes/2/tmap_0051.png, id=742, 812.03375pt x 281.05pt>
+File: Imagenes/2/tmap_0051.png Graphic file (type png)
+<use Imagenes/2/tmap_0051.png>
+Package pdftex.def Info: Imagenes/2/tmap_0051.png  used on input line 254.
+(pdftex.def)             Requested size: 426.39255pt x 147.57489pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 264.
+LaTeX Info: Redefining \% on input line 264.
+[24 <./Imagenes/2/bipolar-2-fils.jpg> <./Imagenes/2/TB6560a.png>]
+<Imagenes/2/PMT.png, id=755, 472.01344pt x 212.29312pt>
+File: Imagenes/2/PMT.png Graphic file (type png)
+<use Imagenes/2/PMT.png>
+Package pdftex.def Info: Imagenes/2/PMT.png  used on input line 267.
+(pdftex.def)             Requested size: 383.75069pt x 172.59787pt.
+
+! Undefined control sequence.
+l.278 	\subfigure
+                 [PMT \textit{head-on}]{\includegraphics[width=0.4\linewidth...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/2/PMThead.jpg, id=757, 770.88pt x 462.72874pt>
+File: Imagenes/2/PMThead.jpg Graphic file (type jpg)
+<use Imagenes/2/PMThead.jpg>
+Package pdftex.def Info: Imagenes/2/PMThead.jpg  used on input line 278.
+(pdftex.def)             Requested size: 170.55441pt x 102.37254pt.
+! Undefined control sequence.
+l.279 	\subfigure
+                 [PMT \textit{side-on}]{	\includegraphics[width=0.4\linewidt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/2/PMTSide-on.jpg, id=758, 770.88pt x 462.72874pt>
+File: Imagenes/2/PMTSide-on.jpg Graphic file (type jpg)
+<use Imagenes/2/PMTSide-on.jpg>
+Package pdftex.def Info: Imagenes/2/PMTSide-on.jpg  used on input line 279.
+(pdftex.def)             Requested size: 170.55441pt x 102.37254pt.
+<Imagenes/2/PMTmodule.jpg, id=760, 770.88pt x 462.72874pt>
+File: Imagenes/2/PMTmodule.jpg Graphic file (type jpg)
+<use Imagenes/2/PMTmodule.jpg>
+Package pdftex.def Info: Imagenes/2/PMTmodule.jpg  used on input line 286.
+(pdftex.def)             Requested size: 298.47348pt x 179.15726pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 287.
+LaTeX Info: Redefining \. on input line 296.
+LaTeX Info: Redefining \% on input line 296.
+[25 <./Imagenes/2/tmap_0051.png>]
+<Imagenes/2/SensibilidadAjuste.png, id=769, 657.2053pt x 226.59656pt>
+File: Imagenes/2/SensibilidadAjuste.png Graphic file (type png)
+<use Imagenes/2/SensibilidadAjuste.png>
+Package pdftex.def Info: Imagenes/2/SensibilidadAjuste.png  used on input line 
+299.
+(pdftex.def)             Requested size: 341.11533pt x 117.61305pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/2/PMT_GAIN.png, id=774, 615.80063pt x 313.17pt>
+File: Imagenes/2/PMT_GAIN.png Graphic file (type png)
+<use Imagenes/2/PMT_GAIN.png>
+Package pdftex.def Info: Imagenes/2/PMT_GAIN.png  used on input line 307.
+(pdftex.def)             Requested size: 298.47348pt x 151.79169pt.
+LaTeX Info: Redefining \. on input line 311.
+LaTeX Info: Redefining \% on input line 311.
+[26 <./Imagenes/2/PMT.PNG> <./Imagenes/2/PMThead.jpg> <./Imagenes/2/PMTSide-on.
+jpg>]
+LaTeX Info: Redefining \. on input line 339.
+LaTeX Info: Redefining \% on input line 339.
+ [27 <./Imagenes/2/PMTmodule.jpg> <./Imagenes/2/SensibilidadAjuste.PNG>]
+LaTeX Info: Redefining \. on input line 355.
+LaTeX Info: Redefining \% on input line 355.
+
+[28 <./Imagenes/2/PMT_GAIN.PNG>]
+Overfull \hbox (35.29063pt too wide) in paragraph at lines 360--377
+ [][] 
+ []
+
+<Imagenes/2/MCP3202.png, id=801, 245.41687pt x 118.19156pt>
+File: Imagenes/2/MCP3202.png Graphic file (type png)
+<use Imagenes/2/MCP3202.png>
+Package pdftex.def Info: Imagenes/2/MCP3202.png  used on input line 384.
+(pdftex.def)             Requested size: 213.19627pt x 102.67793pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/2/potDig.png, id=807, 224.33812pt x 156.585pt>
+File: Imagenes/2/potDig.png Graphic file (type png)
+<use Imagenes/2/potDig.png>
+Package pdftex.def Info: Imagenes/2/potDig.png  used on input line 422.
+(pdftex.def)             Requested size: 213.19627pt x 148.81224pt.
+LaTeX Info: Redefining \. on input line 426.
+LaTeX Info: Redefining \% on input line 426.
+[29 <./Imagenes/2/MCP3202.PNG>]
+LaTeX Info: Redefining \. on input line 457.
+LaTeX Info: Redefining \% on input line 457.
+ [30 <./Imagenes/2/potDig.PNG>])
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+ [31]
+\openout2 = `Chapters/Capitulo3.aux'.
+
+
+(./Chapters/Capitulo3.tex
+Cap\'{\i }tulo 3.
+<Imagenes/3/esquema.png, id=828, 1256.0526pt x 543.9522pt>
+File: Imagenes/3/esquema.png Graphic file (type png)
+<use Imagenes/3/esquema.png>
+Package pdftex.def Info: Imagenes/3/esquema.png  used on input line 6.
+(pdftex.def)             Requested size: 417.86287pt x 180.95728pt.
+! Undefined control sequence.
+l.15 	\subfigure
+                [Monocromador SpectraPro 275]{\includegraphics[ height=6cm]{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/SpectraPro.png, id=831, 418.56375pt x 591.71063pt>
+File: Imagenes/3/SpectraPro.png Graphic file (type png)
+<use Imagenes/3/SpectraPro.png>
+Package pdftex.def Info: Imagenes/3/SpectraPro.png  used on input line 15.
+(pdftex.def)             Requested size: 120.76085pt x 170.71652pt.
+! Undefined control sequence.
+l.16 	\subfigure
+                [Interior del SpectraPro 275]{\includegraphics[height=6cm]{I...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/SpectraProIn.png, id=832, 189.3474pt x 189.3474pt>
+File: Imagenes/3/SpectraProIn.png Graphic file (type png)
+<use Imagenes/3/SpectraProIn.png>
+Package pdftex.def Info: Imagenes/3/SpectraProIn.png  used on input line 16.
+(pdftex.def)             Requested size: 170.71733pt x 170.71652pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.24 	\subfigure
+                [Base para tres redes de difracción]{\includegraphics[heigh...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/baseRed.png, id=834, 788.9475pt x 788.9475pt>
+File: Imagenes/3/baseRed.png Graphic file (type png)
+<use Imagenes/3/baseRed.png>
+Package pdftex.def Info: Imagenes/3/baseRed.png  used on input line 24.
+(pdftex.def)             Requested size: 128.02788pt x 128.0374pt.
+! Undefined control sequence.
+l.25 	\subfigure
+                [Vista frontal de las redes sobre la base.]{\includegraphics...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/redDifra_in.png, id=835, 788.9475pt x 788.9475pt>
+File: Imagenes/3/redDifra_in.png Graphic file (type png)
+<use Imagenes/3/redDifra_in.png>
+Package pdftex.def Info: Imagenes/3/redDifra_in.png  used on input line 25.
+(pdftex.def)             Requested size: 128.02788pt x 128.0374pt.
+[32
+
+
+
+ <./Imagenes/3/esquema.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 31.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 31.
+
+Missing character: There is no � in font zptmcm7t!
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+[33 <./Imagenes/3/SpectraPro.png> <./Imagenes/3/SpectraProIn.png>]
+<Imagenes/3/baseRedes.png, id=852, 496.85625pt x 451.6875pt>
+File: Imagenes/3/baseRedes.png Graphic file (type png)
+<use Imagenes/3/baseRedes.png>
+Package pdftex.def Info: Imagenes/3/baseRedes.png  used on input line 40.
+(pdftex.def)             Requested size: 170.55441pt x 135.5132pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.46 	\subfigure
+                [Tornillo sin fin]{\includegraphics[height=5cm]{Imagenes/3/t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/tornillo.png, id=853, 591.71063pt x 591.71063pt>
+File: Imagenes/3/tornillo.png Graphic file (type png)
+<use Imagenes/3/tornillo.png>
+Package pdftex.def Info: Imagenes/3/tornillo.png  used on input line 46.
+(pdftex.def)             Requested size: 142.25722pt x 142.26378pt.
+! Undefined control sequence.
+l.48 	\subfigure
+                [base con rueda dentada sobre el tornillo sin fin.]{\include...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/tornillo_base.png, id=854, 591.71063pt x 591.71063pt>
+File: Imagenes/3/tornillo_base.png Graphic file (type png)
+<use Imagenes/3/tornillo_base.png>
+Package pdftex.def Info: Imagenes/3/tornillo_base.png  used on input line 48.
+(pdftex.def)             Requested size: 142.25722pt x 142.26378pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+[34 <./Imagenes/3/baseRed.png> <./Imagenes/3/redDifra_in.png>]
+<Imagenes/3/Encoder.png, id=860, 534.49687pt x 267.24844pt>
+File: Imagenes/3/Encoder.png Graphic file (type png)
+<use Imagenes/3/Encoder.png>
+Package pdftex.def Info: Imagenes/3/Encoder.png  used on input line 79.
+(pdftex.def)             Requested size: 341.11533pt x 170.56538pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+[35 <./Imagenes/3/baseRedes.png>]
+! Undefined control sequence.
+l.95 	\subfigure
+                [diagrama del encoder.]{\includegraphics[height=40mm]{Imagen...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/Inverter.png, id=872, 268.75406pt x 186.6975pt>
+File: Imagenes/3/Inverter.png Graphic file (type png)
+<use Imagenes/3/Inverter.png>
+Package pdftex.def Info: Imagenes/3/Inverter.png  used on input line 95.
+(pdftex.def)             Requested size: 163.83311pt x 113.81102pt.
+! Undefined control sequence.
+l.96 	\subfigure
+                [Color de los cables]{\includegraphics[height=40mm]{Imagenes...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/Cables.png, id=873, 155.83218pt x 146.04562pt>
+File: Imagenes/3/Cables.png Graphic file (type png)
+<use Imagenes/3/Cables.png>
+Package pdftex.def Info: Imagenes/3/Cables.png  used on input line 96.
+(pdftex.def)             Requested size: 121.4416pt x 113.81102pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.103 	\subfigure
+                 []{	\includegraphics[height=30mm]{Imagenes/3/Emitter}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/Emitter.png, id=875, 142.28156pt x 99.37125pt>
+File: Imagenes/3/Emitter.png Graphic file (type png)
+<use Imagenes/3/Emitter.png>
+Package pdftex.def Info: Imagenes/3/Emitter.png  used on input line 103.
+(pdftex.def)             Requested size: 122.2208pt x 85.35826pt.
+! Undefined control sequence.
+l.104 	\subfigure
+                 []{	\includegraphics[height=30mm]{Imagenes/3/Emitter2}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/Emitter2.png, id=876, 122.70844pt x 121.95563pt>
+File: Imagenes/3/Emitter2.png Graphic file (type png)
+<use Imagenes/3/Emitter2.png>
+Package pdftex.def Info: Imagenes/3/Emitter2.png  used on input line 104.
+(pdftex.def)             Requested size: 85.88594pt x 85.35826pt.
+! Undefined control sequence.
+l.105 	\subfigure
+                 [Dimensión de apertura del encoder]{	\includegraphics[heig...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/51.png, id=877, 215.30438pt x 130.98938pt>
+File: Imagenes/3/51.png Graphic file (type png)
+<use Imagenes/3/51.png>
+Package pdftex.def Info: Imagenes/3/51.png  used on input line 105.
+(pdftex.def)             Requested size: 140.30428pt x 85.35826pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/3/Encoder_01.jpg, id=879, 722.7pt x 542.025pt>
+File: Imagenes/3/Encoder_01.jpg Graphic file (type jpg)
+<use Imagenes/3/Encoder_01.jpg>
+Package pdftex.def Info: Imagenes/3/Encoder_01.jpg  used on input line 111.
+(pdftex.def)             Requested size: 298.4703pt x 199.1649pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 119.
+LaTeX Info: Redefining \% on input line 119.
+[36 <./Imagenes/3/tornillo.png> <./Imagenes/3/tornillo_base.png>]
+<Imagenes/3/GUI_01.png, id=888, 499.8675pt x 476.53032pt>
+File: Imagenes/3/GUI_01.png Graphic file (type png)
+<use Imagenes/3/GUI_01.png>
+Package pdftex.def Info: Imagenes/3/GUI_01.png  used on input line 122.
+(pdftex.def)             Requested size: 341.11533pt x 325.19974pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 131.
+LaTeX Info: Redefining \% on input line 131.
+[37 <./Imagenes/3/Encoder.PNG> <./Imagenes/3/Inverter.PNG> <./Imagenes/3/Cables
+.PNG>]
+LaTeX Info: Redefining \. on input line 131.
+LaTeX Info: Redefining \% on input line 131.
+ [38 <./Imagenes/3/Emitter.PNG> <./Imagenes/3/Emitter2.PNG> <./Imagenes/3/51.PN
+G> <./Imagenes/3/Encoder_01.jpg>]
+! Undefined control sequence.
+l.136 	\subfigure
+                 [Sistema propuesto.]{	\includegraphics[width=0.45\linewidth...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/10s30khz-02.jpg, id=907, 415.5525pt x 313.17pt>
+File: Imagenes/3/10s30khz-02.jpg Graphic file (type jpg)
+<use Imagenes/3/10s30khz-02.jpg>
+Package pdftex.def Info: Imagenes/3/10s30khz-02.jpg  used on input line 136.
+(pdftex.def)             Requested size: 191.87534pt x 144.59991pt.
+! Undefined control sequence.
+l.137 	\subfigure
+                 [QE65000]{\includegraphics[width=0.45\linewidth]{Imagenes/3...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/LEDQE65.png, id=908, 386.19281pt x 306.39468pt>
+File: Imagenes/3/LEDQE65.png Graphic file (type png)
+<use Imagenes/3/LEDQE65.png>
+Package pdftex.def Info: Imagenes/3/LEDQE65.png  used on input line 137.
+(pdftex.def)             Requested size: 191.87534pt x 152.22919pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/3/LED99Muestras.png, id=909, 383.18156pt x 292.84406pt>
+File: Imagenes/3/LED99Muestras.png Graphic file (type png)
+<use Imagenes/3/LED99Muestras.png>
+Package pdftex.def Info: Imagenes/3/LED99Muestras.png  used on input line 144.
+(pdftex.def)             Requested size: 383.77115pt x 170.72101pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/3/Mercuriolineas.png, id=911, 648.17157pt x 307.1475pt>
+File: Imagenes/3/Mercuriolineas.png Graphic file (type png)
+<use Imagenes/3/Mercuriolineas.png>
+Package pdftex.def Info: Imagenes/3/Mercuriolineas.png  used on input line 152.
+
+(pdftex.def)             Requested size: 341.11606pt x 142.26439pt.
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
+[39 <./Imagenes/3/GUI_01.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.161 	\subfigure
+                 [Espectro de la lámpara de mercurio HG-01 de Ocean Optics]...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/Hg-04-m99-50pps.png, id=922, 415.5525pt x 313.17pt>
+File: Imagenes/3/Hg-04-m99-50pps.png Graphic file (type png)
+<use Imagenes/3/Hg-04-m99-50pps.png>
+Package pdftex.def Info: Imagenes/3/Hg-04-m99-50pps.png  used on input line 161
+.
+(pdftex.def)             Requested size: 204.66873pt x 142.26797pt.
+! Undefined control sequence.
+l.162 	\subfigure
+                 [Acercamiento a las líneas de emisión.]{	\includegraphics...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/mercuriozoom.png, id=923, 432.86719pt x 253.69781pt>
+File: Imagenes/3/mercuriozoom.png Graphic file (type png)
+<use Imagenes/3/mercuriozoom.png>
+Package pdftex.def Info: Imagenes/3/mercuriozoom.png  used on input line 162.
+(pdftex.def)             Requested size: 204.66953pt x 128.0409pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/3/emisionHgLibro.png, id=927, 852.18375pt x 445.665pt>
+File: Imagenes/3/emisionHgLibro.png Graphic file (type png)
+<use Imagenes/3/emisionHgLibro.png>
+Package pdftex.def Info: Imagenes/3/emisionHgLibro.png  used on input line 172.
+
+(pdftex.def)             Requested size: 383.75221pt x 142.26208pt.
+LaTeX Info: Redefining \. on input line 181.
+LaTeX Info: Redefining \% on input line 181.
+[40 <./Imagenes/3/10s30khz-02.jpg> <./Imagenes/3/LEDQE65.PNG>]
+! Undefined control sequence.
+l.192 	\subfigure
+                 [Pondremos atención a ese recuadro.]{	\includegraphics[wid...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/ms1-r.png, id=937, 397.485pt x 306.39468pt>
+File: Imagenes/3/ms1-r.png Graphic file (type png)
+<use Imagenes/3/ms1-r.png>
+Package pdftex.def Info: Imagenes/3/ms1-r.png  used on input line 192.
+(pdftex.def)             Requested size: 191.88235pt x 99.58176pt.
+! Undefined control sequence.
+l.193 	\subfigure
+                 [Se observan más líneas de emisión]{	\includegraphics[wi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/ms1-z.png, id=938, 380.92313pt x 304.88907pt>
+File: Imagenes/3/ms1-z.png Graphic file (type png)
+<use Imagenes/3/ms1-z.png>
+Package pdftex.def Info: Imagenes/3/ms1-z.png  used on input line 193.
+(pdftex.def)             Requested size: 191.8735pt x 99.58556pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.218 	\subfigure
+                 [Espectro de la lámpara de mercurio medido.]{	\includegrap...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/medi1.png, id=942, 863.47594pt x 455.45157pt>
+File: Imagenes/3/medi1.png Graphic file (type png)
+<use Imagenes/3/medi1.png>
+Package pdftex.def Info: Imagenes/3/medi1.png  used on input line 218.
+(pdftex.def)             Requested size: 170.54451pt x 85.35526pt.
+! Undefined control sequence.
+l.221 	\subfigure
+                 [gráfica con 10 mediciones del espectro de la lámpara de ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/medi10-z.png, id=943, 865.73438pt x 438.13687pt>
+File: Imagenes/3/medi10-z.png Graphic file (type png)
+<use Imagenes/3/medi10-z.png>
+Package pdftex.def Info: Imagenes/3/medi10-z.png  used on input line 221.
+(pdftex.def)             Requested size: 170.55464pt x 85.35277pt.
+! Undefined control sequence.
+l.223 	\subfigure
+                 [Se observa la repetitividad a la hora de medir del sistema...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/medi10-p.png, id=944, 844.65562pt x 452.4403pt>
+File: Imagenes/3/medi10-p.png Graphic file (type png)
+<use Imagenes/3/medi10-p.png>
+Package pdftex.def Info: Imagenes/3/medi10-p.png  used on input line 223.
+(pdftex.def)             Requested size: 298.48222pt x 85.35703pt.
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+[41 <./Imagenes/3/LED99Muestras.PNG> <./Imagenes/3/Mercuriolineas.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (26.1833pt too wide) in paragraph at lines 234--245
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 250.
+LaTeX Info: Redefining \% on input line 250.
+[42 <./Imagenes/3/Hg-04-m99-50pps.png> <./Imagenes/3/mercuriozoom.PNG>]
+<Imagenes/3/picos14.png, id=959, 858.20625pt x 422.32782pt>
+File: Imagenes/3/picos14.png Graphic file (type png)
+<use Imagenes/3/picos14.png>
+Package pdftex.def Info: Imagenes/3/picos14.png  used on input line 253.
+(pdftex.def)             Requested size: 383.75354pt x 128.0397pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/3/pasosError.png, id=961, 851.43094pt x 459.21562pt>
+File: Imagenes/3/pasosError.png Graphic file (type png)
+<use Imagenes/3/pasosError.png>
+Package pdftex.def Info: Imagenes/3/pasosError.png  used on input line 263.
+(pdftex.def)             Requested size: 341.112pt x 113.80861pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.280 	\subfigure
+                 [Espectro del Hg 12 líneas (no todas se ven en la gráfica...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/espectroHgnor.png, id=964, 843.90282pt x 453.94594pt>
+File: Imagenes/3/espectroHgnor.png Graphic file (type png)
+<use Imagenes/3/espectroHgnor.png>
+Package pdftex.def Info: Imagenes/3/espectroHgnor.png  used on input line 280.
+(pdftex.def)             Requested size: 191.86586pt x 113.81175pt.
+! Undefined control sequence.
+l.281 	\subfigure
+                 [Espectro del Hg medido 14 líneas]{	\includegraphics[width...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/espectroHgSistema.png, id=965, 385.44pt x 306.39468pt>
+File: Imagenes/3/espectroHgSistema.png Graphic file (type png)
+<use Imagenes/3/espectroHgSistema.png>
+Package pdftex.def Info: Imagenes/3/espectroHgSistema.png  used on input line 2
+81.
+(pdftex.def)             Requested size: 191.8726pt x 113.8084pt.
+<Imagenes/3/HgFiltro.png, id=966, 848.4197pt x 456.20438pt>
+File: Imagenes/3/HgFiltro.png Graphic file (type png)
+<use Imagenes/3/HgFiltro.png>
+Package pdftex.def Info: Imagenes/3/HgFiltro.png  used on input line 287.
+(pdftex.def)             Requested size: 319.78778pt x 142.25722pt.
+LaTeX Info: Redefining \. on input line 291.
+LaTeX Info: Redefining \% on input line 291.
+[43 <./Imagenes/3/emisionHgLibro.PNG> <./Imagenes/3/ms1-r.PNG> <./Imagenes/3/ms
+1-z.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
+[44 <./Imagenes/3/medi1.PNG> <./Imagenes/3/medi10-z.PNG> <./Imagenes/3/medi10-p
+.PNG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/3/curving.png, id=983, 871.75688pt x 521.69907pt>
+File: Imagenes/3/curving.png Graphic file (type png)
+<use Imagenes/3/curving.png>
+Package pdftex.def Info: Imagenes/3/curving.png  used on input line 327.
+(pdftex.def)             Requested size: 426.3931pt x 256.0726pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (4.54726pt too wide) in paragraph at lines 343--343
+[]\T1/ptm/m/n/12 0.9828| 
+ []
+
+
+Overfull \hbox (4.8567pt too wide) in paragraph at lines 343--343
+[]\T1/ptm/m/n/12 15.5674| 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 362.
+LaTeX Info: Redefining \% on input line 362.
+[45 <./Imagenes/3/picos14.PNG> <./Imagenes/3/pasosError.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 367--374
+
+ []
+
+LaTeX Info: Redefining \. on input line 374.
+LaTeX Info: Redefining \% on input line 374.
+[46 <./Imagenes/3/espectroHgnor.PNG> <./Imagenes/3/espectroHgSistema.PNG>]
+LaTeX Info: Redefining \. on input line 380.
+LaTeX Info: Redefining \% on input line 380.
+
+[47 <./Imagenes/3/HgFiltro.PNG>]
+Underfull \hbox (badness 1033) in paragraph at lines 387--387
+[]\T1/ptm/m/n/12 l�mpara de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]\T1/ptm/m/n/12 Ajuste de
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 387--387
+[]\T1/ptm/m/n/12 l�mpara de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]\T1/ptm/m/n/12 Ajuste de
+ []
+
+<Imagenes/3/compararLP.png, id=1008, 846.91406pt x 428.35031pt>
+File: Imagenes/3/compararLP.png Graphic file (type png)
+<use Imagenes/3/compararLP.png>
+Package pdftex.def Info: Imagenes/3/compararLP.png  used on input line 406.
+(pdftex.def)             Requested size: 426.38948pt x 184.94522pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/3/LabViewMedir.png, id=1010, 469.00218pt x 373.395pt>
+File: Imagenes/3/LabViewMedir.png Graphic file (type png)
+<use Imagenes/3/LabViewMedir.png>
+Package pdftex.def Info: Imagenes/3/LabViewMedir.png  used on input line 413.
+(pdftex.def)             Requested size: 383.74698pt x 170.71544pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.424 	\subfigure
+                 [ADC propio del Arduino MEGA 10bits]{	\includegraphics[widt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/LedAma10B.png, id=1012, 522.6262pt x 411.55862pt>
+File: Imagenes/3/LedAma10B.png Graphic file (type png)
+<use Imagenes/3/LedAma10B.png>
+Package pdftex.def Info: Imagenes/3/LedAma10B.png  used on input line 424.
+(pdftex.def)             Requested size: 204.6687pt x 113.81009pt.
+! Undefined control sequence.
+l.425 	\subfigure
+                 [ADC- MCP3202 de 12 bits]{	\includegraphics[width=0.48\line...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/LedAmaB12.png, id=1013, 649.67719pt x 456.95718pt>
+File: Imagenes/3/LedAmaB12.png Graphic file (type png)
+<use Imagenes/3/LedAmaB12.png>
+Package pdftex.def Info: Imagenes/3/LedAmaB12.png  used on input line 425.
+(pdftex.def)             Requested size: 204.6593pt x 113.8067pt.
+LaTeX Info: Redefining \. on input line 428.
+LaTeX Info: Redefining \% on input line 428.
+[48 <./Imagenes/3/curving.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/3/PMTsen.png, id=1023, 416.30531pt x 170.88844pt>
+File: Imagenes/3/PMTsen.png Graphic file (type png)
+<use Imagenes/3/PMTsen.png>
+Package pdftex.def Info: Imagenes/3/PMTsen.png  used on input line 437.
+(pdftex.def)             Requested size: 383.75069pt x 157.53217pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 442.
+LaTeX Info: Redefining \% on input line 442.
+[49 <./Imagenes/3/compararLP.png>]
+! Undefined control sequence.
+l.445 	\subfigure
+                 [Voltaje en cada paso del potenciómetro digital.]{\include...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/ADCp1.png, id=1039, 403.5075pt x 313.17pt>
+File: Imagenes/3/ADCp1.png Graphic file (type png)
+<use Imagenes/3/ADCp1.png>
+Package pdftex.def Info: Imagenes/3/ADCp1.png  used on input line 445.
+(pdftex.def)             Requested size: 204.66553pt x 113.81151pt.
+! Undefined control sequence.
+l.447 	\subfigure
+                 [Gráfica de la desviación estándar.]{\includegraphics[wi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/ADCpSTD.png, id=1040, 392.96812pt x 308.65312pt>
+File: Imagenes/3/ADCpSTD.png Graphic file (type png)
+<use Imagenes/3/ADCpSTD.png>
+Package pdftex.def Info: Imagenes/3/ADCpSTD.png  used on input line 447.
+(pdftex.def)             Requested size: 204.66838pt x 113.80896pt.
+! Undefined control sequence.
+l.448 	\subfigure
+                 [desviación estándar de cerca. La variación de voltaje e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/ADCpdifz.png, id=1041, 502.12593pt x 283.0575pt>
+File: Imagenes/3/ADCpdifz.png Graphic file (type png)
+<use Imagenes/3/ADCpdifz.png>
+Package pdftex.def Info: Imagenes/3/ADCpdifz.png  used on input line 448.
+(pdftex.def)             Requested size: 204.67006pt x 113.80838pt.
+! Undefined control sequence.
+l.449 	\subfigure
+                 [Valor de la desviación estándar en cada paso.]{\includeg...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/ADCpdif.png, id=1042, 405.01312pt x 311.66437pt>
+File: Imagenes/3/ADCpdif.png Graphic file (type png)
+<use Imagenes/3/ADCpdif.png>
+Package pdftex.def Info: Imagenes/3/ADCpdif.png  used on input line 449.
+(pdftex.def)             Requested size: 204.66905pt x 113.81123pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+! Undefined control sequence.
+l.461 	\subfigure
+                 [Ganancia a 0.20 volts]{\includegraphics[width=0.48\linewid...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/Hg02.png, id=1045, 432.11438pt x 331.99031pt>
+File: Imagenes/3/Hg02.png Graphic file (type png)
+<use Imagenes/3/Hg02.png>
+Package pdftex.def Info: Imagenes/3/Hg02.png  used on input line 461.
+(pdftex.def)             Requested size: 204.66304pt x 113.81236pt.
+! Undefined control sequence.
+l.464 	\subfigure
+                 [Ganancia a 0.50 volts]{\includegraphics[width=0.48\linewid...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/Hg05.png, id=1046, 557.83406pt x 292.09125pt>
+File: Imagenes/3/Hg05.png Graphic file (type png)
+<use Imagenes/3/Hg05.png>
+Package pdftex.def Info: Imagenes/3/Hg05.png  used on input line 464.
+(pdftex.def)             Requested size: 204.66745pt x 113.8126pt.
+
+Underfull \hbox (badness 1292) in paragraph at lines 461--465
+[]\T1/ptm/m/n/12 [Ganancia a 0.20 volts][] [Ga-nan-cia a 0.50
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 468.
+LaTeX Info: Redefining \% on input line 468.
+[50 <./Imagenes/3/LabViewMedir.png>]
+! Undefined control sequence.
+l.474 	\subfigure
+                 [Respuesta espectral del \textbf{PMT}, su pico de sensibili...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/pmt_sen.png, id=1054, 462.22687pt x 472.01344pt>
+File: Imagenes/3/pmt_sen.png Graphic file (type png)
+<use Imagenes/3/pmt_sen.png>
+Package pdftex.def Info: Imagenes/3/pmt_sen.png  used on input line 474.
+(pdftex.def)             Requested size: 170.55576pt x 113.81131pt.
+! Undefined control sequence.
+l.475 	\subfigure
+                 [Eficiencia de la red de difracción con 2400 líneas/mm]{\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/3/redEfi.png, id=1055, 455.45157pt x 341.02406pt>
+File: Imagenes/3/redEfi.png Graphic file (type png)
+<use Imagenes/3/redEfi.png>
+Package pdftex.def Info: Imagenes/3/redEfi.png  used on input line 475.
+(pdftex.def)             Requested size: 170.55763pt x 113.81316pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/3/lamparaTH_DPNG.png, id=1063, 862.72313pt x 511.9125pt>
+File: Imagenes/3/lamparaTH_DPNG.png Graphic file (type png)
+<use Imagenes/3/lamparaTH_DPNG.png>
+Package pdftex.def Info: Imagenes/3/lamparaTH_DPNG.png  used on input line 484.
+
+(pdftex.def)             Requested size: 426.38448pt x 170.71259pt.
+<Imagenes/3/lamparaTH.png, id=1066, 397.485pt x 313.17pt>
+File: Imagenes/3/lamparaTH.png Graphic file (type png)
+<use Imagenes/3/lamparaTH.png>
+Package pdftex.def Info: Imagenes/3/lamparaTH.png  used on input line 490.
+(pdftex.def)             Requested size: 426.4086pt x 170.71965pt.
+
+Overfull \hbox (14.98192pt too wide) in paragraph at lines 480--494
+\T1/ptm/m/n/12 lor m�-xi-mo en la lon-gi-tud de on-da de 544.1nm, ver fi-gu-ra 
+[][]3.31[][]. Des-pu�s de $\OML/ztmcm/m/it/12 lambda$\T1/ptm/m/n/12 =544.1nm
+ []
+
+)
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [51 <./Imagenes/3/LedAma10B.png> <./Imagenes/3/LedAmaB12.png>]
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [52 <./Imagenes/3/PMTsen.PNG>]
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [53 <./Imagenes/3/ADCp1.PNG> <./Imagenes/3/ADCpSTD.PNG> <./Imagenes/3/ADCpdifz
+.PNG> <./Imagenes/3/ADCpdif.PNG>]
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [54 <./Imagenes/3/Hg02.png> <./Imagenes/3/Hg05.png> <./Imagenes/3/pmt_sen.PNG>
+ <./Imagenes/3/redEfi.png>]
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+
+[55 <./Imagenes/3/lamparaTH_DPNG.PNG> <./Imagenes/3/lamparaTH.PNG>]
+\openout2 = `Chapters/Capitulo4.aux'.
+
+
+(./Chapters/Capitulo4.tex
+Cap\'{\i }tulo 4.
+! Undefined control sequence.
+l.5 	\subfigure
+               [HR4000, tiempo de integración 8ms]{	\includegraphics[width=...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/HR4000_4ms.png, id=1103, 866.48718pt x 349.305pt>
+File: Imagenes/4/HR4000_4ms.png Graphic file (type png)
+<use Imagenes/4/HR4000_4ms.png>
+Package pdftex.def Info: Imagenes/4/HR4000_4ms.png  used on input line 5.
+(pdftex.def)             Requested size: 383.7544pt x 142.2619pt.
+! Undefined control sequence.
+l.7 	\subfigure
+               [HR4000, tiempo de integración 100ms]{	\includegraphics[widt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/HR4000_100ms.png, id=1104, 827.34094pt x 335.00156pt>
+File: Imagenes/4/HR4000_100ms.png Graphic file (type png)
+<use Imagenes/4/HR4000_100ms.png>
+Package pdftex.def Info: Imagenes/4/HR4000_100ms.png  used on input line 7.
+(pdftex.def)             Requested size: 383.76276pt x 142.26387pt.
+! Undefined control sequence.
+l.16 	\subfigure
+                [Espectro de la lámpara de mercurio con un tiempo de integr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/QE65000_8msHg.png, id=1106, 868.74562pt x 366.61969pt>
+File: Imagenes/4/QE65000_8msHg.png Graphic file (type png)
+<use Imagenes/4/QE65000_8msHg.png>
+Package pdftex.def Info: Imagenes/4/QE65000_8msHg.png  used on input line 16.
+(pdftex.def)             Requested size: 383.76044pt x 128.0391pt.
+! Undefined control sequence.
+l.18 	\subfigure
+                [Espectro de la lámpara de mercurio con un tiempo de integr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/QE65000_100msHg.png, id=1107, 857.45343pt x 360.59718pt>
+File: Imagenes/4/QE65000_100msHg.png Graphic file (type png)
+<use Imagenes/4/QE65000_100msHg.png>
+Package pdftex.def Info: Imagenes/4/QE65000_100msHg.png  used on input line 18.
+
+(pdftex.def)             Requested size: 383.744pt x 128.03764pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Imagenes/4/spectra100.png, id=1109, 575.14874pt x 291.33844pt>
+File: Imagenes/4/spectra100.png Graphic file (type png)
+<use Imagenes/4/spectra100.png>
+Package pdftex.def Info: Imagenes/4/spectra100.png  used on input line 27.
+(pdftex.def)             Requested size: 383.75919pt x 142.26808pt.
+[56
+
+
+
+ <./Imagenes/4/HR4000_4ms.PNG> <./Imagenes/4/HR4000_100ms.PNG>] [57 <./Imagenes
+/4/QE65000_8msHg.PNG> <./Imagenes/4/QE65000_100msHg.PNG> <./Imagenes/4/spectra1
+00.PNG>]
+! Undefined control sequence.
+l.37 	\subfigure
+                [Líneas de emisión medidas con el QE65000, tiempo de integ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/picosqe.png, id=1127, 602.25pt x 364.36125pt>
+File: Imagenes/4/picosqe.png Graphic file (type png)
+<use Imagenes/4/picosqe.png>
+Package pdftex.def Info: Imagenes/4/picosqe.png  used on input line 37.
+(pdftex.def)             Requested size: 204.6704pt x 85.35803pt.
+! Undefined control sequence.
+l.38 	\subfigure
+                [Líneas de emisión medidas con el HR4000, tiempo de integr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/picoshr.png, id=1128, 685.8122pt x 371.13657pt>
+File: Imagenes/4/picoshr.png Graphic file (type png)
+<use Imagenes/4/picoshr.png>
+Package pdftex.def Info: Imagenes/4/picoshr.png  used on input line 38.
+(pdftex.def)             Requested size: 204.66739pt x 85.35394pt.
+! Undefined control sequence.
+l.39 	\subfigure
+                [Líneas de emisión medidas con el sistema desarrollado. Sl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/picos.png, id=1129, 566.86781pt x 285.31593pt>
+File: Imagenes/4/picos.png Graphic file (type png)
+<use Imagenes/4/picos.png>
+Package pdftex.def Info: Imagenes/4/picos.png  used on input line 39.
+(pdftex.def)             Requested size: 341.12668pt x 128.03833pt.
+<Imagenes/4/ls_t.png, id=1132, 222.3507pt x 99.2508pt>
+File: Imagenes/4/ls_t.png Graphic file (type png)
+<use Imagenes/4/ls_t.png>
+Package pdftex.def Info: Imagenes/4/ls_t.png  used on input line 57.
+(pdftex.def)             Requested size: 383.75891pt x 128.03706pt.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+[58 <./Imagenes/4/picosqe.PNG> <./Imagenes/4/picoshr.PNG> <./Imagenes/4/picos.P
+NG>]
+<Imagenes/4/uv380t.png, id=1145, 558.58687pt x 310.15875pt>
+File: Imagenes/4/uv380t.png Graphic file (type png)
+<use Imagenes/4/uv380t.png>
+Package pdftex.def Info: Imagenes/4/uv380t.png  used on input line 65.
+(pdftex.def)             Requested size: 383.7633pt x 128.03671pt.
+
+! Undefined control sequence.
+l.72 	\subfigure
+                [Espectro del LED violeta, 400nm]{\includegraphics[width=0.4...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/UV400.png, id=1146, 475.02469pt x 292.84406pt>
+File: Imagenes/4/UV400.png Graphic file (type png)
+<use Imagenes/4/UV400.png>
+Package pdftex.def Info: Imagenes/4/UV400.png  used on input line 72.
+(pdftex.def)             Requested size: 204.66977pt x 99.58353pt.
+! Undefined control sequence.
+l.73 	\subfigure
+                [Acercamiento a los máximos.]{\includegraphics[width=0.48\l...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/UV400m.png, id=1147, 399.74344pt x 320.69812pt>
+File: Imagenes/4/UV400m.png Graphic file (type png)
+<use Imagenes/4/UV400m.png>
+Package pdftex.def Info: Imagenes/4/UV400m.png  used on input line 73.
+(pdftex.def)             Requested size: 204.6655pt x 99.58176pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.80 	\subfigure
+                [LED rojo $\lambda$]{\includegraphics[width=0.48\linewidth, ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/rojot.png, id=1148, 547.2947pt x 319.94531pt>
+File: Imagenes/4/rojot.png Graphic file (type png)
+<use Imagenes/4/rojot.png>
+Package pdftex.def Info: Imagenes/4/rojot.png  used on input line 80.
+(pdftex.def)             Requested size: 204.66713pt x 99.58234pt.
+! Undefined control sequence.
+l.81 	\subfigure
+                [Acercamiento a los máximos]{\includegraphics[width=0.48\li...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/rojom.png, id=1149, 380.92313pt x 298.11375pt>
+File: Imagenes/4/rojom.png Graphic file (type png)
+<use Imagenes/4/rojom.png>
+Package pdftex.def Info: Imagenes/4/rojom.png  used on input line 81.
+(pdftex.def)             Requested size: 204.66661pt x 99.58328pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.88 	\subfigure
+                [Espectro del LED rojo $\lambda$=700nm]{\includegraphics[wid...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/r700.png, id=1150, 529.22719pt x 304.13625pt>
+File: Imagenes/4/r700.png Graphic file (type png)
+<use Imagenes/4/r700.png>
+Package pdftex.def Info: Imagenes/4/r700.png  used on input line 88.
+(pdftex.def)             Requested size: 341.11877pt x 113.80948pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[59 <./Imagenes/4/ls_t.png> <./Imagenes/4/uv380t.PNG>]
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+ [60 <./Imagenes/4/UV400.PNG> <./Imagenes/4/UV400m.png> <./Imagenes/4/rojot.png
+> <./Imagenes/4/rojom.png>] [61 <./Imagenes/4/r700.png>]
+<Imagenes/4/ls-rojo.png, id=1172, 700.86844pt x 305.64188pt>
+File: Imagenes/4/ls-rojo.png Graphic file (type png)
+<use Imagenes/4/ls-rojo.png>
+Package pdftex.def Info: Imagenes/4/ls-rojo.png  used on input line 98.
+(pdftex.def)             Requested size: 383.75703pt x 142.2619pt.
+<Imagenes/4/pasotam.png, id=1173, 655.69969pt x 307.90031pt>
+File: Imagenes/4/pasotam.png Graphic file (type png)
+<use Imagenes/4/pasotam.png>
+Package pdftex.def Info: Imagenes/4/pasotam.png  used on input line 104.
+(pdftex.def)             Requested size: 383.74786pt x 142.26541pt.
+LaTeX Info: Redefining \. on input line 109.
+LaTeX Info: Redefining \% on input line 109.
+ [62
+
+ <./Imagenes/4/ls-rojo.png> <./Imagenes/4/pasotam.PNG>]
+<Imagenes/4/LS-S-DS.png, id=1184, 581.92406pt x 316.93407pt>
+File: Imagenes/4/LS-S-DS.png Graphic file (type png)
+<use Imagenes/4/LS-S-DS.png>
+Package pdftex.def Info: Imagenes/4/LS-S-DS.png  used on input line 120.
+(pdftex.def)             Requested size: 383.75069pt x 209.00786pt.
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
+ [63 <./Imagenes/4/LS-S-DS.png>]
+! Undefined control sequence.
+l.131 	\subfigure
+                 [Espectro de la lámpara LS-1-CAL en unidades relativas.]{\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/LS-potencia.png, id=1196, 386.19281pt x 307.1475pt>
+File: Imagenes/4/LS-potencia.png Graphic file (type png)
+<use Imagenes/4/LS-potencia.png>
+Package pdftex.def Info: Imagenes/4/LS-potencia.png  used on input line 131.
+(pdftex.def)             Requested size: 170.55588pt x 85.35863pt.
+! Undefined control sequence.
+l.132 	\subfigure
+                 [Espectro de lámpara LS-1-CAL normalizado.]{\includegraphi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Imagenes/4/LS-potNor.png, id=1197, 374.90062pt x 304.13625pt>
+File: Imagenes/4/LS-potNor.png Graphic file (type png)
+<use Imagenes/4/LS-potNor.png>
+Package pdftex.def Info: Imagenes/4/LS-potNor.png  used on input line 132.
+(pdftex.def)             Requested size: 170.55716pt x 85.35712pt.
+<Imagenes/4/ajusteEnForma.png, id=1198, 566.86781pt x 309.40594pt>
+File: Imagenes/4/ajusteEnForma.png Graphic file (type png)
+<use Imagenes/4/ajusteEnForma.png>
+Package pdftex.def Info: Imagenes/4/ajusteEnForma.png  used on input line 139.
+(pdftex.def)             Requested size: 341.11533pt x 186.19264pt.
+<Imagenes/4/LEDrojoA.png, id=1200, 395.22656pt x 304.13625pt>
+File: Imagenes/4/LEDrojoA.png Graphic file (type png)
+<use Imagenes/4/LEDrojoA.png>
+Package pdftex.def Info: Imagenes/4/LEDrojoA.png  used on input line 147.
+(pdftex.def)             Requested size: 341.11847pt x 142.2665pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 153.
+LaTeX Info: Redefining \% on input line 153.
+[64 <./Imagenes/4/LS-potencia.png> <./Imagenes/4/LS-potNor.png> <./Imagenes/4/a
+justeEnForma.png>])
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [65 <./Imagenes/4/LEDrojoA.png>]
+\openout2 = `Posterior/Conclusiones.aux'.
+
+
+(./Posterior/Conclusiones.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+) [66
+
+
+
+]
+\openout2 = `Posterior/trabajofuturo.aux'.
+
+ (./Posterior/trabajofuturo.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+) [67
+
+
+
+]
+\openout2 = `Posterior/Biblio.aux'.
+
+ (./Posterior/Biblio.tex (./TesisIvan.bbl
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [68
+
+
+]
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
+ [69]))
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+ [70]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
+
+(./TesisIvan.aux (./Anterior/Portada.aux)
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ (./Anterior/Dedicatoria.aux)
+(./Anterior/Agradecimientos.aux) (./Anterior/Resumen.aux)
+(./Anterior/Abstract.aux
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+) (./Anterior/Hipotesis.aux)
+(./Anterior/Justificacion.aux) (./Anterior/Objetivos.aux)
+(./Chapters/Capitulo1.aux) (./Chapters/Capitulo2.aux) (./Chapters/Capitulo3.aux
+) (./Chapters/Capitulo4.aux) (./Posterior/Conclusiones.aux)
+(./Posterior/trabajofuturo.aux) (./Posterior/Biblio.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 64.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 64.
+ ) 
 Here is how much of TeX's memory you used:
- 3634 strings out of 494553
- 46540 string characters out of 6177318
- 108971 words of memory out of 5000000
- 7308 multiletter control sequences out of 15000+600000
- 4702 words of font info for 16 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 28i,0n,32p,226b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 11871 strings out of 494491
+ 174439 string characters out of 6175380
+ 290173 words of memory out of 5000000
+ 14817 multiletter control sequences out of 15000+600000
+ 46521 words of font info for 74 fonts, out of 8000000 for 9000
+ 40 hyphenation exceptions out of 8191
+ 37i,14n,39p,1019b,695s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol
+/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
+mes/utmri8a.pfb>
+Output written on TesisIvan.pdf (86 pages, 10742827 bytes).
+PDF statistics:
+ 1471 PDF objects out of 1728 (max. 8388607)
+ 1126 compressed objects within 12 object streams
+ 293 named destinations out of 1000 (max. 500000)
+ 941 words of extra memory for PDF output out of 10000 (max. 10000000)
+
