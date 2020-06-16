@@ -8,71 +8,129 @@
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Esquema de un espectr\IeC {\'o}metro.}}{6}{figure.1.5}% 
 \contentsline {figure}{\numberline {1.6}{\ignorespaces Diagrama \IeC {\'o}ptico de los haces a la entrada del monocromador y colimados hacia la red de difracci\IeC {\'o}n. \cite {Czerny-Turney-Conf}}}{7}{figure.1.6}% 
 \contentsline {figure}{\numberline {1.7}{\ignorespaces Redes de difracci\IeC {\'o}n, las m\IeC {\'a}s comunes son las redes de difracci\IeC {\'o}n planas y c\IeC {\'o}ncavas, a\IeC {\'u}n que pueden tener otras formas, como convexa o toroidal \cite {ThorLabs}.}}{8}{figure.1.7}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Red por reflexi\IeC {\'o}n}}}{8}{figure.1.7}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Red por transmisi\IeC {\'o}n}}}{8}{figure.1.7}% 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Red de difracci\IeC {\'o}n plana}}}{8}{figure.1.7}% 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Red de difracci\IeC {\'o}n c\IeC {\'o}ncava}}}{8}{figure.1.7}% 
 \contentsline {figure}{\numberline {1.8}{\ignorespaces Diagrama de la incidencia y reflexi\IeC {\'o}n del haz sobre una red de difracci\IeC {\'o}n. $\alpha $ es el \IeC {\'a}ngulo incidente, $\beta $ el reflejado, $d$ es la distancia entre cada l\IeC {\'\i }nea en la red de difracci\IeC {\'o}n, $\lambda $ la longitud de onda. \cite {Excel2000}}}{9}{figure.1.8}% 
 \contentsline {figure}{\numberline {1.9}{\ignorespaces Funcionamiento del monocromador. A la salida solo se tiene una longitud de onda. \cite {Czerny-Turney-Conf}}}{10}{figure.1.9}% 
 \contentsline {figure}{\numberline {1.10}{\ignorespaces Espectro de emisi\IeC {\'o}n de una l\IeC {\'a}mpara de mercurio a baja presi\IeC {\'o}n.}}{11}{figure.1.10}% 
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Diagramas \IeC {\'o}pticos de dos tipos de monocromadores de red de difracci\IeC {\'o}n.}}{14}{figure.2.1}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Fastie-Ebert}}}{14}{figure.2.1}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Czerny-Turnet}}}{14}{figure.2.1}% 
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Difracci\IeC {\'o}n producida por un obst\IeC {\'a}culo, por un orificio grande y un orifico peque\IeC {\~n}o el cual est\IeC {\'a} en el orden de la longitud de onda \cite {Oliver2013a}}}{15}{figure.2.2}% 
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Fen\IeC {\'o}meno de difracci\IeC {\'o}n en una rendija. ``a'' es el tama\IeC {\~n}o de la rendija. \cite {longitud01}}}{15}{figure.2.3}% 
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Difracci\IeC {\'o}n de la luz con diferentes longitudes de onda.}}{16}{figure.2.4}% 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Difracci\IeC {\'o}n de la luz se aprecia el orden de difracci\IeC {\'o}n de diferentes longitudes de onda.}}{17}{figure.2.5}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Laser rojo de Helio-Ne\IeC {\'o}n $\lambda $=632.8nm}}}{16}{figure.2.4}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Laser verde de Helio-Ne\IeC {\'o}n $\lambda $=543.4nm}}}{16}{figure.2.4}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Difracci\IeC {\'o}n de la luz se aprecia el orden de difracci\IeC {\'o}n de diferentes longitudes de onda.}}{16}{figure.2.5}% 
 \contentsline {figure}{\numberline {2.6}{\ignorespaces Esquema de un motor a pasos. Se observan las dos partes principales que le componen. Rotor a la izquierda y estator a la derecha. \cite {Acarnley2002}}}{18}{figure.2.6}% 
 \contentsline {figure}{\numberline {2.7}{\ignorespaces Giro del rotor en sentido horario. \cite {BasicStepper}}}{19}{figure.2.7}% 
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Esquema del circuito integrado L293}}{23}{figure.2.8}% 
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Circuito para controlar el motor a pasos con un microcontrolador.}}{23}{figure.2.9}% 
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Circuito utilizando solo dos pines de control. \cite {Diymakers}}}{24}{figure.2.10}% 
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Tarjeta TB6560, control para motores a pasos. \cite {TB6560}}}{24}{figure.2.11}% 
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Configuraci\IeC {\'o}n de la tarjeta TB6560}}{25}{figure.2.12}% 
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Esquema de un tubo fotomultiplicador.}}{26}{figure.2.13}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {primer paso del motor.}}}{19}{figure.2.7}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {se energiza la bobina C, y el rotor cambia de posici\IeC {\'o}n.}}}{19}{figure.2.7}% 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Esquema del circuito integrado L293}}{22}{figure.2.8}% 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Circuito para controlar el motor a pasos con un microcontrolador.}}{22}{figure.2.9}% 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Circuito utilizando solo dos pines de control. \cite {Diymakers}}}{23}{figure.2.10}% 
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Tarjeta TB6560, control para motores a pasos. \cite {TB6560}}}{23}{figure.2.11}% 
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Configuraci\IeC {\'o}n de la tarjeta TB6560}}{24}{figure.2.12}% 
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Esquema de un tubo fotomultiplicador.}}{25}{figure.2.13}% 
 \contentsline {figure}{\numberline {2.14}{\ignorespaces Tubos fotomultiplicadores}}{26}{figure.2.14}% 
-\contentsline {figure}{\numberline {2.15}{\ignorespaces \textit {PMTs} m\IeC {\'o}dulos de la marca Hamamatsu. Est\IeC {\'a}n dise\IeC {\~n}ados para diferentes aplicaciones as\IeC {\'\i } como para entregar corriente o voltaje a la salida. \cite {Hamamatsu2007}}}{27}{figure.2.15}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {PMT \textit {head-on}}}}{26}{figure.2.14}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PMT \textit {side-on}}}}{26}{figure.2.14}% 
+\contentsline {figure}{\numberline {2.15}{\ignorespaces \textit {PMTs} m\IeC {\'o}dulos de la marca Hamamatsu. Est\IeC {\'a}n dise\IeC {\~n}ados para diferentes aplicaciones as\IeC {\'\i } como para entregar corriente o voltaje a la salida. \cite {Hamamatsu2007}}}{26}{figure.2.15}% 
 \contentsline {figure}{\numberline {2.16}{\ignorespaces Ajuste de sensibilidad del \textit {PMT m\IeC {\'o}dulo H8249}}}{27}{figure.2.16}% 
-\contentsline {figure}{\numberline {2.17}{\ignorespaces Sensibilidad y ganancia H8249}}{28}{figure.2.17}% 
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Sensibilidad y ganancia H8249}}{27}{figure.2.17}% 
 \contentsline {figure}{\numberline {2.18}{\ignorespaces ADC MCP3202 dos canales, 12 bits comunicaci\IeC {\'o}n SPI \cite {MCP3202}}}{29}{figure.2.18}% 
 \contentsline {figure}{\numberline {2.19}{\ignorespaces Potenci\IeC {\'o}metro digital X9C103 \cite {X9C102}}}{30}{figure.2.19}% 
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Esquema donde se muestran los componentes que se usar\IeC {\'a}n para el sistema desarrollado.}}{32}{figure.3.1}% 
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Monocromador SpectraPro 275 de la compa\IeC {\~n}\IeC {\'\i }a Action Research Corporation. Se observa desde una vista superior su exteriror, (izquierda) y su interior (derecha).}}{33}{figure.3.2}% 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Base del monocromador SpectraPro 275, dise\IeC {\~n}ada para colocar 3 diferentes redes de difracci\IeC {\'o}n.}}{34}{figure.3.3}% 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Fotograf\IeC {\'\i }a de la base del monocromador con 3 redes de difracci\IeC {\'o}n}}{35}{figure.3.4}% 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Redes de difracci\IeC {\'o}n sobre la base y a su vez sobre el tornillo sin fin.}}{36}{figure.3.5}% 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Informaci\IeC {\'o}n del \textit {encoder}, la nomenclatura de este indica su funcionamiento \cite {OPB992}}}{37}{figure.3.6}% 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Informaci\IeC {\'o}n del cableado del \textit {encoder}\cite {OPB992}}}{37}{figure.3.7}% 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Dimensiones del encoder. \cite {OPB992}}}{38}{figure.3.8}% 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Posici\IeC {\'o}n cero del sistema, el motor gira hasta que el \textit {encoder} encuentre la ranura de la posici\IeC {\'o}n cero.}}{38}{figure.3.9}% 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Interfaz gr\IeC {\'a}fica dise\IeC {\~n}ada para inicializar el sistema.}}{39}{figure.3.10}% 
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Espectro del LED amarillo medidos con el sistema propuesto (a) y con el QE65000 (b).}}{40}{figure.3.11}% 
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Espectro de un LED amarillo.}}{41}{figure.3.12}% 
-\contentsline {figure}{\numberline {3.13}{\ignorespaces L\IeC {\'\i }neas de emisi\IeC {\'o}n de la l\IeC {\'a}mpara de Mercurio. L\IeC {\'a}mpara de Ocean Optics HG-1 Mercury Arg\IeC {\'o}n. \cite {Excel2000}}}{41}{figure.3.13}% 
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Espectro medido con el sistema desarrollado, intensidad contra pasos del motor.}}{42}{figure.3.14}% 
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Espectro de emisi\IeC {\'o}n del mercurio, se aprecian m\IeC {\'a}s de 12 l\IeC {\'\i }neas de emisi\IeC {\'o}n. Se resaltan las 12 l\IeC {\'\i }neas que usaremos para calibrar el sistema desarrollado, \cite {CRC2016}.}}{43}{figure.3.15}% 
-\contentsline {figure}{\numberline {3.16}{\ignorespaces L\IeC {\'\i }neas de emisi\IeC {\'o}n del mercurio. Obtenidas por el sistema, su relaci\IeC {\'o}n es en pasos y no en longitud de onda.)}}{43}{figure.3.16}% 
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio. Se aprecia la repetitividad del sistema.}}{44}{figure.3.17}% 
-\contentsline {figure}{\numberline {3.18}{\ignorespaces Espectro de emisi\IeC {\'o}n de la l\IeC {\'a}mpara de mercurio, espectro en intensidad contra pasos.}}{45}{figure.3.18}% 
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Diferencias de pasos en los picos encontrados.}}{45}{figure.3.19}% 
-\contentsline {figure}{\numberline {3.20}{\ignorespaces Diferencia visible en la medici\IeC {\'o}n del espectro de la l\IeC {\'a}mpara de mercurio. Hay dos l\IeC {\'\i }neas que no coinciden se decide cuales quitar.}}{46}{figure.3.20}% 
-\contentsline {figure}{\numberline {3.21}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio con y sin filtro, intensidad contra pasos.}}{47}{figure.3.21}% 
-\contentsline {figure}{\numberline {3.22}{\ignorespaces Interfaz de curve fitting tool de MATLAB.}}{48}{figure.3.22}% 
-\contentsline {figure}{\numberline {3.23}{\ignorespaces El espectro de emisi\IeC {\'o}n de la l\IeC {\'a}mpara de mercurio, adquirido por nuestro sistema y ajustado con la ecuaci\IeC {\'o}n, color rojo. El asterisco azul son las 12 l\IeC {\'\i }neas del espectro de emisi\IeC {\'o}n del mercurio. Se aprecia como coinciden estas 12 l\IeC {\'\i }neas con el espectro obtenido con el sistema.}}{49}{figure.3.23}% 
-\contentsline {figure}{\numberline {3.24}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio medido con el sistema. La intensidad est\IeC {\'a} en unidades relativas y la longitud de onda en nan\IeC {\'o}metros. El sistema ya est\IeC {\'a} calibrado.}}{50}{figure.3.24}% 
-\contentsline {figure}{\numberline {3.25}{\ignorespaces Comparaci\IeC {\'o}n entre el ADC del Arduino MEGA, izquierda y el ADC MCP3202, derecha. Las dos gr\IeC {\'a}ficas est\IeC {\'a}n normalizadas.}}{51}{figure.3.25}% 
-\contentsline {figure}{\numberline {3.26}{\ignorespaces Sensibilidad del \textit {PMT}.}}{52}{figure.3.26}% 
-\contentsline {figure}{\numberline {3.27}{\ignorespaces Comportamiento del potenci\IeC {\'o}metro digital X9C103}}{53}{figure.3.27}% 
-\contentsline {figure}{\numberline {3.28}{\ignorespaces Espectro de l\IeC {\'a}mpara de mercurio medido con diferentes sensibilidades del \textbf {PMT}}}{54}{figure.3.28}% 
-\contentsline {figure}{\numberline {3.29}{\ignorespaces Respuesta espectral de la red de difracci\IeC {\'o}n y del \textbf {PMT}, se aprecia que ambos empiezan en los 200nm, y llegan hasta los 800nm pero con sensibilidad mucho menos (\textbf {PMT}) \cite {H8249} y menor eficiencia (red de difracci\IeC {\'o}n. \cite {reddifrac}) }}{54}{figure.3.29}% 
-\contentsline {figure}{\numberline {3.30}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL de OceanOptics. Usada para calibrar los espectr\IeC {\'o}metros en potencia. Su intervalo va desde los 300 nm hasta longitudes de onda mayores a los 1000nm. \cite {Manual1000}}}{55}{figure.3.30}% 
-\contentsline {figure}{\numberline {3.31}{\ignorespaces L\IeC {\'a}mpara de tungsteno-hal\IeC {\'o}geno de OceanOptics, LS-1-CAL. Medida con el sistema desarrollado. Se observa que el sistema comienza a decaer en sensibilidad a partir de los 540nm aproximadamente. Al llegar a los 780nm el sistema es incapaz de medir.}}{55}{figure.3.31}% 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio medido con el espectr\IeC {\'o}metro HR4000. Se utilizan dos tiempos de integraci\IeC {\'o}n diferentes.}}{56}{figure.4.1}% 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio adquirido con el espectr\IeC {\'o}metro QE65000. Se aprecia c\IeC {\'o}mo se satura en una gran cantidad de l\IeC {\'\i }neas.}}{57}{figure.4.2}% 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio medido con el sistema desarrollado. El monocromador tiene los \textit {slits} de entrada y salida en su menor apertura, 10$\mu $m, y en el m\IeC {\'a}ximo de sensibilidad del \textbf {PMT}.}}{57}{figure.4.3}% 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Dos de las l\IeC {\'\i }neas de emisi\IeC {\'o}n de la l\IeC {\'a}mpara de mercurio $\lambda $= 576.96nm y 579.066 nm. Se aprecia que el sistema desarrollado resuelve mejor estas dos l\IeC {\'\i }neas de emisi\IeC {\'o}n.}}{58}{figure.4.4}% 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL}}{59}{figure.4.5}% 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Espectro del LED Ultravioleta 380nm}}{59}{figure.4.6}% 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces LED violeta $\lambda $= 400nm}}{60}{figure.4.7}% 
-\contentsline {figure}{\numberline {4.8}{\ignorespaces LED rojo $\lambda $ = 650nm}}{60}{figure.4.8}% 
-\contentsline {figure}{\numberline {4.9}{\ignorespaces LED rojo, de longitud de onda 700nm}}{61}{figure.4.9}% 
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL y el LED rojo $\lambda $ =700nm.}}{62}{figure.4.10}% 
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Longitud de onda que se avanza por paso.}}{62}{figure.4.11}% 
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL, \textit {datasheet} (rojo), sistema (azul)}}{63}{figure.4.12}% 
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL en unidades relativas.}}{64}{figure.4.13}% 
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL medido con el sistema con ajuste de forma}}{64}{figure.4.14}% 
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Espectro de un LED rojo (700nm) con ajuste de forma.}}{65}{figure.4.15}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Monocromador SpectraPro 275}}}{33}{figure.3.2}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Interior del SpectraPro 275}}}{33}{figure.3.2}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Base del monocromador SpectraPro 275, dise\IeC {\~n}ada para colocar 3 diferentes redes de difracci\IeC {\'o}n.}}{33}{figure.3.3}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Base para tres redes de difracci\IeC {\'o}n}}}{33}{figure.3.3}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Vista frontal de las redes sobre la base.}}}{33}{figure.3.3}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Fotograf\IeC {\'\i }a de la base del monocromador con 3 redes de difracci\IeC {\'o}n}}{34}{figure.3.4}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Redes de difracci\IeC {\'o}n sobre la base y a su vez sobre el tornillo sin fin.}}{34}{figure.3.5}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tornillo sin fin}}}{34}{figure.3.5}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {base con rueda dentada sobre el tornillo sin fin.}}}{34}{figure.3.5}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Informaci\IeC {\'o}n del \textit {encoder}, la nomenclatura de este indica su funcionamiento \cite {OPB992}}}{36}{figure.3.6}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Informaci\IeC {\'o}n del cableado del \textit {encoder}\cite {OPB992}}}{36}{figure.3.7}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {diagrama del encoder.}}}{36}{figure.3.7}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Color de los cables}}}{36}{figure.3.7}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Dimensiones del encoder. \cite {OPB992}}}{37}{figure.3.8}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{37}{figure.3.8}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{37}{figure.3.8}% 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Dimensi\IeC {\'o}n de apertura del encoder}}}{37}{figure.3.8}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Posici\IeC {\'o}n cero del sistema, el motor gira hasta que el \textit {encoder} encuentre la ranura de la posici\IeC {\'o}n cero.}}{37}{figure.3.9}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Interfaz gr\IeC {\'a}fica dise\IeC {\~n}ada para inicializar el sistema.}}{38}{figure.3.10}% 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Espectro del LED amarillo medidos con el sistema propuesto (a) y con el QE65000 (b).}}{39}{figure.3.11}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sistema propuesto.}}}{39}{figure.3.11}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {QE65000}}}{39}{figure.3.11}% 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Espectro de un LED amarillo.}}{39}{figure.3.12}% 
+\contentsline {figure}{\numberline {3.13}{\ignorespaces L\IeC {\'\i }neas de emisi\IeC {\'o}n de la l\IeC {\'a}mpara de Mercurio. L\IeC {\'a}mpara de Ocean Optics HG-1 Mercury Arg\IeC {\'o}n. \cite {Excel2000}}}{40}{figure.3.13}% 
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Espectro medido con el sistema desarrollado, intensidad contra pasos del motor.}}{40}{figure.3.14}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro de la l\IeC {\'a}mpara de mercurio HG-01 de Ocean Optics}}}{40}{figure.3.14}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Acercamiento a las l\IeC {\'\i }neas de emisi\IeC {\'o}n.}}}{40}{figure.3.14}% 
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Espectro de emisi\IeC {\'o}n del mercurio, se aprecian m\IeC {\'a}s de 12 l\IeC {\'\i }neas de emisi\IeC {\'o}n. Se resaltan las 12 l\IeC {\'\i }neas que usaremos para calibrar el sistema desarrollado, \cite {CRC2016}.}}{41}{figure.3.15}% 
+\contentsline {figure}{\numberline {3.16}{\ignorespaces L\IeC {\'\i }neas de emisi\IeC {\'o}n del mercurio. Obtenidas por el sistema, su relaci\IeC {\'o}n es en pasos y no en longitud de onda.)}}{41}{figure.3.16}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Pondremos atenci\IeC {\'o}n a ese recuadro.}}}{41}{figure.3.16}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Se observan m\IeC {\'a}s l\IeC {\'\i }neas de emisi\IeC {\'o}n}}}{41}{figure.3.16}% 
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio. Se aprecia la repetitividad del sistema.}}{42}{figure.3.17}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro de la l\IeC {\'a}mpara de mercurio medido.}}}{42}{figure.3.17}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {gr\IeC {\'a}fica con 10 mediciones del espectro de la l\IeC {\'a}mpara de mercurio.}}}{42}{figure.3.17}% 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Se observa la repetitividad a la hora de medir del sistema, nos enfocamos en solo un pico.}}}{42}{figure.3.17}% 
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Espectro de emisi\IeC {\'o}n de la l\IeC {\'a}mpara de mercurio, espectro en intensidad contra pasos.}}{43}{figure.3.18}% 
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Diferencias de pasos en los picos encontrados.}}{43}{figure.3.19}% 
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Diferencia visible en la medici\IeC {\'o}n del espectro de la l\IeC {\'a}mpara de mercurio. Hay dos l\IeC {\'\i }neas que no coinciden se decide cuales quitar.}}{44}{figure.3.20}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro del Hg 12 l\IeC {\'\i }neas (no todas se ven en la gr\IeC {\'a}fica.)}}}{44}{figure.3.20}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Espectro del Hg medido 14 l\IeC {\'\i }neas}}}{44}{figure.3.20}% 
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio con y sin filtro, intensidad contra pasos.}}{44}{figure.3.21}% 
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Interfaz de curve fitting tool de MATLAB.}}{45}{figure.3.22}% 
+\contentsline {figure}{\numberline {3.23}{\ignorespaces El espectro de emisi\IeC {\'o}n de la l\IeC {\'a}mpara de mercurio, adquirido por nuestro sistema y ajustado con la ecuaci\IeC {\'o}n, color rojo. El asterisco azul son las 12 l\IeC {\'\i }neas del espectro de emisi\IeC {\'o}n del mercurio. Se aprecia como coinciden estas 12 l\IeC {\'\i }neas con el espectro obtenido con el sistema.}}{47}{figure.3.23}% 
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio medido con el sistema. La intensidad est\IeC {\'a} en unidades relativas y la longitud de onda en nan\IeC {\'o}metros. El sistema ya est\IeC {\'a} calibrado.}}{48}{figure.3.24}% 
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Comparaci\IeC {\'o}n entre el ADC del Arduino MEGA, izquierda y el ADC MCP3202, derecha. Las dos gr\IeC {\'a}ficas est\IeC {\'a}n normalizadas.}}{48}{figure.3.25}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {ADC propio del Arduino MEGA 10bits}}}{48}{figure.3.25}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {ADC- MCP3202 de 12 bits}}}{48}{figure.3.25}% 
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Sensibilidad del \textit {PMT}.}}{49}{figure.3.26}% 
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Comportamiento del potenci\IeC {\'o}metro digital X9C103}}{50}{figure.3.27}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Voltaje en cada paso del potenci\IeC {\'o}metro digital.}}}{50}{figure.3.27}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Gr\IeC {\'a}fica de la desviaci\IeC {\'o}n est\IeC {\'a}ndar.}}}{50}{figure.3.27}% 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {desviaci\IeC {\'o}n est\IeC {\'a}ndar de cerca. La variaci\IeC {\'o}n de voltaje es de aproximadamente un paso, 10mV.}}}{50}{figure.3.27}% 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Valor de la desviaci\IeC {\'o}n est\IeC {\'a}ndar en cada paso.}}}{50}{figure.3.27}% 
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Espectro de l\IeC {\'a}mpara de mercurio medido con diferentes sensibilidades del \textbf {PMT}}}{50}{figure.3.28}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Ganancia a 0.20 volts}}}{50}{figure.3.28}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Ganancia a 0.50 volts}}}{50}{figure.3.28}% 
+\contentsline {figure}{\numberline {3.29}{\ignorespaces Respuesta espectral de la red de difracci\IeC {\'o}n y del \textbf {PMT}, se aprecia que ambos empiezan en los 200nm, y llegan hasta los 800nm pero con sensibilidad mucho menos (\textbf {PMT}) \cite {H8249} y menor eficiencia (red de difracci\IeC {\'o}n. \cite {reddifrac}) }}{51}{figure.3.29}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Respuesta espectral del \textbf {PMT}, su pico de sensibilidad est\IeC {\'a} en los 400nm}}}{51}{figure.3.29}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Eficiencia de la red de difracci\IeC {\'o}n con 2400 l\IeC {\'\i }neas/mm}}}{51}{figure.3.29}% 
+\contentsline {figure}{\numberline {3.30}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL de OceanOptics. Usada para calibrar los espectr\IeC {\'o}metros en potencia. Su intervalo va desde los 300 nm hasta longitudes de onda mayores a los 1000nm. \cite {Manual1000}}}{52}{figure.3.30}% 
+\contentsline {figure}{\numberline {3.31}{\ignorespaces L\IeC {\'a}mpara de tungsteno-hal\IeC {\'o}geno de OceanOptics, LS-1-CAL. Medida con el sistema desarrollado. Se observa que el sistema comienza a decaer en sensibilidad a partir de los 540nm aproximadamente. Al llegar a los 780nm el sistema es incapaz de medir.}}{52}{figure.3.31}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio medido con el espectr\IeC {\'o}metro HR4000. Se utilizan dos tiempos de integraci\IeC {\'o}n diferentes.}}{53}{figure.4.1}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {HR4000, tiempo de integraci\IeC {\'o}n 8ms}}}{53}{figure.4.1}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {HR4000, tiempo de integraci\IeC {\'o}n 100ms}}}{53}{figure.4.1}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio adquirido con el espectr\IeC {\'o}metro QE65000. Se aprecia c\IeC {\'o}mo se satura en una gran cantidad de l\IeC {\'\i }neas.}}{54}{figure.4.2}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro de la l\IeC {\'a}mpara de mercurio con un tiempo de integraci\IeC {\'o}n de 8ms, m\IeC {\'\i }nimo del sistema.}}}{54}{figure.4.2}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Espectro de la l\IeC {\'a}mpara de mercurio con un tiempo de integraci\IeC {\'o}n de 100 ms.}}}{54}{figure.4.2}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Espectro de la l\IeC {\'a}mpara de mercurio medido con el sistema desarrollado. El monocromador tiene los \textit {slits} de entrada y salida en su menor apertura, 10$\mu $m, y en el m\IeC {\'a}ximo de sensibilidad del \textbf {PMT}.}}{54}{figure.4.3}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Dos de las l\IeC {\'\i }neas de emisi\IeC {\'o}n de la l\IeC {\'a}mpara de mercurio $\lambda $= 576.96nm y 579.066 nm. Se aprecia que el sistema desarrollado resuelve mejor estas dos l\IeC {\'\i }neas de emisi\IeC {\'o}n.}}{55}{figure.4.4}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {L\IeC {\'\i }neas de emisi\IeC {\'o}n medidas con el QE65000, tiempo de integraci\IeC {\'o}n 8ms.}}}{55}{figure.4.4}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {L\IeC {\'\i }neas de emisi\IeC {\'o}n medidas con el HR4000, tiempo de integraci\IeC {\'o}n 3.8ms}}}{55}{figure.4.4}% 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {L\IeC {\'\i }neas de emisi\IeC {\'o}n medidas con el sistema desarrollado. Slits de entrada y salida a 10$mu$m, sensibilidad 0.8v.}}}{55}{figure.4.4}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL}}{56}{figure.4.5}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Espectro del LED Ultravioleta 380nm}}{56}{figure.4.6}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces LED violeta $\lambda $= 400nm}}{57}{figure.4.7}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro del LED violeta, 400nm}}}{57}{figure.4.7}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Acercamiento a los m\IeC {\'a}ximos.}}}{57}{figure.4.7}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces LED rojo $\lambda $ = 650nm}}{57}{figure.4.8}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {LED rojo $\lambda $}}}{57}{figure.4.8}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Acercamiento a los m\IeC {\'a}ximos}}}{57}{figure.4.8}% 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces LED rojo, de longitud de onda 700nm}}{57}{figure.4.9}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro del LED rojo $\lambda $=700nm}}}{57}{figure.4.9}% 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL y el LED rojo $\lambda $ =700nm.}}{58}{figure.4.10}% 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Longitud de onda que se avanza por paso.}}{58}{figure.4.11}% 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL, \textit {datasheet} (rojo), sistema (azul)}}{59}{figure.4.12}% 
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL en unidades relativas.}}{60}{figure.4.13}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro de la l\IeC {\'a}mpara LS-1-CAL en unidades relativas.}}}{60}{figure.4.13}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Espectro de l\IeC {\'a}mpara LS-1-CAL normalizado.}}}{60}{figure.4.13}% 
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Espectro de la l\IeC {\'a}mpara LS-1-CAL medido con el sistema con ajuste de forma}}{60}{figure.4.14}% 
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Espectro de un LED rojo (700nm) con ajuste de forma.}}{61}{figure.4.15}% 
