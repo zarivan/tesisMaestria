@@ -1,6 +1,7 @@
 \babel@toc {spanish}{}
 \babel@toc {english}{}
 \babel@toc {spanish}{}
+<<<<<<< HEAD
 \contentsline {table}{\numberline {1.1}{\ignorespaces Intervalos de longitud de onda en el vacío para los distintos colores. \cite {Bruno2005}}}{4}{table.1.1}%
 \contentsline {table}{\numberline {1.2}{\ignorespaces ISO 21348 sección de subcategorías del ultravioleta. \cite {Solar}}}{5}{table.1.2}%
 \contentsline {table}{\numberline {2.1}{\ignorespaces Secuencia para hacer girar un motor a pasos. \cite {BasicStepper}}}{20}{table.2.1}%
@@ -13,3 +14,17 @@
 \contentsline {table}{\numberline {3.2}{\ignorespaces Las 12 líneas de emisión de la lámpara de mercurio, en nanómetros y el número de pasos que se encontró para cada una de estas líneas.}}{45}{table.3.2}%
 \contentsline {table}{\numberline {3.3}{\ignorespaces Diferentes ajustes obtenidos con \textit {curve fitting tool}. Varios de estos ajustes tienen una \textit {R-square} = 1. Por lo que se utiliza el siguiente criterio el RMSE. Siendo Fourier el mejor ajuste.}}{46}{table.3.3}%
 \contentsline {table}{\numberline {3.4}{\ignorespaces Comparación de la longitud de las líneas de emisión de la lámpara de mercurio y la ecuación obtenida para encontrar la relación de pasos a longitud de onda ($nm$).}}{47}{table.3.4}%
+=======
+\contentsline {table}{\numberline {1.1}{\ignorespaces Intervalos de longitud de onda en el vac\IeC {\'\i }o para los distintos colores. \cite {Bruno2005}}}{4}{table.1.1}% 
+\contentsline {table}{\numberline {1.2}{\ignorespaces ISO 21348 secci\IeC {\'o}n de subcategor\IeC {\'\i }as del ultravioleta. \cite {Solar}}}{5}{table.1.2}% 
+\contentsline {table}{\numberline {2.1}{\ignorespaces Secuencia para hacer girar un motor a pasos. \cite {BasicStepper}}}{20}{table.2.1}% 
+\contentsline {table}{\numberline {2.2}{\ignorespaces Secuencia de paso "doble", se activan dos bobinas a la vez. \cite {BasicStepper}}}{20}{table.2.2}% 
+\contentsline {table}{\numberline {2.3}{\ignorespaces Secuencia para medios pasos, se puede avanzar la mitad de un paso. \cite {BasicStepper}}}{21}{table.2.3}% 
+\contentsline {table}{\numberline {2.4}{\ignorespaces Se muestra la resoluci\IeC {\'o}n de diferentes ADCs, con un voltaje m\IeC {\'a}ximo de entrada de 5 volts.}}{29}{table.2.4}% 
+\contentsline {table}{\numberline {2.5}{\ignorespaces Tabla con las funciones de los pines del ADC MCP3202 \cite {MCP3202}}}{29}{table.2.5}% 
+\contentsline {table}{\numberline {2.6}{\ignorespaces Descripci\IeC {\'o}n de los pines del potenci\IeC {\'o}metro digital. \cite {X9C102} }}{30}{table.2.6}% 
+\contentsline {table}{\numberline {3.1}{\ignorespaces Picos encontrados con \textbf {findpeak} en las mediciones}}{42}{table.3.1}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces Las 12 l\IeC {\'\i }neas de emisi\IeC {\'o}n de la l\IeC {\'a}mpara de mercurio, en nan\IeC {\'o}metros y el n\IeC {\'u}mero de pasos que se encontr\IeC {\'o} para cada una de estas l\IeC {\'\i }neas.}}{45}{table.3.2}% 
+\contentsline {table}{\numberline {3.3}{\ignorespaces Diferentes ajustes obtenidos con \textit {curve fitting tool}. Varios de estos ajustes tienen una \textit {R-square} = 1. Por lo que se utiliza el siguiente criterio el RMSE. Siendo Fourier el mejor ajuste.}}{46}{table.3.3}% 
+\contentsline {table}{\numberline {3.4}{\ignorespaces Comparaci\IeC {\'o}n de la longitud de las l\IeC {\'\i }neas de emisi\IeC {\'o}n de la l\IeC {\'a}mpara de mercurio y la ecuaci\IeC {\'o}n obtenida para encontrar la relaci\IeC {\'o}n de pasos a longitud de onda ($nm$).}}{47}{table.3.4}% 
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.18)  21 JUN 2020 09:01
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.6.15)  16 JUN 2020 19:56
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -57,12 +61,18 @@ File: babel.def 2019/11/14 3.36 Babel common definitions
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count92
 )
+<<<<<<< HEAD
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 108.
+=======
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 )
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/generic/babel-spanish/spanish.
 ldf
@@ -366,6 +376,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
+<<<<<<< HEAD
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
@@ -375,11 +386,23 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+=======
+(/usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 \XKV@toks=\toks24
 \XKV@tempa@toks=\toks25
 )
 \XKV@depth=\count114
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+<<<<<<< HEAD
 )) (d:/archivos/texlive/texlive/2019/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 
@@ -391,6 +414,18 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/03/01 v1.8w multicolumn formatting (FMi)
+=======
+))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 \c@tracingmulticols=\count115
 \mult@box=\box31
 \multicol@leftmargin=\dimen117
@@ -429,17 +464,28 @@ Package: multicol 2019/03/01 v1.8w multicolumn formatting (FMi)
 \@tempa=\box52
 \@tempa=\box53
 \@tempa=\box54
+<<<<<<< HEAD
 \c@minrows=\count121
 \c@columnbadness=\count122
 \c@finalcolumnbadness=\count123
+=======
+\c@columnbadness=\count121
+\c@finalcolumnbadness=\count122
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 \last@try=\dimen123
 \multicolovershoot=\dimen124
 \multicolundershoot=\dimen125
 \mult@nat@firstbox=\box55
 \colbreak@box=\box56
+<<<<<<< HEAD
 \mc@col@check@num=\count124
 ))
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+=======
+\mc@col@check@num=\count123
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
@@ -459,6 +505,29 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
+<<<<<<< HEAD
+=======
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip48
+\subfigcapskip=\skip49
+\subfigcaptopadj=\dimen128
+\subfigbottomskip=\skip50
+\subfigcapmargin=\dimen129
+\subfiglabelskip=\skip51
+\c@subfigure=\count124
+\c@lofdepth=\count125
+\c@subtable=\count126
+\c@lotdepth=\count127
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip52
+\subfig@bottom=\skip53
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 )
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
@@ -483,9 +552,21 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks26
 )
+<<<<<<< HEAD
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
+=======
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
@@ -495,6 +576,7 @@ Package: hyperref 2019/11/10 v7.00c Hypertext links for LaTeX
 
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+<<<<<<< HEAD
 )
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.st
 y
@@ -505,6 +587,17 @@ Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 ) (d:/archivos/texlive/texlive/2019/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+=======
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -524,6 +617,7 @@ Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 ) (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/oberdiek/hycolor.sty
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+<<<<<<< HEAD
 
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/oberdiek/xcolor-patch.st
 y
@@ -534,24 +628,37 @@ Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/oberdiek/letltxmacro.sty
 Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
 ) (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+=======
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen130
+<<<<<<< HEAD
 \Hy@linkcounter=\count129
 \Hy@pagecounter=\count130
+=======
+\Hy@linkcounter=\count128
+\Hy@pagecounter=\count129
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2019/11/10 v7.00c Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
+<<<<<<< HEAD
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/generic/oberdiek/intcalc.sty
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count131
+=======
+\Hy@SavedSpaceFactor=\count130
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -562,6 +669,7 @@ Package hyperref Info: Hyper index ON on input line 4543.
 Package hyperref Info: Plain pages OFF on input line 4550.
 Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+<<<<<<< HEAD
 Package hyperref Info: Bookmarks ON on input line 4788.
 \c@Hy@tempcnt=\count132
  (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/url/url.sty
@@ -598,17 +706,50 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 \Hy@abspage=\count134
 \c@Item=\count135
 \c@Hfootnote=\count136
+=======
+Package hyperref Info: Bookmarks ON on input line 4803.
+\c@Hy@tempcnt=\count131
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5156.
+\XeTeXLinkMargin=\dimen131
+\Fld@menulength=\count132
+\Field@Width=\dimen132
+\Fld@charsize=\dimen133
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring OFF on input line 6431.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
+\Hy@abspage=\count133
+\c@Item=\count134
+\c@Hfootnote=\count135
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2019/11/10 v7.00c Hyperref driver for pdfTeX
 
+<<<<<<< HEAD
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/oberdiek/atveryend.sty
 Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
 \Fld@listcount=\count137
 \c@bookmark@seq@number=\count138
+=======
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+\Fld@listcount=\count136
+\c@bookmark@seq@number=\count137
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.
 sty
@@ -631,15 +772,24 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+<<<<<<< HEAD
 \calc@Acount=\count139
 \calc@Bcount=\count140
+=======
+\calc@Acount=\count138
+\calc@Bcount=\count139
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 \calc@Adimen=\dimen134
 \calc@Bdimen=\dimen135
 \calc@Askip=\skip55
 \calc@Bskip=\skip56
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
+<<<<<<< HEAD
 \calc@Ccount=\count141
+=======
+\calc@Ccount=\count140
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 \calc@Cskip=\skip57
 )
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/eso-pic/eso-pic.sty
@@ -664,18 +814,33 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ))
 \AM@pagewidth=\dimen136
 \AM@pageheight=\dimen137
+<<<<<<< HEAD
  (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2019/09/21 v0.5n Pdfpages driver for pdfTeX (AM)
+=======
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 )
 \AM@pagebox=\box57
 \AM@global@opts=\toks27
 \AM@toc@title=\toks28
+<<<<<<< HEAD
 \c@AM@survey=\count142
 \AM@templatesizebox=\box58
 )
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 37.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 37.
 Package hyperref Info: Option `colorlinks' set `true' on input line 37.
+=======
+\c@AM@survey=\count141
+\AM@templatesizebox=\box58
+)
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 36.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 36.
+Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 
 
 Package hyperref Warning: Option `pdftex' has already been used,
@@ -688,6 +853,7 @@ Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
 Package: bookmark 2019/06/04 v1.27 PDF bookmarks (HO)
 
+<<<<<<< HEAD
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
@@ -697,6 +863,15 @@ File: bkm-pdftex.def 2019/06/04 v1.27 bookmark driver for pdfTeX (HO)
 )) (./TesisIvan.aux (./Anterior/Portada.aux)
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
+=======
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
+\BKM@id=\count142
+))
+(./TesisIvan.aux (./Anterior/Portada.aux)
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
  (./Anterior/Dedicatoria.aux)
 (./Anterior/Agradecimientos.aux) (./Anterior/Resumen.aux)
 (./Anterior/Abstract.aux
@@ -737,13 +912,20 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line 45
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
+<<<<<<< HEAD
 LaTeX Info: Redefining \. on input line 45.
 LaTeX Info: Redefining \% on input line 45.
 \c@lstlisting=\count144
+=======
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+\c@lstlisting=\count143
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
+<<<<<<< HEAD
 \scratchcounter=\count145
 \scratchdimen=\dimen138
 \scratchbox=\box59
@@ -758,6 +940,20 @@ i
 )
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.s
 ty
+=======
+\scratchcounter=\count144
+\scratchdimen=\dimen138
+\scratchbox=\box59
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen139
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks30
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
@@ -787,7 +983,11 @@ Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 g.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
+<<<<<<< HEAD
 \c@section@level=\count151
+=======
+\c@section@level=\count150
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 )
 LaTeX Info: Redefining \ref on input line 45.
 LaTeX Info: Redefining \pageref on input line 45.
@@ -908,15 +1108,26 @@ Overfull \hbox (0.23961pt too wide) detected at line 11
 
 
 Overfull \hbox (4.0315pt too wide) detected at line 12
+<<<<<<< HEAD
  [][]
  []
 
 
 Overfull \hbox (7.82338pt too wide) detected at line 14
+=======
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
  [][]
  []
 
 
+<<<<<<< HEAD
+=======
+Overfull \hbox (7.82338pt too wide) detected at line 14
+ [][]
+ []
+
+
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 Overfull \hbox (7.82338pt too wide) detected at line 15
  [][]
  []
@@ -1093,10 +1304,17 @@ r.jpg>
 Package pdftex.def Info: Imagenes/Spectral-components-Concave-Holographic-Grati
 ngs-for-Monochromator.jpg  used on input line 179.
 (pdftex.def)             Requested size: 170.55789pt x 85.35667pt.
+<<<<<<< HEAD
 <Imagenes/reflexión.png, id=562, 316.93407pt x 219.06844pt>
 File: Imagenes/reflexión.png Graphic file (type png)
 <use Imagenes/reflexión.png>
 Package pdftex.def Info: Imagenes/reflexión.png  used on input line 192.
+=======
+<Imagenes/reflexion.png, id=562, 316.93407pt x 219.06844pt>
+File: Imagenes/reflexion.png Graphic file (type png)
+<use Imagenes/reflexion.png>
+Package pdftex.def Info: Imagenes/reflexion.png  used on input line 192.
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 (pdftex.def)             Requested size: 255.83812pt x 176.84276pt.
 LaTeX Info: Redefining \. on input line 196.
 LaTeX Info: Redefining \% on input line 196.
@@ -1112,7 +1330,11 @@ on input line 213.
 (pdftex.def)             Requested size: 170.55441pt x 105.7875pt.
 LaTeX Info: Redefining \. on input line 218.
 LaTeX Info: Redefining \% on input line 218.
+<<<<<<< HEAD
  [9 <./Imagenes/reflexión.png>]
+=======
+ [9 <./Imagenes/reflexion.PNG>]
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 <Imagenes/lamparaMercurio.png, id=591, 423.83344pt x 271.76532pt>
 File: Imagenes/lamparaMercurio.png Graphic file (type png)
 <use Imagenes/lamparaMercurio.png>
@@ -1120,6 +1342,10 @@ Package pdftex.def Info: Imagenes/lamparaMercurio.png  used on input line 232.
 (pdftex.def)             Requested size: 298.47348pt x 191.39137pt.
 LaTeX Info: Redefining \. on input line 236.
 LaTeX Info: Redefining \% on input line 236.
+<<<<<<< HEAD
+=======
+
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 [10 <./Imagenes/1280px-Czerny-Turner_Monochromator.jpg>]
 LaTeX Info: Redefining \. on input line 242.
 LaTeX Info: Redefining \% on input line 242.
@@ -1337,10 +1563,17 @@ Package pdftex.def Info: Imagenes/2/TB6560a.png  used on input line 236.
 LaTeX Info: Redefining \. on input line 243.
 LaTeX Info: Redefining \% on input line 243.
  [23 <./Imagenes/2/bipolar-2-fils.jpg> <./Imagenes/2/TB6560a.png>]
+<<<<<<< HEAD
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 46.
 
 (d:/archivos/texlive/texlive/2019/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+=======
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 246.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 <Imagenes/2/tmap_0051.png, id=765, 812.03375pt x 281.05pt>
@@ -1350,8 +1583,12 @@ Package pdftex.def Info: Imagenes/2/tmap_0051.png  used on input line 254.
 (pdftex.def)             Requested size: 426.39255pt x 147.57489pt.
 LaTeX Info: Redefining \. on input line 264.
 LaTeX Info: Redefining \% on input line 264.
+<<<<<<< HEAD
 
 [24 <./Imagenes/2/tmap_0051.png>]
+=======
+ [24 <./Imagenes/2/tmap_0051.png>]
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 <Imagenes/2/PMT.png, id=777, 472.01344pt x 212.29312pt>
 File: Imagenes/2/PMT.png Graphic file (type png)
 <use Imagenes/2/PMT.png>
@@ -1399,7 +1636,11 @@ odule.jpg>]
 LaTeX Info: Redefining \. on input line 339.
 LaTeX Info: Redefining \% on input line 339.
  [27 <./Imagenes/2/SensibilidadAjuste.PNG> <./Imagenes/2/PMT_GAIN.PNG>]
+<<<<<<< HEAD
 Overfull \hbox (35.2907pt too wide) in paragraph at lines 360--377
+=======
+Overfull \hbox (35.29063pt too wide) in paragraph at lines 360--377
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
  [][] 
  []
 
@@ -1835,11 +2076,19 @@ Overfull \hbox (14.98192pt too wide) in paragraph at lines 480--494
  []
 
 )
+<<<<<<< HEAD
 LaTeX Info: Redefining \. on input line 60.
 LaTeX Info: Redefining \% on input line 60.
  [51 <./Imagenes/3/pmt_sen.PNG> <./Imagenes/3/redEfi.png>]
 LaTeX Info: Redefining \. on input line 60.
 LaTeX Info: Redefining \% on input line 60.
+=======
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [51 <./Imagenes/3/pmt_sen.PNG> <./Imagenes/3/redEfi.png>]
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
  [52 <./Imagenes/3/lamparaTH_DPNG.PNG> <./Imagenes/3/lamparaTH.PNG>]
 \openout2 = `Chapters/Capitulo4.aux'.
 
@@ -1875,9 +2124,15 @@ File: Imagenes/4/spectra100.png Graphic file (type png)
 Package pdftex.def Info: Imagenes/4/spectra100.png  used on input line 27.
 (pdftex.def)             Requested size: 383.75919pt x 142.26808pt.
 [53
+<<<<<<< HEAD
 
 
 
+=======
+
+
+
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
  <./Imagenes/4/HR4000_4ms.PNG> <./Imagenes/4/HR4000_100ms.PNG>]
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
@@ -2005,8 +2260,13 @@ LaTeX Info: Redefining \. on input line 153.
 LaTeX Info: Redefining \% on input line 153.
 [60 <./Imagenes/4/LS-potencia.png> <./Imagenes/4/LS-potNor.png> <./Imagenes/4/a
 justeEnForma.png>])
+<<<<<<< HEAD
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
+=======
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
  [61 <./Imagenes/4/LEDrojoA.png>]
 \openout2 = `Posterior/Conclusiones.aux'.
 
@@ -2044,7 +2304,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [64
+<<<<<<< HEAD
+=======
 
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
+
+] [65
 
 ] [65
 
@@ -2052,11 +2317,19 @@ LaTeX Info: Redefining \% on input line 1.
 LaTeX Info: Redefining \. on input line 120.
 LaTeX Info: Redefining \% on input line 120.
  [66]))
+<<<<<<< HEAD
 LaTeX Info: Redefining \. on input line 64.
 LaTeX Info: Redefining \% on input line 64.
  [67]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
+=======
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+ [67]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 
 (./TesisIvan.aux (./Anterior/Portada.aux)
 LaTeX Info: Redefining \. on input line 26.
@@ -2071,6 +2344,7 @@ LaTeX Info: Redefining \% on input line 5.
 (./Chapters/Capitulo1.aux) (./Chapters/Capitulo2.aux) (./Chapters/Capitulo3.aux
 ) (./Chapters/Capitulo4.aux) (./Posterior/Conclusiones.aux)
 (./Posterior/trabajofuturo.aux) (./Posterior/Biblio.aux))
+<<<<<<< HEAD
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 65.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
@@ -2096,6 +2370,31 @@ s/utmr8a.pfb><d:/archivos/texlive/texlive/2019/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb><d:/archivos/texlive/texlive/2019/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
 Output written on TesisIvan.pdf (85 pages, 10772583 bytes).
+=======
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 64.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 64.
+ ) 
+Here is how much of TeX's memory you used:
+ 12520 strings out of 492641
+ 184342 string characters out of 6132991
+ 304567 words of memory out of 5000000
+ 15633 multiletter control sequences out of 15000+600000
+ 64617 words of font info for 105 fonts, out of 8000000 for 9000
+ 1137 hyphenation exceptions out of 8191
+ 37i,14n,39p,1019b,672s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol
+/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
+mes/utmri8a.pfb>
+Output written on TesisIvan.pdf (85 pages, 10772573 bytes).
+>>>>>>> fb565efd1a88490814118abd8a9507f5353f579f
 PDF statistics:
  1545 PDF objects out of 1728 (max. 8388607)
  1199 compressed objects within 12 object streams
