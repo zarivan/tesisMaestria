@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.18)  21 JUN 2020 08:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.18)  21 JUN 2020 09:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -885,29 +885,39 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 
-Overfull \hbox (0.2995pt too wide) detected at line 7
+Overfull \hbox (0.2995pt too wide) detected at line 5
  [][]
  []
 
 
-Overfull \hbox (0.23961pt too wide) detected at line 9
+Overfull \hbox (0.2995pt too wide) detected at line 6
+ [][]
+ []
+
+
+Overfull \hbox (0.23961pt too wide) detected at line 7
  [][]
  []
 
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
 
-Overfull \hbox (0.23961pt too wide) detected at line 12
+Overfull \hbox (0.23961pt too wide) detected at line 11
  [][]
  []
 
 
-Overfull \hbox (4.0315pt too wide) detected at line 14
+Overfull \hbox (4.0315pt too wide) detected at line 12
  [][]
  []
 
 
-Overfull \hbox (4.0315pt too wide) detected at line 15
+Overfull \hbox (7.82338pt too wide) detected at line 14
+ [][]
+ []
+
+
+Overfull \hbox (7.82338pt too wide) detected at line 15
  [][]
  []
 
@@ -2085,7 +2095,7 @@ s/utmbi8a.pfb><d:/archivos/texlive/texlive/2019/texmf-dist/fonts/type1/urw/time
 s/utmr8a.pfb><d:/archivos/texlive/texlive/2019/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb><d:/archivos/texlive/texlive/2019/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on TesisIvan.pdf (85 pages, 10772585 bytes).
+Output written on TesisIvan.pdf (85 pages, 10772583 bytes).
 PDF statistics:
  1545 PDF objects out of 1728 (max. 8388607)
  1199 compressed objects within 12 object streams
