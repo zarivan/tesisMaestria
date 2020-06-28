@@ -1,5 +1,5 @@
 \chapter{Desarrollo del sistema.}
-Para el desarrollo de este sistema espectroscópico se utilizarán los componentes mostrados en la figura \ref{fig:esquema}. A continuación, se explica cómo se utilizó cada uno de los componentes que componen al sistema desarrollado.
+Para el desarrollo de este sistema espectroscópico se utilizarán los componentes mostrados en la figura \ref{fig:esquema}. A continuación, se explica cómo se utiliza cada uno de los componentes que componen al sistema desarrollado.
 
 \begin{figure}[h]
 	\centering
@@ -126,8 +126,8 @@ Con este algoritmo se coloca el motor en su posición inicial. Para activar el m
 
 \section{Calibración.}
 \subsection{Lámpara de mercurio.}
-Lo siguiente es realizar los barridos en el intervalo del espectro electromagnético. A partir de la posición cero el motor se movería paso a paso, donde se tendrá el registro de cada paso. El motor hará girar la red de difracción, desde los 0 pasos hasta los 10000 pasos. Con el algoritmo desarrollado se puede determinar cuantos pasos dar, y en qué sentido. Utilizando el \textit{PMT}, obtendremos un valor de voltaje, proporcional a la intensidad de luz. Se tendrá una gráfica pasos vs. voltaje(bits). 
-Para esta medición el motor dará un paso, se tomará un valor del \textit{PMT} con el ADC del Arduino MEGA, que tiene una resolución de 10 bits. La información del paso y valor será enviado a la interfaz gráfica, para obtener un espectro que se irá formando paso a paso. En la figura \ref{fig:ledqe65} se aprecia la forma del espectro del led amarillo utilizando nuestro sistema. 
+Lo siguiente es realizar los barridos en el intervalo del espectro electromagnético. A partir de la posición cero el motor se mueve paso a paso, donde se tendrá el registro de cada paso. El motor hará girar la red de difracción, desde los 0 pasos hasta los 10000 pasos. Con el algoritmo desarrollado se determina cuantos pasos dar, y en qué sentido. Utilizando el \textit{PMT}, se obtiene un valor de voltaje, proporcional a la intensidad de luz. Se tiene una gráfica pasos vs. voltaje(bits). 
+Para esta medición el motor dará un paso y se tomará un valor del \textit{PMT} con el ADC del Arduino MEGA, que tiene una resolución de 10 bits. La información del paso y valor es enviada a la interfaz gráfica, para obtener un espectro que se irá formando paso a paso. En la figura \ref{fig:ledqe65} se aprecia la forma del espectro del led amarillo utilizando nuestro sistema. 
 
 
 Al comparar los espectros obtenidos, figura \ref{fig:ledqe65}, por nuestro sistema y el espectrómetro QE65000. Se aprecia un espectro mejor definido en el QE65000. Para mejorar el espectro medido por nuestro sistema, se realiza la toma de más muestras por paso, y se obtiene un promedio en cada punto. Con un máximo de 99 muestras por paso, ver figura \ref{fig:led99muestras}.
@@ -145,8 +145,10 @@ Al comparar los espectros obtenidos, figura \ref{fig:ledqe65}, por nuestro siste
 	\caption[Espectro de un LED amarillo.]{Captura del espectro de un LED amarillo, tomando 99 muestras por punto.}
 	\label{fig:led99muestras}
 \end{figure}
+
 La cantidad de muestras que se toma por punto es de suma importancia para obtener un espectro más limpio y sin tantas variaciones punto a punto.
-Para la calibración del sistema utilizaremos 99 muestras por paso para poder medir el espectro de la lámpara de mercurio. Esto con el fin de adquirir un espectro lo más limpio posible y poder obtener la relación paso a longitud de onda. Las líneas de emisión de la lámpara de mercurio a buscar son 12. En la figura \ref{fig:mercuriolineas} se en listan.
+Para la calibración del sistema se utilizan 99 muestras por paso para medir el espectro de la lámpara de mercurio. Esto con el fin de adquirir un espectro lo más limpio posible y obtener la relación paso a longitud de onda. Las líneas de emisión de la lámpara de mercurio a buscar son 12. En la figura \ref{fig:mercuriolineas} se enlistan.
+
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.8\linewidth,height=5cm]{Imagenes/3/Mercuriolineas}
@@ -154,7 +156,7 @@ Para la calibración del sistema utilizaremos 99 muestras por paso para poder me
 	\label{fig:mercuriolineas}
 \end{figure}
 
-En la figura \ref{fig:hg-04-m99-50pps}, se pueden apreciar 11 líneas de forma fácil más una de ellas es un segundo orden de la primera longitud de onda de mayor intensidad de la lámpara de mercurio ($\lambda_{253}$ línea (1), su segundo orden $\lambda_{507}$ (8)). Esto se demuestra más adelante utilizando un filtro pasa alto mayor a 400nm. Entre las líneas 2 y 4 se alcanza a visualizar una tercera línea, figura \ref{fig:hg-04-m99-50pps} . Entre las líneas 1 y 2 se observa otra pequeña línea (x) de la lámpara. Primero identificaremos las líneas de emisión principales de la lámpara de mercurio en nuestro espectro. Estas líneas facilitan la obtención de la relación paso longitud de onda.
+En la figura \ref{fig:hg-04-m99-50pps}, se pueden apreciar 11 líneas de forma fácil más una de ellas es un segundo orden de la primera longitud de onda de mayor intensidad de la lámpara de mercurio ($\lambda_{253}$ línea (1), su segundo orden $\lambda_{507}$ (8)). Esto se demuestra más adelante utilizando un filtro pasa alto para longitudes de onda mayores a 400nm. Entre las líneas 2 y 4 se alcanza a visualizar una tercera línea, figura \ref{fig:hg-04-m99-50pps} . Entre las líneas 1 y 2 se observa otra pequeña línea (x) de la lámpara. Primero se identifican las líneas de emisión principales de la lámpara de mercurio en nuestro espectro. Estas líneas facilitan la obtención de la relación paso longitud de onda.
 
 \begin{figure}[h]
 	\centering
@@ -246,7 +248,7 @@ Trabajando con los valores de estos espectros y utilizando la función \textbf{f
 \end{table}
 
 Para identificar las 12 líneas de interés se hace un suavizado al espectro, con la función \textit{smooth} en \textbf{MATLAB}. Con el suavizado se eliminan variaciones pequeñas que se tienen en la medición. Además, al colocar la condición de solo encontrar picos con una intensidad igual o mayor a las 12 líneas de emisión que se buscan. Utilizando la función \textbf{findpeaks}. \textit{[picos1,pasos1]=findpeaks(s1,'MinPeakHeigh',20)}. El número de picos encontrados es 14 en cada medición. La función proporciona la intensidad del pico (\textit{picos1}), y la posición, (\textit{pasos1}) donde se encuentra cada pico. 
-En la figura \ref{fig:picos14}, podemos observar estos 14 picos.
+En la figura \ref{fig:picos14}, se observan estos 14 picos.
 
 \begin{figure}[h]
 	\centering
@@ -274,12 +276,12 @@ Con esta información se intenta encontrar cuánto varía un espectro del otro. 
 %\end{figure}
 
 La repetitividad del sistema es buena. Utilizando el promedio de las mediciones hechas se obtiene la relación paso longitud de onda. Al comparar el espectro medido con el sistema y el que se tiene en la literatura, se visualizan líneas de emisión  figura \ref{fig:espectroCompa}.
-Para corroborar que varias de las líneas de emisión son de segundo orden se utilizó un filtro pasa alto mayor de 415nm. En la figura \ref{fig:hgfiltro} se aprecia como hay líneas de emisión que desaparecen al colocar el filtro. Con esta información se identifican las 12 líneas de emisión para la calibración.
+Para corroborar que varias de las líneas de emisión son de segundo orden se utilizó un filtro que deja pasar longitudes de onda mayores a 415nm. En la figura \ref{fig:hgfiltro} se aprecia como hay líneas de emisión que desaparecen al colocar el filtro. Con esta información se identifican las 12 líneas de emisión para la calibración.
 \begin{figure}[h]
 	\centering
 	\subfigure[Espectro del Hg 12 líneas (no todas se ven en la gráfica.)]{	\includegraphics[width=0.45\linewidth, height=4cm]{Imagenes/3/espectroHgnor}}
 	\subfigure[Espectro del Hg medido 14 líneas]{	\includegraphics[width=0.45\linewidth, height=4cm]{Imagenes/3/espectroHgSistema}}
-	\caption{Diferencia visible en la medición del espectro de la lámpara de mercurio. Hay dos líneas que no coinciden se decide cuales quitar.}
+	\caption{Diferencia visible en la medición del espectro de la lámpara de mercurio. Hay dos líneas que no coinciden que se decide eliminar.}
 	\label{fig:espectroCompa}
 \end{figure}
 \begin{figure}[h]
@@ -358,7 +360,7 @@ En la tabla \ref{tabla:ajustes} se ve que varios ajustes tienen una \textit{$R^{
 \end{tabular} 
 
 \end{table}
-La suma de senos con tres términos tiene mejores resultados, pero al intentar resolver la ecuación para obtener la relación opuesta, de longitud de onda a paso se encontraron problemas. Por lo anterior se trabajará con el ajuste de Fourier usando la ecuación \ref{equa:pasoLambda}.
+La suma de senos con tres términos tiene mejores resultados, pero al intentar resolver la ecuación para obtener la relación opuesta, de longitud de onda a paso se obtenía un error en el paso que se calculaba. Por lo anterior se trabaja con el ajuste de Fourier, con el cual no se presento este problema, usando la ecuación \ref{equa:pasoLambda}.
 \begin{equation}
 f(x) = a_0 + a_1\cos (x\times w) + b_1 \sin(x \times w)
 \label{equa:pasoLambda}
@@ -370,7 +372,7 @@ a_0 =-23.77\\
 a_1 = 76.47 \\  %(8.576, 247.4)
 b_1 = 848.2 \\  %(774.8, 1030)
 w = 8.441*10^{-5}$\\  %(7.044e-05, 8.994e-05)
-La ecuación quedaría como:\\
+Por lo que la ecuación \ref{equa:pasoLambda} se puede escribir como:\\
 \begin{equation}
 f(x) =-23.77+76.47 \cos(pasos \times8.441\times10^{-5}) +848.2 \sin(pasos \times8.441\times10^{-5})
 \label{equa:pasoLambda2}
@@ -430,7 +432,7 @@ El ADC MCP3202, es un ADC de 12 bits de resolución, el cual cuenta con comunica
 Como se ha mencionado Arduino tiene una amplia comunidad, la cual día a día comparte trabajos y mejoras. Dentro de estos ya existen bibliotecas diseñadas para este ADC en específico. Una de ellas fue desarrollada por Souvik Saha \cite{MITadcLinkedIn}, su trabajo está en un repositorio de \textbf{GitHub}, \cite{MITadc} para que cualquier persona pueda usarlo así como en una página web dedicada a compartir bibliotecas, \cite{MITadcArduino}. Esta biblioteca fue ingresada en nuestro algoritmo.
 
 \subsection{Potenciómetro digital.} 
-La sensibilidad del \textbf{PMT} puede ser ajustada variando un voltaje de entrada en el módulo del \textbf{PMT}. Este ajuste se puede realizar de dos formas. Utilizando un potenciómetro o una fuente de voltaje variable ver figura \ref{fig:pmtsen}. Para este control se utilizó un potenciómetro digital. Así manipulamos el voltaje de control desde la interfaz gráfica.
+La sensibilidad del \textbf{PMT} puede ser ajustada variando un voltaje de entrada en el módulo del \textbf{PMT}. Este ajuste se puede realizar de dos formas. Utilizando un potenciómetro o una fuente de voltaje variable ver figura \ref{fig:pmtsen}. Para este control se utilizó un potenciómetro digital. Para manipular el voltaje de control desde la interfaz gráfica.
 
 \begin{figure}[h]
 	\centering
@@ -455,14 +457,14 @@ Se tomaron 10 valores de voltaje en cada paso del potenciómetro para ver cómo 
 	\caption[Comportamiento del potenciómetro digital X9C103]{Comportamiento del potenciómetro digital X9C103. Utilizando el voltaje de referencia del módulo de \textbf{PMT}. Se aprecia que la desviación estándar es muy pequeña. Así como las variaciones de voltaje, por lo que el sistema podrá medir de forma correcta.}
 	\label{fig:adcp1}
 \end{figure}
-Al aumentar la sensibilidad del \textbf{PMT} se visualizan más líneas de emisión, y con mayor intensidad. Al realizar la medición con 0.2V, ya se aprecia el espectro de la lámpara de mercurio, ver figura \ref{fig:hglamp}(a). Al incrementar el voltaje que controla la sensibilidad del \textbf{PMT} a 0.5V. Se aprecia como en dos líneas de emisión, $\lambda$=253.6nm y en su segundo orden $\lambda$=507.2nm, el sistema se satura, véase figura \ref{fig:hglamp}(b).
+Al aumentar la sensibilidad del \textbf{PMT} se visualizan más líneas de emisión, y con mayor intensidad. Al realizar la medición con 0.2V, ya se aprecia el espectro de la lámpara de mercurio, ver figura \ref{fig:hglamp}(a). Al incrementar el voltaje que controla la sensibilidad del \textbf{PMT} a 0.5V se aprecia como en las líneas de emisión $\lambda$=253.6nm y en su segundo orden $\lambda$=507.2nm, el sistema se satura, véase figura \ref{fig:hglamp}(b).
 \begin{figure}[h!]
 	%\subfigure[Ganancia a 0.10 volts]{\includegraphics[width=0.48\linewidth,height=4cm]{Imagenes/3/Hg01}}
 	\subfigure[Ganancia a 0.20 volts]{\includegraphics[width=0.48\linewidth,height=40mm]{Imagenes/3/Hg02}}
 %	\subfigure[Ganancia a 0.30 volts]{\includegraphics[width=0.48\linewidth,height=35mm]{Imagenes/3/Hg03}}
 %	\subfigure[Ganancia a 0.40 volts]{\includegraphics[width=0.48\linewidth,height=35mm]{Imagenes/3/Hg04}}
 	\subfigure[Ganancia a 0.50 volts]{\includegraphics[width=0.48\linewidth,height=40mm]{Imagenes/3/Hg05}}
-	\caption[Espectro de lámpara de mercurio medido con diferentes sensibilidades del \textbf{PMT}]{Espectro de lámpara de mercurio medido con diferentes sensibilidades del \textbf{PMT}. Al ir incrementando la sensibilidad del \textbf{PMT}, aumenta la intensidad captada en cada línea de emisión. Con lo que logramos observar más líneas.}
+	\caption[Espectro de lámpara de mercurio medido con diferentes sensibilidades del \textbf{PMT}]{Espectro de lámpara de mercurio medido con diferentes sensibilidades del \textbf{PMT}. Al ir incrementando la sensibilidad del \textbf{PMT}, aumenta la intensidad captada en cada línea de emisión. Con lo que se logra observar más líneas.}
 	\label{fig:hglamp}
 \end{figure}
 \newpage
@@ -477,8 +479,8 @@ El PMT tiene un intervalo de sensibilidad que va desde los 180 nm hasta los 900 
 	\label{fig:respuesta}
 \end{figure}
 
-Estos dos componentes serán los que limitarán el intervalo en el que nuestro sistema puede medir espectros. Se revisó el intervalo en el que puede trabajar el sistema, utilizando una lámpara de Tungsteno-Halógeno, de OceanOptics, esta lámpara tiene una respuesta espectral desde los 300 hasta los 1050 nm \cite{Manual1000}, figura \ref{fig:lamparathd}. Esta lámpara será más que suficiente para observar la sensibilidad del sistema a longitudes mayores a 600nm.\\
-Al medir la lámpara LS-1-CAL, con el sistema desarrollado se tiene una gráfica con un valor máximo en la longitud de onda de 544.1nm, ver figura \ref{fig:lamparath}. Después de $lambda$=544.1nm la intensidad en el espectro decae hasta los 780nm. Esto se debe tanto al tubo fotomultiplicador como a la red de difracción como se explicó anteriormente.
+Estos dos componentes serán los que limitarán el intervalo en el que nuestro sistema puede medir espectros. Se revisó el intervalo en el que puede trabajar el sistema, utilizando una lámpara de Tungsteno-Halógeno, LS-1-CAL de OceanOptics, esta lámpara tiene una espectro de emisión que va desde los 300 hasta los 1050 nm \cite{Manual1000}, figura \ref{fig:lamparathd}. %Esta lámpara será más que suficiente para observar la sensibilidad del sistema a longitudes mayores a 600nm.\\
+Al medir la lámpara LS-1-CAL, con el sistema desarrollado se tiene una gráfica con un valor máximo en la longitud de onda de 544.1nm, ver figura \ref{fig:lamparath}. Después de $lambda$=544.1nm la intensidad en el espectro decae hasta los 780nm. Esto se debe tanto a la respuesta espectral del tubo fotomultiplicador como de la red de difracción.
 \begin{figure}
 	\centering
 	\includegraphics[width=1\linewidth,height=6cm]{Imagenes/3/lamparaTH_DPNG}

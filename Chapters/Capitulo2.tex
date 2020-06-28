@@ -72,7 +72,8 @@ La eficiencia de difracción es un valor que expresa el grado en que se puede ob
 La eficiencia de difracción es expresada como absoluta o relativa. La primera es el porcentaje de radiación monocromática incidente que es difractada en el orden deseado. La eficiencia de difracción relativa se obtiene dividiendo la eficiencia de difracción absoluta por la reflectancia del material de recubrimiento \cite{Shimadzu}.
 Las redes de difracción con alta eficiencia son deseables por muchas razones. Siendo más útiles para medir líneas de baja intensidad. \cite{Palmer2005}
 % La segunda por otra parte es la relación de energía difractada en la red, comparada con un espejo recubierto del mismo material que la red
-\paragraph{Poder de resolución.} 
+
+\paragraph{Poder de resolución R.} 
 Es la capacidad de un espectrómetro para poder diferenciar dos líneas espectrales adyacentes de la misma intensidad. Esta dado por la ecuación \ref{equa:resolucion}. Donde $\Delta\lambda$ es la diferencia entre dos longitudes de onda, m es el orden y N es la cantidad total de líneas en la red de difracción, $N= L\times W_g$, L es la longitud en milímetros de la red, y $W_g$ es la densidad de líneas por milímetro.
 \begin{equation}
 	R = \frac{\lambda}{\Delta \lambda}
@@ -83,7 +84,7 @@ Es la capacidad de un espectrómetro para poder diferenciar dos líneas espectra
 	\label{equa:resolucion2}
 \end{equation}
 
-Tomemos como ejemplo una red de difracción de 1200 líneas/mm con una longitud de 110 mm $R=mN = 1200 \times 110 = 132,000$. De la ecuación \ref{equa:resolucion}. $\Delta\lambda = \frac{R}{\lambda}$. En $\lambda_{500}$, $\Delta\lambda = 0.0038nm$
+Tomemos como ejemplo una red de difracción de 1200 líneas/mm con una longitud de 110 mm, $R=mN = 1200 \times 110 = 132,000$. De la ecuación \ref{equa:resolucion}. $\Delta\lambda = \frac{R}{\lambda}$. En $\lambda_{500}$, $\Delta\lambda = 0.0038nm$
 y en $\lambda_{300}$, $\Delta\lambda = 0.0022nm$. Como se ve, a menores longitudes de onda este poder de resolución es capaz de distinguir entre longitudes de ondas más cercanas, y de forma inversa entre mayor sea la longitud de onda mayor es la distancia entre estas longitudes de onda que podrá resolver \cite{Gratings2008}.
 
 \paragraph{Red de difracción holográfica.} Son recomendadas cuando se quiere trabajar en UV, VIS y NIR. La densidad de líneas debe ser de 1200 líneas/mm o superior. %(hasta los 6000 líneas/mm), Son muy recomendadas para trabajar en UV. 
@@ -94,7 +95,7 @@ y en $\lambda_{300}$, $\Delta\lambda = 0.0022nm$. Como se ve, a menores longitud
 
 \subsection{Motor a pasos.}
 Este tipo de motores se caracterizan por tener un giro de ángulo específico, al ir cambiando la excitación de sus bobinas. %(borrado todo esto) Al tener un giro tan preciso, son utilizados en sistemas que requieran exactitud, pues el control en motores de AC o DC es más complicado debido a la inercia, así como el control de su velocidad, se desarrollaron los motores a pasos. 
-La configuración de los motores a pasos se compone del estator, que es una parte fija, con cavidades, en las cuales se depositan las bobinas del motor, la otra parte es el rotor que es la parte móvil del motor, va montado sobre un eje soportado por dos cojinetes lo que le permite girar libremente, ver fig. \ref{fig:rotorestator}. 
+La configuración de los motores a pasos se compone del estator, que es una parte fija, con cavidades, en las cuales se ubican las bobinas del motor, la otra parte es el rotor que es la parte móvil del motor, va montado sobre un eje soportado por dos cojinetes lo que le permite girar libremente, ver fig. \ref{fig:rotorestator}. 
 
 \begin{figure}[h]
 	\centering
@@ -102,7 +103,7 @@ La configuración de los motores a pasos se compone del estator, que es una part
 	\caption{Esquema de un motor a pasos. Se observan las dos partes principales que le componen. Rotor a la izquierda y estator a la derecha. \cite{Acarnley2002}}
 	\label{fig:rotorestator}
 \end{figure}
-El rotor del motor tiene sus polos N-S, al energizar el estator, este generará sus polos magnéticos N-S, el rotor, buscará el quedar en equilibrio magnético, Norte-Sur y Sur-Norte, lo que provoca que el rotor giré para llegar a este equilibrio. Al cambiar la excitación de las bobinas, los polos N-S creados por el estator, cambiaran, como resultado el rotor volverá a girar, para buscar este punto de equilibrio. De esta forma es como el motor va dando "pasos". En la figura \ref{fig:pasodos} para girar en el sentido de las manecillas del reloj, la bobina energizada (B), debe ser apagada, después se energiza la bobina (C), ocasionando el giro del rotor, para dar un giro desde esta posición, se deben ir encendiendo las bobinas en el siguiente orden C, D, A, B, C, des energizando la última bobina energizada. Para girar en sentido opuesto de las manecillas del reloj simplemente se energizan las bobinas en el orden opuesto, C, B, A, D, C.
+El rotor del motor tiene sus polos N-S, al energizar el estator, este generará sus polos magnéticos N-S, el rotor, buscará el quedar en equilibrio magnético, Norte-Sur y Sur-Norte, lo que provoca que el rotor giré para llegar a este equilibrio. Al cambiar la excitación de las bobinas, los polos N-S creados por el estator, cambiaran, como resultado el rotor volverá a girar, para buscar el nuevo punto de equilibrio. De esta forma es como el motor va dando "pasos". En la figura \ref{fig:pasodos} para girar en el sentido de las manecillas del reloj, la bobina energizada (B), debe ser apagada, después se energiza la bobina (C), ocasionando el giro del rotor, para dar un giro desde esta posición, se deben ir encendiendo las bobinas en el siguiente orden C, D, A, B, C, des energizando la última bobina energizada. Para girar en sentido opuesto de las manecillas del reloj simplemente se energizan las bobinas en el orden opuesto, C, B, A, D, C.
 Como se aprecia, el control de un motor a pasos es realmente sencillo, y preciso. 
 \begin{figure}[h]
 	\centering
@@ -258,7 +259,7 @@ El driver permite limitar la corriente de operación, así como modificar el pas
 
 \section{Tubo fotomultiplicador.}
 Los tubos fotomultiplicadores son detectores utilizados para medir potencia radiante baja, son especialmente sensibles a la radiación ultravioleta y visible, ver figura \ref{fig:pmte}. EL funcionamiento de los tubos fotomultiplicadores (PMT), se basa en el efecto fotoeléctrico.  
-La luz pasa a través de la ventana, \textit{faceplate}, los fotónes inciden en el fotocátodo, y este emite electrones, a los cuales se les llega a llamar fotoelectrones, estos viajan por el interior del PMT.  Los fotoelectrones son acelerados con campos eléctricos y dirigidos al primer dinodo. Con lo cual se desprenden más electrones que los que incidieron, este proceso se repite en cada uno de los siguientes dinodos. Cada dinodo está cargado positivamente 100 voltios más que el anterior. Al llegar al ánodo receptor. Este proceso da como resultado que las pequeñas corrientes generadas por el fotocátodo sean amplificadas millones de veces. Produciendo de $10^5$ a $10^7$ electrones por cada fotón incidente.
+La luz pasa a través de la ventana, \textit{faceplate}, los fotónes inciden en el fotocátodo, y este emite electrones, a los cuales se les denomina como fotoelectrones, estos viajan por el interior del PMT.  Los fotoelectrones son acelerados con campos eléctricos y dirigidos al primer dinodo. Con lo cual se desprenden más electrones que los que incidieron, este proceso se repite en cada uno de los siguientes dinodos. Cada dinodo está cargado positivamente 100 voltios más que el anterior. Al llegar al ánodo receptor. Este proceso da como resultado que las pequeñas corrientes generadas por el fotocátodo sean amplificadas millones de veces. Produciendo de $10^5$ a $10^7$ electrones por cada fotón incidente.
 Los tubos fotomultiplicadores, son muy sensibles, estando limitados a medir fuentes luminosas de baja potencia, de lo contrario se ocasionarían daños irreversibles en la superficie del fotocátodo.
 La figura \ref{fig:pmte} es un esquemático en el que se aprecia cómo está constituido el \textit{PMT}. En la figura \ref{fig:PMT} (a) y (b) se muestran dos tubos fotomultiplicadores, la diferencia entre estos radica en donde incidirá la luz, en el (a) \textit{head-on} es en la parte frontal del \textit{PMT}, y en el (b) \textit{side-on} es el lateral. En la figura \ref{fig:pmtModule} se ven módulos de \textit{PMT}. 
  
@@ -291,7 +292,7 @@ Con los módulos de PMT ya solo se debe energizar con un voltaje de $\pm 15$ vol
 
 
 \paragraph{Módulo H8249-101.}
-La serie H8249 incorpora un \textit{PMT-side-on}, y un circuito de fuente de alto voltaje y una amplificación de bajo ruido. El módulo entrega voltaje a la salida, en su interior cuenta con un circuito de transimpedancia con un factor de conversión de $1V/1\mu A$. El código -101 es el tipo de módulo. Su respuesta espectral va desde los $185nm$ hasta los $900nm$, cubriendo así desde el Ultravioleta medio, luz visible y un poco del infrarrojo cercano.
+La serie H8249 incorpora un \textit{PMT-side-on}, y un circuito de fuente de alto voltaje y una amplificación de bajo ruido. El módulo entrega voltaje a la salida, en su interior cuenta con un circuito de transimpedancia con un factor de conversión de $1V/1\mu A$. El código -101 es el tipo de módulo. Su respuesta espectral va desde los $185nm$ hasta los $900nm$, cubriendo así desde el Ultravioleta medio, luz visible y parte del infrarrojo cercano.
 El módulo cuenta con un ajuste de sensibilidad, figura \ref{fig:sensibilidadajuste}.
 
 \begin{figure}[h]

@@ -30,7 +30,7 @@ Con el sistema propuesto todas las mediciones se hacen con los \textit{slits} de
 \end{figure}
 %figura 3
 %\newpage
-Dentro de las 12 líneas de emisión del espectro de mercurio, que se usaron para calibrar. Hay dos que se encuentran relativamente cerca. las líneas tienen la longitud de onda de 576.96 nm y 579.066 nm. En la figura \ref{fig:lineasdos}(a) se observa como el QE65000 apenas logra distinguir las dos líneas, el HR4000, figura \ref{fig:lineasdos}(b) las resuelve sin problemas. Mientras que el sistema desarrollado logra resolver con mayor facilidad estas mismas líneas, véase figura \ref{fig:lineasdos}(c). 
+Dentro de las 12 líneas de emisión del espectro de mercurio, que se usaron para calibrar. Hay dos líneas que se encuentran relativamente cerca de 576.96 nm y 579.066 nm. En la figura \ref{fig:lineasdos}(a) se observa como el QE65000 no logra resolver las dos líneas, el HR4000, figura \ref{fig:lineasdos}(b) las resuelve y las presenta con un ancho aproximado de 1.2 nm FWMH. Mientras que el sistema desarrollado logra resolver con mayor facilidad estas mismas líneas y las presenta con un ancho de alrededor de 1nm FWMH véase figura \ref{fig:lineasdos}(c). 
 
 \begin{figure}[h]
 	\centering
@@ -59,7 +59,7 @@ El sistema desarrollado puede medir hasta los 780nm, donde el valor máximo de l
 	\label{fig:lst}
 \end{figure}
 
-Se midieron diferentes fuentes luminosas. Donde se encuentran pequeñas diferencias entre los espectrómetros. En la figura \ref{fig:uv380t} se visualiza el espectro de un LED ultravioleta, y una diferencia de 2nm entre nuestro sistema y el QE65000. La figura \ref{fig:uv400} es el espectro de un LED violeta, 400nm, hay una gran similitud entre las tres mediciones(a). Con una diferencia de máximo 0.8nm entre los picos máximos (b). Un LED rojo $\lambda$ = 650nm, se obtienen resultados similares al LED violeta $\lambda$ = 400nm, véase figura \ref{fig:rojot}(a), donde la diferencia mayor es de 0.6nm ver figura \ref{fig:rojot}(b). En el LED rojo de 700nm encontramos ya una diferencia notoria de casi 20nm, ver figura \ref{fig:r700}, entre el sistema y los dos espectrómetros, 
+Se midieron diferentes fuentes luminosas. Donde se encuentran pequeñas diferencias entre los espectrómetros. En la figura \ref{fig:uv380t} se visualiza el espectro de un LED ultravioleta de 385nm un corrimiento de 2nm en el pico medico con nuestro sistema y el QE65000. La figura \ref{fig:uv400} es el espectro de un LED violeta, 400nm, hay una gran similitud entre las tres mediciones(a). Con una diferencia de máximo 0.8nm entre los picos máximos (b). Con un LED rojo $\lambda$ = 650nm, se obtienen resultados similares al LED violeta $\lambda$ = 400nm, véase figura \ref{fig:rojot}(a), donde la diferencia mayor es de 0.6nm ver figura \ref{fig:rojot}(b). En el LED rojo de 700nm encontramos ya una diferencia notoria de casi 20nm, ver figura \ref{fig:r700}, entre el sistema aquí desarrollado y los dos espectrómetros de Ocean Opctics. 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\linewidth,height=4.5cm]{Imagenes/4/uv380t}
@@ -90,9 +90,9 @@ Se midieron diferentes fuentes luminosas. Donde se encuentran pequeñas diferenc
 	\label{fig:r700}
 \end{figure}
 \clearpage
-Al graficar el espectro del LED rojo ($\lambda$ = 700nm) sobre la respuesta de los sistemas ante la lámpara LS-1-CAL, vemos que el LED rojo está en una zona donde el sistema tiene una menor respuesta y que esta disminuye cada que avanza, figura \ref{fig:ls-rojo}. 
+Al graficar el espectro del LED rojo ($\lambda$ = 700nm) sobre la respuesta de los sistemas ante la lámpara LS-1-CAL, vemos que el LED rojo está en una zona donde el sistema tiene una menor respuesta y que esta disminuye conforme aumenta la longitud de onda, figura \ref{fig:ls-rojo}. 
 
-El error no se debe al ajuste que se realizó con \textbf{curve fitting tool}. En la gráfica que se observa en la figura \ref{fig:pasotam} podemos apreciar como al ir avanzando en la longitud de onda el paso es cada vez menor. Sin embargo, vemos que de los 650nm a los 700nm no hay una perdida que muestre que el pico del LED rojo en 700nm aparezca 20nm antes. Por ello concluimos que es por la sensibilidad del PMT y la eficiencia de la red, que el pico aparezca antes de lo esperado. 
+El error no se debe al ajuste que se realizó con \textbf{curve fitting tool}. En la gráfica que se observa en la figura \ref{fig:pasotam} podemos apreciar como al ir avanzando en la longitud de onda el paso es cada vez menor. Sin embargo, vemos que de los 650nm a los 700nm no hay una pérdida que muestre que el pico del LED rojo en 700nm aparezca 20nm antes. Por ello concluimos que debido a la combinación de la sensibilidad del PMT y la eficiencia de la red es que el pico aparece antes de lo esperado. 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\linewidth,height=5cm]{Imagenes/4/ls-rojo}
@@ -122,7 +122,7 @@ En la figura \ref{fig:ls-s-ds} se observa el espectro de la lámpara de tungsten
 	\label{fig:ls-s-ds}
 \end{figure}
 
-Al realizar diferentes mediciones con el sistema, variando la potencia, modificando la distancia de la lámpara LS-1-CAL, se obtuvieron las siguientes gráficas, ver figura \ref{fig:ls-potencia}. Donde en la figura \ref{fig:ls-potencia} (a) se tienen mediciones a diferentes potencias en unidades relativas. En la figura \ref{fig:ls-potencia} (b) se observan las mismas gráficas normalizadas. Se ve que el sistema tiene una linealidad en cuanto a la potencia. Con esta información se realiza un ajuste en forma del espectro.  
+Al realizar diferentes mediciones con el sistema desarrollado, variando la potencia, modificando la distancia de la lámpara LS-1-CAL, se obtuvieron las siguientes gráficas, ver figura \ref{fig:ls-potencia}. Donde en la figura \ref{fig:ls-potencia} (a) se tienen mediciones a diferentes potencias en unidades relativas. En la figura \ref{fig:ls-potencia} (b) se observan las mismas gráficas normalizadas. Se ve que el sistema tiene una linealidad en cuanto a la potencia. Con esta información se realiza un ajuste en forma del espectro.  
 
 En la figura \ref{fig:ajusteenforma} se ve como el ajuste realizado hace coincidir el espectro medido con el del \textit{''datasheet''}. La medición del sistema sigue siendo en unidades relativas corrigiendo la forma del espectro. 
 
@@ -141,11 +141,11 @@ En la figura \ref{fig:ajusteenforma} se ve como el ajuste realizado hace coincid
 	\label{fig:ajusteenforma}
 \end{figure}
 
-Al utilizar este ajuste de forma en la medición del LED rojo de 700nm se observa que su pico de emisión ya es correcto apareciendo a los 700nm, ver figura \ref{fig:ledrojoa}. Aún que a mayor longitud de onda se tiene que el ajuste ya no es optimo por la baja sensibilidad del sistema desarrollado. 
+Al utilizar este ajuste de forma en la medición del LED rojo de 700nm se observa que su pico de emisión ya aparece de manera correcta a los 700nm, ver figura \ref{fig:ledrojoa}. Aún que a mayor longitud de onda se tiene que el ajuste ya no es optimo por la baja sensibilidad del sistema desarrollado. 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.8\linewidth,height=5cm]{Imagenes/4/LEDrojoA}
-	\caption[Espectro de un LED rojo (700nm) con ajuste de forma.]{Espectro de un LED rojo (700nm) con ajuste de forma. Se observa que el pico del espectro con ajuste (rojo) ya tiene su pico de emisión a los 700nm a diferencia que sin ajuste (azul) esta en los 680nm aproximadamente.}
+	\caption[Espectro de un LED rojo (700nm) con ajuste de forma.]{Espectro de un LED rojo (700nm) con ajuste de forma. Se observa que el pico del espectro con ajuste (rojo) ya tiene su pico de emisión a los 700nm a diferencia del que se presenta sin ajuste (azul), el cual se presenta en los 680nm aproximadamente.}
 	\label{fig:ledrojoa}
 \end{figure}
 
