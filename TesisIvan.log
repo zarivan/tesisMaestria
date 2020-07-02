@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.18)  30 JUN 2020 14:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.18)  1 JUL 2020 23:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1888,18 +1888,18 @@ File: Imagenes/4/picoshr.png Graphic file (type png)
 <use Imagenes/4/picoshr.png>
 Package pdftex.def Info: Imagenes/4/picoshr.png  used on input line 38.
 (pdftex.def)             Requested size: 204.66739pt x 85.35394pt.
-<Imagenes/4/picos.png, id=1178, 566.86781pt x 285.31593pt>
-File: Imagenes/4/picos.png Graphic file (type png)
-<use Imagenes/4/picos.png>
-Package pdftex.def Info: Imagenes/4/picos.png  used on input line 39.
-(pdftex.def)             Requested size: 341.12668pt x 128.03833pt.
+<Imagenes/4/picos2.png, id=1178, 561.59813pt x 295.85532pt>
+File: Imagenes/4/picos2.png Graphic file (type png)
+<use Imagenes/4/picos2.png>
+Package pdftex.def Info: Imagenes/4/picos2.png  used on input line 39.
+(pdftex.def)             Requested size: 341.10901pt x 128.04143pt.
 <Imagenes/4/ls_t.png, id=1181, 222.3507pt x 99.2508pt>
 File: Imagenes/4/ls_t.png Graphic file (type png)
 <use Imagenes/4/ls_t.png>
 Package pdftex.def Info: Imagenes/4/ls_t.png  used on input line 57.
 (pdftex.def)             Requested size: 383.75891pt x 128.03706pt.
- [55 <./Imagenes/4/picosqe.PNG> <./Imagenes/4/picoshr.PNG> <./Imagenes/4/picos.
-PNG>]
+ [55 <./Imagenes/4/picosqe.PNG> <./Imagenes/4/picoshr.PNG> <./Imagenes/4/picos2
+.PNG>]
 <Imagenes/4/uv380t.png, id=1198, 558.58687pt x 310.15875pt>
 File: Imagenes/4/uv380t.png Graphic file (type png)
 <use Imagenes/4/uv380t.png>
@@ -2068,7 +2068,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 63.
  ) 
 Here is how much of TeX's memory you used:
  13415 strings out of 492164
- 203935 string characters out of 6121044
+ 203943 string characters out of 6121044
  309389 words of memory out of 5000000
  16920 multiletter control sequences out of 15000+600000
  64617 words of font info for 105 fonts, out of 8000000 for 9000
@@ -2086,7 +2086,7 @@ s/utmbi8a.pfb><d:/archivos/texlive/texlive/2019/texmf-dist/fonts/type1/urw/time
 s/utmr8a.pfb><d:/archivos/texlive/texlive/2019/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb><d:/archivos/texlive/texlive/2019/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on TesisIvan.pdf (85 pages, 10772861 bytes).
+Output written on TesisIvan.pdf (85 pages, 10773077 bytes).
 PDF statistics:
  1548 PDF objects out of 1728 (max. 8388607)
  1201 compressed objects within 13 object streams
