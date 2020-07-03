@@ -60,4 +60,6 @@
 \contentsline {section}{\numberline {3.4}Intervalo espectral de trabajo del sistema. }{51}{section.3.4}%
 \contentsline {chapter}{\numberline {4.}Mediciones con el sistema}{53}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Ajuste en forma del espectro unidades relativas.}{59}{section.4.1}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{65}{chapter*.32}%
+\contentsline {chapter}{Conclusiones}{62}{section*.30}%
+\contentsline {chapter}{Trabajo futuro.}{63}{section*.32}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{65}{chapter*.34}%
