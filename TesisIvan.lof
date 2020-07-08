@@ -5,14 +5,14 @@
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Tipos de espectros. \cite {FisicaCh}}}{2}{figure.1.2}% 
 \contentsline {figure}{\numberline {1.3}{\ignorespaces Sensibilidad del ojo humano ante el espectro electromagn\IeC {\'e}tico, \cite {CRC2016}, \cite {inproceedings}}}{4}{figure.1.3}% 
 \contentsline {figure}{\numberline {1.4}{\ignorespaces Espectro continuo, luz solar \cite {SolarLight}.}}{6}{figure.1.4}% 
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Esquema de un espectr\IeC {\'o}metro.}}{6}{figure.1.5}% 
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Diagrama \IeC {\'o}ptico de los haces a la entrada del monocromador y colimados hacia la red de difracci\IeC {\'o}n. \cite {Czerny-Turney-Conf}}}{7}{figure.1.6}% 
-\contentsline {figure}{\numberline {1.7}{\ignorespaces Redes de difracci\IeC {\'o}n, las m\IeC {\'a}s comunes son las redes de difracci\IeC {\'o}n planas y c\IeC {\'o}ncavas, a\IeC {\'u}n que pueden tener otras formas, como convexa o toroidal \cite {ThorLabs}.}}{8}{figure.1.7}% 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Red por reflexi\IeC {\'o}n}}}{8}{figure.1.7}% 
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Red por transmisi\IeC {\'o}n}}}{8}{figure.1.7}% 
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Red de difracci\IeC {\'o}n plana}}}{8}{figure.1.7}% 
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Red de difracci\IeC {\'o}n c\IeC {\'o}ncava}}}{8}{figure.1.7}% 
-\contentsline {figure}{\numberline {1.8}{\ignorespaces Diagrama de la incidencia y reflexi\IeC {\'o}n del haz sobre una red de difracci\IeC {\'o}n. $\alpha $ es el \IeC {\'a}ngulo incidente, $\beta $ el reflejado, $d$ es la distancia entre cada l\IeC {\'\i }nea en la red de difracci\IeC {\'o}n, $\lambda $ la longitud de onda. \cite {Excel2000}}}{9}{figure.1.8}% 
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Esquema de un espectr\IeC {\'o}metro.}}{7}{figure.1.5}% 
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Diagrama \IeC {\'o}ptico de los haces a la entrada del monocromador y colimados hacia la red de difracci\IeC {\'o}n. \cite {Czerny-Turney-Conf}}}{8}{figure.1.6}% 
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Redes de difracci\IeC {\'o}n, las m\IeC {\'a}s comunes son las redes de difracci\IeC {\'o}n planas y c\IeC {\'o}ncavas, a\IeC {\'u}n que pueden tener otras formas, como convexa o toroidal \cite {ThorLabs}.}}{9}{figure.1.7}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Red por reflexi\IeC {\'o}n}}}{9}{figure.1.7}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Red por transmisi\IeC {\'o}n}}}{9}{figure.1.7}% 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Red de difracci\IeC {\'o}n plana}}}{9}{figure.1.7}% 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Red de difracci\IeC {\'o}n c\IeC {\'o}ncava}}}{9}{figure.1.7}% 
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Diagrama de la incidencia y reflexi\IeC {\'o}n del haz sobre una red de difracci\IeC {\'o}n. $\alpha $ es el \IeC {\'a}ngulo incidente, $\beta $ el reflejado, $d$ es la distancia entre cada l\IeC {\'\i }nea en la red de difracci\IeC {\'o}n, $\lambda $ la longitud de onda. \cite {Excel2000}}}{10}{figure.1.8}% 
 \contentsline {figure}{\numberline {1.9}{\ignorespaces Funcionamiento del monocromador. A la salida solo se tiene una longitud de onda. \cite {Czerny-Turney-Conf}}}{10}{figure.1.9}% 
 \contentsline {figure}{\numberline {1.10}{\ignorespaces Espectro de emisi\IeC {\'o}n de una l\IeC {\'a}mpara de mercurio a baja presi\IeC {\'o}n.}}{11}{figure.1.10}% 
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Diagramas \IeC {\'o}pticos de dos tipos de monocromadores de red de difracci\IeC {\'o}n.}}{14}{figure.2.1}% 

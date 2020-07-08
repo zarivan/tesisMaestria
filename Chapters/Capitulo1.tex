@@ -1,16 +1,16 @@
 \chapter{Introducción}
-El presente trabajo de tesis está dedicado al diseño, construcción e implementación de un sistema automatizado para la realización de estudios de espectroscopia, utilizando un monocromador como sistema para descomponer la luz  en sus diferentes longitudes de onda y un tubo fotomultiplicador (PMT) para medir la intensidad luminosa de cada una.
+El presente trabajo de tesis está dedicado al diseño, construcción, caracterización e implementación de un sistema automatizado para la realización de estudios de espectroscopia, UV-VIS, utilizando un monocromador como sistema para descomponer la luz  en sus diferentes longitudes de onda y un tubo fotomultiplicador (PMT) para medir la potencia radiante de cada una.
 
-La espectroscopia óptica es una herramienta utilizada para el estudio de la luz absorbida o emitida por la materia, El intervalo del espectro electromagnético que se estudiará parte de los 200 nm hasta los 650 nm (Ultravioleta medio, ultravioleta cercano y luz visible), ver figura \ref{fig:espectrovisible}.
+La espectroscopia óptica es una herramienta utilizada para el estudio de materiales a partir de la medición de la luz absorbida o emitida por la materia, El intervalo del espectro electromagnético que el sistema permitirá estudiar parte de los 200 nm hasta los 700 nm (Ultravioleta medio, ultravioleta cercano y luz visible). En la figura \ref{fig:espectrovisible} se observa el espectro electromagnetico, se enfatiza en el espectro visible (VIS) el cual abarca un intervalo muy pequeño dentro de todo el espectro electromagnetico.
 \begin{figure}[h!]%figura 1
 	\centering
 	\includegraphics[width=1\linewidth]{Imagenes/espectro_visible}
-	\caption{Espectro electromagnético, enfatizando el espectro visible para el ojo humano \cite{espectroOjo}.}
+	\caption[Espectro electromagnético, enfatizando el espectro visible para el ojo humano \cite{espectroOjo}.]{Las ondas electromagnéticas se clasifican en rayos-$\gamma$(gamma), rayos-x, ultravioleta, luz visible, infrarrojos, microondas y ondas de radio. En la figura se enfatiza en el espectro visible (VIS) para el ojo humano \cite{espectroOjo}}
 	\label{fig:espectrovisible}
 \end{figure}
 
 \section{Espectro electromagnético.}
-Se denomina espectro electromagnético a la distribución energética del conjunto de las ondas electromagnéticas. Referido a un objeto se le llama espectro de la radiación electromagnética que emite o absorbe el mismo y que se relaciona con su composición. Dicha radiación nos brinda información sobre la materia y sirve para identificar las sustancias, el espectro es único para cada sustancia de manera análoga a una huella dactilar. 
+Se denomina espectro electromagnético a la reoresentación de la distribución energética de las ondas electromagnéticas respecto a la longitud de onda o de su frecuencia. El espectro de la radiación electromagnética que emite o absorbe un objeto se relaciona con su composición. Dicha radiación nos brinda información sobre la materia y sirve para identificar las sustancias presentes, ya que el espectro es único para cada sustancia de manera análoga a una huella dactilar. 
 \begin{figure}[h!] %figura 2
 	\centering
 	\includegraphics[width=1\linewidth]{Imagenes/espectros_absorcion_y_emision}
@@ -18,11 +18,13 @@ Se denomina espectro electromagnético a la distribución energética del conjun
 	\label{fig:esq_espectro01}
 \end{figure}
 
-En la figura \ref{fig:esq_espectro01} se observan diferentes espectros y cómo se producen estos, donde el primero, es el espectro continuo o de cuerpo negro, en el cuál se observa una banda continua. Es emitido por cualquier objeto caliente, el espectro solar es un ejemplo de este. El espectro de emisión es generado cuando los átomos y moléculas en un gas caliente emiten una radiación en ciertas longitudes de onda. Por otra parte el espectro de absorción se observa cuando el mismo gas, recibe radiación electromagnética, este gas absorbería ciertas longitudes de onda. Se observa que las líneas emitidas son las mismas que las que no se presentan cuando absorbe. Cumpliendo con esto la ley de Kirchhoff de la radiación térmica: \emph{si un cuerpo (o superficie) está en equilibrio termodinámico con su entorno, su emisividad es igual a su absortividad} $\alpha = \epsilon$.
+En la figura \ref{fig:esq_espectro01} se observan diferentes espectros y cómo se producen estos, donde el primero, es el espectro continuo o de cuerpo negro, en el cuál se observa una banda continua. Es emitido por cualquier objeto caliente, el espectro solar es un ejemplo de este. El espectro de emisión de líneas es generado cuando los átomos y moléculas en un gas caliente emiten una radiación en ciertas longitudes de onda. Por otra parte el espectro de absorción se observa cuando el mismo gas, recibe radiación electromagnética, este gas absorbería ciertas longitudes de onda. Se observa que las líneas emitidas son las mismas que las que no se presentan cuando absorbe. Cumpliendo con esto la ley de Kirchhoff de la radiación térmica: \emph{si un cuerpo (o superficie) está en equilibrio termodinámico con su entorno, su emisividad es igual a su absortividad} $\alpha = \epsilon$.
 
 \subsection{Intervalo energético del espectro.}
-El espectro electromagnético cubre longitudes de onda muy variadas. Existen frecuencias desde 30 HZ y menores que son relevantes en el estudio de ciertas nebulosas. Por otro lado se conocen frecuencias cercanas a los  $2.9*10^{27}$ Hz, que han sido detectadas provenientes de rayos cósmicos.
-La energía de una onda electromagnética es determinada por su longitud de onda, la cual tiene una frecuencia asociada, y una energía de fotón E. La relación es la siguiente 
+El espectro electromagnético cubre un intervalo de frecuencias (o longitudes de onda) muy amplio. Existen frecuencias desde 30 HZ y menores que son relevantes en el estudio de ciertas nebulosas. Por otro lado se conocen frecuencias cercanas a los  $2.9 \times 10^{27}$ Hz.
+La energía que porta la onda electromagnética está relacionada con el cuadrado de la amplitud de la intensidad del campo eléctrico. 
+
+La dualidad onda-particula es un fenomeno por el cual la radiación electromagnetica no siempre será tratada como una onda, sino como un flujo de particulas, fotónes. Esto hace que el fotón tenga una energia E directamente proporcional a su frecuencia. La relación es 
 $\lambda = c/f$. La energía de un fotón está dada por la siguiente ecuación.
 \begin{equation}
 E = hf =h\cdot \frac{c}{\lambda}
@@ -42,7 +44,7 @@ Podemos reescribir la ecuación \ref{equa:intcuad}, expresando la energía $E$ e
 E(ev)\approx \frac{1240}{\lambda}
 \label{equa:intcuad2}
 \end{equation}
-De modo que para un fotón de longitud de onda igual a 200nm se tiene una energía de 6.2eV mientras que para uno de 700nm la energía será de 1.77eV.
+De modo que para un fotón que corresponde a una longitud de onda igual a 200nm se tiene una energía de 6.2eV mientras que para uno que corresponda a una longitud de onda de 700nm la energía será de 1.77eV.
 $$E_{200}\approx \frac{1240}{200}=6.2eV $$
 $$E_{700}\approx \frac{1240}{700}=1.77eV $$
 De la ecuación \ref{equa:intcuad2} podemos observar la energía es inversamente proporcional a la longitud de onda, a longitudes de onda menores tendremos mayor energía, y a mayores longitudes de onda menor energía.
@@ -115,11 +117,11 @@ La luz ultravioleta es el intervalo del espectro electromagnético que va desde 
 \end{table}
 
 \section{Espectrometría.}
-La interacción de la radiación electromagnética con la materia se puede describir con una representación gráfica de la distribución de intensidad de la radiación electromagnética, emitida o absorbida, por una sustancia, en función de su longitud de onda. Al analizar la radiación emitida o absorbida por la materia, se pueden identificar sustancias que la componen. 
+La interacción de la radiación electromagnética con la materia se puede describir a partir del cambio de la distribución de intensidad de la radiación electromagnética, emitida o absorbida, por una sustancia, en función de su longitud de onda. Al analizar la radiación emitida o absorbida por la materia, se pueden identificar sustancias que la componen. 
 
 
 \section{Espectrómetro}
-El espectrómetro óptico es un dispositivo utilizado para analizar la luz, para esto, el espectrómetro descompone la luz a estudiar en sus diferentes longitudes de onda que la componen, y mide la intensidad luminosa en cada una de estas longitudes de onda. Con lo cual obtendremos una gráfica de la intensidad contra la longitud de onda. Fig. \ref{fig:espectrosol} \cite{B&WTek2016}. 
+El espectrómetro óptico es un instrumento utilizado para analizar la luz, para esto, el espectrómetro descompone la luz a estudiar en sus diferentes longitudes de onda que la componen, y mide la potencia radiante en cada una de estas longitudes de onda. Con lo cual obtendremos una gráfica de la potencia radiante contra la longitud de onda. Fig. \ref{fig:espectrosol} \cite{B&WTek2016}. 
 
 \subsection{Funcionamiento del espectrómetro.}
 El funcionamiento básico del espectrómetro es descomponer la luz en sus componentes espectrales, medir la intensidad de la señal en función de la longitud de onda, y graficar las intensidades medidas en relación con la longitud de onda. 
@@ -132,11 +134,11 @@ El funcionamiento básico del espectrómetro es descomponer la luz en sus compon
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.9\linewidth,height=5cm]{Imagenes/espectroSOL}
-	\caption{Espectro continuo, luz solar \cite{SolarLight}.}
+	\caption[Espectro continuo, luz solar \cite{SolarLight}.]{El espectro solar es un ejemplo de espectro continuo, se grafica la irradiancia contra longitud de onda.}
 	\label{fig:espectrosol}
 \end{figure}
 
-El primer paso es introducir la luz al espectrómetro, la luz entra por medio de una fibra óptica, pasando por una pequeña apertura, \textbf{la ranura de entrada}, ver la figura \ref{fig:esquematicoespectrometro}(a). Aquí la luz diverge, esta luz es colimada utilizando un \textbf{espejo cóncavo} figura \ref{fig:esquematicoespectrometro}(b) y reflejada hacia la \textbf{red de difracción} figura \ref{fig:esquematicoespectrometro}(c). Aquí ocurre el fenómeno de difracción separando la luz en sus diferentes componentes espectrales, cada componente espectral se refleja en un ángulo diferente, las cuales son enfocadas por un segundo \textbf{espejo cóncavo} figura \ref{fig:esquematicoespectrometro}(d), al final son proyectadas en el \textbf{detector} figura \ref{fig:esquematicoespectrometro}(e). La señal luminosa es entonces convertida a una señal eléctrica. Con base en la dispersión lineal
+El primer paso es introducir la luz al espectrómetro, la luz entra por medio de una fibra óptica, pasando por una pequeña apertura, \textbf{la ranura de entrada}, ver la figura \ref{fig:esquematicoespectrometro}(a). Aquí la luz diverge, esta luz es colimada utilizando un \textbf{espejo cóncavo} figura \ref{fig:esquematicoespectrometro}(b) y reflejada hacia la \textbf{red de difracción} figura \ref{fig:esquematicoespectrometro}(c). Aquí ocurre el fenómeno de difracción separando la luz en sus diferentes componentes espectrales, cada componente espectral se refleja en un ángulo diferente, $m\lambda = d(sin(\alpha)+sin(\beta)) $. Las componentes son enfocadas por un segundo \textbf{espejo cóncavo} figura \ref{fig:esquematicoespectrometro}(d), al final son proyectadas en el \textbf{detector} figura \ref{fig:esquematicoespectrometro}(e). La señal luminosa es entonces convertida a una señal eléctrica. Con base en la dispersión lineal
 de la red de difracción y los pixeles en el detector, el software obtiene la relación en
 longitud de onda, y así se obtiene un espectro de intensidad en función de la longitud de onda.
 

@@ -15,23 +15,23 @@
 \contentsline {section}{Objetivos Particulares}{\es@scroman {xviii}}{section*.17}% 
 \contentsline {chapter}{\numberline {1.}Introducci\IeC {\'o}n}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Espectro electromagn\IeC {\'e}tico.}{1}{section.1.1}% 
-\contentsline {subsection}{\numberline {1.1.1}Intervalo energ\IeC {\'e}tico del espectro.}{2}{subsection.1.1.1}% 
-\contentsline {subsection}{\numberline {1.1.2}Regi\IeC {\'o}n visible}{3}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.1}Intervalo energ\IeC {\'e}tico del espectro.}{3}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}Regi\IeC {\'o}n visible}{4}{subsection.1.1.2}% 
 \contentsline {subsection}{\numberline {1.1.3}Ultravioleta}{4}{subsection.1.1.3}% 
 \contentsline {section}{\numberline {1.2}Espectrometr\IeC {\'\i }a.}{5}{section.1.2}% 
 \contentsline {section}{\numberline {1.3}Espectr\IeC {\'o}metro}{5}{section.1.3}% 
-\contentsline {subsection}{\numberline {1.3.1}Funcionamiento del espectr\IeC {\'o}metro.}{5}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.1}Funcionamiento del espectr\IeC {\'o}metro.}{6}{subsection.1.3.1}% 
 \contentsline {subsubsection}{\numberline {1.3.1.1}Ranura de entrada.}{7}{subsubsection.1.3.1.1}% 
 \contentsline {subsubsection}{\numberline {1.3.1.2}Espejo colimador.}{7}{subsubsection.1.3.1.2}% 
 \contentsline {subsubsection}{\numberline {1.3.1.3}Red de difracci\IeC {\'o}n.}{7}{subsubsection.1.3.1.3}% 
 \contentsline {subparagraph}{Redes de difracci\IeC {\'o}n de reflexi\IeC {\'o}n.}{8}{section*.18}% 
 \contentsline {subparagraph}{Redes de difracci\IeC {\'o}n de transmisi\IeC {\'o}n.}{9}{section*.19}% 
 \contentsline {subsubsection}{\numberline {1.3.1.4}Detector.}{9}{subsubsection.1.3.1.4}% 
-\contentsline {section}{\numberline {1.4}Monocromador}{10}{section.1.4}% 
-\contentsline {section}{\numberline {1.5}Tubo fotomultiplicador}{10}{section.1.5}% 
+\contentsline {section}{\numberline {1.4}Monocromador}{9}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}Tubo fotomultiplicador}{11}{section.1.5}% 
 \contentsline {section}{\numberline {1.6}Fuentes luminosas.}{11}{section.1.6}% 
-\contentsline {section}{\numberline {1.7}Propuesta de sistema.}{11}{section.1.7}% 
-\contentsline {section}{\numberline {1.8}Antecedentes.}{11}{section.1.8}% 
+\contentsline {section}{\numberline {1.7}Propuesta de sistema.}{12}{section.1.7}% 
+\contentsline {section}{\numberline {1.8}Antecedentes.}{12}{section.1.8}% 
 \contentsline {chapter}{\numberline {2.}Marco Te\IeC {\'o}rico.}{13}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}Monocromador.}{13}{section.2.1}% 
 \contentsline {paragraph}{Red de difracci\IeC {\'o}n.}{14}{section*.20}% 
