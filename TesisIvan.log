@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.6.15)  7 JUL 2020 22:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.6.15)  7 JUL 2020 23:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -960,7 +960,7 @@ LaTeX Info: Redefining \% on input line 9.
 \openout2 = `Chapters/Capitulo1.aux'.
 
  (./Chapters/Capitulo1.tex
-Cap\'{\i }tulo 1.
+Cap\'{\i }tulo 1
 <Imagenes/espectro_visible.png, id=475, 642.4pt x 196.735pt>
 File: Imagenes/espectro_visible.png Graphic file (type png)
 <use Imagenes/espectro_visible.png>
@@ -1095,7 +1095,7 @@ LaTeX Info: Redefining \% on input line 56.
 
 
 (./Chapters/Capitulo2.tex
-Cap\'{\i }tulo 2.
+Cap\'{\i }tulo 2
 <Imagenes/Fastie-Ebert.jpg, id=620, 301.125pt x 198.7425pt>
 File: Imagenes/Fastie-Ebert.jpg Graphic file (type jpg)
 <use Imagenes/Fastie-Ebert.jpg>
@@ -1396,7 +1396,7 @@ LaTeX Info: Redefining \% on input line 57.
 
 
 (./Chapters/Capitulo3.tex
-Cap\'{\i }tulo 3.
+Cap\'{\i }tulo 3
 <Imagenes/3/esquema.png, id=856, 1256.0526pt x 543.9522pt>
 File: Imagenes/3/esquema.png Graphic file (type png)
 <use Imagenes/3/esquema.png>
@@ -1802,7 +1802,7 @@ LaTeX Info: Redefining \% on input line 58.
 \openout2 = `Chapters/Capitulo4.aux'.
 
  (./Chapters/Capitulo4.tex
-Cap\'{\i }tulo 4.
+Cap\'{\i }tulo 4
 <Imagenes/4/HR4000_4ms.png, id=1151, 866.48718pt x 349.305pt>
 File: Imagenes/4/HR4000_4ms.png Graphic file (type png)
 <use Imagenes/4/HR4000_4ms.png>
@@ -2034,7 +2034,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 63.
 Here is how much of TeX's memory you used:
  12524 strings out of 492641
  184381 string characters out of 6132991
- 304571 words of memory out of 5000000
+ 304567 words of memory out of 5000000
  15635 multiletter control sequences out of 15000+600000
  64617 words of font info for 105 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
@@ -2049,7 +2049,7 @@ type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on TesisIvan.pdf (85 pages, 10775595 bytes).
+Output written on TesisIvan.pdf (85 pages, 10775578 bytes).
 PDF statistics:
  1557 PDF objects out of 1728 (max. 8388607)
  1210 compressed objects within 13 object streams

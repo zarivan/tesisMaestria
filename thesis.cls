@@ -122,9 +122,9 @@
                     \pagestyle{headings}      % end of rpi added stuff
                     \ifnum \c@secnumdepth >\m@ne
                          \refstepcounter{chapter}%
-                         \typeout{\@chapapp\space\thechapter.}%
+                         \typeout{\@chapapp\space\thechapter}%
                          \addcontentsline{toc}{chapter}%
-                                   {\protect\numberline{\thechapter.}#1}%
+                                   {\protect\numberline{\thechapter}#1}%
                     \else
                       \addcontentsline{toc}{chapter}{#1}%
                     \fi
@@ -145,7 +145,7 @@
          \bfseries \@chapapp{} \thechapter    % print "Chapter" and number
          \vskip -3pt           %\par\nobreak (original)
        \else
-         \bfseries \thechapter. 
+         \bfseries \thechapter 
        \fi
     \fi
     \interlinepenalty\@M

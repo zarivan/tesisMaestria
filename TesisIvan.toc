@@ -13,7 +13,7 @@
 \contentsline {paragraph}{Aplicaciones}{\es@scroman {xvii}}{section*.15}% 
 \contentsline {chapter}{Objetivo General}{\es@scroman {xviii}}{chapter*.16}% 
 \contentsline {section}{Objetivos Particulares}{\es@scroman {xviii}}{section*.17}% 
-\contentsline {chapter}{\numberline {1.}Introducci\IeC {\'o}n}{1}{chapter.1}% 
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Espectro electromagn\IeC {\'e}tico.}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Intervalo energ\IeC {\'e}tico del espectro.}{3}{subsection.1.1.1}% 
 \contentsline {subsection}{\numberline {1.1.2}Regi\IeC {\'o}n visible}{4}{subsection.1.1.2}% 
@@ -32,7 +32,7 @@
 \contentsline {section}{\numberline {1.6}Fuentes luminosas.}{11}{section.1.6}% 
 \contentsline {section}{\numberline {1.7}Propuesta de sistema.}{12}{section.1.7}% 
 \contentsline {section}{\numberline {1.8}Antecedentes.}{12}{section.1.8}% 
-\contentsline {chapter}{\numberline {2.}Marco Te\IeC {\'o}rico.}{13}{chapter.2}% 
+\contentsline {chapter}{\numberline {2}Marco Te\IeC {\'o}rico.}{13}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}Monocromador.}{13}{section.2.1}% 
 \contentsline {paragraph}{Red de difracci\IeC {\'o}n.}{14}{section*.20}% 
 \contentsline {paragraph}{Poder de resoluci\IeC {\'o}n R.}{17}{section*.21}% 
@@ -48,7 +48,7 @@
 \contentsline {paragraph}{ADC-externo.}{29}{section*.28}% 
 \contentsline {paragraph}{Potenci\IeC {\'o}metro Digital.}{29}{section*.29}% 
 \contentsline {section}{\numberline {2.4}Interfaz gr\IeC {\'a}fica.}{30}{section.2.4}% 
-\contentsline {chapter}{\numberline {3.}Desarrollo del sistema.}{32}{chapter.3}% 
+\contentsline {chapter}{\numberline {3}Desarrollo del sistema.}{32}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Control del monocromador}{32}{section.3.1}% 
 \contentsline {section}{\numberline {3.2}Control de la red de difracci\IeC {\'o}n.}{35}{section.3.2}% 
 \contentsline {section}{\numberline {3.3}Calibraci\IeC {\'o}n.}{38}{section.3.3}% 
@@ -58,7 +58,7 @@
 \contentsline {subsection}{\numberline {3.3.3}ADC MCP3202.}{48}{subsection.3.3.3}% 
 \contentsline {subsection}{\numberline {3.3.4}Potenci\IeC {\'o}metro digital.}{49}{subsection.3.3.4}% 
 \contentsline {section}{\numberline {3.4}Intervalo espectral de trabajo del sistema. }{51}{section.3.4}% 
-\contentsline {chapter}{\numberline {4.}Mediciones con el sistema}{53}{chapter.4}% 
+\contentsline {chapter}{\numberline {4}Mediciones con el sistema}{53}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Ajuste en forma del espectro unidades relativas.}{59}{section.4.1}% 
 \contentsline {chapter}{Conclusiones}{62}{section*.30}% 
 \contentsline {chapter}{Trabajo futuro.}{63}{section*.32}% 
