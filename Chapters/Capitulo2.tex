@@ -2,7 +2,7 @@
 En la introducción se habló de forma breve del funcionamiento de los espectrómetros así como de los monocromadores y cómo tienen similitud en su construcción y funcionamiento. La principal diferencia es que con el monocromador solo se obtiene la intensidad de la luz a una longitud de onda a la vez, y los espectrómetros modernos miden la intensidad en un amplio intervalo de longitudes de onda. El monocromador permite realizar barridos, modificando el ángulo de incidencia en la red de difracción, a la salida del monocromador se medirán las intensidades de la luz a las diferentes longitudes de onda. Mientras que el espectrómetro obtiene una imagen instantánea del espectro, en el monocromador se va reconstruyendo longitud de onda a longitud de onda el espectro.
 
 \section{Monocromador.}
-El monocromador, al separar la luz en sus diferentes longitudes de onda se puede utilizar para realizar los barridos en intervalos del espectro electromagnético. 
+Como el monocromador separa la luz en sus diferentes longitudes de onda se puede utilizar para realizar los barridos en intervalos del espectro electromagnético. 
 El monocromador a utilizar es un \textit{SpectraPro-275}, de la marca \textit{Action Research Corporation.}
 Existen varios tipos de configuraciones para los monocromadores, las más comunes son:
 
@@ -18,7 +18,7 @@ Existen varios tipos de configuraciones para los monocromadores, las más comune
 	\subfigure[Fastie-Ebert]{\includegraphics[width=0.7\linewidth]{Imagenes/Fastie-Ebert}}
 	\subfigure[Czerny-Turnet]{\includegraphics[width=0.7\linewidth]{Imagenes/Czerny-Turner}}
 	\label{fig:Configuraciones}
-	\caption[Diagramas ópticos de dos tipos de monocromadores de red de difracción.]{Diagramas ópticos de dos tipos de monocromadores de red de difracción. En la configuración (a) solo se tiene un espejo esférico, el cual se encarga de colimar y enfocar la luz, y en la configuración (b) se usan un espejo cóncavo para cada acción. \cite{Gratings2008}} 
+	\caption[Diagramas ópticos de dos tipos de monocromadores de red de difracción.]{Diagramas ópticos de dos tipos de monocromadores de red de difracción. En la configuración (a) solo se tiene un espejo esférico, el cual se encarga de colimar y enfocar la luz, y en la configuración (b) se usan un espejo cóncavo para cada acción. Imagen tomada de. \cite{Gratings2008}} 
 	
 \end{figure}
 
@@ -35,11 +35,11 @@ El funcionamiento de las redes de difracción se basa en el fenómeno de difracc
 	\centering
 	%\subfigure[Patron de difracción ]{\includegraphics[width=0.48\linewidth,trim={0 10mm 0 0}]{Imagenes/2/slit1}}
 	\includegraphics[width=0.7\linewidth]{Imagenes/patronrendijasimple}
-	\caption{Fenómeno de difracción en una rendija. ``a'' es el tamaño de la rendija. \cite{longitud01}}
+	\caption{Fenómeno de difracción en una rendija. ``a'' es el ancho de la rendija. \cite{longitud01}}
 	\label{fig:slit2}
 \end{figure} 
 
-En función de la longitud de onda la luz se refleja a un ángulo dado por la ecuación \ref{equa:difra2} (ver ecuación \ref{equa:difra}). Al incidir diferentes longitudes de onda se obtienen distintos valores de $\theta$ dependiendo del orden ($m$). 
+En función de la longitud de onda la luz se refleja a un ángulo dado por la ecuación \ref{equa:difra2} (ver ecuación \ref{equa:difra}). Al incidir diferentes longitudes de onda se obtienen distintos valores de $\theta$ dependiendo del orden ($m$), $d$ es el ancho de la rendija. 
 
 \begin{equation}
 \sin(\theta) = \frac{m \lambda}{d}
@@ -62,7 +62,7 @@ Al momento de hacer mediciones con los espectrómetros se debe tener cuidado de 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.7\linewidth]{Imagenes/2/ordenes}
-	\caption[Difracción de la luz se aprecia el orden de difracción de diferentes longitudes de onda.]{Luz incidente es difractada y reflejada a diferentes ángulos. Se observa cómo en el mismo ángulo se encuentran dos longitudes de onda diferentes pero de diferente orden. \cite{Palmer2005}}
+	\caption[Difracción de la luz se aprecia el orden de difracción de diferentes longitudes de onda.]{Luz incidente es difractada y reflejada a diferentes ángulos. Se observa cómo en el mismo ángulo se encuentran dos longitudes de onda diferentes pero de diferente orden. Imagen tomada de. \cite{Palmer2005}}
 	\label{fig:ordenes}
 \end{figure}
 
@@ -74,7 +74,7 @@ Las redes de difracción con alta eficiencia son deseables por muchas razones. S
 % La segunda por otra parte es la relación de energía difractada en la red, comparada con un espejo recubierto del mismo material que la red
 
 \paragraph{Poder de resolución R.} 
-Es la capacidad de un espectrómetro para poder diferenciar dos líneas espectrales adyacentes de la misma intensidad. Esta dado por la ecuación \ref{equa:resolucion}. Donde $\Delta\lambda$ es la diferencia entre dos longitudes de onda, m es el orden y N es la cantidad total de líneas en la red de difracción, $N= L\times W_g$, L es la longitud en milímetros de la red, y $W_g$ es la densidad de líneas por milímetro.
+Es la capacidad de un espectrómetro para poder separar o resolver dos líneas espectrales contiguas. Esta dado por la ecuación \ref{equa:resolucion}. Donde $\Delta\lambda$ es la diferencia entre dos longitudes de onda, m es el orden y N es la cantidad total de líneas en la red de difracción, $N= L\times W_g$, L es la longitud en milímetros de la red, y $W_g$ es la densidad de líneas por milímetro.
 \begin{equation}
 	R = \frac{\lambda}{\Delta \lambda}
 	\label{equa:resolucion}
@@ -85,7 +85,7 @@ Es la capacidad de un espectrómetro para poder diferenciar dos líneas espectra
 \end{equation}
 
 Tomemos como ejemplo una red de difracción de 1200 líneas/mm con una longitud de 110 mm, $R=mN = 1200 \times 110 = 132,000$. De la ecuación \ref{equa:resolucion}. $\Delta\lambda = \frac{R}{\lambda}$. En $\lambda_{500}$, $\Delta\lambda = 0.0038nm$
-y en $\lambda_{300}$, $\Delta\lambda = 0.0022nm$. Como se ve, a menores longitudes de onda este poder de resolución es capaz de distinguir entre longitudes de ondas más cercanas, y de forma inversa entre mayor sea la longitud de onda mayor es la distancia entre estas longitudes de onda que podrá resolver \cite{Gratings2008}.
+y en $\lambda_{300}$, $\Delta\lambda = 0.0022nm$. Como se ve, a menores longitudes de onda es posible distinguir entre longitudes de ondas más cercanas, y de forma inversa mientras mayor sea la longitud de onda, mayor es la distancia entre estas longitudes de onda que podrá resolver \cite{Gratings2008}.
 
 \paragraph{Red de difracción holográfica.} Son recomendadas cuando se quiere trabajar en UV, VIS y NIR. La densidad de líneas debe ser de 1200 líneas/mm o superior. %(hasta los 6000 líneas/mm), Son muy recomendadas para trabajar en UV. 
 
@@ -95,7 +95,7 @@ y en $\lambda_{300}$, $\Delta\lambda = 0.0022nm$. Como se ve, a menores longitud
 
 \subsection{Motor a pasos.}
 Este tipo de motores se caracterizan por tener un giro de ángulo específico, al ir cambiando la excitación de sus bobinas. %(borrado todo esto) Al tener un giro tan preciso, son utilizados en sistemas que requieran exactitud, pues el control en motores de AC o DC es más complicado debido a la inercia, así como el control de su velocidad, se desarrollaron los motores a pasos. 
-La configuración de los motores a pasos se compone del estator, que es una parte fija, con cavidades, en las cuales se ubican las bobinas del motor, la otra parte es el rotor que es la parte móvil del motor, va montado sobre un eje soportado por dos cojinetes lo que le permite girar libremente, ver fig. \ref{fig:rotorestator}. 
+Los motores a pasos se componen del estator, que es una parte fija, con cavidades, en las cuales se ubican las bobinas del motor y el rotor que es la parte móvil del motor, que va montado sobre un eje soportado por dos cojinetes lo que le permite girar libremente, ver fig. \ref{fig:rotorestator}. 
 
 \begin{figure}[h]
 	\centering
@@ -103,7 +103,7 @@ La configuración de los motores a pasos se compone del estator, que es una part
 	\caption{Esquema de un motor a pasos. Se observan las dos partes principales que le componen. Rotor a la izquierda y estator a la derecha. \cite{Acarnley2002}}
 	\label{fig:rotorestator}
 \end{figure}
-El rotor del motor tiene sus polos N-S, al energizar el estator, este generará sus polos magnéticos N-S, el rotor, buscará el quedar en equilibrio magnético, Norte-Sur y Sur-Norte, lo que provoca que el rotor giré para llegar a este equilibrio. Al cambiar la excitación de las bobinas, los polos N-S creados por el estator, cambiaran, como resultado el rotor volverá a girar, para buscar el nuevo punto de equilibrio. De esta forma es como el motor va dando "pasos". En la figura \ref{fig:pasodos} para girar en el sentido de las manecillas del reloj, la bobina energizada (B), debe ser apagada, después se energiza la bobina (C), ocasionando el giro del rotor, para dar un giro desde esta posición, se deben ir encendiendo las bobinas en el siguiente orden C, D, A, B, C, des energizando la última bobina energizada. Para girar en sentido opuesto de las manecillas del reloj simplemente se energizan las bobinas en el orden opuesto, C, B, A, D, C.
+El rotor del motor tiene sus polos N-S, al energizar el estator, este generará sus polos magnéticos N-S, el rotor, buscará el quedar en equilibrio magnético, Norte-Sur y Sur-Norte, lo que provoca que el rotor giré para llegar a este equilibrio. Al cambiar la excitación de las bobinas, los polos N-S creados por el estator, cambiaran, como resultado el rotor volverá a girar, para buscar el nuevo punto de equilibrio. De esta forma es como el motor va dando "pasos". En la figura \ref{fig:pasodos} para girar en el sentido de las manecillas del reloj, la bobina energizada (B), debe ser apagada, después se energiza la bobina (C), ocasionando el giro del rotor, para dar un giro desde esta posición, se deben ir encendiendo las bobinas en el siguiente orden C, D, A, B, C, desenergizando la última bobina energizada. Para girar en sentido opuesto de las manecillas del reloj simplemente se energizan las bobinas en el orden opuesto, C, B, A, D, C.
 Como se aprecia, el control de un motor a pasos es realmente sencillo, y preciso. 
 \begin{figure}[h]
 	\centering
@@ -200,7 +200,7 @@ El control de motores a pasos se puede realizar de diferentes formas, siguiendo 
 Con estas secuencias y una etapa de potencia se puede controlar los motores a pasos. Para realizar estas secuencias existen circuitos integrados con 4 pines de entrada y 4 de salida, como el L293D, ver figura \ref{fig:l293}. Este contiene 2 puentes H que tienen como función el ser la etapa de potencia para el motor a pasos, dado que los microcontroladores no tienen la suficiente potencia para hacer girar el motor.
 Utilizando este circuito integrado se puede hacer dos tipos de conexiones una a 4 hilos y la otra a 2 hilos. A cuatro hilos, fig. \ref{fig:bipolar-4-fils}, se pueden utilizar los tres tipos de pasos que se mencionaron antes, teniendo más opciones de control, sin embargo, el ocupar 4 pines de salida de un microcontrolador puede ser un inconveniente si es que se quiere mover más de un motor. A dos hilos, fig. \ref{fig:bipolar-2-fils}, solo se puede realizar el paso doble. %Perdemos la posibilidad de utilizar el medio paso que para ciertas aplicaciones puede ser una desventaja.
 
-El control de los motores a pasos no es complicado, sin embargo, hoy en día se tienen otros tipos de circuitos integrados que permiten controlar los motores a pasos, de forma más sencilla. Dentro de estos circuitos integrados, \textit{drivers}, se tienen, el A4988, el DRV8825 y el TB6560, los cuales son muy comunes en las impresoras 3D, pues son de bajo costo y faciles de cambiar. En este trabajo utilizaremos el TB6560.
+El control de los motores a pasos no es complicado, sin embargo, hoy en día existen circuitos integrados que permiten controlar los motores a pasos, lo que simplifica el trabajo para desarrollar el controlador. Entre estos circuitos integrados, \textit{drivers}, se tienen, el A4988, el DRV8825 y el TB6560, los cuales son muy comunes en las impresoras 3D, pues son de bajo costo y fáciles de cambiar. En este trabajo utilizaremos el TB6560.
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.4\linewidth]{Imagenes/2/L293}
@@ -259,7 +259,7 @@ El driver permite limitar la corriente de operación, así como modificar el pas
 
 \section{Tubo fotomultiplicador.}
 Los tubos fotomultiplicadores son detectores utilizados para medir potencia radiante baja, son especialmente sensibles a la radiación ultravioleta y visible, ver figura \ref{fig:pmte}. EL funcionamiento de los tubos fotomultiplicadores (PMT), se basa en el efecto fotoeléctrico.  
-La luz pasa a través de la ventana, \textit{faceplate}, los fotónes inciden en el fotocátodo, y este emite electrones, a los cuales se les denomina como fotoelectrones, estos viajan por el interior del PMT.  Los fotoelectrones son acelerados con campos eléctricos y dirigidos al primer dinodo. Con lo cual se desprenden más electrones que los que incidieron, este proceso se repite en cada uno de los siguientes dinodos. Cada dinodo está cargado positivamente 100 voltios más que el anterior. Al llegar al ánodo receptor. Este proceso da como resultado que las pequeñas corrientes generadas por el fotocátodo sean amplificadas millones de veces. Produciendo de $10^5$ a $10^7$ electrones por cada fotón incidente.
+La luz pasa a través de la ventana, \textit{faceplate}, los fotónes inciden en el fotocátodo, y este emite electrones, a los cuales se les denomina como fotoelectrones, estos viajan por el interior del PMT.  Los fotoelectrones son acelerados con campos eléctricos y dirigidos al primer dinodo. Con lo cual se desprenden más electrones que los que incidieron, este proceso se repite en cada uno de los siguientes dinodos. Cada dinodo tiene un potencial de 100 voltios más que el anterior. Al llegar al ánodo receptor. Este proceso da como resultado que las pequeñas corrientes generadas por el fotocátodo sean amplificadas, produciendo de $10^5$ a $10^7$ electrones por cada fotón incidente.
 Los tubos fotomultiplicadores, son muy sensibles, estando limitados a medir fuentes luminosas de baja potencia, de lo contrario se ocasionarían daños irreversibles en la superficie del fotocátodo.
 La figura \ref{fig:pmte} es un esquemático en el que se aprecia cómo está constituido el \textit{PMT}. En la figura \ref{fig:PMT} (a) y (b) se muestran dos tubos fotomultiplicadores, la diferencia entre estos radica en donde incidirá la luz, en el (a) \textit{head-on} es en la parte frontal del \textit{PMT}, y en el (b) \textit{side-on} es el lateral. En la figura \ref{fig:pmtModule} se ven módulos de \textit{PMT}. 
  
@@ -298,20 +298,20 @@ El módulo cuenta con un ajuste de sensibilidad, figura \ref{fig:sensibilidadaju
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.8\linewidth]{Imagenes/2/SensibilidadAjuste}
-	\caption[Ajuste de sensibilidad del \textit{PMT módulo H8249}]{Ajuste de sensibilidad del \textit{PMT módulo H8249} puede ser controlado con una fuente de voltaje variable o utilizando una resistencia variable. Con este control se manipula la ganancia que se tendrá en el \textit{PMT}\cite{Hamamatsu2008}}
+	\caption[Ajuste de sensibilidad del PMT módulo H8249]{Ajuste de sensibilidad del PMT módulo H8249 puede ser controlado con una fuente de voltaje variable o utilizando una resistencia variable. Con este control se manipula la ganancia que se tendrá en el PMT. Imagen tomada de \cite{Hamamatsu2008}}
 	\label{fig:sensibilidadajuste}
 \end{figure}
 
- En la figura \ref{fig:sensibilidadajuste} se observa que el módulo se controla con cinco cables, 3 de alimentación, uno de control, y el último un voltaje de referencia, que se puede usar para el control de ganancia, utilizando la configuración de resistencia programable. El voltaje del control de ganancia va desde los 0.2v hasta los 1.2v y la ganancia desde $10^{3}$ hasta $10^{7}$, ver figura \ref{fig:pmtgain}.
+ En la figura \ref{fig:sensibilidadajuste} se observa que el módulo se controla a través de cinco puertos o contactos, 3 de alimentación, uno de control, y el último un voltaje de referencia, que se puede usar para el control de ganancia, utilizando la configuración de resistencia programable. El voltaje del control de ganancia va desde los 0.2v hasta los 1.2v y la ganancia desde $10^{3}$ hasta $10^{7}$, ver figura \ref{fig:pmtgain}.
  \begin{figure}
  	\centering
  	\includegraphics[width=0.7\linewidth]{Imagenes/2/PMT_GAIN}
- 	\caption[Sensibilidad y ganancia H8249]{Sensibilidad del tubo fotomultiplicador (izquierda), voltaje de control apara la ganancia izquierda. \cite{Hamamatsu2008}}
+ 	\caption[Sensibilidad y ganancia H8249]{Sensibilidad del tubo fotomultiplicador (izquierda), voltaje de control apara la ganancia izquierda. Imagen tomada de. \cite{Hamamatsu2008}}
  	\label{fig:pmtgain}
  \end{figure}
 
 \section{Microcontrolador.}
-Los microcontroladores son dispositivos programables los cuales cuentan con elementos necesarios para funcionar como una minicomputadora en un solo circuito integrado. %En el interior se encuentran: %el microprocesador, la memoria, los puertos y periféricos. Por ejemplo pensemos en un proyecto para controlar la temperatura, necesitariamos.
+Los microcontroladores son dispositivos programables los cuales cuentan con los elementos necesarios para funcionar como una minicomputadora en un solo circuito integrado. %En el interior se encuentran: %el microprocesador, la memoria, los puertos y periféricos. Por ejemplo pensemos en un proyecto para controlar la temperatura, necesitariamos.
 %\begin{itemize}
 %	\item Leer la temperatura periodicamente y digitalizarla.
 %	\item Un control de acuerdo a la temperatura.
@@ -352,7 +352,7 @@ Para el desarrollo del sistema se requieren de.
 La tarjeta Arduino Uno, tiene los pines suficientes para este proyecto sin embargo para futuras mejoras esta tarjeta ya no serviría, por ello se decidió utilizar el Arduino Mega.
 
 \paragraph{ADC} el ADC por sus siglas en inglés, (\textit{analog to digital converter}), es un convertidor analógico a digital. Su función es adquirir una señal eléctrica proveniente de un sensor, (voltaje o corriente) y convertirlo a una señal digital, bits. 
-La resolución del ADC está dada en bits, (8, 10, 12, 16, 24 bits), o lo que es lo mismo 2 elevado a estas potencias dando como valores, (256, 1024, 4096, 65 536, 16 777 216). Mientras más posibles valores tenga el ADC menor será la diferencia en valor de un bit a otro bit. Por ejemplo, teniendo un voltaje máximo de entrada de 5V para todos estos ADCs, al leer un valor de 1.2V se tendrían los valores mostrados en la siguiente tabla \ref{tabla:adcRe}.
+La resolución del ADC está dada en bits, (8, 10, 12, 16, 24 bits), o lo que es lo mismo 2 elevado a estas potencias dando como valores, (256, 1024, 4096, 65 536, 16 777 216). Mientras mayor sea el número de valores posibles del ADC menor será la diferencia en la magnitud de un bit a otro bit. Por ejemplo, teniendo un voltaje máximo de entrada de 5V para todos estos ADCs, al leer un valor de 1.2V se tendrían los valores mostrados en la siguiente tabla \ref{tabla:adcRe}.
 
 \begin{table}[h]
 \centering
@@ -417,7 +417,7 @@ El ADC del Arduino Mega es de 10 bits, por lo que se buscó utilizar un ADC de m
 
 \paragraph{Potenciómetro Digital.}
 Como se mencionó el \textit{PMT} necesita de un control de entrada de voltaje. Utilizando el voltaje de referencia que el propio \textit{PMT} genera se requiere un potenciómetro digital para poder variar el voltaje de control del tubo fotomultiplicador. 
-El potenciómetro digital es un circuito integrado con el cual uno puede ir variando la resistencia, a través de pulsos digitales, (5v y 0v). EL potenciómetro digital que se uso es el X9C103 \cite{X9C102}. El potenciómetro se observa en la figura \ref{fig:potdig}. Tiene 8 pines, su funcionamiento se explica en la tabla \ref{tabla:potpin}. %CS se activa el potenciómetro digital. Si no esta activo no se puede modificar su resistencia. INC al recibir pulsos va dando pasos en el potenciómetro digital modificando la resistencia. U/D determina si se realizará un incremento o disminución en la resistencia. $V_{CC}$ y $V_{SS}$ son la alimentación del circuito integrado, 5V y GND. $V_h/R_h$ y $V_L/R_L$ son equivalentes a las terminales de un potenciómetro mecánico. $V_W$ es la salida resultante del voltaje.
+El potenciómetro digital es un circuito integrado con el cual uno puede ir variando la resistencia, a través de pulsos digitales, (5v y 0v). El potenciómetro digital que se usó es el X9C103 \cite{X9C102}. El potenciómetro se observa en la figura \ref{fig:potdig}. Tiene 8 pines, su funcionamiento se explica en la tabla \ref{tabla:potpin}. %CS se activa el potenciómetro digital. Si no esta activo no se puede modificar su resistencia. INC al recibir pulsos va dando pasos en el potenciómetro digital modificando la resistencia. U/D determina si se realizará un incremento o disminución en la resistencia. $V_{CC}$ y $V_{SS}$ son la alimentación del circuito integrado, 5V y GND. $V_h/R_h$ y $V_L/R_L$ son equivalentes a las terminales de un potenciómetro mecánico. $V_W$ es la salida resultante del voltaje.
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.5\linewidth]{Imagenes/2/potDig}
@@ -454,7 +454,7 @@ El potenciómetro digital es un circuito integrado con el cual uno puede ir vari
 	\label{tabla:potpin}
 \end{table}
 
-El \textit{PMT} recomienda usar un potenciómetro digital de $10k\Omega$, el X9C103 es de este valor, con 100 pasos para pasar de una resistencia de 0 hasta $10k\Omega$. Esta cantidad de pasos es más que suficiente para el control de voltaje del \textit{PMT.}
+Para el PMT, se recomienda usar un potenciómetro digital de $10k\Omega$, el X9C103 es de este valor, con 100 pasos para pasar de una resistencia de 0 hasta $10k\Omega$. Esta cantidad de pasos es más que suficiente para el control de voltaje del \textit{PMT.}
 
 
 \section{Interfaz gráfica.}

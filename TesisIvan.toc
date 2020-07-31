@@ -10,9 +10,8 @@
 \babel@toc {spanish}{}
 \contentsline {chapter}{Hip\IeC {\'o}tesis}{\es@scroman {xvi}}{chapter*.12}% 
 \contentsline {chapter}{Justificaci\IeC {\'o}n}{\es@scroman {xvii}}{section*.13}% 
-\contentsline {paragraph}{Aplicaciones}{\es@scroman {xvii}}{section*.15}% 
-\contentsline {chapter}{Objetivo General}{\es@scroman {xviii}}{chapter*.16}% 
-\contentsline {section}{Objetivos Particulares}{\es@scroman {xviii}}{section*.17}% 
+\contentsline {chapter}{Objetivo General}{\es@scroman {xviii}}{chapter*.15}% 
+\contentsline {section}{Objetivos Particulares}{\es@scroman {xviii}}{section*.16}% 
 \contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Espectro electromagn\IeC {\'e}tico.}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Intervalo energ\IeC {\'e}tico del espectro.}{3}{subsection.1.1.1}% 
@@ -20,46 +19,46 @@
 \contentsline {subsection}{\numberline {1.1.3}Ultravioleta}{4}{subsection.1.1.3}% 
 \contentsline {section}{\numberline {1.2}Espectrometr\IeC {\'\i }a.}{5}{section.1.2}% 
 \contentsline {section}{\numberline {1.3}Espectr\IeC {\'o}metro}{5}{section.1.3}% 
-\contentsline {subsection}{\numberline {1.3.1}Funcionamiento del espectr\IeC {\'o}metro.}{6}{subsection.1.3.1}% 
-\contentsline {subsubsection}{\numberline {1.3.1.1}Ranura de entrada.}{7}{subsubsection.1.3.1.1}% 
+\contentsline {subsection}{\numberline {1.3.1}Funcionamiento de espectr\IeC {\'o}metro.}{6}{subsection.1.3.1}% 
+\contentsline {subsubsection}{\numberline {1.3.1.1}Ranura de entrada.}{6}{subsubsection.1.3.1.1}% 
 \contentsline {subsubsection}{\numberline {1.3.1.2}Espejo colimador.}{7}{subsubsection.1.3.1.2}% 
 \contentsline {subsubsection}{\numberline {1.3.1.3}Red de difracci\IeC {\'o}n.}{7}{subsubsection.1.3.1.3}% 
-\contentsline {subparagraph}{Redes de difracci\IeC {\'o}n de reflexi\IeC {\'o}n.}{8}{section*.18}% 
-\contentsline {subparagraph}{Redes de difracci\IeC {\'o}n de transmisi\IeC {\'o}n.}{9}{section*.19}% 
+\contentsline {subparagraph}{Redes de difracci\IeC {\'o}n de reflexi\IeC {\'o}n.}{8}{section*.17}% 
+\contentsline {subparagraph}{Redes de difracci\IeC {\'o}n de transmisi\IeC {\'o}n.}{8}{section*.18}% 
 \contentsline {subsubsection}{\numberline {1.3.1.4}Detector.}{9}{subsubsection.1.3.1.4}% 
 \contentsline {section}{\numberline {1.4}Monocromador}{9}{section.1.4}% 
-\contentsline {section}{\numberline {1.5}Tubo fotomultiplicador}{11}{section.1.5}% 
+\contentsline {section}{\numberline {1.5}Tubo fotomultiplicador}{10}{section.1.5}% 
 \contentsline {section}{\numberline {1.6}Fuentes luminosas.}{11}{section.1.6}% 
-\contentsline {section}{\numberline {1.7}Propuesta de sistema.}{12}{section.1.7}% 
+\contentsline {section}{\numberline {1.7}Propuesta de sistema.}{11}{section.1.7}% 
 \contentsline {section}{\numberline {1.8}Antecedentes.}{12}{section.1.8}% 
 \contentsline {chapter}{\numberline {2}Marco Te\IeC {\'o}rico.}{13}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}Monocromador.}{13}{section.2.1}% 
-\contentsline {paragraph}{Red de difracci\IeC {\'o}n.}{14}{section*.20}% 
-\contentsline {paragraph}{Poder de resoluci\IeC {\'o}n R.}{17}{section*.21}% 
-\contentsline {paragraph}{Red de difracci\IeC {\'o}n hologr\IeC {\'a}fica.}{17}{section*.22}% 
+\contentsline {paragraph}{Red de difracci\IeC {\'o}n.}{14}{section*.19}% 
+\contentsline {paragraph}{Poder de resoluci\IeC {\'o}n R.}{17}{section*.20}% 
+\contentsline {paragraph}{Red de difracci\IeC {\'o}n hologr\IeC {\'a}fica.}{17}{section*.21}% 
 \contentsline {subsection}{\numberline {2.1.1}Motor a pasos.}{17}{subsection.2.1.1}% 
-\contentsline {paragraph}{Control de un motor a pasos.}{19}{section*.23}% 
-\contentsline {paragraph}{Driver TB6560.}{21}{section*.24}% 
-\contentsline {section}{\numberline {2.2}Tubo fotomultiplicador.}{25}{section.2.2}% 
-\contentsline {paragraph}{M\IeC {\'o}dulo H8249-101.}{26}{section*.25}% 
+\contentsline {paragraph}{Control de un motor a pasos.}{19}{section*.22}% 
+\contentsline {paragraph}{Driver TB6560.}{21}{section*.23}% 
+\contentsline {section}{\numberline {2.2}Tubo fotomultiplicador.}{24}{section.2.2}% 
+\contentsline {paragraph}{M\IeC {\'o}dulo H8249-101.}{26}{section*.24}% 
 \contentsline {section}{\numberline {2.3}Microcontrolador.}{27}{section.2.3}% 
-\contentsline {paragraph}{Arduino.}{28}{section*.26}% 
-\contentsline {paragraph}{ADC}{28}{section*.27}% 
-\contentsline {paragraph}{ADC-externo.}{29}{section*.28}% 
-\contentsline {paragraph}{Potenci\IeC {\'o}metro Digital.}{29}{section*.29}% 
+\contentsline {paragraph}{Arduino.}{27}{section*.25}% 
+\contentsline {paragraph}{ADC}{28}{section*.26}% 
+\contentsline {paragraph}{ADC-externo.}{28}{section*.27}% 
+\contentsline {paragraph}{Potenci\IeC {\'o}metro Digital.}{29}{section*.28}% 
 \contentsline {section}{\numberline {2.4}Interfaz gr\IeC {\'a}fica.}{30}{section.2.4}% 
-\contentsline {chapter}{\numberline {3}Desarrollo del sistema.}{32}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Control del monocromador}{32}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Control de la red de difracci\IeC {\'o}n.}{35}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Calibraci\IeC {\'o}n.}{38}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}L\IeC {\'a}mpara de mercurio.}{38}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}Relaci\IeC {\'o}n pasos a longitud de onda.}{41}{subsection.3.3.2}% 
-\contentsline {subsubsection}{\numberline {3.3.2.1}Curve Fitting Tool.}{44}{subsubsection.3.3.2.1}% 
-\contentsline {subsection}{\numberline {3.3.3}ADC MCP3202.}{48}{subsection.3.3.3}% 
-\contentsline {subsection}{\numberline {3.3.4}Potenci\IeC {\'o}metro digital.}{49}{subsection.3.3.4}% 
-\contentsline {section}{\numberline {3.4}Intervalo espectral de trabajo del sistema. }{51}{section.3.4}% 
-\contentsline {chapter}{\numberline {4}Mediciones con el sistema}{53}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Ajuste en forma del espectro unidades relativas.}{59}{section.4.1}% 
-\contentsline {chapter}{Conclusiones}{62}{section*.30}% 
-\contentsline {chapter}{Trabajo futuro.}{63}{section*.32}% 
-\contentsline {chapter}{Bibliograf\'{\i }a}{65}{chapter*.34}% 
+\contentsline {chapter}{\numberline {3}Desarrollo del sistema.}{31}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Control del monocromador}{31}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Control de la red de difracci\IeC {\'o}n.}{34}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Calibraci\IeC {\'o}n.}{37}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}L\IeC {\'a}mpara de mercurio.}{37}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Relaci\IeC {\'o}n pasos a longitud de onda.}{40}{subsection.3.3.2}% 
+\contentsline {subsubsection}{\numberline {3.3.2.1}Curve Fitting Tool.}{43}{subsubsection.3.3.2.1}% 
+\contentsline {subsection}{\numberline {3.3.3}ADC MCP3202.}{47}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}Potenci\IeC {\'o}metro digital.}{48}{subsection.3.3.4}% 
+\contentsline {section}{\numberline {3.4}Intervalo espectral de trabajo del sistema. }{50}{section.3.4}% 
+\contentsline {chapter}{\numberline {4}Mediciones con el sistema}{52}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Ajuste en forma del espectro unidades relativas.}{58}{section.4.1}% 
+\contentsline {chapter}{Conclusiones}{61}{section*.29}% 
+\contentsline {chapter}{Trabajo a futuro.}{62}{section*.31}% 
+\contentsline {chapter}{Bibliograf\'{\i }a}{64}{chapter*.33}% 

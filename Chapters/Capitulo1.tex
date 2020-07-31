@@ -1,7 +1,7 @@
 \chapter{Introducción}
 El presente trabajo de tesis está dedicado al diseño, construcción, caracterización e implementación de un sistema automatizado para la realización de estudios de espectroscopia, UV-VIS, utilizando un monocromador como sistema para descomponer la luz  en sus diferentes longitudes de onda y un tubo fotomultiplicador (PMT) para medir la potencia radiante de cada una.
 
-La espectroscopia óptica es una herramienta utilizada para el estudio de materiales a partir de la medición de la luz absorbida o emitida por la materia, El intervalo del espectro electromagnético que el sistema permitirá estudiar parte de los 200 nm hasta los 700 nm (Ultravioleta medio, ultravioleta cercano y luz visible). En la figura \ref{fig:espectrovisible} se observa el espectro electromagnetico, se enfatiza en el espectro visible (VIS) el cual abarca un intervalo muy pequeño dentro de todo el espectro electromagnetico.
+La espectroscopia óptica es una herramienta utilizada para el estudio de materiales a partir de la medición de la luz absorbida o emitida por la materia, El intervalo del espectro electromagnético que el sistema permitirá estudiar parte de los 200 nm hasta los 700 nm (Ultravioleta medio, ultravioleta cercano y luz visible). En la figura \ref{fig:espectrovisible} se observa el espectro electromagnético, se presenta una ampliación del espectro visible (VIS) el cual abarca un intervalo muy pequeño dentro de todo el espectro electromagnético. 
 \begin{figure}[h!]%figura 1
 	\centering
 	\includegraphics[width=1\linewidth]{Imagenes/espectro_visible}
@@ -10,7 +10,7 @@ La espectroscopia óptica es una herramienta utilizada para el estudio de materi
 \end{figure}
 
 \section{Espectro electromagnético.}
-Se denomina espectro electromagnético a la reoresentación de la distribución energética de las ondas electromagnéticas respecto a la longitud de onda o de su frecuencia. El espectro de la radiación electromagnética que emite o absorbe un objeto se relaciona con su composición. Dicha radiación nos brinda información sobre la materia y sirve para identificar las sustancias presentes, ya que el espectro es único para cada sustancia de manera análoga a una huella dactilar. 
+Se denomina espectro electromagnético a la representación de la distribución energética de las ondas electromagnéticas respecto a la longitud de onda o de su frecuencia. El espectro de la radiación electromagnética que emite o absorbe un objeto depende de su composición y de su temperatura. Dicha radiación nos brinda información sobre la materia y sirve para identificar las sustancias presentes, ya que el espectro es único para cada sustancia de manera similar a una huella dactilar. 
 \begin{figure}[h!] %figura 2
 	\centering
 	\includegraphics[width=1\linewidth]{Imagenes/espectros_absorcion_y_emision}
@@ -18,13 +18,13 @@ Se denomina espectro electromagnético a la reoresentación de la distribución 
 	\label{fig:esq_espectro01}
 \end{figure}
 
-En la figura \ref{fig:esq_espectro01} se observan diferentes espectros y cómo se producen estos, donde el primero, es el espectro continuo o de cuerpo negro, en el cuál se observa una banda continua. Es emitido por cualquier objeto caliente, el espectro solar es un ejemplo de este. El espectro de emisión de líneas es generado cuando los átomos y moléculas en un gas caliente emiten una radiación en ciertas longitudes de onda. Por otra parte el espectro de absorción se observa cuando el mismo gas, recibe radiación electromagnética, este gas absorbería ciertas longitudes de onda. Se observa que las líneas emitidas son las mismas que las que no se presentan cuando absorbe. Cumpliendo con esto la ley de Kirchhoff de la radiación térmica: \emph{si un cuerpo (o superficie) está en equilibrio termodinámico con su entorno, su emisividad es igual a su absortividad} $\alpha = \epsilon$.
+En la figura \ref{fig:esq_espectro01} se observan diferentes espectros y cómo se producen estos, donde el primero, es el espectro continuo o de cuerpo negro, en el cuál se observa una banda continua. Es emitido por cualquier objeto caliente, el espectro solar es un ejemplo de este. El espectro de emisión de líneas es generado cuando los átomos y moléculas en un gas caliente emiten una radiación en ciertas longitudes de onda. Por otra parte el espectro de absorción se observa cuando el mismo gas, recibe radiación electromagnética, este gas absorbería ciertas longitudes de onda. Se observa que las líneas emitidas son las mismas que las que no se presentan cuando absorbe. Cumpliendo con esto la ley de Kirchhoff de la radiación térmica: \emph{si un cuerpo (o superficie) está en equilibrio termodinámico con su entorno, su emisividad $\epsilon$ es igual a su absortividad $\alpha$} .
 
 \subsection{Intervalo energético del espectro.}
-El espectro electromagnético cubre un intervalo de frecuencias (o longitudes de onda) muy amplio. Existen frecuencias desde 30 HZ y menores que son relevantes en el estudio de ciertas nebulosas. Por otro lado se conocen frecuencias cercanas a los  $2.9 \times 10^{27}$ Hz.
+El espectro electromagnético cubre un intervalo de frecuencias (o longitudes de onda) muy amplio. Las frecuencias desde 30 HZ y menores que son relevantes en el estudio de ciertas nebulosas. Por otro lado,los rayos cósmicos presentanfrecuencias cercanas a los  $2.9 \times 10^{27}$ Hz.
 La energía que porta la onda electromagnética está relacionada con el cuadrado de la amplitud de la intensidad del campo eléctrico. 
 
-La dualidad onda-particula es un fenomeno por el cual la radiación electromagnetica no siempre será tratada como una onda, sino como un flujo de particulas, fotónes. Esto hace que el fotón tenga una energia E directamente proporcional a su frecuencia. La relación es 
+La dualidad onda-particula permite que la radiación electromagnética pueda ser descrita con modelos diferentes, como una onda y como un flujo de partículas, fotones. Este fotón tendrá una energia E directamente proporcional a la frecuencia de la onda que le corresponde. La relación es 
 $\lambda = c/f$. La energía de un fotón está dada por la siguiente ecuación.
 \begin{equation}
 E = hf =h\cdot \frac{c}{\lambda}
@@ -34,7 +34,7 @@ E = hf =h\cdot \frac{c}{\lambda}
 	\item $h$ constante de Planck, $h \approx 6.626069\times 10^{34} J\cdot s$.
 	\item $\lambda$ longitud de onda en ($nm$).
 	\item $f$ frecuencia de la luz ($Hz$).
-	\item c velocidad de la luz en el vacio $c = \frac{1}{\sqrt{\mu_0\epsilon_0}}$, $c = 299,792,458 m/s$
+	\item c velocidad de la luz en el vacío $c = \frac{1}{\sqrt{\mu_0\epsilon_0}}$, $c = 299,792,458 m/s$
 	\subitem $\mu_0$ permeabilidad en el vacío $\mu_0 = 4\pi\times10^{-7} N\cdot A^{-2}$
 	\subitem $\epsilon_0$ es la permitividad en el vacío $\epsilon_0 = 8.85418\times10^{12} C^2/N\cdot m^2$
 	
@@ -51,10 +51,10 @@ De la ecuación \ref{equa:intcuad2} podemos observar la energía es inversamente
 Las ondas electromagnéticas se clasifican en: rayos-$\gamma$, rayos-x, ultravioleta, luz visible, infrarrojos, microondas y ondas de radio.
 
 \subsection{Región visible}
-El intervalo de luz visible va desde los 400nm hasta los 700nm aproximadamente, se le llama así a esta región por ser el intervalo donde el ojo humano tiene sensibilidad, ver figura \ref{fig:ojohumano}. La máxima sensibilidad del ojo humano se encuentra a los 555nm (verde), la respuesta espectral del ojo humano fue establecida por la CIE, Commission internationale de l'éclairage \cite{CIE1924}.
+El intervalo de luz visible va desde los 400nm hasta los 700nm aproximadamente, se le llama así a esta región por ser el intervalo donde el ojo humano tiene sensibilidad, ver figura \ref{fig:ojohumano}. La máxima sensibilidad del ojo humano se encuentra a los 555nm (verde) para luz diurna, la respuesta espectral del ojo humano fue establecida por la CIE, Commission internationale de l'éclairage \cite{CIE1924}.
 
 En la tabla \ref{tabla:ojo},  se observan los intervalos en longitud de onda para los colores que componen la luz blanca.
-Newton fue el primero en darse cuenta que la luz blanca está compuesta de todos los colores del espectro visible.
+Newton fue el primero en establecer que la luz blanca está compuesta de todos los colores del espectro visible.
 \begin{figure}
 	\centering
 	\includegraphics[width=0.8\linewidth]{Imagenes/SpectralL}
@@ -117,29 +117,30 @@ La luz ultravioleta es el intervalo del espectro electromagnético que va desde 
 \end{table}
 
 \section{Espectrometría.}
-La interacción de la radiación electromagnética con la materia se puede describir a partir del cambio de la distribución de intensidad de la radiación electromagnética, emitida o absorbida, por una sustancia, en función de su longitud de onda. Al analizar la radiación emitida o absorbida por la materia, se pueden identificar sustancias que la componen. 
+La interacción de la radiación electromagnética con la materia se puede describir a partir del cambio de la distribución de intensidad de la radiación electromagnética, emitida o absorbida, por una sustancia, en función de su longitud de onda. Al analizar la radiación emitida o absorbida por la materia, se pueden identificar las sustancias que la componen. 
 
 
 \section{Espectrómetro}
-El espectrómetro óptico es un instrumento utilizado para analizar la luz, para esto, el espectrómetro descompone la luz a estudiar en sus diferentes longitudes de onda que la componen, y mide la potencia radiante en cada una de estas longitudes de onda. Con lo cual obtendremos una gráfica de la potencia radiante contra la longitud de onda. Fig. \ref{fig:espectrosol} \cite{B&WTek2016}. 
+El espectrómetro óptico es un instrumento utilizado para analizar la luz, para esto, el espectrómetro descompone la luz a estudiar en sus diferentes longitudes de onda que la componen, y mide la potencia radiante en cada una de estas longitudes de onda. Con lo cual obtendremos una gráfica de la distribución de potencia radiante dependiendo de la longitud de onda. Fig. \ref{fig:espectrosol} \cite{B&WTek2016}. 
 
-\subsection{Funcionamiento del espectrómetro.}
-El funcionamiento básico del espectrómetro es descomponer la luz en sus componentes espectrales, medir la intensidad de la señal en función de la longitud de onda, y graficar las intensidades medidas en relación con la longitud de onda. 
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.9\linewidth,height=5cm]{Imagenes/espectroSOL}
+	\caption[Espectro continuo, luz solar \cite{SolarLight}.]{El espectro solar es un ejemplo de espectro continuo, se grafica la irradiancia espectral contra longitud de onda.}
+	\label{fig:espectrosol}
+\end{figure}
+\subsection{Funcionamiento de espectrómetro.}
+%El funcionamiento básico del espectrómetro es descomponer la luz en sus componentes espectrales, medir la intensidad de la señal en función de la longitud de onda, y graficar las intensidades medidas en relación con la longitud de onda. 
 %\begin{enumerate}[a]
 %	\item Ranura de entrada o \textsl{slit}.
 %	\item Espejo colimador.
 %	\item Red de difracción.
 %	\item Detector
 %\end{enumerate}
-\begin{figure}[h!]
-	\centering
-	\includegraphics[width=0.9\linewidth,height=5cm]{Imagenes/espectroSOL}
-	\caption[Espectro continuo, luz solar \cite{SolarLight}.]{El espectro solar es un ejemplo de espectro continuo, se grafica la irradiancia contra longitud de onda.}
-	\label{fig:espectrosol}
-\end{figure}
 
-El primer paso es introducir la luz al espectrómetro, la luz entra por medio de una fibra óptica, pasando por una pequeña apertura, \textbf{la ranura de entrada}, ver la figura \ref{fig:esquematicoespectrometro}(a). Aquí la luz diverge, esta luz es colimada utilizando un \textbf{espejo cóncavo} figura \ref{fig:esquematicoespectrometro}(b) y reflejada hacia la \textbf{red de difracción} figura \ref{fig:esquematicoespectrometro}(c). Aquí ocurre el fenómeno de difracción separando la luz en sus diferentes componentes espectrales, cada componente espectral se refleja en un ángulo diferente, $m\lambda = d(sin(\alpha)+sin(\beta)) $. Las componentes son enfocadas por un segundo \textbf{espejo cóncavo} figura \ref{fig:esquematicoespectrometro}(d), al final son proyectadas en el \textbf{detector} figura \ref{fig:esquematicoespectrometro}(e). La señal luminosa es entonces convertida a una señal eléctrica. Con base en la dispersión lineal
-de la red de difracción y los pixeles en el detector, el software obtiene la relación en
+El primer paso es introducir la luz al espectrómetro, la luz entra por una pequeña apertura, \textbf{la ranura de entrada}, ver la figura \ref{fig:esquematicoespectrometro}(a). Aquí la luz diverge, esta luz es colimada utilizando un \textbf{espejo cóncavo} figura \ref{fig:esquematicoespectrometro}(b) y reflejada hacia la \textbf{red de difracción} figura \ref{fig:esquematicoespectrometro}(c). Aquí ocurre el fenómeno de difracción separando la luz en sus diferentes componentes espectrales, cada componente espectral se refleja en un ángulo diferente, mas adelante en la ecuación \ref{equa:RedDifra} se describe este fenómeno.  %$m\lambda = d(sin(\alpha)+sin(\beta)) $. 
+Las componentes son enfocadas por un segundo \textbf{espejo cóncavo} figura \ref{fig:esquematicoespectrometro}(d), al final son proyectadas en el \textbf{detector} figura \ref{fig:esquematicoespectrometro}(e). La señal luminosa es entonces convertida a una señal eléctrica. Como ejemplo tenemos los miniespectrómetros de Ocean Optics que con base en la dispersión lineal
+de la red de difracción y los pixeles en el detector (CCD), el software (propio del espectrómetro) obtiene la relación en
 longitud de onda, y así se obtiene un espectro de intensidad en función de la longitud de onda.
 
 \begin{figure}[h]
@@ -151,7 +152,7 @@ longitud de onda, y así se obtiene un espectro de intensidad en función de la 
 
 \subsubsection{Ranura de entrada.}
 La ranura de entrada o \textit{slit} de entrada, es la entrada de luz al espectrómetro, aquí es donde se define la \textit{cantidad de luz, flujo de fotones}, que entrara en el espectrómetro, fig. \ref{fig:colimarluz} punto (a).
-El \textit{slit} es de suma importancia para determinar la resolución óptica del sistema, Normalmente los espectrómetros cuentan con diferentes aperturas de esta ranuras, que van desde los 5$\mu m$ hasta los 200$\mu m$, siendo seis las más comunes: 5$\mu m$, 10$\mu m$, 20$\mu m$, 25$\mu m$, 50$\mu m$, 100$\mu m$ o 200$\mu m$, \cite{Oceana}.
+El \textit{slit} es de suma importancia para la resolución óptica del sistema, Normalmente los espectrómetros cuentan con diferentes aperturas de esta ranuras, que van desde los 5$\mu m$ hasta los 200$\mu m$, siendo seis las más comunes: 5$\mu m$, 10$\mu m$, 20$\mu m$, 25$\mu m$, 50$\mu m$, 100$\mu m$ o 200$\mu m$, \cite{Oceana}.
 
 \subsubsection{Espejo colimador.}
 Se encarga de hacer que los haces que han pasado por la ranura de entrada sean colimados. Utilizando un espejo cóncavo y teniendo el foco del espejo en la ranura de entrada, hace que todos los haces sean reflejados de forma paralela entre ellos, luz colimada, fig. \ref{fig:colimarluz}, espejo (C). 
@@ -164,7 +165,7 @@ Se encarga de hacer que los haces que han pasado por la ranura de entrada sean c
 \end{figure}
 
 \subsubsection{Red de difracción.}
-Se encarga de descomponer la luz en sus diferentes longitudes de onda, por lo tanto, la red de difracción determina el intervalo de longitudes de onda y en parte la resolución óptica del sistema. 
+Se encarga de descomponer la luz en sus diferentes longitudes de onda, por lo tanto, la red de difracción determina el intervalo de trabajo de la longitude de onda e influye en la resolución óptica del sistema. 
 Existen dos tipos de redes de difracción dadas por la forma en la que son construidas.
 \begin{itemize}
 	\item Red de difracción regladas: Es hecha con una herramienta con punta de diamante que realiza cortes en un revestimiento que es una capa reflejante sobre un vidrio.
@@ -198,7 +199,7 @@ La luz incidente en la superficie de estas redes es reflejada a diferentes ángu
 
 
 \subparagraph{Redes de difracción de transmisión.}
-Cuando son de transmisión $\alpha$ es igual a cero ya que la luz incide perpendicular al plano de la red. Sustituyendo ese valor en la ecuación \ref{equa:RedDifra}, se simplifica a
+Cuando son de transmisión $\alpha$ es igual a cero ya que la luz incide perpendicular al plano de la red. Sustituyendo en la ecuación \ref{equa:RedDifra}, se simplifica a
 \begin{equation}
 m\lambda = d\sin\beta
 \label{equa:difra}
@@ -221,7 +222,7 @@ El monocromador permite hacer barridos, estos barridos no es otra cosa que modif
 
 
 \section{Tubo fotomultiplicador}
-Es un sensor utilizado para poder medir la intensidad luminosa, se le denomina como, PMT, (por sus siglas en inglés, \textit{photomultiplier tube}). Estos sensores, son de alta sensibilidad, son utilizados para medir luz de baja intensidad, o inclusive el conteo de fotones. 
+Es un sensor utilizado para poder medir la intensidad luminosa, se le conoce como, PMT, (por sus siglas en inglés, \textit{photomultiplier tube}). Estos sensores, son de alta sensibilidad, son utilizados para medir luz de baja intensidad, o inclusive el conteo de fotones. 
 %Los PMts requerían de fuentes de voltajes que iban desde valores de los -1100 volts a los 100 volts, esto para tener diferencias de potenciales en el interior del PMT. Hoy en día existen módulos de PMT que nos permiten ahorrarnos esas fuentes y simplemente conectarlos a $\pm 15$ volts.
 
 Con el monocromador como un sistema para obtener una longitud de onda a la salida y un PMT, como sensor para detectar la intensidad de luminosa a la salida del monocromador, se tienen en principio los elementos para generar espectros.
@@ -232,7 +233,7 @@ Existen varios tipos de fuentes luminosas, como se ha mencionado. Estas pueden t
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.7\linewidth]{Imagenes/lamparaMercurio}
-	\caption[Espectro de emisión de una lámpara de mercurio a baja presión.]{Espectro de emisión de una lámpara de mercurio a baja presión, la lampara también emite líneas de argón en longitudes de onda mayores a 600 $nm$. \cite{Excel2000}}
+	\caption[Espectro de emisión de una lámpara de mercurio a baja presión.]{Espectro de emisión de una lámpara de mercurio a baja presión, la lámpara también emite líneas de argón en longitudes de onda mayores a 600 $nm$. \cite{Excel2000}}
 	\label{fig:lamparamercurio}
 \end{figure}
 \section{Propuesta de sistema.}
@@ -242,7 +243,7 @@ Como ejemplos de automatización de espectrómetros, en el año 2016, Jie Liu, Z
 
 Más reciente en el año 2017, E. Galli, A. M. Di Giorgio, M. Focardi, E. Pace y G. Micela desarrollaron un software el cual se encarga del control y procesamiento de información del espectrómetro ARIEL (The Atmospheric Remote-sensing Infrared Exoplanet Large-survey. Se implementó un control sobre el AIRS (ARIEL InfraRed Spectrometer). La unidad de control de instrumentos o ICU, por sus siglas en inglés, fue desarrollado con el propósito de que el sistema a bordo fuera suficientemente capaz de implementar las instrucciones funcionales de control y el procesamiento de los datos siendo esto solo la primera parte para este proyecto. \cite{E.GalliA.M.DiGiorgioM.FocardiE.Pace2017}
 
-En países en desarrollo se busca utilizar las herramientas con que se cuenta y aprovecharlas al máximo, al tener presupuestos reducidos, muchas veces nos vemos en la necesidad de reutilizar dispositivos antiguos y darles un nuevo uso o una nueva mejora, utilizando tecnología más reciente. Construir un espectrómetro de alta sensibilidad y resolución utilizando un monocromador es la finalidad de este proyecto, y no es la primera vez que se hace este tipo de trabajos, un ejemplo de ello es la automatización de monocromadores modelo MDR-23, realizado en Rusia, los cuales les servirán para realizar estudios de espectroscopia. \cite{Kraminin2015}
+En países en desarrollo se busca utilizar las herramientas con que se cuenta y aprovecharlas al máximo. Al tener presupuestos reducidos, muchas veces nos vemos en la necesidad de reutilizar dispositivos con los que ya se cuentan y darles un nuevo uso o una nueva mejora, utilizando tecnología más reciente. Construir un espectrómetro de alta sensibilidad y resolución utilizando un monocromador es la finalidad de este proyecto, y no es la primera vez que se hace este tipo de trabajos, un ejemplo de ello es la automatización de monocromadores modelo MDR-23, realizado en Rusia, para realizar estudios de espectroscopia. \cite{Kraminin2015}
 
 Dentro de la línea de investigación se realizan estudios espectroscópicos de las fuentes luminosas desarrolladas y sobre la interacción de la luz con la materia. Debido al alto costo que conlleva comprar un espectrómetro se decide utilizar los equipos y herramientas con que se cuentan para adaptar un monocromador, que nos servirá para realizar mediciones de espectroscopia.
 

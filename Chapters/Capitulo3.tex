@@ -18,7 +18,7 @@ El control del monocromador se basa completamente en el control de giro de la re
 	\label{fig:spectrapro}
 \end{figure}
 
-La red de difracción se encuentra montada en una estructura a la cual llamaremos base, está diseñada para poder colocar tres redes de difracción, dentro de la programación del monocromador se tiene la opción de elegir entre estas tres redes, en este proyecto solo se utilizará la red de difracción que tiene mayor densidad de líneas por milímetro, siendo 2400 líneas/mm. En la figura \ref{fig:basered2} se aprecia cómo esta estructura está en el interior del monocromador.
+La red de difracción se encuentra montada en una estructura a la cual llamaremos base, está diseñada para poder seleccionar una de tres redes de difracción. En este proyecto solo se utilizará la red de difracción que tiene mayor densidad de líneas por milímetro (2400 líneas/mm). En la figura \ref{fig:basered2} se aprecia cómo esta estructura está en el interior del monocromador.
 \begin{figure}[h]
 	\centering
 	\subfigure[Base para tres redes de difracción]{\includegraphics[height=4.5cm]{Imagenes/3/baseRed}}
@@ -27,8 +27,8 @@ La red de difracción se encuentra montada en una estructura a la cual llamaremo
 	\label{fig:basered2}
 \end{figure}
 
-En la figura \ref{fig:baseredes} se puede ver una rueda dentada, esta rueda junto con un tornillo sin fin, se puede ver en la figura \ref{fig:tornillo}, son los encargados de transmitir el giro del motor a la red de difracción. 
-El motor a pasos está conectado al tornillo sin fin, al girar el motor a pasos el tornillo sin fin se desplaza la misma distancia angular $0.9°$ por paso. En la ecuación \ref{equa:tornillo}, $n$ es el número de vueltas, $Z_2$ es la cantidad de dientes en la rueda y $e$ es el número de entradas del tornillo sin fin.  
+En la figura \ref{fig:baseredes} se puede ver una rueda dentada que junto con un tornillo sin fin, que se puede ver en la figura \ref{fig:tornillo}, son los encargados de transmitir el giro del motor a pasos a la red de difracción. 
+El motor a pasos está conectado al tornillo sin fin, al girar el motor a pasos con la misma distancia angular de $0.9°$ por paso el tornillo sin fin gira transmitiendo un desplazamiento. En la ecuación \ref{equa:tornillo}, $n$ es el número de vueltas, $Z_2$ es la cantidad de dientes en la rueda y $e$ es el número de entradas del tornillo sin fin.  
 \begin{equation}
 	n_1 e_1 = n_2 Z_2
 	\label{equa:tornillo}
@@ -51,7 +51,7 @@ Dado que $e$ siempre será menor que $Z$, este arreglo funciona como un reductor
 \end{figure}
 
 \section{Control de la red de difracción.}
-El control del motor a pasos se realiza con el driver TB6560. Como se mencionó antes solo se necesitan de tres pines para su control. Los cuáles serán los pines 2,3 y 4 del Arduino Mega
+El control del motor a pasos se realiza con el driver TB6560. Como se mencionó antes, solo se necesitan de tres pines para su control. Los cuáles serán los pines 2,3 y 4 del Arduino Mega
 \begin{itemize}
 	\item pin 2 (dire), se encargará de la dirección del motor.
 	\item pin 3 (paso), se encarga del paso del motor, (velocidad, y cantidad de pasos.)
@@ -109,7 +109,7 @@ Para poner en funcionamiento el \textit{encoder} solo se tiene que energizar el 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.7\linewidth,height= 7cm]{Imagenes/3/Encoder_01}
-	\caption{Posición cero del sistema, el motor gira hasta que el \textit{encoder} encuentre la ranura de la posición cero.}
+	\caption{Posición cero del sistema, el motor gira hasta que encuentre la ranura de la posición cero.}
 	\label{fig:encoder01}
 \end{figure}
 
@@ -152,7 +152,7 @@ Para la calibración del sistema se utilizan 99 muestras por paso para medir el 
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.8\linewidth,height=5cm]{Imagenes/3/Mercuriolineas}
-	\caption{Líneas de emisión de la lámpara de Mercurio. Lámpara de Ocean Optics HG-1 Mercury Argón. \cite{Excel2000}}
+	\caption{Líneas de emisión de la lámpara de Mercurio. Lámpara de Ocean Optics HG-1 Mercury Argón. Imagen tomada de. \cite{Excel2000}}
 	\label{fig:mercuriolineas}
 \end{figure}
 
@@ -360,7 +360,7 @@ En la tabla \ref{tabla:ajustes} se ve que varios ajustes tienen una \textit{$R^{
 \end{tabular} 
 
 \end{table}
-La suma de senos con tres términos tiene mejores resultados, pero al intentar resolver la ecuación para obtener la relación opuesta, de longitud de onda a paso se obtenía un error en el paso que se calculaba. Por lo anterior se trabaja con el ajuste de Fourier, con el cual no se presento este problema, usando la ecuación \ref{equa:pasoLambda}.
+La suma de senos con tres términos tiene mejores resultados, pero al intentar resolver la ecuación para obtener la relación opuesta, de longitud de onda a paso se obtenía un error en el paso que se calculaba. Por lo anterior se trabaja con el ajuste de Fourier, con el cual no se presentó este problema, usando la ecuación \ref{equa:pasoLambda}.
 \begin{equation}
 f(x) = a_0 + a_1\cos (x\times w) + b_1 \sin(x \times w)
 \label{equa:pasoLambda}
@@ -378,7 +378,7 @@ f(x) =-23.77+76.47 \cos(pasos \times8.441\times10^{-5}) +848.2 \sin(pasos \times
 \label{equa:pasoLambda2}
 \end{equation}
 
-En la tabla \ref{tabla:comparaPasoL} se compara el espectro de emisión de la lámpara de mercurio contra la ecuación del ajuste. El error absoluto más grande es de $0.269$nm. En la figura \ref{fig:compararlp}, se aprecia el el espectro de la lámpara de mercurio medido con el sistema. Donde la relación ya es intensidad contra longitud de onda. Los asteriscos azules representan dónde deben aparecer las líneas de emisión. En rojo se aprecia el espectro medido.
+En la tabla \ref{tabla:comparaPasoL} se compara el espectro de emisión de la lámpara de mercurio contra la ecuación del ajuste. El error absoluto más grande es de $0.269$nm. En la figura \ref{fig:compararlp}, se aprecia el espectro de la lámpara de mercurio medido con el sistema. Donde la relación ya es intensidad contra longitud de onda. Los asteriscos azules representan dónde deben aparecer las líneas de emisión. En rojo se aprecia el espectro medido.
    
 \begin{table}[h]
 	\centering 
@@ -437,7 +437,7 @@ La sensibilidad del \textbf{PMT} puede ser ajustada variando un voltaje de entra
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\linewidth]{Imagenes/3/PMTsen}
-	\caption[Sensibilidad del \textit{PMT}.]{Esquema que muestra cómo modificar la sensibilidad del \textit{PMT}. Esta varía al cambiar el voltaje de control. Se puede realizar con una fuente variable o utilizando un potenciómetro y usando el voltaje de referencia del \textit{PMT}. \cite{H8249}}
+	\caption[Sensibilidad del PMT.]{Esquema que muestra cómo modificar la sensibilidad del PMT. Esta varía al cambiar el voltaje de control. Se puede realizar con una fuente variable o utilizando un potenciómetro y usando el voltaje de referencia del PMT. \cite{H8249}}
 	\label{fig:pmtsen}
 \end{figure}
 Se tomaron 10 valores de voltaje en cada paso del potenciómetro para ver cómo se comportaba y las variaciones de voltaje, ver figura \ref{fig:adcp1}(a). La figura \ref{fig:adcp1}(b) es la gráfica de la desviación estándar. Al hacer un acercamiento, véase figura \ref{fig:adcp1}(c), se aprecia que la desviación estándar es muy pequeña. En la figura \ref{fig:adcp1}(d) se observa el valor de las desviaciones estándar en cada paso. Siendo de 10mV el valor más grande de la desviación que es equivalente a un paso del potenciómetro digital. 
@@ -457,7 +457,7 @@ Se tomaron 10 valores de voltaje en cada paso del potenciómetro para ver cómo 
 	\caption[Comportamiento del potenciómetro digital X9C103]{Comportamiento del potenciómetro digital X9C103. Utilizando el voltaje de referencia del módulo de \textbf{PMT}. Se aprecia que la desviación estándar es muy pequeña. Así como las variaciones de voltaje, por lo que el sistema podrá medir de forma correcta.}
 	\label{fig:adcp1}
 \end{figure}
-Al aumentar la sensibilidad del \textbf{PMT} se visualizan más líneas de emisión, y con mayor intensidad. Al realizar la medición con 0.2V, ya se aprecia el espectro de la lámpara de mercurio, ver figura \ref{fig:hglamp}(a). Al incrementar el voltaje que controla la sensibilidad del \textbf{PMT} a 0.5V se aprecia como en las líneas de emisión $\lambda$=253.6nm y en su segundo orden $\lambda$=507.2nm, el sistema se satura, véase figura \ref{fig:hglamp}(b).
+Al aumentar la sensibilidad del \textbf{PMT} se visualizan más líneas de emisión. Al realizar la medición con 0.2V, ya se aprecia el espectro de la lámpara de mercurio, ver figura \ref{fig:hglamp}(a). Al incrementar el voltaje que controla la sensibilidad del \textbf{PMT} a 0.5V se aprecia como en las líneas de emisión $\lambda$=253.6nm y en su segundo orden $\lambda$=507.2nm, el sistema se satura, véase figura \ref{fig:hglamp}(b).
 \begin{figure}[h!]
 	%\subfigure[Ganancia a 0.10 volts]{\includegraphics[width=0.48\linewidth,height=4cm]{Imagenes/3/Hg01}}
 	\subfigure[Ganancia a 0.20 volts]{\includegraphics[width=0.48\linewidth,height=40mm]{Imagenes/3/Hg02}}
