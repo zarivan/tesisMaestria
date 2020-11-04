@@ -9,12 +9,12 @@ Para el desarrollo de este sistema espectroscópico se utilizarán los component
 \end{figure}
 
 \section{Control del monocromador}
-El control del monocromador se basa completamente en el control de giro de la red de difracción. Al girar la red se hace un barrido espectral. Este sirve para poder graficar el espectro punto a punto. Desde la parte exterior del monocromador figura \ref{fig:spectrapro}(a) solo se ve el motor a pasos, la apertura, \textit{slit}, para la entrada de la luz a estudiar, y el \textit{slit} de salida, donde se obtiene solo ``una longitud de onda''. El espectrómetro posee la configuración Czerny-Turner, figura \ref{fig:spectrapro}(b), la base que tiene la red de difracción permite colocar tres redes, con lo cual este sistema podría adaptarse a mediciones en otros intervalos del espectro electromagnético, con solo cambiar a una de estas redes. 
+El control del monocromador se basa completamente en el control de giro de la red de difracción. Al girar la red se hace un barrido espectral. Este sirve para poder graficar el espectro punto a punto. Desde la parte exterior del monocromador figura \ref{fig:spectrapro}(a) solo se ve el motor a pasos, la apertura, \textit{slit}, para la entrada de la luz a estudiar, y el \textit{slit} de salida, donde se obtiene solo ``una longitud de onda''. El monocromador posee la configuración Czerny-Turner, figura \ref{fig:spectrapro}(b), la base que tiene la red de difracción permite colocar tres redes, con lo cual este sistema podría adaptarse a mediciones en otros intervalos del espectro electromagnético, con solo cambiar a una de estas redes. 
 \begin{figure}[h]
 	\centering
 	\subfigure[Monocromador SpectraPro 275]{\includegraphics[ height=6cm]{Imagenes/3/SpectraPro}}
 	\subfigure[Interior del SpectraPro 275]{\includegraphics[height=6cm]{Imagenes/3/SpectraProIn}}
-	\caption{Monocromador SpectraPro 275 de la compañía Action Research Corporation. Se observa desde una vista superior su exteriror, (izquierda) y su interior (derecha).}
+	\caption{Monocromador SpectraPro 275 de la compañía Action Research Corporation. Se observa desde una vista superior su exterior, (izquierda) y su interior (derecha).}
 	\label{fig:spectrapro}
 \end{figure}
 
@@ -34,6 +34,8 @@ El motor a pasos está conectado al tornillo sin fin, al girar el motor a pasos 
 	\label{equa:tornillo}
 \end{equation}
 Dado que $e$ siempre será menor que $Z$, este arreglo funciona como un reductor de velocidad.
+//
+\linebreak
 
 \begin{figure}[h]
 	\centering
@@ -88,7 +90,7 @@ El encoder es el OPB992L51 lo que significa:
 	\item L \textit{Emitter}, figura \ref{fig:emitter} (a) y (b).
 	\item 51 tamaño de la apertura \ref{fig:emitter} (c).
 \end{itemize}
-Para poner en funcionamiento el \textit{encoder} solo se tiene que energizar el diodo emisor con los cables rojo y negro, el cable negro va al GND del Arduino, al igual que el cable verde. En la figura \ref{fig:OPB} se observa el cableado del \textit{encoder}. El cable rojo va al Arduino a un PIN de salida, PIN 13, que solo se pone en alto cuando se va a usar el \textit{encoder}, mientras busca la posición cero. El cable azul dará la respuesta cuando su valor esté en bajo significará que se ha encontrado la posición cero, se leerá con el PIN 12 del Arduino.
+Para poner en funcionamiento el \textit{encoder} se energizar el diodo emisor a traves de los cables rojo y negro, el cable negro va al GND del Arduino, al igual que el cable verde. En la figura \ref{fig:OPB} se observa el cableado del \textit{encoder}. El cable rojo va al Arduino a un PIN de salida, PIN 13, que solo se pone en alto cuando se va a usar el \textit{encoder}, mientras busca la posición cero. El cable azul dará la respuesta cuando su valor esté en bajo significará que se ha encontrado la posición cero, se leerá con el PIN 12 del Arduino.
 
 \begin{figure}[h]
 	\centering
@@ -117,9 +119,9 @@ Al iniciar la búsqueda de la posición cero,
 se activa el \textit{encoder} y se hace girar el motor en una dirección de forma continua. El motor hará girar la red de difracción. Al encontrar la posición cero, véase figura \ref{fig:encoder01}. el motor avanzará 400 pasos en la dirección opuesta y regresará a buscar la posición cero, para garantizar que realmente sí la encontró.
 Con este algoritmo se coloca el motor en su posición inicial. Para activar el motor se usa una interfaz gráfica en la cual se realiza esta acción con botón 1 de la figura \ref{fig:GUI_01} (1). Al presionar \textbf{INICIAR}, se manda una instrucción al Arduino de girar el motor hasta encontrar la posición inicial, el motor girará mientras en el PIN 12 tenga un valor en ``ALTO'' (5V), cuando el valor este en bajo (0V), el motor estará en su posición inicial.
 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.8\linewidth]{Imagenes/3/GUI_01}
+	\includegraphics[width=0.8\linewidth, height=10cm]{Imagenes/3/GUI_01}
 	\caption{Interfaz gráfica diseñada para inicializar el sistema.}
 	\label{fig:GUI_01}
 \end{figure}
@@ -127,7 +129,7 @@ Con este algoritmo se coloca el motor en su posición inicial. Para activar el m
 \section{Calibración.}
 \subsection{Lámpara de mercurio.}
 Lo siguiente es realizar los barridos en el intervalo del espectro electromagnético. A partir de la posición cero el motor se mueve paso a paso, donde se tendrá el registro de cada paso. El motor hará girar la red de difracción, desde los 0 pasos hasta los 10000 pasos. Con el algoritmo desarrollado se determina cuantos pasos dar, y en qué sentido. Utilizando el \textit{PMT}, se obtiene un valor de voltaje, proporcional a la intensidad de luz. Se tiene una gráfica pasos vs. voltaje(bits). 
-Para esta medición el motor dará un paso y se tomará un valor del \textit{PMT} con el ADC del Arduino MEGA, que tiene una resolución de 10 bits. La información del paso y valor es enviada a la interfaz gráfica, para obtener un espectro que se irá formando paso a paso. En la figura \ref{fig:ledqe65} se aprecia la forma del espectro del led amarillo utilizando nuestro sistema. 
+Para esta medición el motor dará un paso y se tomará un valor del \textit{PMT} con el ADC del Arduino MEGA, que tiene una resolución de 10 bits. Se envia la información del paso y valor a la interfaz gráfica, para obtener un espectro que se irá formando paso a paso. En la figura \ref{fig:ledqe65} se aprecia la forma del espectro del led amarillo utilizando nuestro sistema. 
 
 
 Al comparar los espectros obtenidos, figura \ref{fig:ledqe65}, por nuestro sistema y el espectrómetro QE65000. Se aprecia un espectro mejor definido en el QE65000. Para mejorar el espectro medido por nuestro sistema, se realiza la toma de más muestras por paso, y se obtiene un promedio en cada punto. Con un máximo de 99 muestras por paso, ver figura \ref{fig:led99muestras}.

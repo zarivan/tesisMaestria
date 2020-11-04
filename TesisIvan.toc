@@ -25,8 +25,8 @@
 \contentsline {subsubsection}{\numberline {1.3.1.3}Red de difracción.}{7}{subsubsection.1.3.1.3}%
 \contentsline {subparagraph}{Redes de difracción de reflexión.}{7}{section*.17}%
 \contentsline {subparagraph}{Redes de difracción de transmisión.}{8}{section*.18}%
-\contentsline {subsubsection}{\numberline {1.3.1.4}Detector.}{8}{subsubsection.1.3.1.4}%
-\contentsline {section}{\numberline {1.4}Monocromador}{8}{section.1.4}%
+\contentsline {subsubsection}{\numberline {1.3.1.4}Detector.}{9}{subsubsection.1.3.1.4}%
+\contentsline {section}{\numberline {1.4}Monocromador}{9}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Tubo fotomultiplicador}{9}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Fuentes luminosas.}{10}{section.1.6}%
 \contentsline {section}{\numberline {1.7}Propuesta de sistema.}{10}{section.1.7}%
@@ -34,31 +34,31 @@
 \contentsline {chapter}{\numberline {2}Marco Teórico.}{12}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Monocromador.}{12}{section.2.1}%
 \contentsline {paragraph}{Red de difracción.}{12}{section*.19}%
-\contentsline {paragraph}{Poder de resolución R.}{13}{section*.20}%
-\contentsline {paragraph}{Red de difracción holográfica.}{14}{section*.21}%
-\contentsline {subsection}{\numberline {2.1.1}Motor a pasos.}{14}{subsection.2.1.1}%
-\contentsline {paragraph}{Control de un motor a pasos.}{14}{section*.22}%
-\contentsline {paragraph}{Driver TB6560.}{15}{section*.23}%
-\contentsline {section}{\numberline {2.2}Tubo fotomultiplicador.}{18}{section.2.2}%
-\contentsline {paragraph}{Módulo H8249-101.}{18}{section*.24}%
-\contentsline {section}{\numberline {2.3}Microcontrolador.}{19}{section.2.3}%
-\contentsline {paragraph}{Arduino.}{19}{section*.25}%
-\contentsline {paragraph}{ADC}{19}{section*.26}%
-\contentsline {paragraph}{ADC-externo.}{20}{section*.27}%
-\contentsline {paragraph}{Potenciómetro Digital.}{20}{section*.28}%
-\contentsline {section}{\numberline {2.4}Interfaz gráfica.}{21}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Desarrollo del sistema.}{31}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Control del monocromador}{31}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Control de la red de difracción.}{33}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Calibración.}{36}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Lámpara de mercurio.}{36}{subsection.3.3.1}%
+\contentsline {paragraph}{Poder de resolución R.}{16}{section*.20}%
+\contentsline {paragraph}{Red de difracción holográfica.}{16}{section*.21}%
+\contentsline {subsection}{\numberline {2.1.1}Motor a pasos.}{16}{subsection.2.1.1}%
+\contentsline {paragraph}{Control de un motor a pasos.}{18}{section*.22}%
+\contentsline {paragraph}{Driver TB6560.}{19}{section*.23}%
+\contentsline {section}{\numberline {2.2}Tubo fotomultiplicador.}{21}{section.2.2}%
+\contentsline {paragraph}{Módulo H8249-101.}{22}{section*.24}%
+\contentsline {section}{\numberline {2.3}Microcontrolador.}{23}{section.2.3}%
+\contentsline {paragraph}{Arduino.}{23}{section*.25}%
+\contentsline {paragraph}{ADC}{25}{section*.26}%
+\contentsline {paragraph}{ADC-externo.}{26}{section*.27}%
+\contentsline {paragraph}{Potenciómetro Digital.}{26}{section*.28}%
+\contentsline {section}{\numberline {2.4}Interfaz gráfica.}{27}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Desarrollo del sistema.}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Control del monocromador}{29}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Control de la red de difracción.}{31}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Calibración.}{34}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Lámpara de mercurio.}{34}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Relación pasos a longitud de onda.}{37}{subsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.2.1}Curve Fitting Tool.}{40}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}Curve Fitting Tool.}{39}{subsubsection.3.3.2.1}%
 \contentsline {subsection}{\numberline {3.3.3}ADC MCP3202.}{42}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}Potenciómetro digital.}{43}{subsection.3.3.4}%
 \contentsline {section}{\numberline {3.4}Intervalo espectral de trabajo del sistema. }{45}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Mediciones con el sistema}{50}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Ajuste en forma del espectro unidades relativas.}{56}{section.4.1}%
-\contentsline {chapter}{Conclusiones}{59}{section*.29}%
-\contentsline {chapter}{Trabajo a futuro.}{60}{section*.31}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{62}{chapter*.33}%
+\contentsline {chapter}{\numberline {4}Mediciones con el sistema}{48}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Ajuste en forma del espectro unidades relativas.}{54}{section.4.1}%
+\contentsline {chapter}{Conclusiones}{57}{section*.29}%
+\contentsline {chapter}{Trabajo a futuro.}{58}{section*.31}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{60}{chapter*.33}%

@@ -11,9 +11,7 @@ Existen varios tipos de configuraciones para los monocromadores, las más comune
 	Es una configuración económica y sencilla, pero tiene ciertos problemas para mantener la calidad de imagen, debido a las aberraciones esférica y de astigmatismo.
 	\item  Czerny-Turner. Ver figura \ref{fig:Configuraciones} (b). En este se tienen dos espejos cóncavos, donde el primero se encarga de colimar la luz y el segundo de enfocar la luz difractada, en el \textit{slit} de salida. La geometría de los espejos en esta configuración es flexible, con esto se puede corregir el efecto de coma, las aberraciones esféricas y de astigmatismo. 
 \end{itemize} 
-
-
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
 	\subfigure[Fastie-Ebert]{\includegraphics[width=0.7\linewidth]{Imagenes/Fastie-Ebert}}
 	\subfigure[Czerny-Turnet]{\includegraphics[width=0.7\linewidth]{Imagenes/Czerny-Turner}}
@@ -39,7 +37,7 @@ El funcionamiento de las redes de difracción se basa en el fenómeno de difracc
 	\label{fig:slit2}
 \end{figure} 
 
-En función de la longitud de onda la luz se refleja a un ángulo dado por la ecuación \ref{equa:difra2} (ver ecuación \ref{equa:difra}). Al incidir diferentes longitudes de onda se obtienen distintos valores de $\theta$ dependiendo del orden ($m$), $d$ es el ancho de la rendija. 
+En función de la longitud de onda la luz se refleja a un ángulo dado por la ecuación \ref{equa:difra2} (ver ecuación \ref{equa:difra}). Al incidir diferentes longitudes de onda se obtienen distintos valores de $\theta$ dependiendo del orden ($m$), y del ancho de la rendija $d$. 
 
 \begin{equation}
 \sin(\theta) = \frac{m \lambda}{d}
@@ -74,7 +72,7 @@ Las redes de difracción con alta eficiencia son deseables por muchas razones. S
 % La segunda por otra parte es la relación de energía difractada en la red, comparada con un espejo recubierto del mismo material que la red
 
 \paragraph{Poder de resolución R.} 
-Es la capacidad de un espectrómetro para poder separar o resolver dos líneas espectrales contiguas. Esta dado por la ecuación \ref{equa:resolucion}. Donde $\Delta\lambda$ es la diferencia entre dos longitudes de onda, m es el orden y N es la cantidad total de líneas en la red de difracción, $N= L\times W_g$, L es la longitud en milímetros de la red, y $W_g$ es la densidad de líneas por milímetro.
+Es la capacidad de un espectrómetro para poder separar o resolver dos líneas espectrales contiguas. Está dado por la ecuación \ref{equa:resolucion}. Donde $\Delta\lambda$ es la diferencia entre dos longitudes de onda, m es el orden y N es la cantidad total de líneas en la red de difracción, $N= L\times W_g$, L es la longitud en milímetros de la red, y $W_g$ es la densidad de líneas por milímetro.
 \begin{equation}
 	R = \frac{\lambda}{\Delta \lambda}
 	\label{equa:resolucion}
@@ -105,10 +103,10 @@ Los motores a pasos se componen del estator, que es una parte fija, con cavidade
 \end{figure}
 El rotor del motor tiene sus polos N-S, al energizar el estator, este generará sus polos magnéticos N-S, el rotor, buscará el quedar en equilibrio magnético, Norte-Sur y Sur-Norte, lo que provoca que el rotor giré para llegar a este equilibrio. Al cambiar la excitación de las bobinas, los polos N-S creados por el estator, cambiaran, como resultado el rotor volverá a girar, para buscar el nuevo punto de equilibrio. De esta forma es como el motor va dando "pasos". En la figura \ref{fig:pasodos} para girar en el sentido de las manecillas del reloj, la bobina energizada (B), debe ser apagada, después se energiza la bobina (C), ocasionando el giro del rotor, para dar un giro desde esta posición, se deben ir encendiendo las bobinas en el siguiente orden C, D, A, B, C, desenergizando la última bobina energizada. Para girar en sentido opuesto de las manecillas del reloj simplemente se energizan las bobinas en el orden opuesto, C, B, A, D, C.
 Como se aprecia, el control de un motor a pasos es realmente sencillo, y preciso. 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
-	\subfigure[primer paso del motor.]{\includegraphics[width=0.4\linewidth]{Imagenes/2/pasoUno}}
-	\subfigure[se energiza la bobina C, y el rotor cambia de posición.]{	\includegraphics[width=0.4\linewidth]{Imagenes/2/pasoDos}}
+	\subfigure[primer paso del motor.]{\includegraphics[width=0.4\linewidth, height = 7cm]{Imagenes/2/pasoUno}}
+	\subfigure[se energiza la bobina C, y el rotor cambia de posición.]{	\includegraphics[width=0.4\linewidth, height = 7cm]{Imagenes/2/pasoDos}}
 	\caption{Giro del rotor en sentido horario.	\cite{BasicStepper}}
 	\label{fig:pasodos}
 \end{figure}
@@ -125,46 +123,49 @@ Los motores a pasos se pueden clasificar en:
 
 
 \paragraph{Control de un motor a pasos.}
-El control de motores a pasos se puede realizar de diferentes formas, siguiendo simples secuencias en la alimentación de las bobinas, hay tres formas de mover el motor, paso simple, doble y medio paso. Para el paso simple se energiza solo una bobina a la vez. La secuencia se observa en la tabla \ref{tabla:SecuenciaSimple}. Paso doble consiste en alimentar dos bobinas al mismo tiempo de tal forma que el paso se dé con más fuerza, tabla \ref{tabla:pasoDoble}, pues se generan campos magnéticos en dos bobinas y no sola una. Por último el medio paso, el cual combina el paso simple y doble, logrando así que el motor deba dar el doble de pasos para recorrer la misma distancia angular, tabla \ref{tabla:medioPaso}.
-\begin{table}
-\centering
-\caption{Secuencia para hacer girar un motor a pasos. \cite{BasicStepper}}
-\label{tabla:SecuenciaSimple}
-\begin{tabular}{|c|c|c|c|c|c|}
-	\hline 
-	\multicolumn{6}{|c|}{Paso simple motor a pasos} \\ 
-	\hline 
-	& \hspace{5mm} A \hspace{5mm} & \hspace{5mm} B \hspace{5mm} & \hspace{5mm} C \hspace{5mm} & \hspace{5mm} D \hspace{5mm} & \\ 
-	\hline 
-	PASO 1  & 1 & 0 & 0 & 0 &\includegraphics[width=20mm]{Imagenes/2/paso1} \\ 
-	\hline 
-	PASO 2 & 0 & 1 & 0 & 0 & \includegraphics[width=20mm]{Imagenes/2/paso2} \\ 
-	\hline 
-	PASO 3 & 0 & 0 & 0 & 1 & \includegraphics[width=20mm]{Imagenes/2/paso3} \\ 
-	\hline 
-	PASO 4 & 0 & 0 & 0 & 1 & \includegraphics[width=20mm]{Imagenes/2/paso4} \\ 
-	\hline 
-\end{tabular} 
-\end{table}
+El control de motores a pasos se puede realizar de diferentes formas, siguiendo simples secuencias en la alimentación de las bobinas, hay tres formas de mover el motor, paso simple, doble y medio paso. Para el paso simple se energiza solo una bobina a la vez. La secuencia se observa en la tabla \ref{tabla:pasoDobleySimple} (izquierda). Paso doble consiste en alimentar dos bobinas al mismo tiempo de tal forma que el paso se dé con más fuerza, tabla \ref{tabla:pasoDobleySimple} (derecha), pues se generan campos magnéticos en dos bobinas y no sola una. Por último el medio paso, el cual combina el paso simple y doble, logrando así que el motor deba dar el doble de pasos para recorrer la misma distancia angular, tabla \ref{tabla:medioPaso}.
+%\begin{table}[]
+%\centering
+%\caption{Secuencia para hacer girar un motor a pasos. \cite{BasicStepper}}
+%\label{tabla:SecuenciaSimple}
 
-\begin{table}
+% \begin{tabular}{|c|c|c|c|c|c|}
+%	\hline 
+%	\multicolumn{6}{|c|}{Paso simple motor a pasos} \\ 
+%	\hline 
+%	& \hspace{5mm} A \hspace{5mm} & \hspace{5mm} B \hspace{5mm} & \hspace{5mm} C \hspace{5mm} & 	\hspace{5mm} D \hspace{5mm} & \\ 
+%   \hline 
+%	PASO 1  & 1 & 0 & 0 & 0 &\includegraphics[width=20mm]{Imagenes/2/paso1} \\ 
+%	\hline 
+%	PASO 2 & 0 & 1 & 0 & 0 & \includegraphics[width=20mm]{Imagenes/2/paso2} \\ 
+%	\hline 
+%	PASO 3 & 0 & 0 & 0 & 1 & \includegraphics[width=20mm]{Imagenes/2/paso3} \\ 
+%	\hline 
+%	PASO 4 & 0 & 0 & 0 & 1 & \includegraphics[width=20mm]{Imagenes/2/paso4} \\ 
+%	\hline 
+%\end{tabular} 
+%\end{table}
+
+\begin{table} [h!]
 	\centering
-	\caption{Secuencia de paso "doble", se activan dos bobinas a la vez. \cite{BasicStepper}}
-	\label{tabla:pasoDoble}
-		\begin{tabular}{|c|c|c|c|c|c|}
+	\caption[Secuencia para hacer girar un motor a pasos. \cite{BasicStepper}]{Secuencia para hacer girar un motor a pasos. Del lado izquierdo se obserba la secuencia para generar un paso simple. Del lado derecho se tiene la secuencia para un paso "doble" \cite{BasicStepper}.}
+	\vspace{10mm}
+	\label{tabla:pasoDobleySimple}
+		\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
 			\hline 
-			\multicolumn{6}{|c|}{Paso simple motor a pasos} \\ 
+			\multicolumn{6}{|c|}{Paso simple} & \multicolumn{6}{|c|}{Paso doble} % solución colocar 6 entre multicolumn
+			\\ 
 			\hline 
-			& \hspace{5mm} A \hspace{5mm} & \hspace{5mm} B \hspace{5mm} & \hspace{5mm} C \hspace{5mm} & \hspace{5mm} D \hspace{5mm} & \\ 
+			 & A  &  B & C  & D & Imagen & & A & B & C & D & Imagen \\ 
 			\hline 
-			PASO 1  & 1 & 1 & 0 & 0 &\includegraphics[width=20mm]{Imagenes/2/paso1_5} \\ 
+			PASO 1  & 1 & 0 & 0 & 0 & \includegraphics[width=33mm]{Imagenes/2/paso1} & PASO 1 & 1 & 1 & 0 & 0 & \includegraphics[width=33mm]{Imagenes/2/paso1_5}\\ 
 			\hline 
-			PASO 2 & 0 & 1 & 1 & 0 & \includegraphics[width=20mm]{Imagenes/2/paso2_5} \\ 
-			\hline 
-			PASO 3 & 0 & 0 & 1 & 1 & \includegraphics[width=20mm]{Imagenes/2/paso3_5} \\ 
-			\hline 
-			PASO 4 & 1 & 0 & 0 & 1 & \includegraphics[width=20mm]{Imagenes/2/paso4_5} \\ 
-			\hline 
+			PASO 2 & 0 & 1 & 0 & 0 & \includegraphics[width=33mm]{Imagenes/2/paso2} & PASO 2 & 0 & 1 & 1 & 0 &  \includegraphics[width=33mm]{Imagenes/2/paso2_5} \\ 
+			\hline
+			PASO 3 & 0 & 0 & 1 & 0 & \includegraphics[width=33mm]{Imagenes/2/paso3} & PASO 3 & 0 & 0 & 1 & 1 &  \includegraphics[width=33mm]{Imagenes/2/paso3_5} \\ 
+			\hline
+			PASO 4 & 0 & 0 & 0 & 1 & \includegraphics[width=33mm]{Imagenes/2/paso4} & PASO 4 & 1 & 0 & 0 & 1 &  \includegraphics[width=33mm]{Imagenes/2/paso4_5} \\ 
+			\hline
 		\end{tabular} 
 \end{table}
 
@@ -172,27 +173,19 @@ El control de motores a pasos se puede realizar de diferentes formas, siguiendo 
 	\centering
 	\caption{Secuencia para medios pasos, se puede avanzar la mitad de un paso. \cite{BasicStepper}}
 	\label{tabla:medioPaso}
-	\begin{tabular}{|c|c|c|c|c|p{2cm}|}
+	\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
 		\hline 
-		\multicolumn{6}{|c|}{Medio paso} \\ 
+		\multicolumn{12}{|c|}{Medio paso} \\ 
 		\hline 
-		& \hspace{5mm} A \hspace{5mm} & \hspace{5mm} B \hspace{5mm} & \hspace{5mm} C \hspace{5mm} & \hspace{5mm} D \hspace{5mm} & \\ 
+		& \hspace{1mm} A \hspace{1mm} & \hspace{1mm} B \hspace{1mm} & \hspace{1mm} C \hspace{1mm} & \hspace{1mm} D \hspace{1mm} & & & \hspace{1mm} A \hspace{1mm} & \hspace{1mm} B \hspace{1mm} & \hspace{1mm} C \hspace{1mm} & \hspace{1mm} D \hspace{1mm} &  \\ 
 		\hline 
-		PASO 1 & 1 & 0 & 0 & 0 & \includegraphics[width=15mm]{Imagenes/2/paso1}  \\ 
+		PASO 1 & 1 & 0 & 0 & 0 & \includegraphics[width=15mm]{Imagenes/2/paso1} & PASO 5 & 0 & 0 & 1 & 0 & \includegraphics[width=15mm]{Imagenes/2/paso3} \\ 
 		\hline 
-		PASO 2 & 1 & 1 & 0 & 0 & \includegraphics[width=15mm]{Imagenes/2/paso1_5} \\ 
+		PASO 2 & 1 & 1 & 0 & 0 & \includegraphics[width=15mm]{Imagenes/2/paso1_5} & PASO 6 & 0 & 0 & 1 & 1 & \includegraphics[width=15mm]{Imagenes/2/paso3_5} \\ 
 		\hline 
-		PASO 3 & 0 & 1 & 0 & 0 & \includegraphics[width=15mm]{Imagenes/2/paso2} \\ 
+		PASO 3 & 0 & 1 & 0 & 0 & \includegraphics[width=15mm]{Imagenes/2/paso2} & PASO 7 & 0 & 0 & 0 & 1 & \includegraphics[width=15mm]{Imagenes/2/paso4} \\ 
 		\hline 
-		PASO 4 & 0 & 1 & 1 & 0 & \includegraphics[width=15mm]{Imagenes/2/paso2_5} \\ 
-		\hline 
-		PASO 5 & 0 & 0 & 1 & 0 & \includegraphics[width=15mm]{Imagenes/2/paso3} \\ 
-		\hline 
-		PASO 6 & 0 & 0 & 1 & 1 & \includegraphics[width=15mm]{Imagenes/2/paso3_5} \\ 
-		\hline 
-		PASO 7 & 0 & 0 & 0 & 1 & \includegraphics[width=15mm]{Imagenes/2/paso4} \\ 
-		\hline 
-		PASO 8  & 1 & 0 & 0 & 1 & \includegraphics[width=15mm]{Imagenes/2/paso4_5} \\ 
+		PASO 4 & 0 & 1 & 1 & 0 & \includegraphics[width=15mm]{Imagenes/2/paso2_5} &	PASO 8  & 1 & 0 & 0 & 1 & \includegraphics[width=15mm]{Imagenes/2/paso4_5} \\ 
 		\hline 
 	\end{tabular} 
 \end{table}
@@ -285,7 +278,7 @@ Con los módulos de PMT ya solo se debe energizar con un voltaje de $\pm 15$ vol
 \begin{figure}
 	\centering
 	\includegraphics[width=0.7\linewidth]{Imagenes/2/PMTmodule}
-	\caption{\textit{PMTs} módulos de la marca Hamamatsu. Están diseñados para diferentes aplicaciones así como para entregar corriente o voltaje a la salida. \cite{Hamamatsu2007}}
+	\caption{\textit{PMTs} módulos de la marca Hamamatsu. Están diseñados para diferentes aplicaciones, así como para entregar corriente o voltaje a la salida. \cite{Hamamatsu2007}}
 	\label{fig:pmtModule}
 \end{figure}
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.2)  3 AUG 2020 09:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.2)  3 NOV 2020 23:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -877,12 +877,12 @@ LaTeX Info: Redefining \% on input line 9.
 
 (./Chapters/Capitulo1.tex
 Cap\'{\i }tulo 1
-<Imagenes/espectro_visible.png, id=447, 642.4pt x 196.735pt>
+<Imagenes/espectro_visible.png, id=444, 642.4pt x 196.735pt>
 File: Imagenes/espectro_visible.png Graphic file (type png)
 <use Imagenes/espectro_visible.png>
 Package pdftex.def Info: Imagenes/espectro_visible.png  used on input line 7.
 (pdftex.def)             Requested size: 531.78203pt x 162.86371pt.
-<Imagenes/espectros_absorcion_y_emision.png, id=450, 796.9775pt x 530.98375pt>
+<Imagenes/espectros_absorcion_y_emision.png, id=447, 796.9775pt x 530.98375pt>
 File: Imagenes/espectros_absorcion_y_emision.png Graphic file (type png)
 <use Imagenes/espectros_absorcion_y_emision.png>
 Package pdftex.def Info: Imagenes/espectros_absorcion_y_emision.png  used on in
@@ -900,105 +900,104 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
  [2 <./Imagenes/espectros_absorcion_y_emision.png>]
-<Imagenes/SpectralL.png, id=470, 587.19376pt x 283.0575pt>
+<Imagenes/SpectralL.png, id=467, 587.19376pt x 283.0575pt>
 File: Imagenes/SpectralL.png Graphic file (type png)
 <use Imagenes/SpectralL.png>
-Package pdftex.def Info: Imagenes/SpectralL.png  used on input line 60.
+Package pdftex.def Info: Imagenes/SpectralL.png  used on input line 64.
 (pdftex.def)             Requested size: 425.42723pt x 205.07536pt.
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
  [3]
-LaTeX Info: Redefining \. on input line 125.
-LaTeX Info: Redefining \% on input line 125.
+LaTeX Info: Redefining \. on input line 129.
+LaTeX Info: Redefining \% on input line 129.
  [4 <./Imagenes/SpectralL.PNG>]
-<Imagenes/espectroSOL.png, id=493, 120.45pt x 72.0291pt>
+<Imagenes/espectroSOL.png, id=490, 120.45pt x 72.0291pt>
 File: Imagenes/espectroSOL.png Graphic file (type png)
 <use Imagenes/espectroSOL.png>
-Package pdftex.def Info: Imagenes/espectroSOL.png  used on input line 128.
+Package pdftex.def Info: Imagenes/espectroSOL.png  used on input line 132.
 (pdftex.def)             Requested size: 478.64857pt x 142.28938pt.
-LaTeX Info: Redefining \. on input line 145.
-LaTeX Info: Redefining \% on input line 145.
+LaTeX Info: Redefining \. on input line 149.
+LaTeX Info: Redefining \% on input line 149.
  [5 <./Imagenes/espectroSOL.png>]
-<Imagenes/Espectrometro.png, id=507, 204.01219pt x 188.20313pt>
+<Imagenes/Espectrometro.png, id=504, 204.01219pt x 188.20313pt>
 File: Imagenes/Espectrometro.png Graphic file (type png)
 <use Imagenes/Espectrometro.png>
-Package pdftex.def Info: Imagenes/Espectrometro.png  used on input line 148.
+Package pdftex.def Info: Imagenes/Espectrometro.png  used on input line 152.
 (pdftex.def)             Requested size: 292.48174pt x 269.83199pt.
-<Imagenes/ColimarLuz.jpg, id=513, 308.352pt x 191.2746pt>
+<Imagenes/ColimarLuz.jpg, id=510, 308.352pt x 191.2746pt>
 File: Imagenes/ColimarLuz.jpg Graphic file (type jpg)
 <use Imagenes/ColimarLuz.jpg>
-Package pdftex.def Info: Imagenes/ColimarLuz.jpg  used on input line 162.
+Package pdftex.def Info: Imagenes/ColimarLuz.jpg  used on input line 166.
 (pdftex.def)             Requested size: 319.07245pt x 197.92853pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Info: Redefining \. on input line 170.
-LaTeX Info: Redefining \% on input line 170.
+LaTeX Info: Redefining \. on input line 174.
+LaTeX Info: Redefining \% on input line 174.
 [6 <./Imagenes/Espectrometro.png>]
-<Imagenes/300px-Echelle_Principle.png, id=526, 301.125pt x 263.98625pt>
+<Imagenes/300px-Echelle_Principle.png, id=523, 301.125pt x 263.98625pt>
 File: Imagenes/300px-Echelle_Principle.png Graphic file (type png)
 <use Imagenes/300px-Echelle_Principle.png>
 Package pdftex.def Info: Imagenes/300px-Echelle_Principle.png  used on input li
-ne 179.
+ne 183.
 (pdftex.def)             Requested size: 212.71587pt x 85.35544pt.
-<Imagenes/DiffGrat.png, id=527, 144.7809pt x 105.5142pt>
+<Imagenes/DiffGrat.png, id=524, 144.7809pt x 105.5142pt>
 File: Imagenes/DiffGrat.png Graphic file (type png)
 <use Imagenes/DiffGrat.png>
-Package pdftex.def Info: Imagenes/DiffGrat.png  used on input line 180.
+Package pdftex.def Info: Imagenes/DiffGrat.png  used on input line 184.
 (pdftex.def)             Requested size: 212.73035pt x 85.36299pt.
-<Imagenes/rejillaPlana.jpg, id=528, 169.38281pt x 131.74219pt>
+<Imagenes/rejillaPlana.jpg, id=525, 169.38281pt x 131.74219pt>
 File: Imagenes/rejillaPlana.jpg Graphic file (type jpg)
 <use Imagenes/rejillaPlana.jpg>
-Package pdftex.def Info: Imagenes/rejillaPlana.jpg  used on input line 181.
+Package pdftex.def Info: Imagenes/rejillaPlana.jpg  used on input line 185.
 (pdftex.def)             Requested size: 212.71786pt x 85.36201pt.
 <Imagenes/Spectral-components-Concave-Holographic-Gratings-for-Monochromator.jp
-g, id=529, 351.3125pt x 351.3125pt>
+g, id=526, 351.3125pt x 351.3125pt>
 File: Imagenes/Spectral-components-Concave-Holographic-Gratings-for-Monochromat
 or.jpg Graphic file (type jpg)
 <use Imagenes/Spectral-components-Concave-Holographic-Gratings-for-Monochromato
 r.jpg>
 Package pdftex.def Info: Imagenes/Spectral-components-Concave-Holographic-Grati
-ngs-for-Monochromator.jpg  used on input line 182.
+ngs-for-Monochromator.jpg  used on input line 186.
 (pdftex.def)             Requested size: 212.71356pt x 85.35667pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/reflexion.png, id=535, 316.93407pt x 219.06844pt>
+<Imagenes/reflexion.png, id=532, 316.93407pt x 219.06844pt>
 File: Imagenes/reflexion.png Graphic file (type png)
 <use Imagenes/reflexion.png>
-Package pdftex.def Info: Imagenes/reflexion.png  used on input line 195.
+Package pdftex.def Info: Imagenes/reflexion.png  used on input line 199.
 (pdftex.def)             Requested size: 319.07245pt x 220.56207pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Info: Redefining \. on input line 206.
-LaTeX Info: Redefining \% on input line 206.
+LaTeX Info: Redefining \. on input line 210.
+LaTeX Info: Redefining \% on input line 210.
 [7 <./Imagenes/ColimarLuz.jpg>]
-<Imagenes/1280px-Czerny-Turner_Monochromator.jpg, id=545, 1284.8pt x 796.9775pt
+LaTeX Info: Redefining \. on input line 213.
+LaTeX Info: Redefining \% on input line 213.
+ [8 <./Imagenes/300px-Echelle_Principle.png> <./Imagenes/DiffGrat.png> <./Image
+nes/rejillaPlana.jpg> <./Imagenes/Spectral-components-Concave-Holographic-Grati
+ngs-for-Monochromator.jpg> <./Imagenes/reflexion.PNG>]
+<Imagenes/1280px-Czerny-Turner_Monochromator.jpg, id=556, 1284.8pt x 796.9775pt
 >
 File: Imagenes/1280px-Czerny-Turner_Monochromator.jpg Graphic file (type jpg)
 <use Imagenes/1280px-Czerny-Turner_Monochromator.jpg>
 Package pdftex.def Info: Imagenes/1280px-Czerny-Turner_Monochromator.jpg  used 
-on input line 216.
+on input line 220.
 (pdftex.def)             Requested size: 212.70956pt x 131.94556pt.
-LaTeX Info: Redefining \. on input line 221.
-LaTeX Info: Redefining \% on input line 221.
- [8 <./Imagenes/300px-Echelle_Principle.png> <./Imagenes/DiffGrat.png> <./Image
-nes/rejillaPlana.jpg> <./Imagenes/Spectral-components-Concave-Holographic-Grati
-ngs-for-Monochromator.jpg>]
-<Imagenes/lamparaMercurio.png, id=562, 423.83344pt x 271.76532pt>
+LaTeX Info: Redefining \. on input line 235.
+LaTeX Info: Redefining \% on input line 235.
+ [9 <./Imagenes/1280px-Czerny-Turner_Monochromator.jpg>]
+<Imagenes/lamparaMercurio.png, id=564, 423.83344pt x 271.76532pt>
 File: Imagenes/lamparaMercurio.png Graphic file (type png)
 <use Imagenes/lamparaMercurio.png>
-Package pdftex.def Info: Imagenes/lamparaMercurio.png  used on input line 235.
+Package pdftex.def Info: Imagenes/lamparaMercurio.png  used on input line 240.
 (pdftex.def)             Requested size: 372.24579pt x 238.69806pt.
-LaTeX Info: Redefining \. on input line 239.
-LaTeX Info: Redefining \% on input line 239.
- [9 <./Imagenes/reflexion.PNG> <./Imagenes/1280px-Czerny-Turner_Monochromator.j
-pg>]
-LaTeX Info: Redefining \. on input line 245.
-LaTeX Info: Redefining \% on input line 245.
+LaTeX Info: Redefining \. on input line 250.
+LaTeX Info: Redefining \% on input line 250.
  [10 <./Imagenes/lamparaMercurio.png>])
 LaTeX Info: Redefining \. on input line 67.
 LaTeX Info: Redefining \% on input line 67.
@@ -1007,29 +1006,29 @@ LaTeX Info: Redefining \% on input line 67.
 
  (./Chapters/Capitulo2.tex
 Cap\'{\i }tulo 2
-<Imagenes/Fastie-Ebert.jpg, id=587, 301.125pt x 198.7425pt>
+<Imagenes/Fastie-Ebert.jpg, id=584, 301.125pt x 198.7425pt>
 File: Imagenes/Fastie-Ebert.jpg Graphic file (type jpg)
 <use Imagenes/Fastie-Ebert.jpg>
-Package pdftex.def Info: Imagenes/Fastie-Ebert.jpg  used on input line 18.
+Package pdftex.def Info: Imagenes/Fastie-Ebert.jpg  used on input line 16.
 (pdftex.def)             Requested size: 372.24579pt x 245.70425pt.
-<Imagenes/Czerny-Turner.jpg, id=588, 301.125pt x 176.15813pt>
+<Imagenes/Czerny-Turner.jpg, id=585, 301.125pt x 176.15813pt>
 File: Imagenes/Czerny-Turner.jpg Graphic file (type jpg)
 <use Imagenes/Czerny-Turner.jpg>
-Package pdftex.def Info: Imagenes/Czerny-Turner.jpg  used on input line 19.
+Package pdftex.def Info: Imagenes/Czerny-Turner.jpg  used on input line 17.
 (pdftex.def)             Requested size: 372.24579pt x 217.78331pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Imagenes/difraccion.png, id=593, 462.22687pt x 161.10187pt>
+<Imagenes/difraccion.png, id=590, 462.22687pt x 161.10187pt>
 File: Imagenes/difraccion.png Graphic file (type png)
 <use Imagenes/difraccion.png>
-Package pdftex.def Info: Imagenes/difraccion.png  used on input line 30.
+Package pdftex.def Info: Imagenes/difraccion.png  used on input line 28.
 (pdftex.def)             Requested size: 478.60057pt x 166.80943pt.
-<Imagenes/patronrendijasimple.jpg, id=596, 332.24126pt x 186.6975pt>
+<Imagenes/patronrendijasimple.jpg, id=593, 332.24126pt x 186.6975pt>
 File: Imagenes/patronrendijasimple.jpg Graphic file (type jpg)
 <use Imagenes/patronrendijasimple.jpg>
 Package pdftex.def Info: Imagenes/patronrendijasimple.jpg  used on input line 3
-7.
+5.
 (pdftex.def)             Requested size: 372.24579pt x 209.19092pt.
 [12
 
@@ -1042,299 +1041,292 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/2/difracRo.png, id=607, 802.49812pt x 449.42906pt>
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+[13 <./Imagenes/Fastie-Ebert.jpg> <./Imagenes/Czerny-Turner.jpg>]
+<Imagenes/2/difracRo.png, id=611, 802.49812pt x 449.42906pt>
 File: Imagenes/2/difracRo.png Graphic file (type png)
 <use Imagenes/2/difracRo.png>
-Package pdftex.def Info: Imagenes/2/difracRo.png  used on input line 55.
+Package pdftex.def Info: Imagenes/2/difracRo.png  used on input line 53.
 (pdftex.def)             Requested size: 255.24951pt x 113.81082pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
-<Imagenes/2/difracGr.png, id=608, 804.75656pt x 444.15938pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+<Imagenes/2/difracGr.png, id=612, 804.75656pt x 444.15938pt>
 File: Imagenes/2/difracGr.png Graphic file (type png)
 <use Imagenes/2/difracGr.png>
-Package pdftex.def Info: Imagenes/2/difracGr.png  used on input line 56.
+Package pdftex.def Info: Imagenes/2/difracGr.png  used on input line 54.
 (pdftex.def)             Requested size: 255.24335pt x 113.81148pt.
-<Imagenes/2/ordenes.png, id=612, 527.95137pt x 342.33157pt>
+<Imagenes/2/ordenes.png, id=616, 527.95137pt x 342.33157pt>
 File: Imagenes/2/ordenes.png Graphic file (type png)
 <use Imagenes/2/ordenes.png>
-Package pdftex.def Info: Imagenes/2/ordenes.png  used on input line 64.
+Package pdftex.def Info: Imagenes/2/ordenes.png  used on input line 62.
 (pdftex.def)             Requested size: 372.24579pt x 241.37512pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Info: Redefining \. on input line 89.
-LaTeX Info: Redefining \% on input line 89.
-[13]
-<Imagenes/2/RotorEstator.jpg, id=633, 621.07031pt x 450.18187pt>
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
+ [14 <./Imagenes/difraccion.PNG> <./Imagenes/patronrendijasimple.jpg>]
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+ [15 <./Imagenes/2/difracRo.png> <./Imagenes/2/difracGr.png> <./Imagenes/2/orde
+nes.png>]
+<Imagenes/2/RotorEstator.jpg, id=644, 621.07031pt x 450.18187pt>
 File: Imagenes/2/RotorEstator.jpg Graphic file (type jpg)
 <use Imagenes/2/RotorEstator.jpg>
-Package pdftex.def Info: Imagenes/2/RotorEstator.jpg  used on input line 102.
+Package pdftex.def Info: Imagenes/2/RotorEstator.jpg  used on input line 100.
 (pdftex.def)             Requested size: 372.24579pt x 269.8227pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/2/pasoUno.png, id=637, 305.64188pt x 286.06876pt>
+<Imagenes/2/pasoUno.png, id=648, 305.64188pt x 286.06876pt>
 File: Imagenes/2/pasoUno.png Graphic file (type png)
 <use Imagenes/2/pasoUno.png>
-Package pdftex.def Info: Imagenes/2/pasoUno.png  used on input line 110.
-(pdftex.def)             Requested size: 212.70956pt x 199.08565pt.
-<Imagenes/2/pasoDos.png, id=638, 286.82156pt x 289.08pt>
+Package pdftex.def Info: Imagenes/2/pasoUno.png  used on input line 108.
+(pdftex.def)             Requested size: 212.70729pt x 199.17296pt.
+<Imagenes/2/pasoDos.png, id=649, 286.82156pt x 289.08pt>
 File: Imagenes/2/pasoDos.png Graphic file (type png)
 <use Imagenes/2/pasoDos.png>
-Package pdftex.def Info: Imagenes/2/pasoDos.png  used on input line 111.
-(pdftex.def)             Requested size: 212.70956pt x 214.38782pt.
+Package pdftex.def Info: Imagenes/2/pasoDos.png  used on input line 109.
+(pdftex.def)             Requested size: 212.7129pt x 199.16986pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Imagenes/2/paso1.png, id=644, 305.64188pt x 286.06876pt>
+LaTeX Info: Redefining \. on input line 118.
+LaTeX Info: Redefining \% on input line 118.
+[16]
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
+ [17 <./Imagenes/2/RotorEstator.jpg> <./Imagenes/2/pasoUno.PNG> <./Imagenes/2/p
+asoDos.PNG>]
+<Imagenes/2/paso1.png, id=673, 305.64188pt x 286.06876pt>
 File: Imagenes/2/paso1.png Graphic file (type png)
 <use Imagenes/2/paso1.png>
-Package pdftex.def Info: Imagenes/2/paso1.png  used on input line 139.
-(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
-<Imagenes/2/paso2.png, id=645, 305.64188pt x 286.06876pt>
+Package pdftex.def Info: Imagenes/2/paso1.png  used on input line 161.
+(pdftex.def)             Requested size: 93.89409pt x 87.87723pt.
+<Imagenes/2/paso1_5.png, id=674, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso1_5.png Graphic file (type png)
+<use Imagenes/2/paso1_5.png>
+Package pdftex.def Info: Imagenes/2/paso1_5.png  used on input line 161.
+(pdftex.def)             Requested size: 93.89409pt x 87.87723pt.
+<Imagenes/2/paso2.png, id=675, 305.64188pt x 286.06876pt>
 File: Imagenes/2/paso2.png Graphic file (type png)
 <use Imagenes/2/paso2.png>
-Package pdftex.def Info: Imagenes/2/paso2.png  used on input line 141.
-(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
-<Imagenes/2/paso3.png, id=646, 305.64188pt x 286.06876pt>
+Package pdftex.def Info: Imagenes/2/paso2.png  used on input line 163.
+(pdftex.def)             Requested size: 93.89409pt x 87.87723pt.
+<Imagenes/2/paso2_5.png, id=676, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso2_5.png Graphic file (type png)
+<use Imagenes/2/paso2_5.png>
+Package pdftex.def Info: Imagenes/2/paso2_5.png  used on input line 163.
+(pdftex.def)             Requested size: 93.89409pt x 87.87723pt.
+<Imagenes/2/paso3.png, id=677, 305.64188pt x 286.06876pt>
 File: Imagenes/2/paso3.png Graphic file (type png)
 <use Imagenes/2/paso3.png>
-Package pdftex.def Info: Imagenes/2/paso3.png  used on input line 143.
-(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
-<Imagenes/2/paso4.png, id=647, 305.64188pt x 286.06876pt>
-File: Imagenes/2/paso4.png Graphic file (type png)
-<use Imagenes/2/paso4.png>
-Package pdftex.def Info: Imagenes/2/paso4.png  used on input line 145.
-(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
-LaTeX Info: Redefining \. on input line 149.
-LaTeX Info: Redefining \% on input line 149.
-[14]
-<Imagenes/2/paso1_5.png, id=657, 305.64188pt x 286.06876pt>
-File: Imagenes/2/paso1_5.png Graphic file (type png)
-<use Imagenes/2/paso1_5.png>
-Package pdftex.def Info: Imagenes/2/paso1_5.png  used on input line 160.
-(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
-<Imagenes/2/paso2_5.png, id=658, 305.64188pt x 286.06876pt>
-File: Imagenes/2/paso2_5.png Graphic file (type png)
-<use Imagenes/2/paso2_5.png>
-Package pdftex.def Info: Imagenes/2/paso2_5.png  used on input line 162.
-(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
-<Imagenes/2/paso3_5.png, id=659, 305.64188pt x 286.06876pt>
+Package pdftex.def Info: Imagenes/2/paso3.png  used on input line 165.
+(pdftex.def)             Requested size: 93.89409pt x 87.87723pt.
+<Imagenes/2/paso3_5.png, id=678, 305.64188pt x 286.06876pt>
 File: Imagenes/2/paso3_5.png Graphic file (type png)
 <use Imagenes/2/paso3_5.png>
-Package pdftex.def Info: Imagenes/2/paso3_5.png  used on input line 164.
-(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
-<Imagenes/2/paso4_5.png, id=660, 305.64188pt x 286.06876pt>
+Package pdftex.def Info: Imagenes/2/paso3_5.png  used on input line 165.
+(pdftex.def)             Requested size: 93.89409pt x 87.87723pt.
+<Imagenes/2/paso4.png, id=679, 305.64188pt x 286.06876pt>
+File: Imagenes/2/paso4.png Graphic file (type png)
+<use Imagenes/2/paso4.png>
+Package pdftex.def Info: Imagenes/2/paso4.png  used on input line 167.
+(pdftex.def)             Requested size: 93.89409pt x 87.87723pt.
+<Imagenes/2/paso4_5.png, id=680, 305.64188pt x 286.06876pt>
 File: Imagenes/2/paso4_5.png Graphic file (type png)
 <use Imagenes/2/paso4_5.png>
-Package pdftex.def Info: Imagenes/2/paso4_5.png  used on input line 166.
-(pdftex.def)             Requested size: 56.9055pt x 53.258pt.
+Package pdftex.def Info: Imagenes/2/paso4_5.png  used on input line 167.
+(pdftex.def)             Requested size: 93.89409pt x 87.87723pt.
 File: Imagenes/2/paso1.png Graphic file (type png)
 <use Imagenes/2/paso1.png>
-Package pdftex.def Info: Imagenes/2/paso1.png  used on input line 181.
-(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
-File: Imagenes/2/paso1_5.png Graphic file (type png)
-<use Imagenes/2/paso1_5.png>
-Package pdftex.def Info: Imagenes/2/paso1_5.png  used on input line 183.
-(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
-File: Imagenes/2/paso2.png Graphic file (type png)
-<use Imagenes/2/paso2.png>
-Package pdftex.def Info: Imagenes/2/paso2.png  used on input line 185.
-(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
-File: Imagenes/2/paso2_5.png Graphic file (type png)
-<use Imagenes/2/paso2_5.png>
-Package pdftex.def Info: Imagenes/2/paso2_5.png  used on input line 187.
+Package pdftex.def Info: Imagenes/2/paso1.png  used on input line 182.
 (pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
 File: Imagenes/2/paso3.png Graphic file (type png)
 <use Imagenes/2/paso3.png>
-Package pdftex.def Info: Imagenes/2/paso3.png  used on input line 189.
+Package pdftex.def Info: Imagenes/2/paso3.png  used on input line 182.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+File: Imagenes/2/paso1_5.png Graphic file (type png)
+<use Imagenes/2/paso1_5.png>
+Package pdftex.def Info: Imagenes/2/paso1_5.png  used on input line 184.
 (pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
 File: Imagenes/2/paso3_5.png Graphic file (type png)
 <use Imagenes/2/paso3_5.png>
-Package pdftex.def Info: Imagenes/2/paso3_5.png  used on input line 191.
+Package pdftex.def Info: Imagenes/2/paso3_5.png  used on input line 184.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+File: Imagenes/2/paso2.png Graphic file (type png)
+<use Imagenes/2/paso2.png>
+Package pdftex.def Info: Imagenes/2/paso2.png  used on input line 186.
 (pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
 File: Imagenes/2/paso4.png Graphic file (type png)
 <use Imagenes/2/paso4.png>
-Package pdftex.def Info: Imagenes/2/paso4.png  used on input line 193.
+Package pdftex.def Info: Imagenes/2/paso4.png  used on input line 186.
+(pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
+File: Imagenes/2/paso2_5.png Graphic file (type png)
+<use Imagenes/2/paso2_5.png>
+Package pdftex.def Info: Imagenes/2/paso2_5.png  used on input line 188.
 (pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
 File: Imagenes/2/paso4_5.png Graphic file (type png)
 <use Imagenes/2/paso4_5.png>
-Package pdftex.def Info: Imagenes/2/paso4_5.png  used on input line 195.
+Package pdftex.def Info: Imagenes/2/paso4_5.png  used on input line 188.
 (pdftex.def)             Requested size: 42.67912pt x 39.94458pt.
-<Imagenes/2/L293.png, id=665, 281.55188pt x 272.51813pt>
+LaTeX Info: Redefining \. on input line 195.
+LaTeX Info: Redefining \% on input line 195.
+ [18 <./Imagenes/2/paso1.png> <./Imagenes/2/paso1_5.png> <./Imagenes/2/paso2.pn
+g> <./Imagenes/2/paso2_5.png> <./Imagenes/2/paso3.png> <./Imagenes/2/paso3_5.pn
+g> <./Imagenes/2/paso4.png> <./Imagenes/2/paso4_5.png>]
+<Imagenes/2/L293.png, id=698, 281.55188pt x 272.51813pt>
 File: Imagenes/2/L293.png Graphic file (type png)
 <use Imagenes/2/L293.png>
-Package pdftex.def Info: Imagenes/2/L293.png  used on input line 206.
+Package pdftex.def Info: Imagenes/2/L293.png  used on input line 199.
 (pdftex.def)             Requested size: 212.70956pt x 205.88507pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/2/BIPOLAR-4-FILS.jpg, id=668, 925.859pt x 617.507pt>
+<Imagenes/2/BIPOLAR-4-FILS.jpg, id=701, 925.859pt x 617.507pt>
 File: Imagenes/2/BIPOLAR-4-FILS.jpg Graphic file (type jpg)
 <use Imagenes/2/BIPOLAR-4-FILS.jpg>
-Package pdftex.def Info: Imagenes/2/BIPOLAR-4-FILS.jpg  used on input line 213.
+Package pdftex.def Info: Imagenes/2/BIPOLAR-4-FILS.jpg  used on input line 206.
 
 (pdftex.def)             Requested size: 372.24579pt x 248.27045pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/2/bipolar-2-fils.jpg, id=670, 1053.536pt x 618.31pt>
+<Imagenes/2/bipolar-2-fils.jpg, id=703, 1053.536pt x 618.31pt>
 File: Imagenes/2/bipolar-2-fils.jpg Graphic file (type jpg)
 <use Imagenes/2/bipolar-2-fils.jpg>
-Package pdftex.def Info: Imagenes/2/bipolar-2-fils.jpg  used on input line 220.
+Package pdftex.def Info: Imagenes/2/bipolar-2-fils.jpg  used on input line 213.
 
 (pdftex.def)             Requested size: 425.42723pt x 249.67827pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Info: Redefining \. on input line 228.
-LaTeX Info: Redefining \% on input line 228.
-[15 <./Imagenes/2/paso1.png> <./Imagenes/2/paso2.png> <./Imagenes/2/paso3.png> 
-<./Imagenes/2/paso4.png>]
-<Imagenes/2/TB6560a.png, id=682, 240.9pt x 156.585pt>
+LaTeX Info: Redefining \. on input line 224.
+LaTeX Info: Redefining \% on input line 224.
+[19]
+<Imagenes/2/TB6560a.png, id=711, 240.9pt x 156.585pt>
 File: Imagenes/2/TB6560a.png Graphic file (type png)
 <use Imagenes/2/TB6560a.png>
-Package pdftex.def Info: Imagenes/2/TB6560a.png  used on input line 237.
+Package pdftex.def Info: Imagenes/2/TB6560a.png  used on input line 230.
 (pdftex.def)             Requested size: 372.24579pt x 241.98267pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
-47.
+40.
 (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-LaTeX Info: Redefining \. on input line 249.
-LaTeX Info: Redefining \% on input line 249.
- [16 <./Imagenes/2/paso1_5.png> <./Imagenes/2/paso2_5.png> <./Imagenes/2/paso3_
-5.png> <./Imagenes/2/paso4_5.png>]
-<Imagenes/2/tmap_0051.png, id=694, 812.03375pt x 281.05pt>
+LaTeX Info: Redefining \. on input line 245.
+LaTeX Info: Redefining \% on input line 245.
+ [20 <./Imagenes/2/L293.PNG>]
+<Imagenes/2/tmap_0051.png, id=722, 812.03375pt x 281.05pt>
 File: Imagenes/2/tmap_0051.png Graphic file (type png)
 <use Imagenes/2/tmap_0051.png>
-Package pdftex.def Info: Imagenes/2/tmap_0051.png  used on input line 255.
+Package pdftex.def Info: Imagenes/2/tmap_0051.png  used on input line 248.
 (pdftex.def)             Requested size: 531.78203pt x 184.05692pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Info: Redefining \. on input line 265.
-LaTeX Info: Redefining \% on input line 265.
-[17]
-<Imagenes/2/PMT.png, id=705, 472.01344pt x 212.29312pt>
+<Imagenes/2/PMT.png, id=729, 472.01344pt x 212.29312pt>
 File: Imagenes/2/PMT.png Graphic file (type png)
 <use Imagenes/2/PMT.png>
-Package pdftex.def Info: Imagenes/2/PMT.png  used on input line 268.
+Package pdftex.def Info: Imagenes/2/PMT.png  used on input line 261.
 (pdftex.def)             Requested size: 478.60057pt x 215.25983pt.
-<Imagenes/2/PMThead.jpg, id=707, 770.88pt x 462.72874pt>
+LaTeX Info: Redefining \. on input line 269.
+LaTeX Info: Redefining \% on input line 269.
+[21 <./Imagenes/2/BIPOLAR-4-FILS.jpg>]
+<Imagenes/2/PMThead.jpg, id=735, 770.88pt x 462.72874pt>
 File: Imagenes/2/PMThead.jpg Graphic file (type jpg)
 <use Imagenes/2/PMThead.jpg>
-Package pdftex.def Info: Imagenes/2/PMThead.jpg  used on input line 279.
+Package pdftex.def Info: Imagenes/2/PMThead.jpg  used on input line 272.
 (pdftex.def)             Requested size: 212.70956pt x 127.67796pt.
-<Imagenes/2/PMTSide-on.jpg, id=708, 770.88pt x 462.72874pt>
+<Imagenes/2/PMTSide-on.jpg, id=736, 770.88pt x 462.72874pt>
 File: Imagenes/2/PMTSide-on.jpg Graphic file (type jpg)
 <use Imagenes/2/PMTSide-on.jpg>
-Package pdftex.def Info: Imagenes/2/PMTSide-on.jpg  used on input line 280.
+Package pdftex.def Info: Imagenes/2/PMTSide-on.jpg  used on input line 273.
 (pdftex.def)             Requested size: 212.70956pt x 127.67796pt.
-<Imagenes/2/PMTmodule.jpg, id=710, 770.88pt x 462.72874pt>
+<Imagenes/2/PMTmodule.jpg, id=738, 770.88pt x 462.72874pt>
 File: Imagenes/2/PMTmodule.jpg Graphic file (type jpg)
 <use Imagenes/2/PMTmodule.jpg>
-Package pdftex.def Info: Imagenes/2/PMTmodule.jpg  used on input line 287.
+Package pdftex.def Info: Imagenes/2/PMTmodule.jpg  used on input line 280.
 (pdftex.def)             Requested size: 372.24579pt x 223.44174pt.
-<Imagenes/2/SensibilidadAjuste.png, id=714, 657.2053pt x 226.59656pt>
+<Imagenes/2/SensibilidadAjuste.png, id=742, 657.2053pt x 226.59656pt>
 File: Imagenes/2/SensibilidadAjuste.png Graphic file (type png)
 <use Imagenes/2/SensibilidadAjuste.png>
 Package pdftex.def Info: Imagenes/2/SensibilidadAjuste.png  used on input line 
-300.
+293.
 (pdftex.def)             Requested size: 425.42723pt x 146.68439pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/2/PMT_GAIN.png, id=719, 615.80063pt x 313.17pt>
+<Imagenes/2/PMT_GAIN.png, id=747, 615.80063pt x 313.17pt>
 File: Imagenes/2/PMT_GAIN.png Graphic file (type png)
 <use Imagenes/2/PMT_GAIN.png>
-Package pdftex.def Info: Imagenes/2/PMT_GAIN.png  used on input line 308.
+Package pdftex.def Info: Imagenes/2/PMT_GAIN.png  used on input line 301.
 (pdftex.def)             Requested size: 372.24579pt x 189.31311pt.
-LaTeX Info: Redefining \. on input line 338.
-LaTeX Info: Redefining \% on input line 338.
-[18]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/2/MCP3202.png, id=730, 245.41687pt x 118.19156pt>
+LaTeX Info: Redefining \. on input line 331.
+LaTeX Info: Redefining \% on input line 331.
+[22 <./Imagenes/2/bipolar-2-fils.jpg>]
+LaTeX Info: Redefining \. on input line 334.
+LaTeX Info: Redefining \% on input line 334.
+ [23 <./Imagenes/2/TB6560a.png> <./Imagenes/2/tmap_0051.png>]
+LaTeX Info: Redefining \. on input line 344.
+LaTeX Info: Redefining \% on input line 344.
+ [24 <./Imagenes/2/PMT.PNG> <./Imagenes/2/PMThead.jpg> <./Imagenes/2/PMTSide-on
+.jpg>]
+LaTeX Info: Redefining \. on input line 349.
+LaTeX Info: Redefining \% on input line 349.
+ [25 <./Imagenes/2/PMTmodule.jpg> <./Imagenes/2/SensibilidadAjuste.PNG>]
+<Imagenes/2/MCP3202.png, id=782, 245.41687pt x 118.19156pt>
 File: Imagenes/2/MCP3202.png Graphic file (type png)
 <use Imagenes/2/MCP3202.png>
-Package pdftex.def Info: Imagenes/2/MCP3202.png  used on input line 385.
+Package pdftex.def Info: Imagenes/2/MCP3202.png  used on input line 378.
 (pdftex.def)             Requested size: 265.891pt x 128.05617pt.
-LaTeX Info: Redefining \. on input line 388.
-LaTeX Info: Redefining \% on input line 388.
-[19]
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/2/potDig.png, id=742, 224.33812pt x 156.585pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imagenes/2/potDig.png, id=788, 224.33812pt x 156.585pt>
 File: Imagenes/2/potDig.png Graphic file (type png)
 <use Imagenes/2/potDig.png>
-Package pdftex.def Info: Imagenes/2/potDig.png  used on input line 423.
+Package pdftex.def Info: Imagenes/2/potDig.png  used on input line 416.
 (pdftex.def)             Requested size: 265.891pt x 185.60733pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Info: Redefining \. on input line 460.
-LaTeX Info: Redefining \% on input line 460.
-[20])
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [21]
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [22 <./Imagenes/Fastie-Ebert.jpg> <./Imagenes/Czerny-Turner.jpg>]
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
 
-[23 <./Imagenes/difraccion.PNG> <./Imagenes/patronrendijasimple.jpg> <./Imagene
-s/2/difracRo.png> <./Imagenes/2/difracGr.png>]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 453.
+LaTeX Info: Redefining \% on input line 453.
+[26 <./Imagenes/2/PMT_GAIN.PNG>])
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
- [24 <./Imagenes/2/ordenes.png> <./Imagenes/2/RotorEstator.jpg>]
+ [27 <./Imagenes/2/MCP3202.PNG>]
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
- [25 <./Imagenes/2/pasoUno.PNG> <./Imagenes/2/pasoDos.PNG> <./Imagenes/2/L293.P
-NG>]
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [26 <./Imagenes/2/BIPOLAR-4-FILS.jpg> <./Imagenes/2/bipolar-2-fils.jpg>]
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [27 <./Imagenes/2/TB6560a.png> <./Imagenes/2/tmap_0051.png>]
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [28 <./Imagenes/2/PMT.PNG> <./Imagenes/2/PMThead.jpg> <./Imagenes/2/PMTSide-on
-.jpg>]
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [29 <./Imagenes/2/PMTmodule.jpg> <./Imagenes/2/SensibilidadAjuste.PNG>]
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [30 <./Imagenes/2/PMT_GAIN.PNG> <./Imagenes/2/MCP3202.PNG> <./Imagenes/2/potDi
-g.PNG>]
+ [28 <./Imagenes/2/potDig.PNG>]
 \openout2 = `Chapters/Capitulo3.aux'.
 
  (./Chapters/Capitulo3.tex
 Cap\'{\i }tulo 3
-<Imagenes/3/esquema.png, id=821, 1256.0526pt x 543.9522pt>
+<Imagenes/3/esquema.png, id=810, 1256.0526pt x 543.9522pt>
 File: Imagenes/3/esquema.png Graphic file (type png)
 <use Imagenes/3/esquema.png>
 Package pdftex.def Info: Imagenes/3/esquema.png  used on input line 6.
 (pdftex.def)             Requested size: 521.1441pt x 225.69444pt.
-<Imagenes/3/SpectraPro.png, id=824, 418.56375pt x 591.71063pt>
+<Imagenes/3/SpectraPro.png, id=813, 418.56375pt x 591.71063pt>
 File: Imagenes/3/SpectraPro.png Graphic file (type png)
 <use Imagenes/3/SpectraPro.png>
 Package pdftex.def Info: Imagenes/3/SpectraPro.png  used on input line 15.
@@ -1344,7 +1336,7 @@ Underfull \hbox (badness 3713) in paragraph at lines 15--15
 []\T1/ptm/m/n/10 (a) Mo-no-cro-ma-dor Spec-tra-
  []
 
-<Imagenes/3/SpectraProIn.png, id=825, 189.3474pt x 189.3474pt>
+<Imagenes/3/SpectraProIn.png, id=814, 189.3474pt x 189.3474pt>
 File: Imagenes/3/SpectraProIn.png Graphic file (type png)
 <use Imagenes/3/SpectraProIn.png>
 Package pdftex.def Info: Imagenes/3/SpectraProIn.png  used on input line 16.
@@ -1352,17 +1344,17 @@ Package pdftex.def Info: Imagenes/3/SpectraProIn.png  used on input line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/3/baseRed.png, id=827, 788.9475pt x 788.9475pt>
+<Imagenes/3/baseRed.png, id=816, 788.9475pt x 788.9475pt>
 File: Imagenes/3/baseRed.png Graphic file (type png)
 <use Imagenes/3/baseRed.png>
 Package pdftex.def Info: Imagenes/3/baseRed.png  used on input line 24.
 (pdftex.def)             Requested size: 128.02788pt x 128.0374pt.
-<Imagenes/3/redDifra_in.png, id=828, 788.9475pt x 788.9475pt>
+<Imagenes/3/redDifra_in.png, id=817, 788.9475pt x 788.9475pt>
 File: Imagenes/3/redDifra_in.png Graphic file (type png)
 <use Imagenes/3/redDifra_in.png>
 Package pdftex.def Info: Imagenes/3/redDifra_in.png  used on input line 25.
 (pdftex.def)             Requested size: 128.02788pt x 128.0374pt.
-[31
+[29
 
 
 
@@ -1374,211 +1366,212 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 31.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 31.
 
 Missing character: There is no ° in font zptmcm7t!
+
+Underfull \hbox (badness 2057) in paragraph at lines 35--39
+\T1/ptm/m/n/12 Dado que $\OML/ztmcm/m/it/12 e$ \T1/ptm/m/n/12 siem-pre se-rá me
+-nor que $\OML/ztmcm/m/it/12 Z$\T1/ptm/m/n/12 , es-te arre-glo fun-cio-na co-mo
+ un re-duc-tor de ve-lo-ci-dad. //
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
+
+ []
+
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+[30 <./Imagenes/3/SpectraPro.png> <./Imagenes/3/SpectraProIn.png> <./Imagenes/3
+/baseRed.png> <./Imagenes/3/redDifra_in.png>]
 <Imagenes/3/baseRedes.png, id=837, 496.85625pt x 451.6875pt>
 File: Imagenes/3/baseRedes.png Graphic file (type png)
 <use Imagenes/3/baseRedes.png>
-Package pdftex.def Info: Imagenes/3/baseRedes.png  used on input line 40.
+Package pdftex.def Info: Imagenes/3/baseRedes.png  used on input line 42.
 (pdftex.def)             Requested size: 212.70956pt x 169.01201pt.
-LaTeX Info: Redefining \. on input line 43.
-LaTeX Info: Redefining \% on input line 43.
-[32 <./Imagenes/3/SpectraPro.png> <./Imagenes/3/SpectraProIn.png> <./Imagenes/3
-/baseRed.png> <./Imagenes/3/redDifra_in.png>]
-<Imagenes/3/tornillo.png, id=850, 591.71063pt x 591.71063pt>
+<Imagenes/3/tornillo.png, id=838, 591.71063pt x 591.71063pt>
 File: Imagenes/3/tornillo.png Graphic file (type png)
 <use Imagenes/3/tornillo.png>
-Package pdftex.def Info: Imagenes/3/tornillo.png  used on input line 46.
+Package pdftex.def Info: Imagenes/3/tornillo.png  used on input line 48.
 (pdftex.def)             Requested size: 142.25722pt x 142.26378pt.
-<Imagenes/3/tornillo_base.png, id=851, 591.71063pt x 591.71063pt>
+<Imagenes/3/tornillo_base.png, id=839, 591.71063pt x 591.71063pt>
 File: Imagenes/3/tornillo_base.png Graphic file (type png)
 <use Imagenes/3/tornillo_base.png>
-Package pdftex.def Info: Imagenes/3/tornillo_base.png  used on input line 48.
+Package pdftex.def Info: Imagenes/3/tornillo_base.png  used on input line 50.
 (pdftex.def)             Requested size: 142.25722pt x 142.26378pt.
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
- [33 <./Imagenes/3/baseRedes.png> <./Imagenes/3/tornillo.png> <./Imagenes/3/tor
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+ [31 <./Imagenes/3/baseRedes.png> <./Imagenes/3/tornillo.png> <./Imagenes/3/tor
 nillo_base.png>]
-<Imagenes/3/Encoder.png, id=862, 534.49687pt x 267.24844pt>
+<Imagenes/3/Encoder.png, id=850, 534.49687pt x 267.24844pt>
 File: Imagenes/3/Encoder.png Graphic file (type png)
 <use Imagenes/3/Encoder.png>
-Package pdftex.def Info: Imagenes/3/Encoder.png  used on input line 79.
+Package pdftex.def Info: Imagenes/3/Encoder.png  used on input line 81.
 (pdftex.def)             Requested size: 425.42723pt x 212.72247pt.
-LaTeX Info: Redefining \. on input line 89.
-LaTeX Info: Redefining \% on input line 89.
- [34 <./Imagenes/3/Encoder.PNG>]
-<Imagenes/3/Inverter.png, id=873, 268.75406pt x 186.6975pt>
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+ [32 <./Imagenes/3/Encoder.PNG>]
+<Imagenes/3/Inverter.png, id=862, 268.75406pt x 186.6975pt>
 File: Imagenes/3/Inverter.png Graphic file (type png)
 <use Imagenes/3/Inverter.png>
-Package pdftex.def Info: Imagenes/3/Inverter.png  used on input line 95.
+Package pdftex.def Info: Imagenes/3/Inverter.png  used on input line 97.
 (pdftex.def)             Requested size: 163.83311pt x 113.81102pt.
-<Imagenes/3/Cables.png, id=874, 155.83218pt x 146.04562pt>
+<Imagenes/3/Cables.png, id=863, 155.83218pt x 146.04562pt>
 File: Imagenes/3/Cables.png Graphic file (type png)
 <use Imagenes/3/Cables.png>
-Package pdftex.def Info: Imagenes/3/Cables.png  used on input line 96.
+Package pdftex.def Info: Imagenes/3/Cables.png  used on input line 98.
 (pdftex.def)             Requested size: 121.4416pt x 113.81102pt.
-<Imagenes/3/Emitter.png, id=876, 142.28156pt x 99.37125pt>
+<Imagenes/3/Emitter.png, id=865, 142.28156pt x 99.37125pt>
 File: Imagenes/3/Emitter.png Graphic file (type png)
 <use Imagenes/3/Emitter.png>
-Package pdftex.def Info: Imagenes/3/Emitter.png  used on input line 103.
+Package pdftex.def Info: Imagenes/3/Emitter.png  used on input line 105.
 (pdftex.def)             Requested size: 122.2208pt x 85.35826pt.
-<Imagenes/3/Emitter2.png, id=877, 122.70844pt x 121.95563pt>
+<Imagenes/3/Emitter2.png, id=866, 122.70844pt x 121.95563pt>
 File: Imagenes/3/Emitter2.png Graphic file (type png)
 <use Imagenes/3/Emitter2.png>
-Package pdftex.def Info: Imagenes/3/Emitter2.png  used on input line 104.
+Package pdftex.def Info: Imagenes/3/Emitter2.png  used on input line 106.
 (pdftex.def)             Requested size: 85.88594pt x 85.35826pt.
-<Imagenes/3/51.png, id=878, 215.30438pt x 130.98938pt>
+<Imagenes/3/51.png, id=867, 215.30438pt x 130.98938pt>
 File: Imagenes/3/51.png Graphic file (type png)
 <use Imagenes/3/51.png>
-Package pdftex.def Info: Imagenes/3/51.png  used on input line 105.
+Package pdftex.def Info: Imagenes/3/51.png  used on input line 107.
 (pdftex.def)             Requested size: 140.30428pt x 85.35826pt.
-<Imagenes/3/Encoder_01.jpg, id=880, 722.7pt x 542.025pt>
+<Imagenes/3/Encoder_01.jpg, id=869, 722.7pt x 542.025pt>
 File: Imagenes/3/Encoder_01.jpg Graphic file (type jpg)
 <use Imagenes/3/Encoder_01.jpg>
-Package pdftex.def Info: Imagenes/3/Encoder_01.jpg  used on input line 111.
+Package pdftex.def Info: Imagenes/3/Encoder_01.jpg  used on input line 113.
 (pdftex.def)             Requested size: 372.24428pt x 199.1649pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/3/GUI_01.png, id=883, 499.8675pt x 476.53032pt>
+<Imagenes/3/GUI_01.png, id=872, 499.8675pt x 476.53032pt>
 File: Imagenes/3/GUI_01.png Graphic file (type png)
 <use Imagenes/3/GUI_01.png>
-Package pdftex.def Info: Imagenes/3/GUI_01.png  used on input line 122.
-(pdftex.def)             Requested size: 425.42723pt x 405.58348pt.
+Package pdftex.def Info: Imagenes/3/GUI_01.png  used on input line 124.
+(pdftex.def)             Requested size: 425.44617pt x 284.53886pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Info: Redefining \. on input line 131.
-LaTeX Info: Redefining \% on input line 131.
-[35 <./Imagenes/3/Inverter.PNG> <./Imagenes/3/Cables.PNG> <./Imagenes/3/Emitter
+LaTeX Info: Redefining \. on input line 133.
+LaTeX Info: Redefining \% on input line 133.
+[33 <./Imagenes/3/Inverter.PNG> <./Imagenes/3/Cables.PNG> <./Imagenes/3/Emitter
 .PNG> <./Imagenes/3/Emitter2.PNG> <./Imagenes/3/51.PNG>]
-<Imagenes/3/10s30khz-02.jpg, id=902, 415.5525pt x 313.17pt>
+LaTeX Info: Redefining \. on input line 133.
+LaTeX Info: Redefining \% on input line 133.
+ [34 <./Imagenes/3/Encoder_01.jpg> <./Imagenes/3/GUI_01.PNG>]
+<Imagenes/3/10s30khz-02.jpg, id=896, 415.5525pt x 313.17pt>
 File: Imagenes/3/10s30khz-02.jpg Graphic file (type jpg)
 <use Imagenes/3/10s30khz-02.jpg>
-Package pdftex.def Info: Imagenes/3/10s30khz-02.jpg  used on input line 136.
+Package pdftex.def Info: Imagenes/3/10s30khz-02.jpg  used on input line 138.
 (pdftex.def)             Requested size: 239.30028pt x 180.34372pt.
-<Imagenes/3/LEDQE65.png, id=903, 386.19281pt x 306.39468pt>
+<Imagenes/3/LEDQE65.png, id=897, 386.19281pt x 306.39468pt>
 File: Imagenes/3/LEDQE65.png Graphic file (type png)
 <use Imagenes/3/LEDQE65.png>
-Package pdftex.def Info: Imagenes/3/LEDQE65.png  used on input line 137.
+Package pdftex.def Info: Imagenes/3/LEDQE65.png  used on input line 139.
 (pdftex.def)             Requested size: 239.30028pt x 189.85521pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/3/LED99Muestras.png, id=904, 383.18156pt x 292.84406pt>
+<Imagenes/3/LED99Muestras.png, id=898, 383.18156pt x 292.84406pt>
 File: Imagenes/3/LED99Muestras.png Graphic file (type png)
 <use Imagenes/3/LED99Muestras.png>
-Package pdftex.def Info: Imagenes/3/LED99Muestras.png  used on input line 144.
+Package pdftex.def Info: Imagenes/3/LED99Muestras.png  used on input line 146.
 (pdftex.def)             Requested size: 478.6308pt x 170.72101pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/3/Mercuriolineas.png, id=906, 648.17157pt x 307.1475pt>
+LaTeX Info: Redefining \. on input line 153.
+LaTeX Info: Redefining \% on input line 153.
+ [35 <./Imagenes/3/10s30khz-02.jpg> <./Imagenes/3/LEDQE65.PNG> <./Imagenes/3/LE
+D99Muestras.PNG>]
+<Imagenes/3/Mercuriolineas.png, id=908, 648.17157pt x 307.1475pt>
 File: Imagenes/3/Mercuriolineas.png Graphic file (type png)
 <use Imagenes/3/Mercuriolineas.png>
-Package pdftex.def Info: Imagenes/3/Mercuriolineas.png  used on input line 154.
+Package pdftex.def Info: Imagenes/3/Mercuriolineas.png  used on input line 156.
 
 (pdftex.def)             Requested size: 425.43077pt x 142.26439pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Info: Redefining \. on input line 160.
-LaTeX Info: Redefining \% on input line 160.
-[36 <./Imagenes/3/Encoder_01.jpg>]
-<Imagenes/3/Hg-04-m99-50pps.png, id=915, 415.5525pt x 313.17pt>
+<Imagenes/3/Hg-04-m99-50pps.png, id=913, 415.5525pt x 313.17pt>
 File: Imagenes/3/Hg-04-m99-50pps.png Graphic file (type png)
 <use Imagenes/3/Hg-04-m99-50pps.png>
-Package pdftex.def Info: Imagenes/3/Hg-04-m99-50pps.png  used on input line 163
+Package pdftex.def Info: Imagenes/3/Hg-04-m99-50pps.png  used on input line 165
 .
 (pdftex.def)             Requested size: 255.25574pt x 142.26797pt.
-<Imagenes/3/mercuriozoom.png, id=916, 432.86719pt x 253.69781pt>
+<Imagenes/3/mercuriozoom.png, id=914, 432.86719pt x 253.69781pt>
 File: Imagenes/3/mercuriozoom.png Graphic file (type png)
 <use Imagenes/3/mercuriozoom.png>
-Package pdftex.def Info: Imagenes/3/mercuriozoom.png  used on input line 164.
+Package pdftex.def Info: Imagenes/3/mercuriozoom.png  used on input line 166.
 (pdftex.def)             Requested size: 255.25072pt x 128.0409pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/3/emisionHgLibro.png, id=920, 852.18375pt x 445.665pt>
+<Imagenes/3/emisionHgLibro.png, id=918, 852.18375pt x 445.665pt>
 File: Imagenes/3/emisionHgLibro.png Graphic file (type png)
 <use Imagenes/3/emisionHgLibro.png>
-Package pdftex.def Info: Imagenes/3/emisionHgLibro.png  used on input line 174.
+Package pdftex.def Info: Imagenes/3/emisionHgLibro.png  used on input line 176.
 
 (pdftex.def)             Requested size: 478.611pt x 142.26208pt.
-<Imagenes/3/ms1-r.png, id=925, 397.485pt x 306.39468pt>
+LaTeX Info: Redefining \. on input line 185.
+LaTeX Info: Redefining \% on input line 185.
+ [36 <./Imagenes/3/Mercuriolineas.PNG> <./Imagenes/3/Hg-04-m99-50pps.png> <./Im
+agenes/3/mercuriozoom.PNG>]
+<Imagenes/3/ms1-r.png, id=932, 397.485pt x 306.39468pt>
 File: Imagenes/3/ms1-r.png Graphic file (type png)
 <use Imagenes/3/ms1-r.png>
-Package pdftex.def Info: Imagenes/3/ms1-r.png  used on input line 194.
+Package pdftex.def Info: Imagenes/3/ms1-r.png  used on input line 196.
 (pdftex.def)             Requested size: 239.30556pt x 99.58176pt.
-<Imagenes/3/ms1-z.png, id=926, 380.92313pt x 304.88907pt>
+<Imagenes/3/ms1-z.png, id=933, 380.92313pt x 304.88907pt>
 File: Imagenes/3/ms1-z.png Graphic file (type png)
 <use Imagenes/3/ms1-z.png>
-Package pdftex.def Info: Imagenes/3/ms1-z.png  used on input line 195.
+Package pdftex.def Info: Imagenes/3/ms1-z.png  used on input line 197.
 (pdftex.def)             Requested size: 239.29697pt x 99.58556pt.
-LaTeX Info: Redefining \. on input line 198.
-LaTeX Info: Redefining \% on input line 198.
-[37 <./Imagenes/3/GUI_01.PNG>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/3/medi1.png, id=935, 863.47594pt x 455.45157pt>
+<Imagenes/3/medi1.png, id=937, 863.47594pt x 455.45157pt>
 File: Imagenes/3/medi1.png Graphic file (type png)
 <use Imagenes/3/medi1.png>
-Package pdftex.def Info: Imagenes/3/medi1.png  used on input line 220.
+Package pdftex.def Info: Imagenes/3/medi1.png  used on input line 222.
 (pdftex.def)             Requested size: 212.70631pt x 85.35526pt.
-<Imagenes/3/medi10-z.png, id=936, 865.73438pt x 438.13687pt>
+<Imagenes/3/medi10-z.png, id=938, 865.73438pt x 438.13687pt>
 File: Imagenes/3/medi10-z.png Graphic file (type png)
 <use Imagenes/3/medi10-z.png>
-Package pdftex.def Info: Imagenes/3/medi10-z.png  used on input line 223.
+Package pdftex.def Info: Imagenes/3/medi10-z.png  used on input line 225.
 (pdftex.def)             Requested size: 212.70784pt x 85.35277pt.
-<Imagenes/3/medi10-p.png, id=937, 844.65562pt x 452.4403pt>
+<Imagenes/3/medi10-p.png, id=939, 844.65562pt x 452.4403pt>
 File: Imagenes/3/medi10-p.png Graphic file (type png)
 <use Imagenes/3/medi10-p.png>
-Package pdftex.def Info: Imagenes/3/medi10-p.png  used on input line 225.
+Package pdftex.def Info: Imagenes/3/medi10-p.png  used on input line 227.
 (pdftex.def)             Requested size: 372.25537pt x 85.35703pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Info: Redefining \. on input line 252.
-LaTeX Info: Redefining \% on input line 252.
-[38 <./Imagenes/3/10s30khz-02.jpg> <./Imagenes/3/LEDQE65.PNG> <./Imagenes/3/LED
-99Muestras.PNG>]
-<Imagenes/3/picos14.png, id=949, 858.20625pt x 422.32782pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 254.
+LaTeX Info: Redefining \% on input line 254.
+[37 <./Imagenes/3/emisionHgLibro.PNG> <./Imagenes/3/ms1-r.PNG> <./Imagenes/3/ms
+1-z.PNG>]
+<Imagenes/3/picos14.png, id=951, 858.20625pt x 422.32782pt>
 File: Imagenes/3/picos14.png Graphic file (type png)
 <use Imagenes/3/picos14.png>
-Package pdftex.def Info: Imagenes/3/picos14.png  used on input line 255.
+Package pdftex.def Info: Imagenes/3/picos14.png  used on input line 257.
 (pdftex.def)             Requested size: 478.60176pt x 128.0397pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/3/pasosError.png, id=951, 851.43094pt x 459.21562pt>
+<Imagenes/3/pasosError.png, id=953, 851.43094pt x 459.21562pt>
 File: Imagenes/3/pasosError.png Graphic file (type png)
 <use Imagenes/3/pasosError.png>
-Package pdftex.def Info: Imagenes/3/pasosError.png  used on input line 265.
+Package pdftex.def Info: Imagenes/3/pasosError.png  used on input line 267.
 (pdftex.def)             Requested size: 425.4286pt x 113.80861pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/3/espectroHgnor.png, id=954, 843.90282pt x 453.94594pt>
+<Imagenes/3/espectroHgnor.png, id=956, 843.90282pt x 453.94594pt>
 File: Imagenes/3/espectroHgnor.png Graphic file (type png)
 <use Imagenes/3/espectroHgnor.png>
-Package pdftex.def Info: Imagenes/3/espectroHgnor.png  used on input line 282.
+Package pdftex.def Info: Imagenes/3/espectroHgnor.png  used on input line 284.
 (pdftex.def)             Requested size: 239.29149pt x 113.81175pt.
-<Imagenes/3/espectroHgSistema.png, id=955, 385.44pt x 306.39468pt>
+<Imagenes/3/espectroHgSistema.png, id=957, 385.44pt x 306.39468pt>
 File: Imagenes/3/espectroHgSistema.png Graphic file (type png)
 <use Imagenes/3/espectroHgSistema.png>
 Package pdftex.def Info: Imagenes/3/espectroHgSistema.png  used on input line 2
-83.
+85.
 (pdftex.def)             Requested size: 239.29968pt x 113.8084pt.
-<Imagenes/3/HgFiltro.png, id=956, 848.4197pt x 456.20438pt>
+<Imagenes/3/HgFiltro.png, id=958, 848.4197pt x 456.20438pt>
 File: Imagenes/3/HgFiltro.png Graphic file (type png)
 <use Imagenes/3/HgFiltro.png>
-Package pdftex.def Info: Imagenes/3/HgFiltro.png  used on input line 289.
+Package pdftex.def Info: Imagenes/3/HgFiltro.png  used on input line 291.
 (pdftex.def)             Requested size: 398.83499pt x 142.25722pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1586,217 +1579,204 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Info: Redefining \. on input line 306.
-LaTeX Info: Redefining \% on input line 306.
-[39 <./Imagenes/3/Mercuriolineas.PNG> <./Imagenes/3/Hg-04-m99-50pps.png> <./Ima
-genes/3/mercuriozoom.PNG>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/3/curving.png, id=968, 871.75688pt x 521.69907pt>
+LaTeX Info: Redefining \. on input line 308.
+LaTeX Info: Redefining \% on input line 308.
+[38 <./Imagenes/3/medi1.PNG> <./Imagenes/3/medi10-z.PNG> <./Imagenes/3/medi10-p
+.PNG>]
+<Imagenes/3/curving.png, id=972, 871.75688pt x 521.69907pt>
 File: Imagenes/3/curving.png Graphic file (type png)
 <use Imagenes/3/curving.png>
-Package pdftex.def Info: Imagenes/3/curving.png  used on input line 329.
+Package pdftex.def Info: Imagenes/3/curving.png  used on input line 331.
 (pdftex.def)             Requested size: 531.78423pt x 256.0726pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Overfull \hbox (4.54726pt too wide) in paragraph at lines 345--345
+LaTeX Info: Redefining \. on input line 336.
+LaTeX Info: Redefining \% on input line 336.
+[39 <./Imagenes/3/picos14.PNG> <./Imagenes/3/pasosError.PNG>]
+Overfull \hbox (4.54726pt too wide) in paragraph at lines 347--347
 []\T1/ptm/m/n/12 0.9828| 
  []
 
 
-Overfull \hbox (4.8567pt too wide) in paragraph at lines 345--345
+Overfull \hbox (4.8567pt too wide) in paragraph at lines 347--347
 []\T1/ptm/m/n/12 15.5674| 
  []
 
-LaTeX Info: Redefining \. on input line 362.
-LaTeX Info: Redefining \% on input line 362.
-[40 <./Imagenes/3/emisionHgLibro.PNG> <./Imagenes/3/ms1-r.PNG> <./Imagenes/3/ms
-1-z.PNG>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--376
+Underfull \hbox (badness 10000) in paragraph at lines 371--378
 
  []
 
-LaTeX Info: Redefining \. on input line 379.
-LaTeX Info: Redefining \% on input line 379.
-[41 <./Imagenes/3/medi1.PNG> <./Imagenes/3/medi10-z.PNG> <./Imagenes/3/medi10-p
-.PNG>]
-Underfull \hbox (badness 1033) in paragraph at lines 389--389
+LaTeX Info: Redefining \. on input line 378.
+LaTeX Info: Redefining \% on input line 378.
+[40 <./Imagenes/3/espectroHgnor.PNG> <./Imagenes/3/espectroHgSistema.PNG> <./Im
+agenes/3/HgFiltro.PNG>]
+LaTeX Info: Redefining \. on input line 384.
+LaTeX Info: Redefining \% on input line 384.
+ [41 <./Imagenes/3/curving.png>]
+Underfull \hbox (badness 1033) in paragraph at lines 391--391
 []\T1/ptm/m/n/12 lámpara de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--389
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
 []\T1/ptm/m/n/12 Ajuste de
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 389--389
+Underfull \hbox (badness 1033) in paragraph at lines 391--391
 []\T1/ptm/m/n/12 lámpara de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--389
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
 []\T1/ptm/m/n/12 Ajuste de
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/3/compararLP.png, id=994, 846.91406pt x 428.35031pt>
+<Imagenes/3/compararLP.png, id=1000, 846.91406pt x 428.35031pt>
 File: Imagenes/3/compararLP.png Graphic file (type png)
 <use Imagenes/3/compararLP.png>
-Package pdftex.def Info: Imagenes/3/compararLP.png  used on input line 408.
+Package pdftex.def Info: Imagenes/3/compararLP.png  used on input line 410.
 (pdftex.def)             Requested size: 531.80118pt x 184.94522pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Imagenes/3/LabViewMedir.png, id=996, 469.00218pt x 373.395pt>
+<Imagenes/3/LabViewMedir.png, id=1002, 469.00218pt x 373.395pt>
 File: Imagenes/3/LabViewMedir.png Graphic file (type png)
 <use Imagenes/3/LabViewMedir.png>
-Package pdftex.def Info: Imagenes/3/LabViewMedir.png  used on input line 415.
+Package pdftex.def Info: Imagenes/3/LabViewMedir.png  used on input line 417.
 (pdftex.def)             Requested size: 478.59775pt x 170.71544pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/3/LedAma10B.png, id=998, 522.6262pt x 411.55862pt>
+<Imagenes/3/LedAma10B.png, id=1004, 522.6262pt x 411.55862pt>
 File: Imagenes/3/LedAma10B.png Graphic file (type png)
 <use Imagenes/3/LedAma10B.png>
-Package pdftex.def Info: Imagenes/3/LedAma10B.png  used on input line 426.
+Package pdftex.def Info: Imagenes/3/LedAma10B.png  used on input line 428.
 (pdftex.def)             Requested size: 255.25972pt x 113.81009pt.
-<Imagenes/3/LedAmaB12.png, id=999, 649.67719pt x 456.95718pt>
+<Imagenes/3/LedAmaB12.png, id=1005, 649.67719pt x 456.95718pt>
 File: Imagenes/3/LedAmaB12.png Graphic file (type png)
 <use Imagenes/3/LedAmaB12.png>
-Package pdftex.def Info: Imagenes/3/LedAmaB12.png  used on input line 427.
+Package pdftex.def Info: Imagenes/3/LedAmaB12.png  used on input line 429.
 (pdftex.def)             Requested size: 255.24669pt x 113.8067pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Info: Redefining \. on input line 433.
-LaTeX Info: Redefining \% on input line 433.
-[42 <./Imagenes/3/picos14.PNG> <./Imagenes/3/pasosError.PNG>]
-<Imagenes/3/PMTsen.png, id=1011, 416.30531pt x 170.88844pt>
+LaTeX Info: Redefining \. on input line 435.
+LaTeX Info: Redefining \% on input line 435.
+[42 <./Imagenes/3/compararLP.png>]
+<Imagenes/3/PMTsen.png, id=1015, 416.30531pt x 170.88844pt>
 File: Imagenes/3/PMTsen.png Graphic file (type png)
 <use Imagenes/3/PMTsen.png>
-Package pdftex.def Info: Imagenes/3/PMTsen.png  used on input line 439.
+Package pdftex.def Info: Imagenes/3/PMTsen.png  used on input line 441.
 (pdftex.def)             Requested size: 478.60057pt x 196.47063pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/3/ADCp1.png, id=1018, 403.5075pt x 313.17pt>
+LaTeX Info: Redefining \. on input line 446.
+LaTeX Info: Redefining \% on input line 446.
+[43 <./Imagenes/3/LabViewMedir.png> <./Imagenes/3/LedAma10B.png> <./Imagenes/3/
+LedAmaB12.png>]
+<Imagenes/3/ADCp1.png, id=1035, 403.5075pt x 313.17pt>
 File: Imagenes/3/ADCp1.png Graphic file (type png)
 <use Imagenes/3/ADCp1.png>
-Package pdftex.def Info: Imagenes/3/ADCp1.png  used on input line 447.
+Package pdftex.def Info: Imagenes/3/ADCp1.png  used on input line 449.
 (pdftex.def)             Requested size: 255.2516pt x 113.81151pt.
-<Imagenes/3/ADCpSTD.png, id=1019, 392.96812pt x 308.65312pt>
+<Imagenes/3/ADCpSTD.png, id=1036, 392.96812pt x 308.65312pt>
 File: Imagenes/3/ADCpSTD.png Graphic file (type png)
 <use Imagenes/3/ADCpSTD.png>
-Package pdftex.def Info: Imagenes/3/ADCpSTD.png  used on input line 449.
+Package pdftex.def Info: Imagenes/3/ADCpSTD.png  used on input line 451.
 (pdftex.def)             Requested size: 255.25835pt x 113.80896pt.
-<Imagenes/3/ADCpdifz.png, id=1020, 502.12593pt x 283.0575pt>
+<Imagenes/3/ADCpdifz.png, id=1037, 502.12593pt x 283.0575pt>
 File: Imagenes/3/ADCpdifz.png Graphic file (type png)
 <use Imagenes/3/ADCpdifz.png>
-Package pdftex.def Info: Imagenes/3/ADCpdifz.png  used on input line 450.
+Package pdftex.def Info: Imagenes/3/ADCpdifz.png  used on input line 452.
 (pdftex.def)             Requested size: 255.25336pt x 113.80838pt.
-<Imagenes/3/ADCpdif.png, id=1021, 405.01312pt x 311.66437pt>
+<Imagenes/3/ADCpdif.png, id=1038, 405.01312pt x 311.66437pt>
 File: Imagenes/3/ADCpdif.png Graphic file (type png)
 <use Imagenes/3/ADCpdif.png>
-Package pdftex.def Info: Imagenes/3/ADCpdif.png  used on input line 451.
+Package pdftex.def Info: Imagenes/3/ADCpdif.png  used on input line 453.
 (pdftex.def)             Requested size: 255.25848pt x 113.81123pt.
-LaTeX Info: Redefining \. on input line 459.
-LaTeX Info: Redefining \% on input line 459.
-[43 <./Imagenes/3/espectroHgnor.PNG> <./Imagenes/3/espectroHgSistema.PNG> <./Im
-agenes/3/HgFiltro.PNG>]
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Imagenes/3/Hg02.png, id=1037, 432.11438pt x 331.99031pt>
+<Imagenes/3/Hg02.png, id=1041, 432.11438pt x 331.99031pt>
 File: Imagenes/3/Hg02.png Graphic file (type png)
 <use Imagenes/3/Hg02.png>
-Package pdftex.def Info: Imagenes/3/Hg02.png  used on input line 463.
+Package pdftex.def Info: Imagenes/3/Hg02.png  used on input line 465.
 (pdftex.def)             Requested size: 255.25516pt x 113.81236pt.
-<Imagenes/3/Hg05.png, id=1038, 557.83406pt x 292.09125pt>
+<Imagenes/3/Hg05.png, id=1042, 557.83406pt x 292.09125pt>
 File: Imagenes/3/Hg05.png Graphic file (type png)
 <use Imagenes/3/Hg05.png>
-Package pdftex.def Info: Imagenes/3/Hg05.png  used on input line 466.
+Package pdftex.def Info: Imagenes/3/Hg05.png  used on input line 468.
 (pdftex.def)             Requested size: 255.25339pt x 113.8126pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Info: Redefining \. on input line 470.
-LaTeX Info: Redefining \% on input line 470.
-[44 <./Imagenes/3/curving.png>]
-<Imagenes/3/pmt_sen.png, id=1047, 462.22687pt x 472.01344pt>
+LaTeX Info: Redefining \. on input line 472.
+LaTeX Info: Redefining \% on input line 472.
+[44 <./Imagenes/3/PMTsen.PNG>]
+<Imagenes/3/pmt_sen.png, id=1051, 462.22687pt x 472.01344pt>
 File: Imagenes/3/pmt_sen.png Graphic file (type png)
 <use Imagenes/3/pmt_sen.png>
-Package pdftex.def Info: Imagenes/3/pmt_sen.png  used on input line 476.
+Package pdftex.def Info: Imagenes/3/pmt_sen.png  used on input line 478.
 (pdftex.def)             Requested size: 212.71158pt x 113.81131pt.
-<Imagenes/3/redEfi.png, id=1048, 455.45157pt x 341.02406pt>
+<Imagenes/3/redEfi.png, id=1052, 455.45157pt x 341.02406pt>
 File: Imagenes/3/redEfi.png Graphic file (type png)
 <use Imagenes/3/redEfi.png>
-Package pdftex.def Info: Imagenes/3/redEfi.png  used on input line 477.
+Package pdftex.def Info: Imagenes/3/redEfi.png  used on input line 479.
 (pdftex.def)             Requested size: 212.71404pt x 113.81316pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/3/lamparaTH_DPNG.png, id=1056, 862.72313pt x 511.9125pt>
+<Imagenes/3/lamparaTH_DPNG.png, id=1060, 862.72313pt x 511.9125pt>
 File: Imagenes/3/lamparaTH_DPNG.png Graphic file (type png)
 <use Imagenes/3/lamparaTH_DPNG.png>
-Package pdftex.def Info: Imagenes/3/lamparaTH_DPNG.png  used on input line 486.
+Package pdftex.def Info: Imagenes/3/lamparaTH_DPNG.png  used on input line 488.
 
 (pdftex.def)             Requested size: 531.80241pt x 170.71259pt.
-<Imagenes/3/lamparaTH.png, id=1059, 397.485pt x 313.17pt>
+<Imagenes/3/lamparaTH.png, id=1063, 397.485pt x 313.17pt>
 File: Imagenes/3/lamparaTH.png Graphic file (type png)
 <use Imagenes/3/lamparaTH.png>
-Package pdftex.def Info: Imagenes/3/lamparaTH.png  used on input line 492.
+Package pdftex.def Info: Imagenes/3/lamparaTH.png  used on input line 494.
 (pdftex.def)             Requested size: 531.83867pt x 170.71965pt.
-)
+LaTeX Info: Redefining \. on input line 498.
+LaTeX Info: Redefining \% on input line 498.
+[45 <./Imagenes/3/ADCp1.PNG> <./Imagenes/3/ADCpSTD.PNG> <./Imagenes/3/ADCpdifz.
+PNG> <./Imagenes/3/ADCpdif.PNG> <./Imagenes/3/Hg02.png> <./Imagenes/3/Hg05.png>
+])
 LaTeX Info: Redefining \. on input line 69.
 LaTeX Info: Redefining \% on input line 69.
- [45]
+ [46 <./Imagenes/3/pmt_sen.PNG> <./Imagenes/3/redEfi.png> <./Imagenes/3/lampara
+TH_DPNG.PNG>]
 LaTeX Info: Redefining \. on input line 69.
 LaTeX Info: Redefining \% on input line 69.
- [46 <./Imagenes/3/compararLP.png> <./Imagenes/3/LabViewMedir.png> <./Imagenes/
-3/LedAma10B.png> <./Imagenes/3/LedAmaB12.png>]
-LaTeX Info: Redefining \. on input line 69.
-LaTeX Info: Redefining \% on input line 69.
- [47 <./Imagenes/3/PMTsen.PNG> <./Imagenes/3/ADCp1.PNG> <./Imagenes/3/ADCpSTD.P
-NG> <./Imagenes/3/ADCpdifz.PNG> <./Imagenes/3/ADCpdif.PNG>]
-LaTeX Info: Redefining \. on input line 69.
-LaTeX Info: Redefining \% on input line 69.
- [48 <./Imagenes/3/Hg02.png> <./Imagenes/3/Hg05.png> <./Imagenes/3/pmt_sen.PNG>
- <./Imagenes/3/redEfi.png> <./Imagenes/3/lamparaTH_DPNG.PNG>]
-LaTeX Info: Redefining \. on input line 69.
-LaTeX Info: Redefining \% on input line 69.
- [49 <./Imagenes/3/lamparaTH.PNG>]
+ [47 <./Imagenes/3/lamparaTH.PNG>]
 \openout2 = `Chapters/Capitulo4.aux'.
 
  (./Chapters/Capitulo4.tex
 Cap\'{\i }tulo 4
-<Imagenes/4/HR4000_4ms.png, id=1107, 866.48718pt x 349.305pt>
+<Imagenes/4/HR4000_4ms.png, id=1096, 866.48718pt x 349.305pt>
 File: Imagenes/4/HR4000_4ms.png Graphic file (type png)
 <use Imagenes/4/HR4000_4ms.png>
 Package pdftex.def Info: Imagenes/4/HR4000_4ms.png  used on input line 5.
 (pdftex.def)             Requested size: 478.60553pt x 142.2619pt.
-<Imagenes/4/HR4000_100ms.png, id=1108, 827.34094pt x 335.00156pt>
+<Imagenes/4/HR4000_100ms.png, id=1097, 827.34094pt x 335.00156pt>
 File: Imagenes/4/HR4000_100ms.png Graphic file (type png)
 <use Imagenes/4/HR4000_100ms.png>
 Package pdftex.def Info: Imagenes/4/HR4000_100ms.png  used on input line 7.
 (pdftex.def)             Requested size: 478.60829pt x 142.26387pt.
-<Imagenes/4/QE65000_8msHg.png, id=1110, 868.74562pt x 366.61969pt>
+<Imagenes/4/QE65000_8msHg.png, id=1099, 868.74562pt x 366.61969pt>
 File: Imagenes/4/QE65000_8msHg.png Graphic file (type png)
 <use Imagenes/4/QE65000_8msHg.png>
 Package pdftex.def Info: Imagenes/4/QE65000_8msHg.png  used on input line 16.
 (pdftex.def)             Requested size: 478.60693pt x 128.0391pt.
-<Imagenes/4/QE65000_100msHg.png, id=1111, 857.45343pt x 360.59718pt>
+<Imagenes/4/QE65000_100msHg.png, id=1100, 857.45343pt x 360.59718pt>
 File: Imagenes/4/QE65000_100msHg.png Graphic file (type png)
 <use Imagenes/4/QE65000_100msHg.png>
 Package pdftex.def Info: Imagenes/4/QE65000_100msHg.png  used on input line 18.
@@ -1805,7 +1785,7 @@ Package pdftex.def Info: Imagenes/4/QE65000_100msHg.png  used on input line 18.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Imagenes/4/spectra100.png, id=1113, 575.14874pt x 291.33844pt>
+<Imagenes/4/spectra100.png, id=1102, 575.14874pt x 291.33844pt>
 File: Imagenes/4/spectra100.png Graphic file (type png)
 <use Imagenes/4/spectra100.png>
 Package pdftex.def Info: Imagenes/4/spectra100.png  used on input line 27.
@@ -1813,22 +1793,22 @@ Package pdftex.def Info: Imagenes/4/spectra100.png  used on input line 27.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[50
+[48
 
 
 
  <./Imagenes/4/HR4000_4ms.PNG> <./Imagenes/4/HR4000_100ms.PNG>]
-<Imagenes/4/picosqe.png, id=1126, 602.25pt x 364.36125pt>
+<Imagenes/4/picosqe.png, id=1114, 602.25pt x 364.36125pt>
 File: Imagenes/4/picosqe.png Graphic file (type png)
 <use Imagenes/4/picosqe.png>
 Package pdftex.def Info: Imagenes/4/picosqe.png  used on input line 37.
 (pdftex.def)             Requested size: 255.25905pt x 85.35803pt.
-<Imagenes/4/picoshr.png, id=1127, 685.8122pt x 371.13657pt>
+<Imagenes/4/picoshr.png, id=1115, 685.8122pt x 371.13657pt>
 File: Imagenes/4/picoshr.png Graphic file (type png)
 <use Imagenes/4/picoshr.png>
 Package pdftex.def Info: Imagenes/4/picoshr.png  used on input line 38.
 (pdftex.def)             Requested size: 255.25345pt x 85.35394pt.
-<Imagenes/4/picos2.png, id=1128, 561.59813pt x 295.85532pt>
+<Imagenes/4/picos2.png, id=1116, 561.59813pt x 295.85532pt>
 File: Imagenes/4/picos2.png Graphic file (type png)
 <use Imagenes/4/picos2.png>
 Package pdftex.def Info: Imagenes/4/picos2.png  used on input line 39.
@@ -1837,38 +1817,38 @@ Package pdftex.def Info: Imagenes/4/picos2.png  used on input line 39.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[51 <./Imagenes/4/QE65000_8msHg.PNG> <./Imagenes/4/QE65000_100msHg.PNG> <./Imag
+[49 <./Imagenes/4/QE65000_8msHg.PNG> <./Imagenes/4/QE65000_100msHg.PNG> <./Imag
 enes/4/spectra100.PNG>]
-<Imagenes/4/ls_t.png, id=1140, 222.3507pt x 99.2508pt>
+<Imagenes/4/ls_t.png, id=1128, 222.3507pt x 99.2508pt>
 File: Imagenes/4/ls_t.png Graphic file (type png)
 <use Imagenes/4/ls_t.png>
 Package pdftex.def Info: Imagenes/4/ls_t.png  used on input line 57.
 (pdftex.def)             Requested size: 478.61125pt x 128.03706pt.
-<Imagenes/4/uv380t.png, id=1146, 558.58687pt x 310.15875pt>
+<Imagenes/4/uv380t.png, id=1134, 558.58687pt x 310.15875pt>
 File: Imagenes/4/uv380t.png Graphic file (type png)
 <use Imagenes/4/uv380t.png>
 Package pdftex.def Info: Imagenes/4/uv380t.png  used on input line 65.
 (pdftex.def)             Requested size: 478.61954pt x 128.03671pt.
 LaTeX Info: Redefining \. on input line 69.
 LaTeX Info: Redefining \% on input line 69.
- [52 <./Imagenes/4/picosqe.PNG> <./Imagenes/4/picoshr.PNG> <./Imagenes/4/picos2
+ [50 <./Imagenes/4/picosqe.PNG> <./Imagenes/4/picoshr.PNG> <./Imagenes/4/picos2
 .PNG> <./Imagenes/4/ls_t.png>]
-<Imagenes/4/UV400.png, id=1158, 475.02469pt x 292.84406pt>
+<Imagenes/4/UV400.png, id=1147, 475.02469pt x 292.84406pt>
 File: Imagenes/4/UV400.png Graphic file (type png)
 <use Imagenes/4/UV400.png>
 Package pdftex.def Info: Imagenes/4/UV400.png  used on input line 72.
 (pdftex.def)             Requested size: 255.25555pt x 99.58353pt.
-<Imagenes/4/UV400m.png, id=1159, 399.74344pt x 320.69812pt>
+<Imagenes/4/UV400m.png, id=1148, 399.74344pt x 320.69812pt>
 File: Imagenes/4/UV400m.png Graphic file (type png)
 <use Imagenes/4/UV400m.png>
 Package pdftex.def Info: Imagenes/4/UV400m.png  used on input line 73.
 (pdftex.def)             Requested size: 255.25545pt x 99.58176pt.
-<Imagenes/4/rojot.png, id=1160, 547.2947pt x 319.94531pt>
+<Imagenes/4/rojot.png, id=1149, 547.2947pt x 319.94531pt>
 File: Imagenes/4/rojot.png Graphic file (type png)
 <use Imagenes/4/rojot.png>
 Package pdftex.def Info: Imagenes/4/rojot.png  used on input line 80.
 (pdftex.def)             Requested size: 255.25769pt x 99.58234pt.
-<Imagenes/4/rojom.png, id=1161, 380.92313pt x 298.11375pt>
+<Imagenes/4/rojom.png, id=1150, 380.92313pt x 298.11375pt>
 File: Imagenes/4/rojom.png Graphic file (type png)
 <use Imagenes/4/rojom.png>
 Package pdftex.def Info: Imagenes/4/rojom.png  used on input line 81.
@@ -1877,7 +1857,7 @@ Package pdftex.def Info: Imagenes/4/rojom.png  used on input line 81.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/4/r700.png, id=1162, 529.22719pt x 304.13625pt>
+<Imagenes/4/r700.png, id=1151, 529.22719pt x 304.13625pt>
 File: Imagenes/4/r700.png Graphic file (type png)
 <use Imagenes/4/r700.png>
 Package pdftex.def Info: Imagenes/4/r700.png  used on input line 88.
@@ -1885,40 +1865,40 @@ Package pdftex.def Info: Imagenes/4/r700.png  used on input line 88.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[53 <./Imagenes/4/uv380t.PNG> <./Imagenes/4/UV400.PNG> <./Imagenes/4/UV400m.png
+[51 <./Imagenes/4/uv380t.PNG> <./Imagenes/4/UV400.PNG> <./Imagenes/4/UV400m.png
 >]
 LaTeX Info: Redefining \. on input line 92.
 LaTeX Info: Redefining \% on input line 92.
- [54 <./Imagenes/4/rojot.png> <./Imagenes/4/rojom.png> <./Imagenes/4/r700.png>]
-<Imagenes/4/ls-rojo.png, id=1185, 700.86844pt x 305.64188pt>
+ [52 <./Imagenes/4/rojot.png> <./Imagenes/4/rojom.png> <./Imagenes/4/r700.png>]
+<Imagenes/4/ls-rojo.png, id=1173, 700.86844pt x 305.64188pt>
 File: Imagenes/4/ls-rojo.png Graphic file (type png)
 <use Imagenes/4/ls-rojo.png>
 Package pdftex.def Info: Imagenes/4/ls-rojo.png  used on input line 98.
 (pdftex.def)             Requested size: 478.61617pt x 142.2619pt.
-<Imagenes/4/pasotam.png, id=1186, 655.69969pt x 307.90031pt>
+<Imagenes/4/pasotam.png, id=1174, 655.69969pt x 307.90031pt>
 File: Imagenes/4/pasotam.png Graphic file (type png)
 <use Imagenes/4/pasotam.png>
 Package pdftex.def Info: Imagenes/4/pasotam.png  used on input line 104.
 (pdftex.def)             Requested size: 478.60677pt x 142.26541pt.
- [55
+ [53
 
  <./Imagenes/4/ls-rojo.png> <./Imagenes/4/pasotam.PNG>]
-<Imagenes/4/LS-S-DS.png, id=1197, 581.92406pt x 316.93407pt>
+<Imagenes/4/LS-S-DS.png, id=1186, 581.92406pt x 316.93407pt>
 File: Imagenes/4/LS-S-DS.png Graphic file (type png)
 <use Imagenes/4/LS-S-DS.png>
 Package pdftex.def Info: Imagenes/4/LS-S-DS.png  used on input line 120.
 (pdftex.def)             Requested size: 478.60057pt x 260.66621pt.
-<Imagenes/4/LS-potencia.png, id=1202, 386.19281pt x 307.1475pt>
+<Imagenes/4/LS-potencia.png, id=1191, 386.19281pt x 307.1475pt>
 File: Imagenes/4/LS-potencia.png Graphic file (type png)
 <use Imagenes/4/LS-potencia.png>
 Package pdftex.def Info: Imagenes/4/LS-potencia.png  used on input line 131.
 (pdftex.def)             Requested size: 212.70721pt x 85.35863pt.
-<Imagenes/4/LS-potNor.png, id=1203, 374.90062pt x 304.13625pt>
+<Imagenes/4/LS-potNor.png, id=1192, 374.90062pt x 304.13625pt>
 File: Imagenes/4/LS-potNor.png Graphic file (type png)
 <use Imagenes/4/LS-potNor.png>
 Package pdftex.def Info: Imagenes/4/LS-potNor.png  used on input line 132.
 (pdftex.def)             Requested size: 212.71164pt x 85.35712pt.
-<Imagenes/4/ajusteEnForma.png, id=1204, 566.86781pt x 309.40594pt>
+<Imagenes/4/ajusteEnForma.png, id=1193, 566.86781pt x 309.40594pt>
 File: Imagenes/4/ajusteEnForma.png Graphic file (type png)
 <use Imagenes/4/ajusteEnForma.png>
 Package pdftex.def Info: Imagenes/4/ajusteEnForma.png  used on input line 139.
@@ -1927,25 +1907,25 @@ Package pdftex.def Info: Imagenes/4/ajusteEnForma.png  used on input line 139.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/4/LEDrojoA.png, id=1206, 395.22656pt x 304.13625pt>
+<Imagenes/4/LEDrojoA.png, id=1195, 395.22656pt x 304.13625pt>
 File: Imagenes/4/LEDrojoA.png Graphic file (type png)
 <use Imagenes/4/LEDrojoA.png>
 Package pdftex.def Info: Imagenes/4/LEDrojoA.png  used on input line 147.
 (pdftex.def)             Requested size: 425.43317pt x 142.2665pt.
 LaTeX Info: Redefining \. on input line 151.
 LaTeX Info: Redefining \% on input line 151.
-[56 <./Imagenes/4/LS-S-DS.png>]
+[54 <./Imagenes/4/LS-S-DS.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 LaTeX Info: Redefining \. on input line 70.
 LaTeX Info: Redefining \% on input line 70.
- [57 <./Imagenes/4/LS-potencia.png> <./Imagenes/4/LS-potNor.png> <./Imagenes/4/
+ [55 <./Imagenes/4/LS-potencia.png> <./Imagenes/4/LS-potNor.png> <./Imagenes/4/
 ajusteEnForma.png>]
 LaTeX Info: Redefining \. on input line 70.
 LaTeX Info: Redefining \% on input line 70.
- [58 <./Imagenes/4/LEDrojoA.png>]
+ [56 <./Imagenes/4/LEDrojoA.png>]
 \openout2 = `Posterior/Conclusiones.aux'.
 
 
@@ -1954,7 +1934,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-) [59
+) [57
 
 
 
@@ -1972,7 +1952,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [60
+) [58
 
 
 
@@ -1983,18 +1963,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
  (./Posterior/Biblio.tex (./TesisIvan.bbl
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [61
+ [59
 
 
-] [62
+] [60
 
 ]
 LaTeX Info: Redefining \. on input line 146.
 LaTeX Info: Redefining \% on input line 146.
- [63]))
+ [61]))
 LaTeX Info: Redefining \. on input line 73.
 LaTeX Info: Redefining \% on input line 73.
- [64]
+ [62]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
 
@@ -2016,13 +1996,13 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 74.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
- 13579 strings out of 482792
- 204947 string characters out of 5955196
- 509985 words of memory out of 5000000
- 28071 multiletter control sequences out of 15000+600000
+ 13575 strings out of 482792
+ 204908 string characters out of 5955196
+ 496352 words of memory out of 5000000
+ 28070 multiletter control sequences out of 15000+600000
  596065 words of font info for 120 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 43i,14n,64p,1022b,665s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,12n,64p,1022b,665s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/
@@ -2032,10 +2012,10 @@ ive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2020/texmf-dis
 t/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw
 /times/utmr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
 <c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on TesisIvan.pdf (81 pages, 10768759 bytes).
+Output written on TesisIvan.pdf (79 pages, 10770357 bytes).
 PDF statistics:
- 1511 PDF objects out of 1728 (max. 8388607)
- 1173 compressed objects within 12 object streams
- 346 named destinations out of 1000 (max. 500000)
+ 1500 PDF objects out of 1728 (max. 8388607)
+ 1163 compressed objects within 12 object streams
+ 343 named destinations out of 1000 (max. 500000)
  978 words of extra memory for PDF output out of 10000 (max. 10000000)
 
