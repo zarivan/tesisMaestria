@@ -193,27 +193,28 @@ El control de motores a pasos se puede realizar de diferentes formas, siguiendo 
 Con estas secuencias y una etapa de potencia se puede controlar los motores a pasos. Para realizar estas secuencias existen circuitos integrados con 4 pines de entrada y 4 de salida, como el L293D, ver figura \ref{fig:l293}. Este contiene 2 puentes H que tienen como función el ser la etapa de potencia para el motor a pasos, dado que los microcontroladores no tienen la suficiente potencia para hacer girar el motor.
 Utilizando este circuito integrado se puede hacer dos tipos de conexiones una a 4 hilos y la otra a 2 hilos. A cuatro hilos, fig. \ref{fig:bipolar-4-fils}, se pueden utilizar los tres tipos de pasos que se mencionaron antes, teniendo más opciones de control, sin embargo, el ocupar 4 pines de salida de un microcontrolador puede ser un inconveniente si es que se quiere mover más de un motor. A dos hilos, fig. \ref{fig:bipolar-2-fils}, solo se puede realizar el paso doble. %Perdemos la posibilidad de utilizar el medio paso que para ciertas aplicaciones puede ser una desventaja.
 
-El control de los motores a pasos no es complicado, sin embargo, hoy en día existen circuitos integrados que permiten controlar los motores a pasos, lo que simplifica el trabajo para desarrollar el controlador. Entre estos circuitos integrados, \textit{drivers}, se tienen, el A4988, el DRV8825 y el TB6560, los cuales son muy comunes en las impresoras 3D, pues son de bajo costo y fáciles de cambiar. En este trabajo utilizaremos el TB6560.
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.4\linewidth]{Imagenes/2/L293}
 	\caption[Esquema del circuito integrado L293]{Esquema del circuito integrado L293, se pueden ver los pines de entrada y salida así como el voltaje de alimentación para el circuito. \cite{L2931986}}
 	\label{fig:l293}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.7\linewidth]{Imagenes/2/BIPOLAR-4-FILS}
 	\caption[Circuito para controlar el motor a pasos con un microcontrolador.]{Circuito para controlar el motor a pasos con un microcontrolador. \cite{Diymakers}}
 	\label{fig:bipolar-4-fils}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.8\linewidth]{Imagenes/2/bipolar-2-fils}
+	\includegraphics[width=0.7\linewidth]{Imagenes/2/bipolar-2-fils}
 	\caption{Circuito utilizando solo dos pines de control. \cite{Diymakers}}
 	\label{fig:bipolar-2-fils}
 \end{figure}
+
+El control de los motores a pasos no es complicado, sin embargo, hoy en día existen circuitos integrados que permiten controlar los motores a pasos, lo que simplifica el trabajo para desarrollar el controlador. Entre estos circuitos integrados, \textit{drivers}, se tienen, el A4988, el DRV8825 y el TB6560, los cuales son muy comunes en las impresoras 3D, pues son de bajo costo y fáciles de cambiar. En este trabajo utilizaremos el TB6560.
 
 \paragraph{Driver TB6560.}
  
@@ -254,20 +255,16 @@ El driver permite limitar la corriente de operación, así como modificar el pas
 Los tubos fotomultiplicadores son detectores utilizados para medir potencia radiante baja, son especialmente sensibles a la radiación ultravioleta y visible, ver figura \ref{fig:pmte}. EL funcionamiento de los tubos fotomultiplicadores (PMT), se basa en el efecto fotoeléctrico.  
 La luz pasa a través de la ventana, \textit{faceplate}, los fotónes inciden en el fotocátodo, y este emite electrones, a los cuales se les denomina como fotoelectrones, estos viajan por el interior del PMT.  Los fotoelectrones son acelerados con campos eléctricos y dirigidos al primer dinodo. Con lo cual se desprenden más electrones que los que incidieron, este proceso se repite en cada uno de los siguientes dinodos. Cada dinodo tiene un potencial de 100 voltios más que el anterior. Al llegar al ánodo receptor. Este proceso da como resultado que las pequeñas corrientes generadas por el fotocátodo sean amplificadas, produciendo de $10^5$ a $10^7$ electrones por cada fotón incidente.
 Los tubos fotomultiplicadores, son muy sensibles, estando limitados a medir fuentes luminosas de baja potencia, de lo contrario se ocasionarían daños irreversibles en la superficie del fotocátodo.
-La figura \ref{fig:pmte} es un esquemático en el que se aprecia cómo está constituido el \textit{PMT}. En la figura \ref{fig:PMT} (a) y (b) se muestran dos tubos fotomultiplicadores, la diferencia entre estos radica en donde incidirá la luz, en el (a) \textit{head-on} es en la parte frontal del \textit{PMT}, y en el (b) \textit{side-on} es el lateral. En la figura \ref{fig:pmtModule} se ven módulos de \textit{PMT}. 
+La figura \ref{fig:pmte} es un esquemático en el que se aprecia cómo está constituido el \textit{PMT}. En la figura \ref{fig:PMT} (a) y (b) se muestran dos tubos fotomultiplicadores, la diferencia entre estos radica en donde incidirá la luz, en el (a) \textit{head-on} es en la parte frontal del \textit{PMT}, y en el (b) \textit{side-on} es el lateral. 
  
- \begin{figure}
+ \begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\linewidth]{Imagenes/2/PMT}
 	\caption[Esquema de un tubo fotomultiplicador.]{Esquema de un tubo fotomultiplicador.\cite{Hamamatsu2006}}
 	\label{fig:pmte}
 \end{figure}
 
-Los tubos fotomultiplicadores requerían de una alimentación de alto voltaje partiendo de un voltaje negativo a uno positivo. En cada uno de los dinodos del \textit{PMTs}, se tenía una diferencia de potencial de 100 volts mayor al anterior. De este modo el primer dinodo era alimentado con voltajes de $-1100$ volts hasta llegar al último dinodo el cual tenía ya un voltaje positivo menor a $100$ volts.
-%posiblemente se corrija esto xD
-Con los módulos de PMT ya solo se debe energizar con un voltaje de $\pm 15$ volts. Para este proyecto se va a trabajar con un módulo de tubo fotomultiplicador de la marca Hamamatsu modelo H8249.
-
-\begin{figure}
+\begin{figure}[h!]
 	\centering
 	\subfigure[PMT \textit{head-on}]{\includegraphics[width=0.4\linewidth]{Imagenes/2/PMThead}}
 	\subfigure[PMT \textit{side-on}]{	\includegraphics[width=0.4\linewidth]{Imagenes/2/PMTSide-on}}
@@ -282,6 +279,9 @@ Con los módulos de PMT ya solo se debe energizar con un voltaje de $\pm 15$ vol
 	\label{fig:pmtModule}
 \end{figure}
 
+Los tubos fotomultiplicadores requerían de una alimentación de alto voltaje partiendo de un voltaje negativo a uno positivo. En cada uno de los dinodos del \textit{PMTs}, se tenía una diferencia de potencial de 100 volts mayor al anterior. De este modo el primer dinodo era alimentado con voltajes de $-1100$ volts hasta llegar al último dinodo el cual tenía ya un voltaje positivo menor a $100$ volts.
+%posiblemente se corrija esto xD
+Con los módulos de PMT ya solo se debe energizar con un voltaje de $\pm 15$ volts. Para este proyecto se va a trabajar con un módulo de tubo fotomultiplicador de la marca Hamamatsu modelo H8249. La figura \ref{fig:pmtModule} muestra diferentes módulos de \textit{PMT}.
 
 
 \paragraph{Módulo H8249-101.}
@@ -296,7 +296,7 @@ El módulo cuenta con un ajuste de sensibilidad, figura \ref{fig:sensibilidadaju
 \end{figure}
 
  En la figura \ref{fig:sensibilidadajuste} se observa que el módulo se controla a través de cinco puertos o contactos, 3 de alimentación, uno de control, y el último un voltaje de referencia, que se puede usar para el control de ganancia, utilizando la configuración de resistencia programable. El voltaje del control de ganancia va desde los 0.2v hasta los 1.2v y la ganancia desde $10^{3}$ hasta $10^{7}$, ver figura \ref{fig:pmtgain}.
- \begin{figure}
+ \begin{figure}[h]
  	\centering
  	\includegraphics[width=0.7\linewidth]{Imagenes/2/PMT_GAIN}
  	\caption[Sensibilidad y ganancia H8249]{Sensibilidad del tubo fotomultiplicador (izquierda), voltaje de control apara la ganancia izquierda. Imagen tomada de. \cite{Hamamatsu2008}}
@@ -373,9 +373,9 @@ La resolución del ADC está dada en bits, (8, 10, 12, 16, 24 bits), o lo que es
 \paragraph{ADC-externo.}
 El ADC del Arduino Mega es de 10 bits, por lo que se buscó utilizar un ADC de mayor resolución, usando el MCP3202, ver figura \ref{fig:mcp3202}. Es un ADC de dos canales de 12 bits, con comunicación SPI, el valor máximo que puede leer es de 7 volts. El funcionamiento de los pines se explica en la tabla \ref{tabla:ADC}
 
-\begin{figure}[h]
+\begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.5\linewidth]{Imagenes/2/MCP3202}
+	\includegraphics[width=0.4\linewidth]{Imagenes/2/MCP3202}
 	\caption{ADC MCP3202 dos canales, 12 bits comunicación SPI \cite{MCP3202}}
 	\label{fig:mcp3202}
 \end{figure}
