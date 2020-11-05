@@ -28,20 +28,20 @@
 \contentsline {figure}{\numberline {2.7}{\ignorespaces Giro del rotor en sentido horario. \cite {BasicStepper}}}{17}{figure.2.7}%
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {primer paso del motor.}}}{17}{figure.2.7}%
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {se energiza la bobina C, y el rotor cambia de posición.}}}{17}{figure.2.7}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Esquema del circuito integrado L293}}{20}{figure.2.8}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Circuito para controlar el motor a pasos con un microcontrolador.}}{21}{figure.2.9}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Circuito utilizando solo dos pines de control. \cite {Diymakers}}}{22}{figure.2.10}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Tarjeta TB6560, control para motores a pasos. \cite {TB6560}}}{23}{figure.2.11}%
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Configuración de la tarjeta TB6560}}{23}{figure.2.12}%
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Esquema de un tubo fotomultiplicador.}}{24}{figure.2.13}%
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Tubos fotomultiplicadores}}{24}{figure.2.14}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {PMT \textit {head-on}}}}{24}{figure.2.14}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PMT \textit {side-on}}}}{24}{figure.2.14}%
-\contentsline {figure}{\numberline {2.15}{\ignorespaces \textit {PMTs} módulos de la marca Hamamatsu. Están diseñados para diferentes aplicaciones, así como para entregar corriente o voltaje a la salida. \cite {Hamamatsu2007}}}{25}{figure.2.15}%
-\contentsline {figure}{\numberline {2.16}{\ignorespaces Ajuste de sensibilidad del PMT módulo H8249}}{25}{figure.2.16}%
-\contentsline {figure}{\numberline {2.17}{\ignorespaces Sensibilidad y ganancia H8249}}{26}{figure.2.17}%
-\contentsline {figure}{\numberline {2.18}{\ignorespaces ADC MCP3202 dos canales, 12 bits comunicación SPI \cite {MCP3202}}}{27}{figure.2.18}%
-\contentsline {figure}{\numberline {2.19}{\ignorespaces Potenciómetro digital X9C103 \cite {X9C102}}}{28}{figure.2.19}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Esquema del circuito integrado L293}}{19}{figure.2.8}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Circuito para controlar el motor a pasos con un microcontrolador.}}{20}{figure.2.9}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Circuito utilizando solo dos pines de control. \cite {Diymakers}}}{20}{figure.2.10}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Tarjeta TB6560, control para motores a pasos. \cite {TB6560}}}{21}{figure.2.11}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Configuración de la tarjeta TB6560}}{22}{figure.2.12}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Esquema de un tubo fotomultiplicador.}}{23}{figure.2.13}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Tubos fotomultiplicadores}}{23}{figure.2.14}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {PMT \textit {head-on}}}}{23}{figure.2.14}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PMT \textit {side-on}}}}{23}{figure.2.14}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces \textit {PMTs} módulos de la marca Hamamatsu. Están diseñados para diferentes aplicaciones, así como para entregar corriente o voltaje a la salida. \cite {Hamamatsu2007}}}{24}{figure.2.15}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Ajuste de sensibilidad del PMT módulo H8249}}{24}{figure.2.16}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Sensibilidad y ganancia H8249}}{25}{figure.2.17}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces ADC MCP3202 dos canales, 12 bits comunicación SPI \cite {MCP3202}}}{26}{figure.2.18}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Potenciómetro digital X9C103 \cite {X9C102}}}{27}{figure.2.19}%
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Esquema donde se muestran los componentes que se usarán para el sistema desarrollado.}}{29}{figure.3.1}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Monocromador SpectraPro 275 de la compañía Action Research Corporation. Se observa desde una vista superior su exterior, (izquierda) y su interior (derecha).}}{30}{figure.3.2}%
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Monocromador SpectraPro 275}}}{30}{figure.3.2}%
@@ -81,9 +81,9 @@
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Se observa la repetitividad a la hora de medir del sistema, nos enfocamos en solo un pico.}}}{38}{figure.3.17}%
 \contentsline {figure}{\numberline {3.18}{\ignorespaces Espectro de emisión de la lámpara de mercurio, espectro en intensidad contra pasos.}}{39}{figure.3.18}%
 \contentsline {figure}{\numberline {3.19}{\ignorespaces Diferencias de pasos en los picos encontrados.}}{39}{figure.3.19}%
-\contentsline {figure}{\numberline {3.20}{\ignorespaces Diferencia visible en la medición del espectro de la lámpara de mercurio. Hay dos líneas que no coinciden que se decide eliminar.}}{40}{figure.3.20}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro del Hg 12 líneas (no todas se ven en la gráfica.)}}}{40}{figure.3.20}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Espectro del Hg medido 14 líneas}}}{40}{figure.3.20}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Diferencia visible en la medición del espectro de la lámpara de mercurio. Hay dos líneas que no coinciden que se decide eliminar.}}{39}{figure.3.20}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Espectro del Hg 12 líneas (no todas se ven en la gráfica.)}}}{39}{figure.3.20}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Espectro del Hg medido 14 líneas}}}{39}{figure.3.20}%
 \contentsline {figure}{\numberline {3.21}{\ignorespaces Espectro de la lámpara de mercurio con y sin filtro, intensidad contra pasos.}}{40}{figure.3.21}%
 \contentsline {figure}{\numberline {3.22}{\ignorespaces Interfaz de curve fitting tool de MATLAB.}}{41}{figure.3.22}%
 \contentsline {figure}{\numberline {3.23}{\ignorespaces El espectro de emisión de la lámpara de mercurio, adquirido por nuestro sistema y ajustado con la ecuación, color rojo. El asterisco azul son las 12 líneas del espectro de emisión del mercurio. Se aprecia como coinciden estas 12 líneas con el espectro obtenido con el sistema.}}{42}{figure.3.23}%
